@@ -8,7 +8,7 @@ def parse_data():
         config = yaml.safe_load(config)
     
     intents = config['intents']
-    path = pathlib.Path(environ.Path(__file__) - 2) / 'model' / 'data' / 'nlu.md'
+    path = pathlib.Path(environ.Path(__file__) - 2) / 'model'/ 'main' / 'data' / 'nlu.md'
     with open(path, 'w+') as nlu:
         # All intents from config
         for intent_name, intents_configs in config['intents'].items():

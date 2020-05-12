@@ -20,7 +20,7 @@ log/
 .idea
 
 # Rasa
-*/models/*.tar.gz
+*/*/models/*.tar.gz
 
 # Local test
 test.py
