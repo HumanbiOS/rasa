@@ -1,0 +1,27 @@
+
+# dot env with token
+.env
+
+# vscode
+corona.code-workspace
+.vscode
+
+# python
+*/__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# logs
+logs/
+log/
+
+# PyCharm
+.idea
+
+# Rasa
+*/models/*.tar.gz
+
+# Local test
+test.py
+
