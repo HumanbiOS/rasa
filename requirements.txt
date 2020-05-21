@@ -2,3 +2,5 @@ rasa
 pandas
 requests
 pyyaml
+django-environ
+iso639

@@ -1,0 +1,8 @@
+intents:
+        - extract_lang_code 
+        - extract_lang_name
+
+entities:
+        - flag
+        - language_code
+        - language_name
