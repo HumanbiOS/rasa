@@ -4,12 +4,13 @@ intents:
     extract_lang_code:
          - 
            source:     language_codes.csv
+    extract_lang_name:
          - 
            source:     language_names.csv
-    extract_country:
-         - 
-           source:     country_names.csv
-           extract_as: country_name
+    #extract_country:
+    #     - 
+    #       source:     country_names.csv
+    #       extract_as: country_name
 
 # Will be appended without pre-processing
 misc:

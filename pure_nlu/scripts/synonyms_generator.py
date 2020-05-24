@@ -14,7 +14,8 @@ def parse_data():
     #df = pd.read_csv(flags_path)
     
     synonyms_fp = ROOT / "csv" / "synonyms_file.md"
-    lookup_table_lc_fp = ROOT / "csv" / "lookups" / "language_code_lookup.txt"
+    lookup_table_lc_fp = ROOT / "csv" / "lookups" / "language_codes.txt"
+    lookup_table_lc_fp = ROOT / "csv" / "lookups" / "language_names.txt"
     examples_lc = ROOT / "csv" / "language_codes.csv"
     examples_ln = ROOT / "csv" / "language_names.csv"
     training_prefixes_fp = ROOT / "csv" / "context_prefixes.csv"
@@ -23,24 +24,43 @@ def parse_data():
     with open(synonyms_fp, "w+") as sf, open(lookup_table_lc_fp, "w+") as table_lc:
     #if True:
         for index, each_row in df.iterrows():
+            
             # Write lookup tables
             table_lc.write(f"{each_row['Language Code']}\n")
             table_lc.write(f"{each_row['Language Name']}\n")
+            
             # Write synonyms to the language code
-            synonym = f"## synonym:{each_row['Language Code']}\n"
-            for each in each_row:
+            lc_synonym = f"## synonym:{each_row['Language Code']}\n"
+            for each in [each_row['Language Code'], each_row['Country Flag']]:
                 # Drop 'NaN' values
                 if type(each) != str:
                     continue
                 lower = each.lower()
                 upper = each.upper()
-                synonym += f"- {each}\n"
+                lc_synonym += f"- {each}\n"
                 if each != lower:
-                    synonym += f"- {lower}\n"
+                    lc_synonym += f"- {lower}\n"
                 if each != upper:
-                    synonym += f"- {upper}\n"
-            synonym += "\n\n"
-            sf.write(synonym)
+                    lc_synonym += f"- {upper}\n"
+            lc_synonym += "\n\n"
+            sf.write(lc_synonym)
+            
+            # Write synonyms to the language name
+            ln_synonym = f"## synonym:{each_row['Language Name']}\n"
+            for each in [each_row['Language Name']]:
+                # Drop 'NaN' values
+                if type(each) != str:
+                    continue
+                lower = each.lower()
+                upper = each.upper()
+                ln_synonym += f"- {each}\n"
+                if each != lower:
+                    ln_synonym += f"- {lower}\n"
+                if each != upper:
+                    ln_synonym += f"- {upper}\n"
+            ln_synonym += "\n\n"
+            sf.write(ln_synonym)
+
             #print(synonym, end="")
     
     # Prepare examples context parts
@@ -58,11 +78,11 @@ def parse_data():
         # Create examples for training the NLU model
         # .2 means 20% of the data to be used in samples
         for index, sample_row in df.sample(frac = .1).iterrows():
-            x_lc.write(f"({sample_row['Language Code']})[language_code]\n")
-            x_ln.write(f"({sample_row['Language Name']})[language_code]\n")
+            x_lc.write(f"[{sample_row['Language Code']}](language_code)\n")
+            x_ln.write(f"[{sample_row['Language Name']}](language_name)\n")
             for p, s in context_parts:
-                x_lc.write(f"{p} ({sample_row['Language Code']})[language_code] {s}".strip() + "\n")
-                x_ln.write(f"{p} ({sample_row['Language Name']})[language_code] {s}".strip() + "\n")
+                x_lc.write(f"{p} [{sample_row['Language Code']}](language_code) {s}".strip() + "\n")
+                x_ln.write(f"{p} [{sample_row['Language Name']}](language_name) {s}".strip() + "\n")
 
 if __name__ == "__main__":
     parse_data()

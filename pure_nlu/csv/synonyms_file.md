@@ -1,514 +1,706 @@
 ## synonym:af
-- Afrikaans
-- afrikaans
-- AFRIKAANS
 - af
 - AF
 
 
+## synonym:Afrikaans
+- Afrikaans
+- afrikaans
+- AFRIKAANS
+
+
 ## synonym:ga
-- Irish
-- irish
-- IRISH
 - ga
 - GA
 
 
+## synonym:Irish
+- Irish
+- irish
+- IRISH
+
+
 ## synonym:sq
-- Albanian
-- albanian
-- ALBANIAN
 - sq
 - SQ
 
 
+## synonym:Albanian
+- Albanian
+- albanian
+- ALBANIAN
+
+
 ## synonym:it
-- Italian
-- italian
-- ITALIAN
 - it
 - IT
 
 
+## synonym:Italian
+- Italian
+- italian
+- ITALIAN
+
+
 ## synonym:ar
-- Arabic
-- arabic
-- ARABIC
 - ar
 - AR
 
 
+## synonym:Arabic
+- Arabic
+- arabic
+- ARABIC
+
+
 ## synonym:ja
-- Japanese
-- japanese
-- JAPANESE
 - ja
 - JA
 
 
+## synonym:Japanese
+- Japanese
+- japanese
+- JAPANESE
+
+
 ## synonym:az
-- Azerbaijani
-- azerbaijani
-- AZERBAIJANI
 - az
 - AZ
 
 
+## synonym:Azerbaijani
+- Azerbaijani
+- azerbaijani
+- AZERBAIJANI
+
+
 ## synonym:kn
-- Kannada
-- kannada
-- KANNADA
 - kn
 - KN
 
 
+## synonym:Kannada
+- Kannada
+- kannada
+- KANNADA
+
+
 ## synonym:eu
-- Basque
-- basque
-- BASQUE
 - eu
 - EU
 
 
+## synonym:Basque
+- Basque
+- basque
+- BASQUE
+
+
 ## synonym:ko
-- Korean
-- korean
-- KOREAN
 - ko
 - KO
 
 
+## synonym:Korean
+- Korean
+- korean
+- KOREAN
+
+
 ## synonym:bn
-- Bengali
-- bengali
-- BENGALI
 - bn
 - BN
 
 
+## synonym:Bengali
+- Bengali
+- bengali
+- BENGALI
+
+
 ## synonym:la
-- Latin
-- latin
-- LATIN
 - la
 - LA
 
 
+## synonym:Latin
+- Latin
+- latin
+- LATIN
+
+
 ## synonym:be
-- Belarusian
-- belarusian
-- BELARUSIAN
 - be
 - BE
 
 
+## synonym:Belarusian
+- Belarusian
+- belarusian
+- BELARUSIAN
+
+
 ## synonym:lv
-- Latvian
-- latvian
-- LATVIAN
 - lv
 - LV
 
 
+## synonym:Latvian
+- Latvian
+- latvian
+- LATVIAN
+
+
 ## synonym:bg
-- Bulgarian
-- bulgarian
-- BULGARIAN
 - bg
 - BG
 
 
+## synonym:Bulgarian
+- Bulgarian
+- bulgarian
+- BULGARIAN
+
+
 ## synonym:lt
-- Lithuanian
-- lithuanian
-- LITHUANIAN
 - lt
 - LT
 
 
+## synonym:Lithuanian
+- Lithuanian
+- lithuanian
+- LITHUANIAN
+
+
 ## synonym:ca
-- Catalan
-- catalan
-- CATALAN
 - ca
 - CA
 
 
+## synonym:Catalan
+- Catalan
+- catalan
+- CATALAN
+
+
 ## synonym:mk
-- Macedonian
-- macedonian
-- MACEDONIAN
 - mk
 - MK
 
 
+## synonym:Macedonian
+- Macedonian
+- macedonian
+- MACEDONIAN
+
+
 ## synonym:zh-CN
-- Chinese Simplified
-- chinese simplified
-- CHINESE SIMPLIFIED
 - zh-CN
 - zh-cn
 - ZH-CN
 
 
+## synonym:Chinese Simplified
+- Chinese Simplified
+- chinese simplified
+- CHINESE SIMPLIFIED
+
+
 ## synonym:ms
-- Malay
-- malay
-- MALAY
 - ms
 - MS
 
 
+## synonym:Malay
+- Malay
+- malay
+- MALAY
+
+
 ## synonym:zh-TW
-- Chinese Traditional
-- chinese traditional
-- CHINESE TRADITIONAL
 - zh-TW
 - zh-tw
 - ZH-TW
 
 
+## synonym:Chinese Traditional
+- Chinese Traditional
+- chinese traditional
+- CHINESE TRADITIONAL
+
+
 ## synonym:mt
-- Maltese
-- maltese
-- MALTESE
 - mt
 - MT
 
 
+## synonym:Maltese
+- Maltese
+- maltese
+- MALTESE
+
+
 ## synonym:hr
-- Croatian
-- croatian
-- CROATIAN
 - hr
 - HR
 
 
+## synonym:Croatian
+- Croatian
+- croatian
+- CROATIAN
+
+
 ## synonym:no
-- Norwegian
-- norwegian
-- NORWEGIAN
 - no
 - NO
 
 
+## synonym:Norwegian
+- Norwegian
+- norwegian
+- NORWEGIAN
+
+
 ## synonym:cs
-- Czech
-- czech
-- CZECH
 - cs
 - CS
 
 
+## synonym:Czech
+- Czech
+- czech
+- CZECH
+
+
 ## synonym:fa
-- Persian
-- persian
-- PERSIAN
 - fa
 - FA
 
 
+## synonym:Persian
+- Persian
+- persian
+- PERSIAN
+
+
 ## synonym:da
-- Danish
-- danish
-- DANISH
 - da
 - DA
 
 
+## synonym:Danish
+- Danish
+- danish
+- DANISH
+
+
 ## synonym:pl
-- Polish
-- polish
-- POLISH
 - pl
 - PL
 
 
+## synonym:Polish
+- Polish
+- polish
+- POLISH
+
+
 ## synonym:nl
-- Dutch
-- dutch
-- DUTCH
 - nl
 - NL
 
 
+## synonym:Dutch
+- Dutch
+- dutch
+- DUTCH
+
+
 ## synonym:pt
-- Portuguese
-- portuguese
-- PORTUGUESE
 - pt
 - PT
 
 
+## synonym:Portuguese
+- Portuguese
+- portuguese
+- PORTUGUESE
+
+
 ## synonym:en
-- English
-- english
-- ENGLISH
 - en
 - EN
 
 
+## synonym:English
+- English
+- english
+- ENGLISH
+
+
 ## synonym:ro
-- Romanian
-- romanian
-- ROMANIAN
 - ro
 - RO
 
 
+## synonym:Romanian
+- Romanian
+- romanian
+- ROMANIAN
+
+
 ## synonym:eo
-- Esperanto
-- esperanto
-- ESPERANTO
 - eo
 - EO
 
 
+## synonym:Esperanto
+- Esperanto
+- esperanto
+- ESPERANTO
+
+
 ## synonym:ru
-- Russian
-- russian
-- RUSSIAN
 - ru
 - RU
 
 
+## synonym:Russian
+- Russian
+- russian
+- RUSSIAN
+
+
 ## synonym:et
-- Estonian
-- estonian
-- ESTONIAN
 - et
 - ET
 
 
+## synonym:Estonian
+- Estonian
+- estonian
+- ESTONIAN
+
+
 ## synonym:sr
-- Serbian
-- serbian
-- SERBIAN
 - sr
 - SR
 
 
+## synonym:Serbian
+- Serbian
+- serbian
+- SERBIAN
+
+
 ## synonym:tl
-- Filipino
-- filipino
-- FILIPINO
 - tl
 - TL
 
 
+## synonym:Filipino
+- Filipino
+- filipino
+- FILIPINO
+
+
 ## synonym:sk
-- Slovak
-- slovak
-- SLOVAK
 - sk
 - SK
 
 
+## synonym:Slovak
+- Slovak
+- slovak
+- SLOVAK
+
+
 ## synonym:fi
-- Finnish
-- finnish
-- FINNISH
 - fi
 - FI
 
 
+## synonym:Finnish
+- Finnish
+- finnish
+- FINNISH
+
+
 ## synonym:sl
-- Slovenian
-- slovenian
-- SLOVENIAN
 - sl
 - SL
 
 
+## synonym:Slovenian
+- Slovenian
+- slovenian
+- SLOVENIAN
+
+
 ## synonym:fr
-- French
-- french
-- FRENCH
 - fr
 - FR
 
 
+## synonym:French
+- French
+- french
+- FRENCH
+
+
 ## synonym:es
-- Spanish
-- spanish
-- SPANISH
 - es
 - ES
 
 
+## synonym:Spanish
+- Spanish
+- spanish
+- SPANISH
+
+
 ## synonym:gl
-- Galician
-- galician
-- GALICIAN
 - gl
 - GL
 
 
+## synonym:Galician
+- Galician
+- galician
+- GALICIAN
+
+
 ## synonym:sw
-- Swahili
-- swahili
-- SWAHILI
 - sw
 - SW
 
 
+## synonym:Swahili
+- Swahili
+- swahili
+- SWAHILI
+
+
 ## synonym:ka
-- Georgian
-- georgian
-- GEORGIAN
 - ka
 - KA
 
 
+## synonym:Georgian
+- Georgian
+- georgian
+- GEORGIAN
+
+
 ## synonym:sv
-- Swedish
-- swedish
-- SWEDISH
 - sv
 - SV
 
 
+## synonym:Swedish
+- Swedish
+- swedish
+- SWEDISH
+
+
 ## synonym:de
-- German
-- german
-- GERMAN
 - de
 - DE
 
 
+## synonym:German
+- German
+- german
+- GERMAN
+
+
 ## synonym:ta
-- Tamil
-- tamil
-- TAMIL
 - ta
 - TA
 
 
+## synonym:Tamil
+- Tamil
+- tamil
+- TAMIL
+
+
 ## synonym:el
-- Greek
-- greek
-- GREEK
 - el
 - EL
 
 
+## synonym:Greek
+- Greek
+- greek
+- GREEK
+
+
 ## synonym:te
-- Telugu
-- telugu
-- TELUGU
 - te
 - TE
 
 
+## synonym:Telugu
+- Telugu
+- telugu
+- TELUGU
+
+
 ## synonym:gu
-- Gujarati
-- gujarati
-- GUJARATI
 - gu
 - GU
 
 
+## synonym:Gujarati
+- Gujarati
+- gujarati
+- GUJARATI
+
+
 ## synonym:th
-- Thai
-- thai
-- THAI
 - th
 - TH
 
 
+## synonym:Thai
+- Thai
+- thai
+- THAI
+
+
 ## synonym:ht
-- Haitian Creole
-- haitian creole
-- HAITIAN CREOLE
 - ht
 - HT
 
 
+## synonym:Haitian Creole
+- Haitian Creole
+- haitian creole
+- HAITIAN CREOLE
+
+
 ## synonym:tr
-- Turkish
-- turkish
-- TURKISH
 - tr
 - TR
 
 
+## synonym:Turkish
+- Turkish
+- turkish
+- TURKISH
+
+
 ## synonym:iw
-- Hebrew
-- hebrew
-- HEBREW
 - iw
 - IW
 
 
+## synonym:Hebrew
+- Hebrew
+- hebrew
+- HEBREW
+
+
 ## synonym:uk
-- Ukrainian
-- ukrainian
-- UKRAINIAN
 - uk
 - UK
 
 
+## synonym:Ukrainian
+- Ukrainian
+- ukrainian
+- UKRAINIAN
+
+
 ## synonym:hi
-- Hindi
-- hindi
-- HINDI
 - hi
 - HI
 
 
+## synonym:Hindi
+- Hindi
+- hindi
+- HINDI
+
+
 ## synonym:ur
-- Urdu
-- urdu
-- URDU
 - ur
 - UR
 
 
+## synonym:Urdu
+- Urdu
+- urdu
+- URDU
+
+
 ## synonym:hu
-- Hungarian
-- hungarian
-- HUNGARIAN
 - hu
 - HU
 
 
+## synonym:Hungarian
+- Hungarian
+- hungarian
+- HUNGARIAN
+
+
 ## synonym:vi
-- Vietnamese
-- vietnamese
-- VIETNAMESE
 - vi
 - VI
 
 
+## synonym:Vietnamese
+- Vietnamese
+- vietnamese
+- VIETNAMESE
+
+
 ## synonym:is
-- Icelandic
-- icelandic
-- ICELANDIC
 - is
 - IS
 
 
+## synonym:Icelandic
+- Icelandic
+- icelandic
+- ICELANDIC
+
+
 ## synonym:cy
-- Welsh
-- welsh
-- WELSH
 - cy
 - CY
 
 
+## synonym:Welsh
+- Welsh
+- welsh
+- WELSH
+
+
 ## synonym:id
-- Indonesian
-- indonesian
-- INDONESIAN
 - id
 - ID
 
 
+## synonym:Indonesian
+- Indonesian
+- indonesian
+- INDONESIAN
+
+
 ## synonym:yi
+- yi
+- YI
+
+
+## synonym:Yiddish
 - Yiddish
 - yiddish
 - YIDDISH
-- yi
-- YI
 
 
