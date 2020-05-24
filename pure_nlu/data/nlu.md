@@ -1,422 +1,3022 @@
 ## intent:extract_lang_code
-- [ta](language_code)
-- pls talk in [ta](language_code) Language.
-- Talk in [ta](language_code)
-- pls talk in [ta](language_code) country
-- talk to me in [ta](language_code) lang
-- talk [ta](language_code) language
-- let's talk in [ta](language_code) language
-- I want to choose [ta](language_code) language
-- talk [ta](language_code)
-- speak [ta](language_code) language
-- I want [ta](language_code) Language.
-- okay I speak [ta](language_code)
-- serve me [ta](language_code) country
-- [az](language_code)
-- lets choose [az](language_code) country
-- I speak [az](language_code)
-- serve me in [az](language_code) lang
-- [az](language_code) country
-- pls talk in [az](language_code)
-- okay I speak [az](language_code) lang
-- talk to me in [az](language_code) country
-- okay I speak [az](language_code)
-- speak [az](language_code) lang
-- I want to choose [az](language_code) Language.
-- let's talk in [az](language_code) country
-- I'm willing [az](language_code) Language.
-- [ur](language_code)
-- talk to me in [ur](language_code) lang
-- pls talk in [ur](language_code) Language.
-- pls talk in [ur](language_code) lang
-- let's talk in [ur](language_code) lang
-- I'm willing [ur](language_code) country
-- Talk in [ur](language_code)
-- okay I speak [ur](language_code) country
-- Talk in [ur](language_code) Language.
-- serve me in [ur](language_code) language
-- I want [ur](language_code) country
-- pls talk in [ur](language_code)
-- talk [ur](language_code) lang
-- [sw](language_code)
-- lets choose [sw](language_code) Language.
-- [sw](language_code) language
-- talk to me in [sw](language_code) country
-- speak [sw](language_code) Language.
-- talk [sw](language_code) lang
-- lets choose [sw](language_code)
-- talk to me in [sw](language_code) lang
-- [sw](language_code)
-- pls talk in [sw](language_code) country
-- pls talk in [sw](language_code) language
-- talk [sw](language_code)
-- pls talk in [sw](language_code) Language.
-- [uk](language_code)
-- serve me in [uk](language_code) lang
-- talk to me in [uk](language_code) lang
-- I speak [uk](language_code) lang
-- serve me in [uk](language_code) language
-- [uk](language_code) Language.
-- serve me in [uk](language_code)
-- talk [uk](language_code) lang
-- I'm willing [uk](language_code) country
-- I want to choose [uk](language_code) Language.
-- pls talk in [uk](language_code) Language.
-- serve me [uk](language_code) lang
-- choose [uk](language_code) country
-- [sv](language_code)
-- I want [sv](language_code)
-- lets choose [sv](language_code) country
-- serve me in [sv](language_code)
-- let's talk in [sv](language_code)
-- speak [sv](language_code) country
-- lets choose [sv](language_code) Language.
-- pls talk in [sv](language_code) country
-- serve me [sv](language_code) Language.
-- I'm willing to choose [sv](language_code) language
-- pls talk in [sv](language_code) language
-- I'm willing to choose [sv](language_code)
-- lets choose [sv](language_code)
-- [de](language_code)
-- I want [de](language_code)
-- [de](language_code)
-- I want [de](language_code) lang
-- I'm willing [de](language_code)
-- I'm willing [de](language_code) lang
-- choose [de](language_code) lang
-- Talk in [de](language_code) country
-- speak [de](language_code) language
-- talk to me in [de](language_code) language
-- I'm willing to choose [de](language_code) language
-- serve me in [de](language_code)
-- I'm willing to choose [de](language_code)
-- [fr](language_code)
-- I speak [fr](language_code) country
-- I'm willing [fr](language_code) country
-- choose [fr](language_code) lang
-- lets choose [fr](language_code) Language.
-- I'm willing to choose [fr](language_code)
-- lets choose [fr](language_code) country
-- lets choose [fr](language_code) language
-- I'm willing [fr](language_code) Language.
-- pls talk in [fr](language_code) language
-- I want [fr](language_code) Language.
-- okay I speak [fr](language_code)
-- I'm willing to choose [fr](language_code) country
+- [nl](language_code)
+- talk [nl](language_code) Language.
+- pls talk in [nl](language_code)
+- communicate [nl](language_code) Language.
+- pls talk in [nl](language_code) country
+- I'm willing [nl](language_code) country
+- choose [nl](language_code) language
+- do [nl](language_code) lang
+- try [nl](language_code) language
+- go [nl](language_code) country
+- lets choose [nl](language_code) language
+- I want [nl](language_code) Language.
+- serve me [nl](language_code)
+- I speak [nl](language_code) country
+- okay, go [nl](language_code) language
+- lets try [nl](language_code) Language.
+- lets try [nl](language_code) language
+- lets choose [nl](language_code) country
+- lets try [nl](language_code) country
+- I speak [nl](language_code) language
+- okay I speak [nl](language_code) country
+- I'm willing [nl](language_code)
+- speak [nl](language_code)
+- okay, go [nl](language_code) lang
+- do [nl](language_code) language
+- talk [nl](language_code) language
+- talk [nl](language_code)
+- talk [nl](language_code) lang
+- I want [nl](language_code) country
+- I'm willing to choose [nl](language_code) language
+- Talk in [nl](language_code) language
+- do [nl](language_code) country
+- Talk in [nl](language_code) lang
+- serve me in [nl](language_code) country
+- okay, go [nl](language_code) Language.
+- [nl](language_code) Language.
+- serve me [nl](language_code) lang
+- okay, go [nl](language_code)
+- talk to me in [nl](language_code)
+- I want [nl](language_code) language
+- I'm willing [nl](language_code) lang
+- I speak [nl](language_code) Language.
+- talk to me in [nl](language_code) lang
+- try [nl](language_code) Language.
+- I want to choose [nl](language_code) country
+- talk to me in [nl](language_code) Language.
+- do [nl](language_code)
+- communicate [nl](language_code)
+- pls talk in [nl](language_code) lang
+- let's talk in [nl](language_code)
+- serve me in [nl](language_code)
+- Talk in [nl](language_code) Language.
+- [sr](language_code)
+- okay, go [sr](language_code) language
+- do [sr](language_code) language
+- serve me in [sr](language_code) country
+- try [sr](language_code) country
+- lets try [sr](language_code) Language.
+- pls talk in [sr](language_code) Language.
+- I'm willing [sr](language_code) Language.
+- serve me [sr](language_code) country
+- talk to me in [sr](language_code) lang
+- I speak [sr](language_code) lang
+- serve me in [sr](language_code) Language.
+- I speak [sr](language_code) country
+- try [sr](language_code) language
+- speak [sr](language_code) Language.
+- let's talk in [sr](language_code) lang
+- try [sr](language_code)
+- okay I speak [sr](language_code) lang
+- speak [sr](language_code) lang
+- I want [sr](language_code) lang
+- do [sr](language_code) lang
+- choose [sr](language_code) country
+- talk [sr](language_code) Language.
+- okay, go [sr](language_code) lang
+- talk to me in [sr](language_code) country
+- pls talk in [sr](language_code) language
+- speak [sr](language_code)
+- okay, go [sr](language_code) Language.
+- I'm willing to choose [sr](language_code) Language.
+- [sr](language_code) lang
+- lets choose [sr](language_code) language
+- I'm willing [sr](language_code) lang
+- I want to choose [sr](language_code)
+- Talk in [sr](language_code) country
+- Talk in [sr](language_code) Language.
+- I'm willing to choose [sr](language_code) language
+- I speak [sr](language_code)
+- talk [sr](language_code)
+- I'm willing [sr](language_code) language
+- [sr](language_code) country
+- I'm willing [sr](language_code) country
+- okay I speak [sr](language_code) Language.
+- lets try [sr](language_code) language
+- serve me in [sr](language_code) lang
+- communicate [sr](language_code) language
+- I want [sr](language_code) country
+- I'm willing to choose [sr](language_code) lang
+- go [sr](language_code) Language.
+- okay I speak [sr](language_code) country
+- I speak [sr](language_code) Language.
+- serve me [sr](language_code)
+- go [sr](language_code) country
 - [ms](language_code)
-- talk to me in [ms](language_code) country
-- pls talk in [ms](language_code)
-- let's talk in [ms](language_code) language
-- I speak [ms](language_code) language
+- try [ms](language_code) lang
+- lets choose [ms](language_code) lang
+- serve me in [ms](language_code) country
+- lets choose [ms](language_code) Language.
+- try [ms](language_code)
+- I want to choose [ms](language_code)
+- go [ms](language_code) lang
+- Talk in [ms](language_code) Language.
+- pls talk in [ms](language_code) country
+- choose [ms](language_code) Language.
+- let's talk in [ms](language_code) country
+- I speak [ms](language_code) lang
+- [ms](language_code) Language.
+- Talk in [ms](language_code) language
 - I'm willing [ms](language_code) lang
-- I want [ms](language_code) language
+- okay, go [ms](language_code) Language.
+- go [ms](language_code) Language.
+- I'm willing to choose [ms](language_code) Language.
+- lets try [ms](language_code) lang
+- communicate [ms](language_code)
+- talk [ms](language_code)
 - I want [ms](language_code) lang
-- I'm willing [ms](language_code) country
-- I want to choose [ms](language_code) lang
+- okay, go [ms](language_code) language
+- I'm willing to choose [ms](language_code)
+- I want [ms](language_code) country
 - choose [ms](language_code) language
-- pls talk in [ms](language_code) lang
-- speak [ms](language_code) language
-- [lt](language_code)
-- I'm willing to choose [lt](language_code) Language.
-- serve me in [lt](language_code) language
-- I speak [lt](language_code) Language.
-- speak [lt](language_code) language
-- I'm willing [lt](language_code) Language.
-- choose [lt](language_code) Language.
-- talk to me in [lt](language_code) country
-- let's talk in [lt](language_code)
-- I want [lt](language_code) Language.
-- I'm willing [lt](language_code)
-- serve me [lt](language_code) language
-- [lt](language_code)
+- I speak [ms](language_code)
+- serve me in [ms](language_code)
+- I'm willing to choose [ms](language_code) lang
+- serve me [ms](language_code) lang
+- serve me [ms](language_code) country
+- okay I speak [ms](language_code) country
+- lets try [ms](language_code) language
+- serve me in [ms](language_code) lang
+- I want to choose [ms](language_code) country
+- do [ms](language_code) lang
+- lets choose [ms](language_code)
+- choose [ms](language_code) lang
+- lets try [ms](language_code)
+- I'm willing to choose [ms](language_code) country
+- try [ms](language_code) language
+- pls talk in [ms](language_code) language
+- do [ms](language_code) country
+- lets try [ms](language_code) country
+- I'm willing [ms](language_code) Language.
+- speak [ms](language_code)
+- okay, go [ms](language_code)
+- go [ms](language_code) language
+- talk to me in [ms](language_code) lang
+- I want [ms](language_code) Language.
+- serve me in [ms](language_code) language
 - [en](language_code)
-- lets choose [en](language_code) country
-- serve me in [en](language_code) language
-- speak [en](language_code)
-- I speak [en](language_code)
-- serve me [en](language_code) Language.
-- I want [en](language_code) lang
-- I'm willing [en](language_code) Language.
 - [en](language_code) lang
-- lets choose [en](language_code) lang
-- pls talk in [en](language_code) country
+- try [en](language_code) language
+- talk [en](language_code) Language.
+- okay I speak [en](language_code)
+- try [en](language_code) country
+- pls talk in [en](language_code) language
+- pls talk in [en](language_code) lang
+- communicate [en](language_code)
+- talk [en](language_code) lang
+- lets try [en](language_code) Language.
+- choose [en](language_code) country
+- speak [en](language_code) country
+- lets try [en](language_code) lang
+- serve me in [en](language_code) country
+- Talk in [en](language_code)
+- try [en](language_code) Language.
+- I'm willing to choose [en](language_code) lang
+- try [en](language_code) lang
+- lets choose [en](language_code)
+- go [en](language_code) country
+- pls talk in [en](language_code) Language.
+- do [en](language_code) lang
+- Talk in [en](language_code) Language.
+- okay I speak [en](language_code) country
+- I want [en](language_code) language
+- I speak [en](language_code)
+- I want to choose [en](language_code) language
+- I'm willing [en](language_code) country
+- [en](language_code) Language.
+- I'm willing [en](language_code) lang
+- speak [en](language_code) language
+- communicate [en](language_code) country
+- okay I speak [en](language_code) Language.
+- talk to me in [en](language_code)
+- okay I speak [en](language_code) language
+- I'm willing to choose [en](language_code) country
+- lets choose [en](language_code) language
+- speak [en](language_code) lang
+- I want to choose [en](language_code) country
+- I'm willing [en](language_code) language
+- let's talk in [en](language_code) lang
+- serve me [en](language_code) country
+- Talk in [en](language_code) lang
+- go [en](language_code) Language.
+- lets try [en](language_code) country
+- talk to me in [en](language_code) language
+- lets try [en](language_code) language
 - let's talk in [en](language_code) country
-- let's talk in [en](language_code) language
-- [sk](language_code)
-- serve me [sk](language_code) Language.
-- [sk](language_code)
-- I want to choose [sk](language_code) country
-- I want to choose [sk](language_code) lang
-- I want to choose [sk](language_code)
-- let's talk in [sk](language_code) language
-- I want [sk](language_code) language
-- I'm willing to choose [sk](language_code) Language.
-- lets choose [sk](language_code) country
-- serve me [sk](language_code) country
-- talk [sk](language_code) country
-- let's talk in [sk](language_code) lang
-- [el](language_code)
-- talk [el](language_code) language
-- let's talk in [el](language_code) lang
-- let's talk in [el](language_code) Language.
-- okay I speak [el](language_code) lang
-- serve me [el](language_code) country
-- talk [el](language_code) Language.
-- serve me in [el](language_code) Language.
-- talk to me in [el](language_code) language
-- serve me [el](language_code) language
-- pls talk in [el](language_code) country
-- I'm willing to choose [el](language_code)
-- talk to me in [el](language_code)
-- [hu](language_code)
-- pls talk in [hu](language_code) Language.
-- lets choose [hu](language_code) lang
-- let's talk in [hu](language_code) lang
-- I want [hu](language_code)
-- choose [hu](language_code) country
-- Talk in [hu](language_code)
-- lets choose [hu](language_code) Language.
-- serve me [hu](language_code) Language.
-- talk [hu](language_code) language
-- serve me in [hu](language_code) Language.
-- I'm willing [hu](language_code) language
-- talk [hu](language_code) country
-- [th](language_code)
-- speak [th](language_code) language
-- [th](language_code) Language.
-- serve me in [th](language_code) lang
-- I'm willing to choose [th](language_code) lang
-- talk [th](language_code) country
-- [th](language_code) lang
-- I speak [th](language_code)
-- choose [th](language_code) language
-- I want [th](language_code) country
-- I'm willing [th](language_code) Language.
-- serve me [th](language_code) Language.
-- serve me in [th](language_code) country
+- I'm willing [en](language_code)
+- talk [en](language_code)
+- communicate [en](language_code) language
+- [yi](language_code)
+- I speak [yi](language_code)
+- I speak [yi](language_code) lang
+- I'm willing to choose [yi](language_code) language
+- okay, go [yi](language_code)
+- lets try [yi](language_code) country
+- do [yi](language_code) Language.
+- lets choose [yi](language_code)
+- try [yi](language_code) country
+- [yi](language_code) country
+- do [yi](language_code) language
+- talk to me in [yi](language_code) country
+- communicate [yi](language_code)
+- [yi](language_code)
+- communicate [yi](language_code) language
+- I'm willing to choose [yi](language_code) Language.
+- okay, go [yi](language_code) Language.
+- serve me [yi](language_code)
+- I want to choose [yi](language_code) lang
+- I'm willing [yi](language_code) Language.
+- talk to me in [yi](language_code) language
+- go [yi](language_code)
+- I'm willing to choose [yi](language_code)
+- try [yi](language_code) Language.
+- serve me in [yi](language_code) Language.
+- pls talk in [yi](language_code) Language.
+- communicate [yi](language_code) Language.
+- lets choose [yi](language_code) country
+- I want [yi](language_code) Language.
+- I'm willing [yi](language_code)
+- [yi](language_code) language
+- let's talk in [yi](language_code) Language.
+- do [yi](language_code) lang
+- lets try [yi](language_code) language
+- serve me in [yi](language_code) country
+- speak [yi](language_code) Language.
+- talk to me in [yi](language_code) Language.
+- I want to choose [yi](language_code) language
+- lets try [yi](language_code)
+- I'm willing [yi](language_code) country
+- okay I speak [yi](language_code) country
+- I'm willing to choose [yi](language_code) country
+- speak [yi](language_code) country
+- try [yi](language_code)
+- Talk in [yi](language_code)
+- pls talk in [yi](language_code)
+- I speak [yi](language_code) country
+- okay, go [yi](language_code) country
+- choose [yi](language_code) lang
+- speak [yi](language_code)
+- lets choose [yi](language_code) Language.
+- talk [yi](language_code) lang
 - [cy](language_code)
-- I want [cy](language_code) lang
+- I speak [cy](language_code)
+- lets try [cy](language_code)
+- I want [cy](language_code) language
+- [cy](language_code) country
+- go [cy](language_code) Language.
+- lets choose [cy](language_code)
+- I want to choose [cy](language_code)
+- [cy](language_code) lang
+- I'm willing [cy](language_code) country
+- I'm willing to choose [cy](language_code) lang
+- communicate [cy](language_code) Language.
+- speak [cy](language_code) country
 - Talk in [cy](language_code) country
-- I'm willing [cy](language_code) lang
-- I want [cy](language_code) Language.
-- serve me [cy](language_code)
-- [cy](language_code) language
-- talk to me in [cy](language_code) Language.
-- okay I speak [cy](language_code) language
-- serve me [cy](language_code) country
-- choose [cy](language_code) lang
-- okay I speak [cy](language_code) lang
+- I speak [cy](language_code) country
+- serve me [cy](language_code) language
+- choose [cy](language_code) country
+- serve me [cy](language_code) Language.
+- lets try [cy](language_code) language
+- talk to me in [cy](language_code) language
+- serve me in [cy](language_code) country
+- lets choose [cy](language_code) lang
+- serve me in [cy](language_code) language
 - serve me in [cy](language_code)
+- talk to me in [cy](language_code) country
+- okay I speak [cy](language_code) language
+- okay, go [cy](language_code) Language.
+- try [cy](language_code) country
+- try [cy](language_code) lang
+- lets choose [cy](language_code) country
+- serve me [cy](language_code)
+- let's talk in [cy](language_code) country
+- okay, go [cy](language_code)
+- lets choose [cy](language_code) Language.
+- talk [cy](language_code) lang
+- serve me [cy](language_code) country
+- let's talk in [cy](language_code) lang
+- speak [cy](language_code) Language.
+- I want to choose [cy](language_code) lang
+- serve me in [cy](language_code) lang
+- Talk in [cy](language_code)
+- talk to me in [cy](language_code)
+- I want [cy](language_code)
+- choose [cy](language_code) lang
+- lets choose [cy](language_code) language
+- I want to choose [cy](language_code) language
+- choose [cy](language_code) Language.
+- go [cy](language_code) country
+- okay, go [cy](language_code) lang
+- do [cy](language_code) lang
+- communicate [cy](language_code) country
+- I'm willing to choose [cy](language_code) Language.
+- [uk](language_code)
+- Talk in [uk](language_code)
+- Talk in [uk](language_code) Language.
+- speak [uk](language_code) lang
+- let's talk in [uk](language_code) country
+- serve me [uk](language_code) lang
+- pls talk in [uk](language_code) lang
+- I want [uk](language_code) Language.
+- serve me [uk](language_code) language
+- go [uk](language_code) lang
+- communicate [uk](language_code) language
+- serve me in [uk](language_code) country
+- lets choose [uk](language_code) language
+- talk to me in [uk](language_code) Language.
+- okay I speak [uk](language_code) language
+- I'm willing [uk](language_code) language
+- lets choose [uk](language_code) Language.
+- lets try [uk](language_code) country
+- [uk](language_code) Language.
+- I speak [uk](language_code) lang
+- lets try [uk](language_code) language
+- serve me [uk](language_code)
+- I want [uk](language_code) language
+- go [uk](language_code) country
+- do [uk](language_code) lang
+- try [uk](language_code) country
+- Talk in [uk](language_code) language
+- I'm willing to choose [uk](language_code) lang
+- lets try [uk](language_code)
+- serve me in [uk](language_code) Language.
+- okay I speak [uk](language_code) lang
+- talk [uk](language_code) language
+- talk [uk](language_code) country
+- talk to me in [uk](language_code) country
+- I want to choose [uk](language_code) country
+- talk to me in [uk](language_code) language
+- let's talk in [uk](language_code) Language.
+- talk to me in [uk](language_code)
+- I'm willing [uk](language_code) country
+- communicate [uk](language_code) country
+- I want to choose [uk](language_code) Language.
+- speak [uk](language_code) country
+- pls talk in [uk](language_code) country
+- go [uk](language_code)
+- serve me in [uk](language_code) lang
+- I want [uk](language_code) lang
+- I'm willing [uk](language_code)
+- talk [uk](language_code) Language.
+- Talk in [uk](language_code) lang
+- I want [uk](language_code)
+- okay, go [uk](language_code) country
+- okay, go [uk](language_code) lang
+- [tl](language_code)
+- okay I speak [tl](language_code) language
+- okay I speak [tl](language_code) country
+- I speak [tl](language_code)
+- let's talk in [tl](language_code)
+- communicate [tl](language_code) Language.
+- I speak [tl](language_code) language
+- serve me in [tl](language_code) Language.
+- I speak [tl](language_code) country
+- let's talk in [tl](language_code) language
+- pls talk in [tl](language_code)
+- lets try [tl](language_code) lang
+- do [tl](language_code)
+- I want to choose [tl](language_code) Language.
+- speak [tl](language_code) language
+- talk [tl](language_code) language
+- okay, go [tl](language_code) Language.
+- try [tl](language_code)
+- talk [tl](language_code)
+- choose [tl](language_code) Language.
+- [tl](language_code) language
+- Talk in [tl](language_code) language
+- serve me in [tl](language_code) language
+- okay, go [tl](language_code) lang
+- serve me [tl](language_code)
+- I speak [tl](language_code) lang
+- [tl](language_code)
+- okay I speak [tl](language_code) lang
+- speak [tl](language_code) country
+- Talk in [tl](language_code) Language.
+- try [tl](language_code) Language.
+- okay, go [tl](language_code) country
+- I want to choose [tl](language_code) language
+- lets choose [tl](language_code) Language.
+- go [tl](language_code)
+- lets try [tl](language_code) country
+- lets try [tl](language_code) language
+- I'm willing to choose [tl](language_code) language
+- I'm willing to choose [tl](language_code)
+- I speak [tl](language_code) Language.
+- talk to me in [tl](language_code)
+- go [tl](language_code) Language.
+- choose [tl](language_code)
+- pls talk in [tl](language_code) Language.
+- serve me in [tl](language_code) lang
+- talk [tl](language_code) Language.
+- pls talk in [tl](language_code) lang
+- do [tl](language_code) language
+- lets choose [tl](language_code) country
+- I want to choose [tl](language_code)
+- try [tl](language_code) lang
+- I'm willing [tl](language_code) Language.
+- [mt](language_code)
+- serve me [mt](language_code) Language.
+- I'm willing [mt](language_code)
+- pls talk in [mt](language_code) language
+- talk to me in [mt](language_code) Language.
+- let's talk in [mt](language_code) Language.
+- choose [mt](language_code) language
+- I want to choose [mt](language_code) country
+- lets choose [mt](language_code)
+- lets choose [mt](language_code) country
+- serve me in [mt](language_code) language
+- do [mt](language_code) language
+- do [mt](language_code) country
+- pls talk in [mt](language_code) country
+- communicate [mt](language_code) lang
+- speak [mt](language_code) language
+- go [mt](language_code)
+- Talk in [mt](language_code) lang
+- I want [mt](language_code) language
+- I want [mt](language_code) lang
+- Talk in [mt](language_code) country
+- I'm willing [mt](language_code) country
+- try [mt](language_code) lang
+- try [mt](language_code) language
+- let's talk in [mt](language_code) country
+- let's talk in [mt](language_code) lang
+- do [mt](language_code) lang
+- speak [mt](language_code)
+- talk [mt](language_code) Language.
+- talk [mt](language_code) country
+- try [mt](language_code)
+- talk to me in [mt](language_code) lang
+- communicate [mt](language_code) Language.
+- go [mt](language_code) country
+- talk to me in [mt](language_code)
+- okay, go [mt](language_code)
+- I'm willing to choose [mt](language_code) language
+- serve me in [mt](language_code)
+- [mt](language_code) lang
+- okay, go [mt](language_code) country
+- pls talk in [mt](language_code) Language.
+- talk [mt](language_code) language
+- choose [mt](language_code)
+- serve me in [mt](language_code) country
+- I want to choose [mt](language_code) lang
+- [mt](language_code) Language.
+- okay I speak [mt](language_code)
+- pls talk in [mt](language_code)
+- lets try [mt](language_code)
+- Talk in [mt](language_code) Language.
+- I speak [mt](language_code) Language.
+- communicate [mt](language_code) language
+- [kn](language_code)
+- serve me [kn](language_code) Language.
+- okay I speak [kn](language_code) language
+- talk [kn](language_code) language
+- try [kn](language_code) language
+- Talk in [kn](language_code)
+- okay, go [kn](language_code) Language.
+- okay, go [kn](language_code) lang
+- try [kn](language_code) country
+- okay, go [kn](language_code) country
+- I want to choose [kn](language_code) language
+- communicate [kn](language_code) country
+- let's talk in [kn](language_code) Language.
+- lets try [kn](language_code) Language.
+- I'm willing to choose [kn](language_code) Language.
+- lets try [kn](language_code)
+- choose [kn](language_code) Language.
+- speak [kn](language_code) language
+- I speak [kn](language_code) Language.
+- Talk in [kn](language_code) country
+- lets try [kn](language_code) lang
+- I want [kn](language_code)
+- lets choose [kn](language_code) language
+- communicate [kn](language_code) language
+- I speak [kn](language_code) lang
+- go [kn](language_code) country
+- talk to me in [kn](language_code) country
+- talk [kn](language_code) Language.
+- okay I speak [kn](language_code) lang
+- okay I speak [kn](language_code) country
+- try [kn](language_code)
+- let's talk in [kn](language_code) country
+- pls talk in [kn](language_code) language
+- Talk in [kn](language_code) language
+- I'm willing [kn](language_code) country
+- serve me in [kn](language_code) language
+- pls talk in [kn](language_code) country
+- let's talk in [kn](language_code)
+- do [kn](language_code)
+- serve me in [kn](language_code) lang
+- let's talk in [kn](language_code) language
+- do [kn](language_code) lang
+- lets choose [kn](language_code) lang
+- choose [kn](language_code) country
+- do [kn](language_code) language
+- pls talk in [kn](language_code) lang
+- serve me [kn](language_code)
+- okay I speak [kn](language_code) Language.
+- I speak [kn](language_code) language
+- pls talk in [kn](language_code) Language.
+- pls talk in [kn](language_code)
+- lets choose [kn](language_code) country
+- [te](language_code)
+- do [te](language_code) country
+- communicate [te](language_code) country
+- I want to choose [te](language_code) lang
+- lets choose [te](language_code) lang
+- try [te](language_code) Language.
+- [te](language_code) country
+- I'm willing to choose [te](language_code) Language.
+- okay I speak [te](language_code) Language.
+- communicate [te](language_code) Language.
+- lets try [te](language_code) language
+- try [te](language_code) language
+- I'm willing [te](language_code) lang
+- Talk in [te](language_code) Language.
+- Talk in [te](language_code) country
+- lets try [te](language_code)
+- I speak [te](language_code)
+- lets try [te](language_code) country
+- okay, go [te](language_code)
+- serve me in [te](language_code) language
+- talk [te](language_code) lang
+- I speak [te](language_code) lang
+- I want [te](language_code) country
+- pls talk in [te](language_code)
+- lets choose [te](language_code) country
+- communicate [te](language_code) lang
+- serve me in [te](language_code) country
+- okay I speak [te](language_code) language
+- go [te](language_code)
+- okay I speak [te](language_code)
+- I'm willing [te](language_code) language
+- do [te](language_code)
+- I want to choose [te](language_code) Language.
+- I want [te](language_code)
+- Talk in [te](language_code) lang
+- serve me [te](language_code) lang
+- okay, go [te](language_code) Language.
+- try [te](language_code) country
+- choose [te](language_code) country
+- lets try [te](language_code) Language.
+- [te](language_code) lang
+- talk [te](language_code) language
+- I speak [te](language_code) language
+- do [te](language_code) lang
+- serve me in [te](language_code) lang
+- okay, go [te](language_code) country
+- talk to me in [te](language_code) country
+- communicate [te](language_code)
+- Talk in [te](language_code) language
+- do [te](language_code) Language.
+- lets choose [te](language_code) Language.
+- okay, go [te](language_code) lang
+- [tr](language_code)
+- try [tr](language_code) country
+- talk to me in [tr](language_code) Language.
+- okay I speak [tr](language_code) Language.
+- pls talk in [tr](language_code)
+- serve me in [tr](language_code)
+- lets choose [tr](language_code) lang
+- communicate [tr](language_code) country
+- go [tr](language_code) lang
+- talk to me in [tr](language_code) language
+- I'm willing [tr](language_code) country
+- choose [tr](language_code) Language.
+- lets choose [tr](language_code) language
+- [tr](language_code) Language.
+- do [tr](language_code) country
+- I want [tr](language_code) Language.
+- I'm willing [tr](language_code)
+- do [tr](language_code) lang
+- Talk in [tr](language_code) lang
+- choose [tr](language_code) country
+- try [tr](language_code) lang
+- talk [tr](language_code) language
+- I'm willing to choose [tr](language_code) language
+- Talk in [tr](language_code) language
+- serve me [tr](language_code) lang
+- speak [tr](language_code) country
+- communicate [tr](language_code) Language.
+- I want [tr](language_code)
+- okay I speak [tr](language_code) country
+- I want to choose [tr](language_code)
+- let's talk in [tr](language_code) country
+- talk [tr](language_code) country
+- speak [tr](language_code) Language.
+- okay, go [tr](language_code) lang
+- I want to choose [tr](language_code) language
+- pls talk in [tr](language_code) Language.
+- lets choose [tr](language_code) Language.
+- talk [tr](language_code) Language.
+- speak [tr](language_code)
+- serve me [tr](language_code) country
+- serve me [tr](language_code) Language.
+- speak [tr](language_code) language
+- serve me in [tr](language_code) country
+- [tr](language_code) lang
+- communicate [tr](language_code) language
+- okay, go [tr](language_code)
+- okay, go [tr](language_code) country
+- okay, go [tr](language_code) language
+- I speak [tr](language_code) lang
+- let's talk in [tr](language_code) Language.
+- [tr](language_code)
+- I want to choose [tr](language_code) Language.
+- [id](language_code)
+- I speak [id](language_code) country
+- pls talk in [id](language_code)
+- communicate [id](language_code)
+- communicate [id](language_code) country
+- [id](language_code) language
+- let's talk in [id](language_code)
+- okay, go [id](language_code)
+- okay, go [id](language_code) country
+- I speak [id](language_code) language
+- try [id](language_code) Language.
+- choose [id](language_code)
+- Talk in [id](language_code) country
+- try [id](language_code) lang
+- try [id](language_code) country
+- lets try [id](language_code) language
+- talk [id](language_code) language
+- I want to choose [id](language_code) lang
+- go [id](language_code) Language.
+- choose [id](language_code) lang
+- speak [id](language_code) lang
+- I'm willing to choose [id](language_code) Language.
+- choose [id](language_code) Language.
+- I want to choose [id](language_code)
+- pls talk in [id](language_code) lang
+- Talk in [id](language_code) lang
+- I want [id](language_code) Language.
+- go [id](language_code) country
+- choose [id](language_code) country
+- serve me [id](language_code) Language.
+- let's talk in [id](language_code) lang
+- do [id](language_code) lang
+- lets choose [id](language_code) Language.
+- Talk in [id](language_code)
+- lets choose [id](language_code) lang
+- okay I speak [id](language_code)
+- speak [id](language_code) country
+- I want [id](language_code)
+- serve me [id](language_code)
+- communicate [id](language_code) Language.
+- speak [id](language_code)
+- okay I speak [id](language_code) country
+- I want [id](language_code) lang
+- talk to me in [id](language_code)
+- try [id](language_code)
+- I'm willing to choose [id](language_code)
+- serve me in [id](language_code) language
+- go [id](language_code) language
+- [id](language_code) country
+- talk [id](language_code) country
+- I'm willing to choose [id](language_code) language
+- serve me in [id](language_code) Language.
+- [cs](language_code)
+- [cs](language_code) Language.
+- okay, go [cs](language_code) lang
+- I'm willing to choose [cs](language_code) country
+- talk to me in [cs](language_code) language
+- speak [cs](language_code) lang
+- talk [cs](language_code) lang
+- communicate [cs](language_code) country
+- I'm willing to choose [cs](language_code) language
+- lets choose [cs](language_code) country
+- I'm willing [cs](language_code)
+- pls talk in [cs](language_code) language
+- communicate [cs](language_code) language
+- okay I speak [cs](language_code)
+- I speak [cs](language_code)
+- try [cs](language_code) country
+- I want to choose [cs](language_code)
+- okay I speak [cs](language_code) lang
+- do [cs](language_code)
+- do [cs](language_code) Language.
+- serve me [cs](language_code) language
+- lets choose [cs](language_code) lang
+- let's talk in [cs](language_code) Language.
+- [cs](language_code) country
+- choose [cs](language_code)
+- I want to choose [cs](language_code) lang
+- speak [cs](language_code) country
+- I'm willing to choose [cs](language_code) lang
+- I'm willing [cs](language_code) Language.
+- serve me in [cs](language_code) lang
+- I'm willing [cs](language_code) country
+- I want [cs](language_code) country
+- okay I speak [cs](language_code) country
+- go [cs](language_code) language
+- okay, go [cs](language_code) language
+- do [cs](language_code) country
+- I want [cs](language_code) lang
+- pls talk in [cs](language_code)
+- I speak [cs](language_code) Language.
+- serve me in [cs](language_code)
+- communicate [cs](language_code)
+- go [cs](language_code)
+- okay, go [cs](language_code) country
+- lets choose [cs](language_code) language
+- go [cs](language_code) country
+- try [cs](language_code) Language.
+- I want to choose [cs](language_code) Language.
+- try [cs](language_code)
+- I'm willing [cs](language_code) lang
+- try [cs](language_code) lang
+- okay, go [cs](language_code) Language.
+- speak [cs](language_code) language
+- [es](language_code)
+- do [es](language_code) country
+- communicate [es](language_code) country
+- communicate [es](language_code)
+- I speak [es](language_code) language
+- communicate [es](language_code) Language.
+- serve me in [es](language_code) country
+- communicate [es](language_code) lang
+- Talk in [es](language_code) country
+- I want to choose [es](language_code) language
+- lets try [es](language_code) language
+- pls talk in [es](language_code) language
+- pls talk in [es](language_code) lang
+- talk [es](language_code) country
+- go [es](language_code)
+- I'm willing to choose [es](language_code) country
+- I want to choose [es](language_code) Language.
+- I want [es](language_code) Language.
+- I speak [es](language_code)
+- [es](language_code)
+- try [es](language_code)
+- do [es](language_code) lang
+- talk [es](language_code) Language.
+- lets choose [es](language_code) lang
+- try [es](language_code) lang
+- talk to me in [es](language_code) country
+- Talk in [es](language_code) Language.
+- lets choose [es](language_code) Language.
+- let's talk in [es](language_code) country
+- serve me [es](language_code) country
+- serve me in [es](language_code) language
+- I want to choose [es](language_code) lang
+- Talk in [es](language_code)
+- speak [es](language_code)
+- communicate [es](language_code) language
+- try [es](language_code) language
+- go [es](language_code) language
+- talk [es](language_code) language
+- choose [es](language_code) Language.
+- lets try [es](language_code) lang
+- I want to choose [es](language_code) country
+- serve me [es](language_code) language
+- serve me [es](language_code) Language.
+- go [es](language_code) Language.
+- okay I speak [es](language_code) lang
+- choose [es](language_code) lang
+- okay I speak [es](language_code) country
+- I want [es](language_code) lang
+- let's talk in [es](language_code)
+- I'm willing [es](language_code) language
+- speak [es](language_code) language
+- do [es](language_code)
+- [gl](language_code)
+- okay I speak [gl](language_code) country
+- let's talk in [gl](language_code)
+- speak [gl](language_code) country
+- go [gl](language_code) lang
+- do [gl](language_code) country
+- serve me in [gl](language_code)
+- I'm willing to choose [gl](language_code)
+- [gl](language_code)
+- do [gl](language_code) Language.
+- speak [gl](language_code) Language.
+- serve me in [gl](language_code) lang
+- pls talk in [gl](language_code) language
+- Talk in [gl](language_code)
+- try [gl](language_code) lang
+- lets choose [gl](language_code) lang
+- let's talk in [gl](language_code) Language.
+- Talk in [gl](language_code) Language.
+- okay I speak [gl](language_code)
+- serve me in [gl](language_code) country
+- okay I speak [gl](language_code) lang
+- I want [gl](language_code) Language.
+- serve me [gl](language_code) language
+- talk [gl](language_code)
+- [gl](language_code) lang
+- choose [gl](language_code) Language.
+- communicate [gl](language_code)
+- talk [gl](language_code) country
+- I'm willing [gl](language_code) country
+- do [gl](language_code) language
+- I speak [gl](language_code)
+- I'm willing to choose [gl](language_code) country
+- Talk in [gl](language_code) country
+- lets choose [gl](language_code) country
+- I'm willing to choose [gl](language_code) language
+- talk to me in [gl](language_code) Language.
+- okay I speak [gl](language_code) Language.
+- do [gl](language_code) lang
+- choose [gl](language_code) lang
+- lets try [gl](language_code)
+- speak [gl](language_code) language
+- I'm willing [gl](language_code) lang
+- talk to me in [gl](language_code) language
+- [gl](language_code) country
+- let's talk in [gl](language_code) lang
+- try [gl](language_code)
+- okay, go [gl](language_code) lang
+- I want [gl](language_code) country
+- serve me [gl](language_code) country
+- I speak [gl](language_code) lang
+- I speak [gl](language_code) country
+- talk [gl](language_code) language
+- [vi](language_code)
+- okay, go [vi](language_code)
+- I'm willing to choose [vi](language_code) lang
+- speak [vi](language_code)
+- lets try [vi](language_code)
+- talk [vi](language_code)
+- speak [vi](language_code) lang
+- go [vi](language_code) Language.
+- speak [vi](language_code) country
+- let's talk in [vi](language_code) country
+- okay, go [vi](language_code) Language.
+- talk [vi](language_code) Language.
+- do [vi](language_code) Language.
+- let's talk in [vi](language_code) language
+- I want [vi](language_code)
+- go [vi](language_code) country
+- do [vi](language_code)
+- I want [vi](language_code) language
+- okay, go [vi](language_code) lang
+- lets choose [vi](language_code) language
+- choose [vi](language_code)
+- I want [vi](language_code) Language.
+- I speak [vi](language_code) language
+- do [vi](language_code) language
+- lets try [vi](language_code) country
+- I want to choose [vi](language_code) lang
+- talk to me in [vi](language_code) country
+- serve me [vi](language_code) Language.
+- okay, go [vi](language_code) country
+- serve me [vi](language_code)
+- try [vi](language_code) Language.
+- [vi](language_code) country
+- talk to me in [vi](language_code) lang
+- communicate [vi](language_code) country
+- let's talk in [vi](language_code) Language.
+- okay I speak [vi](language_code) country
+- I'm willing to choose [vi](language_code) Language.
+- lets try [vi](language_code) Language.
+- communicate [vi](language_code) lang
+- Talk in [vi](language_code)
+- [vi](language_code) Language.
+- okay I speak [vi](language_code)
+- I want [vi](language_code) lang
+- pls talk in [vi](language_code) country
+- I'm willing to choose [vi](language_code) country
+- okay I speak [vi](language_code) Language.
+- serve me [vi](language_code) lang
+- I'm willing [vi](language_code) lang
+- communicate [vi](language_code) language
+- I speak [vi](language_code) country
+- serve me [vi](language_code) language
+- talk [vi](language_code) country
+- [ko](language_code)
+- okay I speak [ko](language_code)
+- communicate [ko](language_code) lang
+- I speak [ko](language_code) language
+- try [ko](language_code)
+- try [ko](language_code) language
+- go [ko](language_code) language
+- serve me [ko](language_code) lang
+- Talk in [ko](language_code) country
+- I want [ko](language_code) language
+- try [ko](language_code) country
+- talk [ko](language_code) language
+- I'm willing [ko](language_code)
+- pls talk in [ko](language_code) lang
+- go [ko](language_code) country
+- try [ko](language_code) Language.
+- serve me in [ko](language_code) lang
+- serve me [ko](language_code)
+- okay, go [ko](language_code) Language.
+- serve me [ko](language_code) language
+- lets choose [ko](language_code) lang
+- okay, go [ko](language_code) lang
+- communicate [ko](language_code) country
+- I want [ko](language_code) Language.
+- I want [ko](language_code)
+- do [ko](language_code) language
+- lets try [ko](language_code) language
+- communicate [ko](language_code) Language.
+- [ko](language_code) lang
+- I'm willing to choose [ko](language_code) lang
+- do [ko](language_code) lang
+- serve me [ko](language_code) Language.
+- I speak [ko](language_code) Language.
+- pls talk in [ko](language_code) Language.
+- serve me in [ko](language_code)
+- speak [ko](language_code) language
+- [ko](language_code)
+- lets choose [ko](language_code) language
+- Talk in [ko](language_code) lang
+- talk [ko](language_code) country
+- I'm willing to choose [ko](language_code) language
+- lets choose [ko](language_code)
+- lets try [ko](language_code) Language.
+- choose [ko](language_code) country
+- I'm willing to choose [ko](language_code)
+- okay I speak [ko](language_code) language
+- okay I speak [ko](language_code) lang
+- go [ko](language_code)
+- I want [ko](language_code) country
+- pls talk in [ko](language_code) language
+- I'm willing [ko](language_code) lang
+- choose [ko](language_code) Language.
+- [ja](language_code)
+- speak [ja](language_code) country
+- go [ja](language_code) Language.
+- I want [ja](language_code) Language.
+- I'm willing to choose [ja](language_code) Language.
+- pls talk in [ja](language_code) Language.
+- do [ja](language_code) language
+- I'm willing to choose [ja](language_code) country
+- okay I speak [ja](language_code) country
+- I'm willing to choose [ja](language_code)
+- I'm willing to choose [ja](language_code) lang
+- [ja](language_code)
+- choose [ja](language_code) Language.
+- serve me in [ja](language_code) country
+- I want [ja](language_code) language
+- I speak [ja](language_code) country
+- okay I speak [ja](language_code)
+- Talk in [ja](language_code) language
+- Talk in [ja](language_code) country
+- I want [ja](language_code) lang
+- serve me in [ja](language_code) Language.
+- Talk in [ja](language_code) lang
+- serve me in [ja](language_code) lang
+- lets choose [ja](language_code) language
+- pls talk in [ja](language_code) lang
+- lets try [ja](language_code) language
+- try [ja](language_code)
+- communicate [ja](language_code)
+- choose [ja](language_code)
+- okay, go [ja](language_code) country
+- serve me [ja](language_code)
+- okay, go [ja](language_code) lang
+- okay I speak [ja](language_code) Language.
+- I'm willing [ja](language_code)
+- talk [ja](language_code) Language.
+- I speak [ja](language_code)
+- serve me in [ja](language_code) language
+- go [ja](language_code)
+- talk [ja](language_code)
+- let's talk in [ja](language_code) country
+- talk to me in [ja](language_code) country
+- lets choose [ja](language_code) lang
+- I want to choose [ja](language_code)
+- I want [ja](language_code) country
+- I speak [ja](language_code) language
+- talk [ja](language_code) lang
+- okay, go [ja](language_code) Language.
+- lets try [ja](language_code) country
+- communicate [ja](language_code) Language.
+- lets try [ja](language_code)
+- I'm willing to choose [ja](language_code) language
+- try [ja](language_code) country
+- [zh-CN](language_code)
+- talk to me in [zh-CN](language_code)
+- I'm willing to choose [zh-CN](language_code) lang
+- communicate [zh-CN](language_code) country
+- Talk in [zh-CN](language_code)
+- let's talk in [zh-CN](language_code) lang
+- okay, go [zh-CN](language_code) lang
+- lets choose [zh-CN](language_code)
+- communicate [zh-CN](language_code)
+- try [zh-CN](language_code) language
+- [zh-CN](language_code) language
+- communicate [zh-CN](language_code) language
+- okay, go [zh-CN](language_code) language
+- I want to choose [zh-CN](language_code) lang
+- okay, go [zh-CN](language_code)
+- choose [zh-CN](language_code) Language.
+- let's talk in [zh-CN](language_code)
+- I want [zh-CN](language_code) Language.
+- talk [zh-CN](language_code) language
+- [zh-CN](language_code) lang
+- speak [zh-CN](language_code)
+- serve me in [zh-CN](language_code)
+- okay I speak [zh-CN](language_code) Language.
+- I speak [zh-CN](language_code)
+- go [zh-CN](language_code)
+- do [zh-CN](language_code)
+- lets try [zh-CN](language_code) language
+- I want [zh-CN](language_code)
+- speak [zh-CN](language_code) lang
+- I'm willing [zh-CN](language_code) language
+- I'm willing to choose [zh-CN](language_code) language
+- okay, go [zh-CN](language_code) country
+- do [zh-CN](language_code) lang
+- I speak [zh-CN](language_code) Language.
+- lets choose [zh-CN](language_code) Language.
+- I want to choose [zh-CN](language_code) country
+- serve me [zh-CN](language_code)
+- lets try [zh-CN](language_code) Language.
+- I'm willing to choose [zh-CN](language_code)
+- choose [zh-CN](language_code)
+- Talk in [zh-CN](language_code) language
+- Talk in [zh-CN](language_code) lang
+- I want to choose [zh-CN](language_code) Language.
+- let's talk in [zh-CN](language_code) Language.
+- I want to choose [zh-CN](language_code)
+- [zh-CN](language_code) country
+- serve me [zh-CN](language_code) language
+- I speak [zh-CN](language_code) lang
+- serve me [zh-CN](language_code) Language.
+- choose [zh-CN](language_code) language
+- I want [zh-CN](language_code) language
+- serve me [zh-CN](language_code) lang
+- [et](language_code)
+- choose [et](language_code) language
+- do [et](language_code) Language.
+- talk to me in [et](language_code)
+- communicate [et](language_code) language
+- lets try [et](language_code) lang
+- serve me [et](language_code)
+- I'm willing [et](language_code) country
+- choose [et](language_code)
+- do [et](language_code) language
+- I want [et](language_code) country
+- lets try [et](language_code) language
+- I want to choose [et](language_code) language
+- pls talk in [et](language_code) Language.
+- lets try [et](language_code) country
+- talk [et](language_code) language
+- talk to me in [et](language_code) lang
+- serve me in [et](language_code) language
+- I'm willing to choose [et](language_code) country
+- speak [et](language_code) Language.
+- let's talk in [et](language_code) lang
+- pls talk in [et](language_code) language
+- I'm willing to choose [et](language_code)
+- I want [et](language_code) lang
+- I'm willing [et](language_code) Language.
+- okay, go [et](language_code) lang
+- talk [et](language_code) country
+- communicate [et](language_code) lang
+- lets choose [et](language_code) lang
+- I'm willing [et](language_code) language
+- I speak [et](language_code) language
+- try [et](language_code) language
+- serve me [et](language_code) language
+- choose [et](language_code) lang
+- I want to choose [et](language_code)
+- serve me [et](language_code) lang
+- [et](language_code) language
+- talk to me in [et](language_code) language
+- I speak [et](language_code) lang
+- try [et](language_code) country
+- I'm willing [et](language_code) lang
+- okay I speak [et](language_code) language
+- go [et](language_code)
+- go [et](language_code) lang
+- choose [et](language_code) country
+- okay I speak [et](language_code) Language.
+- Talk in [et](language_code)
+- okay, go [et](language_code) language
+- talk to me in [et](language_code) Language.
+- go [et](language_code) country
+- talk [et](language_code) lang
+- lets choose [et](language_code) Language.
+- [gu](language_code)
+- try [gu](language_code)
+- lets choose [gu](language_code) lang
+- I want [gu](language_code) language
+- talk to me in [gu](language_code)
+- okay, go [gu](language_code) country
+- okay I speak [gu](language_code) lang
+- lets choose [gu](language_code)
+- serve me [gu](language_code) Language.
+- pls talk in [gu](language_code)
+- speak [gu](language_code) language
+- I want [gu](language_code) Language.
+- okay I speak [gu](language_code) Language.
+- do [gu](language_code) Language.
+- choose [gu](language_code) language
+- I'm willing to choose [gu](language_code) lang
+- lets try [gu](language_code) lang
+- communicate [gu](language_code) country
+- talk to me in [gu](language_code) country
+- I'm willing [gu](language_code) Language.
+- go [gu](language_code) country
+- let's talk in [gu](language_code)
+- do [gu](language_code) language
+- serve me in [gu](language_code)
+- lets try [gu](language_code)
+- serve me in [gu](language_code) language
+- I want to choose [gu](language_code) country
+- try [gu](language_code) lang
+- talk [gu](language_code) country
+- [gu](language_code) country
+- talk to me in [gu](language_code) lang
+- serve me [gu](language_code) lang
+- talk [gu](language_code) Language.
+- speak [gu](language_code) country
+- pls talk in [gu](language_code) country
+- do [gu](language_code) lang
+- go [gu](language_code) lang
+- speak [gu](language_code)
+- lets choose [gu](language_code) Language.
+- try [gu](language_code) country
+- let's talk in [gu](language_code) Language.
+- Talk in [gu](language_code)
+- okay, go [gu](language_code)
+- choose [gu](language_code)
+- speak [gu](language_code) Language.
+- choose [gu](language_code) Language.
+- serve me [gu](language_code) country
+- okay I speak [gu](language_code)
+- communicate [gu](language_code) Language.
+- try [gu](language_code) language
+- I want to choose [gu](language_code) lang
+- I want to choose [gu](language_code) language
+- [it](language_code)
+- try [it](language_code) language
+- serve me [it](language_code) country
+- talk to me in [it](language_code) language
+- communicate [it](language_code) country
+- I want [it](language_code) Language.
+- serve me in [it](language_code) Language.
+- go [it](language_code)
+- go [it](language_code) country
+- communicate [it](language_code)
+- choose [it](language_code) lang
+- okay I speak [it](language_code) language
+- I want [it](language_code) lang
+- let's talk in [it](language_code) language
+- Talk in [it](language_code)
+- lets try [it](language_code) lang
+- I want [it](language_code) language
+- pls talk in [it](language_code) country
+- choose [it](language_code) Language.
+- pls talk in [it](language_code) lang
+- I'm willing [it](language_code)
+- talk to me in [it](language_code) lang
+- choose [it](language_code) country
+- speak [it](language_code) country
+- let's talk in [it](language_code) country
+- I'm willing [it](language_code) Language.
+- serve me in [it](language_code) language
+- pls talk in [it](language_code) Language.
+- speak [it](language_code)
+- serve me [it](language_code) language
+- do [it](language_code) Language.
+- serve me [it](language_code) lang
+- talk [it](language_code) language
+- I want [it](language_code)
+- okay, go [it](language_code) language
+- serve me [it](language_code)
+- do [it](language_code)
+- talk [it](language_code) lang
+- I speak [it](language_code)
+- pls talk in [it](language_code)
+- lets try [it](language_code) Language.
+- lets try [it](language_code) country
+- choose [it](language_code)
+- [it](language_code) Language.
+- I want [it](language_code) country
+- I'm willing [it](language_code) country
+- lets try [it](language_code) language
+- talk to me in [it](language_code) country
+- serve me in [it](language_code)
+- serve me in [it](language_code) lang
+- talk [it](language_code) Language.
+- speak [it](language_code) lang
+- [bn](language_code)
+- choose [bn](language_code) lang
+- talk to me in [bn](language_code)
+- communicate [bn](language_code) Language.
+- serve me in [bn](language_code) Language.
+- serve me [bn](language_code)
+- I speak [bn](language_code) Language.
+- do [bn](language_code) Language.
+- communicate [bn](language_code)
+- pls talk in [bn](language_code) language
+- I speak [bn](language_code)
+- serve me in [bn](language_code) language
+- I want to choose [bn](language_code)
+- lets try [bn](language_code) country
+- I'm willing [bn](language_code) Language.
+- I'm willing [bn](language_code)
+- pls talk in [bn](language_code) country
+- talk [bn](language_code) Language.
+- talk to me in [bn](language_code) lang
+- okay I speak [bn](language_code) language
+- go [bn](language_code) country
+- Talk in [bn](language_code) lang
+- serve me in [bn](language_code) country
+- okay I speak [bn](language_code) country
+- do [bn](language_code) lang
+- lets try [bn](language_code)
+- try [bn](language_code)
+- communicate [bn](language_code) country
+- go [bn](language_code)
+- okay I speak [bn](language_code)
+- I want [bn](language_code) language
+- choose [bn](language_code) language
+- [bn](language_code) Language.
+- try [bn](language_code) lang
+- pls talk in [bn](language_code) lang
+- I'm willing to choose [bn](language_code) Language.
+- I speak [bn](language_code) country
+- try [bn](language_code) language
+- Talk in [bn](language_code) language
+- I'm willing [bn](language_code) language
+- I'm willing [bn](language_code) country
+- serve me [bn](language_code) language
+- Talk in [bn](language_code) country
+- serve me in [bn](language_code)
+- Talk in [bn](language_code)
+- communicate [bn](language_code) language
+- I speak [bn](language_code) language
+- okay, go [bn](language_code) country
+- let's talk in [bn](language_code) lang
+- talk to me in [bn](language_code) country
+- lets choose [bn](language_code) lang
+- serve me [bn](language_code) lang
+- [sw](language_code)
+- serve me in [sw](language_code) language
+- lets try [sw](language_code) country
+- I'm willing to choose [sw](language_code) Language.
+- okay, go [sw](language_code) Language.
+- let's talk in [sw](language_code) lang
+- okay I speak [sw](language_code) Language.
+- I speak [sw](language_code) Language.
+- serve me [sw](language_code) lang
+- talk to me in [sw](language_code) country
+- serve me in [sw](language_code) lang
+- communicate [sw](language_code) lang
+- speak [sw](language_code) language
+- talk [sw](language_code) language
+- Talk in [sw](language_code) language
+- talk [sw](language_code)
+- I'm willing [sw](language_code) country
+- I'm willing [sw](language_code) language
+- serve me [sw](language_code) Language.
+- lets choose [sw](language_code)
+- okay, go [sw](language_code) lang
+- okay I speak [sw](language_code) lang
+- communicate [sw](language_code)
+- talk to me in [sw](language_code) lang
+- speak [sw](language_code) lang
+- okay I speak [sw](language_code)
+- lets try [sw](language_code)
+- go [sw](language_code) country
+- serve me [sw](language_code)
+- I want to choose [sw](language_code) country
+- I speak [sw](language_code) language
+- pls talk in [sw](language_code)
+- speak [sw](language_code) country
+- I speak [sw](language_code)
+- I speak [sw](language_code) lang
+- lets try [sw](language_code) Language.
+- I'm willing to choose [sw](language_code) lang
+- lets choose [sw](language_code) country
+- lets choose [sw](language_code) language
+- [sw](language_code) lang
+- try [sw](language_code)
+- lets try [sw](language_code) language
+- I'm willing to choose [sw](language_code)
+- try [sw](language_code) language
+- [sw](language_code) Language.
+- I'm willing to choose [sw](language_code) language
+- Talk in [sw](language_code) Language.
+- communicate [sw](language_code) country
+- let's talk in [sw](language_code) Language.
+- communicate [sw](language_code) language
+- serve me [sw](language_code) country
+- I'm willing [sw](language_code) lang
+- [fi](language_code)
+- lets try [fi](language_code)
+- [fi](language_code)
+- okay I speak [fi](language_code) lang
+- serve me [fi](language_code) Language.
+- I'm willing to choose [fi](language_code) language
+- talk to me in [fi](language_code) Language.
+- communicate [fi](language_code) lang
+- Talk in [fi](language_code) lang
+- I'm willing to choose [fi](language_code) Language.
+- I'm willing to choose [fi](language_code)
+- I want to choose [fi](language_code) language
+- talk to me in [fi](language_code) language
+- pls talk in [fi](language_code) lang
+- [fi](language_code) country
+- talk to me in [fi](language_code) country
+- try [fi](language_code) country
+- I'm willing [fi](language_code) country
+- Talk in [fi](language_code)
+- Talk in [fi](language_code) Language.
+- lets choose [fi](language_code) language
+- lets try [fi](language_code) language
+- talk [fi](language_code) Language.
+- pls talk in [fi](language_code) Language.
+- communicate [fi](language_code)
+- serve me in [fi](language_code)
+- choose [fi](language_code) country
+- choose [fi](language_code) language
+- go [fi](language_code) country
+- okay, go [fi](language_code) Language.
+- I want to choose [fi](language_code) country
+- serve me in [fi](language_code) language
+- speak [fi](language_code)
+- I want [fi](language_code) lang
+- talk [fi](language_code) language
+- let's talk in [fi](language_code) lang
+- Talk in [fi](language_code) language
+- choose [fi](language_code) lang
+- speak [fi](language_code) Language.
+- I want [fi](language_code) country
+- I speak [fi](language_code) language
+- okay I speak [fi](language_code)
+- I want to choose [fi](language_code)
+- communicate [fi](language_code) Language.
+- I want to choose [fi](language_code) Language.
+- I'm willing [fi](language_code) Language.
+- serve me [fi](language_code) language
+- [fi](language_code) Language.
+- let's talk in [fi](language_code) Language.
+- do [fi](language_code) country
+- I speak [fi](language_code)
+- talk to me in [fi](language_code) lang
+- [pt](language_code)
+- I'm willing [pt](language_code) Language.
+- serve me in [pt](language_code) Language.
+- I want [pt](language_code) language
+- serve me [pt](language_code) Language.
+- serve me in [pt](language_code) lang
+- [pt](language_code) language
+- pls talk in [pt](language_code)
+- let's talk in [pt](language_code) language
+- talk [pt](language_code) language
+- go [pt](language_code) Language.
+- I want [pt](language_code) country
+- serve me [pt](language_code) language
+- talk to me in [pt](language_code) language
+- I'm willing to choose [pt](language_code) country
+- lets choose [pt](language_code) Language.
+- I'm willing to choose [pt](language_code) language
+- lets choose [pt](language_code)
+- let's talk in [pt](language_code) lang
+- okay I speak [pt](language_code) language
+- lets choose [pt](language_code) lang
+- let's talk in [pt](language_code)
+- Talk in [pt](language_code) lang
+- I speak [pt](language_code) country
+- okay, go [pt](language_code) lang
+- speak [pt](language_code) Language.
+- try [pt](language_code) language
+- choose [pt](language_code)
+- serve me [pt](language_code) country
+- Talk in [pt](language_code) Language.
+- go [pt](language_code) lang
+- Talk in [pt](language_code) language
+- lets try [pt](language_code)
+- talk [pt](language_code) country
+- I'm willing [pt](language_code)
+- I'm willing [pt](language_code) lang
+- okay I speak [pt](language_code) Language.
+- go [pt](language_code) country
+- let's talk in [pt](language_code) country
+- choose [pt](language_code) lang
+- speak [pt](language_code) country
+- Talk in [pt](language_code)
+- [pt](language_code) Language.
+- I want to choose [pt](language_code) Language.
+- okay I speak [pt](language_code) lang
+- Talk in [pt](language_code) country
+- let's talk in [pt](language_code) Language.
+- lets choose [pt](language_code) language
+- I'm willing [pt](language_code) language
+- I speak [pt](language_code)
+- talk [pt](language_code) lang
+- [pt](language_code) lang
+- [eo](language_code)
+- talk [eo](language_code) language
+- I speak [eo](language_code) Language.
+- I want to choose [eo](language_code) country
+- I'm willing [eo](language_code) Language.
+- choose [eo](language_code)
+- talk [eo](language_code) lang
+- lets try [eo](language_code) lang
+- okay, go [eo](language_code) language
+- talk [eo](language_code) country
+- talk to me in [eo](language_code)
+- talk to me in [eo](language_code) country
+- I want [eo](language_code) lang
+- serve me in [eo](language_code)
+- I want [eo](language_code) language
+- try [eo](language_code) Language.
+- talk to me in [eo](language_code) language
+- talk [eo](language_code) Language.
+- I want to choose [eo](language_code) lang
+- do [eo](language_code) country
+- talk [eo](language_code)
+- go [eo](language_code)
+- communicate [eo](language_code) country
+- let's talk in [eo](language_code) country
+- try [eo](language_code) language
+- speak [eo](language_code)
+- Talk in [eo](language_code) language
+- choose [eo](language_code) language
+- serve me in [eo](language_code) lang
+- serve me [eo](language_code) lang
+- let's talk in [eo](language_code) Language.
+- do [eo](language_code) Language.
+- I'm willing to choose [eo](language_code) language
+- serve me [eo](language_code)
+- lets choose [eo](language_code) language
+- communicate [eo](language_code)
+- I'm willing [eo](language_code) language
+- go [eo](language_code) Language.
+- serve me in [eo](language_code) language
+- okay I speak [eo](language_code) lang
+- I'm willing [eo](language_code)
+- I want to choose [eo](language_code) language
+- talk to me in [eo](language_code) lang
+- go [eo](language_code) country
+- serve me [eo](language_code) Language.
+- I speak [eo](language_code)
+- Talk in [eo](language_code) lang
+- lets try [eo](language_code) country
+- lets choose [eo](language_code)
+- lets try [eo](language_code) language
+- okay I speak [eo](language_code) Language.
+- [eo](language_code) language
+- [hi](language_code)
+- do [hi](language_code)
+- I speak [hi](language_code) Language.
+- okay I speak [hi](language_code) country
+- I want [hi](language_code) country
+- lets choose [hi](language_code) country
+- pls talk in [hi](language_code) lang
+- lets choose [hi](language_code) Language.
+- talk to me in [hi](language_code) country
+- I'm willing [hi](language_code) lang
+- I want [hi](language_code) language
+- [hi](language_code) country
+- Talk in [hi](language_code)
+- pls talk in [hi](language_code)
+- I'm willing to choose [hi](language_code)
+- I want to choose [hi](language_code) country
+- serve me in [hi](language_code) country
+- choose [hi](language_code) Language.
+- let's talk in [hi](language_code) country
+- [hi](language_code)
+- let's talk in [hi](language_code) language
+- lets try [hi](language_code) Language.
+- I speak [hi](language_code) language
+- lets try [hi](language_code) country
+- do [hi](language_code) language
+- [hi](language_code) lang
+- okay I speak [hi](language_code) language
+- serve me in [hi](language_code) lang
+- go [hi](language_code)
+- [hi](language_code) Language.
+- Talk in [hi](language_code) Language.
+- okay, go [hi](language_code) country
+- I want to choose [hi](language_code) Language.
+- talk [hi](language_code) language
+- serve me [hi](language_code) Language.
+- I want to choose [hi](language_code) lang
+- serve me in [hi](language_code)
+- I want [hi](language_code) Language.
+- communicate [hi](language_code) Language.
+- let's talk in [hi](language_code) lang
+- serve me in [hi](language_code) Language.
+- try [hi](language_code) Language.
+- I'm willing [hi](language_code) language
+- Talk in [hi](language_code) lang
+- talk [hi](language_code)
+- Talk in [hi](language_code) language
+- speak [hi](language_code) country
+- try [hi](language_code) lang
+- serve me [hi](language_code) country
+- communicate [hi](language_code) lang
+- okay I speak [hi](language_code)
+- [hi](language_code) language
 
 ## intent:extract_lang_name
-- [Tamil](language_name)
-- pls talk in [Tamil](language_name) Language.
-- Talk in [Tamil](language_name)
-- pls talk in [Tamil](language_name) country
-- talk to me in [Tamil](language_name) lang
-- talk [Tamil](language_name) language
-- let's talk in [Tamil](language_name) language
-- I want to choose [Tamil](language_name) language
-- talk [Tamil](language_name)
-- speak [Tamil](language_name) language
-- I want [Tamil](language_name) Language.
-- okay I speak [Tamil](language_name)
-- serve me [Tamil](language_name) country
-- [Azerbaijani](language_name)
-- lets choose [Azerbaijani](language_name) country
-- I speak [Azerbaijani](language_name)
-- serve me in [Azerbaijani](language_name) lang
-- [Azerbaijani](language_name) country
-- pls talk in [Azerbaijani](language_name)
-- okay I speak [Azerbaijani](language_name) lang
-- talk to me in [Azerbaijani](language_name) country
-- okay I speak [Azerbaijani](language_name)
-- speak [Azerbaijani](language_name) lang
-- I want to choose [Azerbaijani](language_name) Language.
-- let's talk in [Azerbaijani](language_name) country
-- I'm willing [Azerbaijani](language_name) Language.
-- [Urdu](language_name)
-- talk to me in [Urdu](language_name) lang
-- pls talk in [Urdu](language_name) Language.
-- pls talk in [Urdu](language_name) lang
-- let's talk in [Urdu](language_name) lang
-- I'm willing [Urdu](language_name) country
-- Talk in [Urdu](language_name)
-- okay I speak [Urdu](language_name) country
-- Talk in [Urdu](language_name) Language.
-- serve me in [Urdu](language_name) language
-- I want [Urdu](language_name) country
-- pls talk in [Urdu](language_name)
-- talk [Urdu](language_name) lang
-- [Swahili](language_name)
-- lets choose [Swahili](language_name) Language.
-- [Swahili](language_name) language
-- talk to me in [Swahili](language_name) country
-- speak [Swahili](language_name) Language.
-- talk [Swahili](language_name) lang
-- lets choose [Swahili](language_name)
-- talk to me in [Swahili](language_name) lang
-- [Swahili](language_name)
-- pls talk in [Swahili](language_name) country
-- pls talk in [Swahili](language_name) language
-- talk [Swahili](language_name)
-- pls talk in [Swahili](language_name) Language.
-- [Ukrainian](language_name)
-- serve me in [Ukrainian](language_name) lang
-- talk to me in [Ukrainian](language_name) lang
-- I speak [Ukrainian](language_name) lang
-- serve me in [Ukrainian](language_name) language
-- [Ukrainian](language_name) Language.
-- serve me in [Ukrainian](language_name)
-- talk [Ukrainian](language_name) lang
-- I'm willing [Ukrainian](language_name) country
-- I want to choose [Ukrainian](language_name) Language.
-- pls talk in [Ukrainian](language_name) Language.
-- serve me [Ukrainian](language_name) lang
-- choose [Ukrainian](language_name) country
-- [Swedish](language_name)
-- I want [Swedish](language_name)
-- lets choose [Swedish](language_name) country
-- serve me in [Swedish](language_name)
-- let's talk in [Swedish](language_name)
-- speak [Swedish](language_name) country
-- lets choose [Swedish](language_name) Language.
-- pls talk in [Swedish](language_name) country
-- serve me [Swedish](language_name) Language.
-- I'm willing to choose [Swedish](language_name) language
-- pls talk in [Swedish](language_name) language
-- I'm willing to choose [Swedish](language_name)
-- lets choose [Swedish](language_name)
-- [German](language_name)
-- I want [German](language_name)
-- [German](language_name)
-- I want [German](language_name) lang
-- I'm willing [German](language_name)
-- I'm willing [German](language_name) lang
-- choose [German](language_name) lang
-- Talk in [German](language_name) country
-- speak [German](language_name) language
-- talk to me in [German](language_name) language
-- I'm willing to choose [German](language_name) language
-- serve me in [German](language_name)
-- I'm willing to choose [German](language_name)
-- [French](language_name)
-- I speak [French](language_name) country
-- I'm willing [French](language_name) country
-- choose [French](language_name) lang
-- lets choose [French](language_name) Language.
-- I'm willing to choose [French](language_name)
-- lets choose [French](language_name) country
-- lets choose [French](language_name) language
-- I'm willing [French](language_name) Language.
-- pls talk in [French](language_name) language
-- I want [French](language_name) Language.
-- okay I speak [French](language_name)
-- I'm willing to choose [French](language_name) country
+- [Dutch](language_name)
+- talk [Dutch](language_name) Language.
+- pls talk in [Dutch](language_name)
+- communicate [Dutch](language_name) Language.
+- pls talk in [Dutch](language_name) country
+- I'm willing [Dutch](language_name) country
+- choose [Dutch](language_name) language
+- do [Dutch](language_name) lang
+- try [Dutch](language_name) language
+- go [Dutch](language_name) country
+- lets choose [Dutch](language_name) language
+- I want [Dutch](language_name) Language.
+- serve me [Dutch](language_name)
+- I speak [Dutch](language_name) country
+- okay, go [Dutch](language_name) language
+- lets try [Dutch](language_name) Language.
+- lets try [Dutch](language_name) language
+- lets choose [Dutch](language_name) country
+- lets try [Dutch](language_name) country
+- I speak [Dutch](language_name) language
+- okay I speak [Dutch](language_name) country
+- I'm willing [Dutch](language_name)
+- speak [Dutch](language_name)
+- okay, go [Dutch](language_name) lang
+- do [Dutch](language_name) language
+- talk [Dutch](language_name) language
+- talk [Dutch](language_name)
+- talk [Dutch](language_name) lang
+- I want [Dutch](language_name) country
+- I'm willing to choose [Dutch](language_name) language
+- Talk in [Dutch](language_name) language
+- do [Dutch](language_name) country
+- Talk in [Dutch](language_name) lang
+- serve me in [Dutch](language_name) country
+- okay, go [Dutch](language_name) Language.
+- [Dutch](language_name) Language.
+- serve me [Dutch](language_name) lang
+- okay, go [Dutch](language_name)
+- talk to me in [Dutch](language_name)
+- I want [Dutch](language_name) language
+- I'm willing [Dutch](language_name) lang
+- I speak [Dutch](language_name) Language.
+- talk to me in [Dutch](language_name) lang
+- try [Dutch](language_name) Language.
+- I want to choose [Dutch](language_name) country
+- talk to me in [Dutch](language_name) Language.
+- do [Dutch](language_name)
+- communicate [Dutch](language_name)
+- pls talk in [Dutch](language_name) lang
+- let's talk in [Dutch](language_name)
+- serve me in [Dutch](language_name)
+- Talk in [Dutch](language_name) Language.
+- [Serbian](language_name)
+- okay, go [Serbian](language_name) language
+- do [Serbian](language_name) language
+- serve me in [Serbian](language_name) country
+- try [Serbian](language_name) country
+- lets try [Serbian](language_name) Language.
+- pls talk in [Serbian](language_name) Language.
+- I'm willing [Serbian](language_name) Language.
+- serve me [Serbian](language_name) country
+- talk to me in [Serbian](language_name) lang
+- I speak [Serbian](language_name) lang
+- serve me in [Serbian](language_name) Language.
+- I speak [Serbian](language_name) country
+- try [Serbian](language_name) language
+- speak [Serbian](language_name) Language.
+- let's talk in [Serbian](language_name) lang
+- try [Serbian](language_name)
+- okay I speak [Serbian](language_name) lang
+- speak [Serbian](language_name) lang
+- I want [Serbian](language_name) lang
+- do [Serbian](language_name) lang
+- choose [Serbian](language_name) country
+- talk [Serbian](language_name) Language.
+- okay, go [Serbian](language_name) lang
+- talk to me in [Serbian](language_name) country
+- pls talk in [Serbian](language_name) language
+- speak [Serbian](language_name)
+- okay, go [Serbian](language_name) Language.
+- I'm willing to choose [Serbian](language_name) Language.
+- [Serbian](language_name) lang
+- lets choose [Serbian](language_name) language
+- I'm willing [Serbian](language_name) lang
+- I want to choose [Serbian](language_name)
+- Talk in [Serbian](language_name) country
+- Talk in [Serbian](language_name) Language.
+- I'm willing to choose [Serbian](language_name) language
+- I speak [Serbian](language_name)
+- talk [Serbian](language_name)
+- I'm willing [Serbian](language_name) language
+- [Serbian](language_name) country
+- I'm willing [Serbian](language_name) country
+- okay I speak [Serbian](language_name) Language.
+- lets try [Serbian](language_name) language
+- serve me in [Serbian](language_name) lang
+- communicate [Serbian](language_name) language
+- I want [Serbian](language_name) country
+- I'm willing to choose [Serbian](language_name) lang
+- go [Serbian](language_name) Language.
+- okay I speak [Serbian](language_name) country
+- I speak [Serbian](language_name) Language.
+- serve me [Serbian](language_name)
+- go [Serbian](language_name) country
 - [Malay](language_name)
-- talk to me in [Malay](language_name) country
-- pls talk in [Malay](language_name)
-- let's talk in [Malay](language_name) language
-- I speak [Malay](language_name) language
+- try [Malay](language_name) lang
+- lets choose [Malay](language_name) lang
+- serve me in [Malay](language_name) country
+- lets choose [Malay](language_name) Language.
+- try [Malay](language_name)
+- I want to choose [Malay](language_name)
+- go [Malay](language_name) lang
+- Talk in [Malay](language_name) Language.
+- pls talk in [Malay](language_name) country
+- choose [Malay](language_name) Language.
+- let's talk in [Malay](language_name) country
+- I speak [Malay](language_name) lang
+- [Malay](language_name) Language.
+- Talk in [Malay](language_name) language
 - I'm willing [Malay](language_name) lang
-- I want [Malay](language_name) language
+- okay, go [Malay](language_name) Language.
+- go [Malay](language_name) Language.
+- I'm willing to choose [Malay](language_name) Language.
+- lets try [Malay](language_name) lang
+- communicate [Malay](language_name)
+- talk [Malay](language_name)
 - I want [Malay](language_name) lang
-- I'm willing [Malay](language_name) country
-- I want to choose [Malay](language_name) lang
+- okay, go [Malay](language_name) language
+- I'm willing to choose [Malay](language_name)
+- I want [Malay](language_name) country
 - choose [Malay](language_name) language
-- pls talk in [Malay](language_name) lang
-- speak [Malay](language_name) language
-- [Lithuanian](language_name)
-- I'm willing to choose [Lithuanian](language_name) Language.
-- serve me in [Lithuanian](language_name) language
-- I speak [Lithuanian](language_name) Language.
-- speak [Lithuanian](language_name) language
-- I'm willing [Lithuanian](language_name) Language.
-- choose [Lithuanian](language_name) Language.
-- talk to me in [Lithuanian](language_name) country
-- let's talk in [Lithuanian](language_name)
-- I want [Lithuanian](language_name) Language.
-- I'm willing [Lithuanian](language_name)
-- serve me [Lithuanian](language_name) language
-- [Lithuanian](language_name)
+- I speak [Malay](language_name)
+- serve me in [Malay](language_name)
+- I'm willing to choose [Malay](language_name) lang
+- serve me [Malay](language_name) lang
+- serve me [Malay](language_name) country
+- okay I speak [Malay](language_name) country
+- lets try [Malay](language_name) language
+- serve me in [Malay](language_name) lang
+- I want to choose [Malay](language_name) country
+- do [Malay](language_name) lang
+- lets choose [Malay](language_name)
+- choose [Malay](language_name) lang
+- lets try [Malay](language_name)
+- I'm willing to choose [Malay](language_name) country
+- try [Malay](language_name) language
+- pls talk in [Malay](language_name) language
+- do [Malay](language_name) country
+- lets try [Malay](language_name) country
+- I'm willing [Malay](language_name) Language.
+- speak [Malay](language_name)
+- okay, go [Malay](language_name)
+- go [Malay](language_name) language
+- talk to me in [Malay](language_name) lang
+- I want [Malay](language_name) Language.
+- serve me in [Malay](language_name) language
 - [English](language_name)
-- lets choose [English](language_name) country
-- serve me in [English](language_name) language
-- speak [English](language_name)
-- I speak [English](language_name)
-- serve me [English](language_name) Language.
-- I want [English](language_name) lang
-- I'm willing [English](language_name) Language.
 - [English](language_name) lang
-- lets choose [English](language_name) lang
-- pls talk in [English](language_name) country
+- try [English](language_name) language
+- talk [English](language_name) Language.
+- okay I speak [English](language_name)
+- try [English](language_name) country
+- pls talk in [English](language_name) language
+- pls talk in [English](language_name) lang
+- communicate [English](language_name)
+- talk [English](language_name) lang
+- lets try [English](language_name) Language.
+- choose [English](language_name) country
+- speak [English](language_name) country
+- lets try [English](language_name) lang
+- serve me in [English](language_name) country
+- Talk in [English](language_name)
+- try [English](language_name) Language.
+- I'm willing to choose [English](language_name) lang
+- try [English](language_name) lang
+- lets choose [English](language_name)
+- go [English](language_name) country
+- pls talk in [English](language_name) Language.
+- do [English](language_name) lang
+- Talk in [English](language_name) Language.
+- okay I speak [English](language_name) country
+- I want [English](language_name) language
+- I speak [English](language_name)
+- I want to choose [English](language_name) language
+- I'm willing [English](language_name) country
+- [English](language_name) Language.
+- I'm willing [English](language_name) lang
+- speak [English](language_name) language
+- communicate [English](language_name) country
+- okay I speak [English](language_name) Language.
+- talk to me in [English](language_name)
+- okay I speak [English](language_name) language
+- I'm willing to choose [English](language_name) country
+- lets choose [English](language_name) language
+- speak [English](language_name) lang
+- I want to choose [English](language_name) country
+- I'm willing [English](language_name) language
+- let's talk in [English](language_name) lang
+- serve me [English](language_name) country
+- Talk in [English](language_name) lang
+- go [English](language_name) Language.
+- lets try [English](language_name) country
+- talk to me in [English](language_name) language
+- lets try [English](language_name) language
 - let's talk in [English](language_name) country
-- let's talk in [English](language_name) language
-- [Slovak](language_name)
-- serve me [Slovak](language_name) Language.
-- [Slovak](language_name)
-- I want to choose [Slovak](language_name) country
-- I want to choose [Slovak](language_name) lang
-- I want to choose [Slovak](language_name)
-- let's talk in [Slovak](language_name) language
-- I want [Slovak](language_name) language
-- I'm willing to choose [Slovak](language_name) Language.
-- lets choose [Slovak](language_name) country
-- serve me [Slovak](language_name) country
-- talk [Slovak](language_name) country
-- let's talk in [Slovak](language_name) lang
-- [Greek](language_name)
-- talk [Greek](language_name) language
-- let's talk in [Greek](language_name) lang
-- let's talk in [Greek](language_name) Language.
-- okay I speak [Greek](language_name) lang
-- serve me [Greek](language_name) country
-- talk [Greek](language_name) Language.
-- serve me in [Greek](language_name) Language.
-- talk to me in [Greek](language_name) language
-- serve me [Greek](language_name) language
-- pls talk in [Greek](language_name) country
-- I'm willing to choose [Greek](language_name)
-- talk to me in [Greek](language_name)
-- [Hungarian](language_name)
-- pls talk in [Hungarian](language_name) Language.
-- lets choose [Hungarian](language_name) lang
-- let's talk in [Hungarian](language_name) lang
-- I want [Hungarian](language_name)
-- choose [Hungarian](language_name) country
-- Talk in [Hungarian](language_name)
-- lets choose [Hungarian](language_name) Language.
-- serve me [Hungarian](language_name) Language.
-- talk [Hungarian](language_name) language
-- serve me in [Hungarian](language_name) Language.
-- I'm willing [Hungarian](language_name) language
-- talk [Hungarian](language_name) country
-- [Thai](language_name)
-- speak [Thai](language_name) language
-- [Thai](language_name) Language.
-- serve me in [Thai](language_name) lang
-- I'm willing to choose [Thai](language_name) lang
-- talk [Thai](language_name) country
-- [Thai](language_name) lang
-- I speak [Thai](language_name)
-- choose [Thai](language_name) language
-- I want [Thai](language_name) country
-- I'm willing [Thai](language_name) Language.
-- serve me [Thai](language_name) Language.
-- serve me in [Thai](language_name) country
+- I'm willing [English](language_name)
+- talk [English](language_name)
+- communicate [English](language_name) language
+- [Yiddish](language_name)
+- I speak [Yiddish](language_name)
+- I speak [Yiddish](language_name) lang
+- I'm willing to choose [Yiddish](language_name) language
+- okay, go [Yiddish](language_name)
+- lets try [Yiddish](language_name) country
+- do [Yiddish](language_name) Language.
+- lets choose [Yiddish](language_name)
+- try [Yiddish](language_name) country
+- [Yiddish](language_name) country
+- do [Yiddish](language_name) language
+- talk to me in [Yiddish](language_name) country
+- communicate [Yiddish](language_name)
+- [Yiddish](language_name)
+- communicate [Yiddish](language_name) language
+- I'm willing to choose [Yiddish](language_name) Language.
+- okay, go [Yiddish](language_name) Language.
+- serve me [Yiddish](language_name)
+- I want to choose [Yiddish](language_name) lang
+- I'm willing [Yiddish](language_name) Language.
+- talk to me in [Yiddish](language_name) language
+- go [Yiddish](language_name)
+- I'm willing to choose [Yiddish](language_name)
+- try [Yiddish](language_name) Language.
+- serve me in [Yiddish](language_name) Language.
+- pls talk in [Yiddish](language_name) Language.
+- communicate [Yiddish](language_name) Language.
+- lets choose [Yiddish](language_name) country
+- I want [Yiddish](language_name) Language.
+- I'm willing [Yiddish](language_name)
+- [Yiddish](language_name) language
+- let's talk in [Yiddish](language_name) Language.
+- do [Yiddish](language_name) lang
+- lets try [Yiddish](language_name) language
+- serve me in [Yiddish](language_name) country
+- speak [Yiddish](language_name) Language.
+- talk to me in [Yiddish](language_name) Language.
+- I want to choose [Yiddish](language_name) language
+- lets try [Yiddish](language_name)
+- I'm willing [Yiddish](language_name) country
+- okay I speak [Yiddish](language_name) country
+- I'm willing to choose [Yiddish](language_name) country
+- speak [Yiddish](language_name) country
+- try [Yiddish](language_name)
+- Talk in [Yiddish](language_name)
+- pls talk in [Yiddish](language_name)
+- I speak [Yiddish](language_name) country
+- okay, go [Yiddish](language_name) country
+- choose [Yiddish](language_name) lang
+- speak [Yiddish](language_name)
+- lets choose [Yiddish](language_name) Language.
+- talk [Yiddish](language_name) lang
 - [Welsh](language_name)
-- I want [Welsh](language_name) lang
+- I speak [Welsh](language_name)
+- lets try [Welsh](language_name)
+- I want [Welsh](language_name) language
+- [Welsh](language_name) country
+- go [Welsh](language_name) Language.
+- lets choose [Welsh](language_name)
+- I want to choose [Welsh](language_name)
+- [Welsh](language_name) lang
+- I'm willing [Welsh](language_name) country
+- I'm willing to choose [Welsh](language_name) lang
+- communicate [Welsh](language_name) Language.
+- speak [Welsh](language_name) country
 - Talk in [Welsh](language_name) country
-- I'm willing [Welsh](language_name) lang
-- I want [Welsh](language_name) Language.
-- serve me [Welsh](language_name)
-- [Welsh](language_name) language
-- talk to me in [Welsh](language_name) Language.
-- okay I speak [Welsh](language_name) language
-- serve me [Welsh](language_name) country
-- choose [Welsh](language_name) lang
-- okay I speak [Welsh](language_name) lang
+- I speak [Welsh](language_name) country
+- serve me [Welsh](language_name) language
+- choose [Welsh](language_name) country
+- serve me [Welsh](language_name) Language.
+- lets try [Welsh](language_name) language
+- talk to me in [Welsh](language_name) language
+- serve me in [Welsh](language_name) country
+- lets choose [Welsh](language_name) lang
+- serve me in [Welsh](language_name) language
 - serve me in [Welsh](language_name)
+- talk to me in [Welsh](language_name) country
+- okay I speak [Welsh](language_name) language
+- okay, go [Welsh](language_name) Language.
+- try [Welsh](language_name) country
+- try [Welsh](language_name) lang
+- lets choose [Welsh](language_name) country
+- serve me [Welsh](language_name)
+- let's talk in [Welsh](language_name) country
+- okay, go [Welsh](language_name)
+- lets choose [Welsh](language_name) Language.
+- talk [Welsh](language_name) lang
+- serve me [Welsh](language_name) country
+- let's talk in [Welsh](language_name) lang
+- speak [Welsh](language_name) Language.
+- I want to choose [Welsh](language_name) lang
+- serve me in [Welsh](language_name) lang
+- Talk in [Welsh](language_name)
+- talk to me in [Welsh](language_name)
+- I want [Welsh](language_name)
+- choose [Welsh](language_name) lang
+- lets choose [Welsh](language_name) language
+- I want to choose [Welsh](language_name) language
+- choose [Welsh](language_name) Language.
+- go [Welsh](language_name) country
+- okay, go [Welsh](language_name) lang
+- do [Welsh](language_name) lang
+- communicate [Welsh](language_name) country
+- I'm willing to choose [Welsh](language_name) Language.
+- [Ukrainian](language_name)
+- Talk in [Ukrainian](language_name)
+- Talk in [Ukrainian](language_name) Language.
+- speak [Ukrainian](language_name) lang
+- let's talk in [Ukrainian](language_name) country
+- serve me [Ukrainian](language_name) lang
+- pls talk in [Ukrainian](language_name) lang
+- I want [Ukrainian](language_name) Language.
+- serve me [Ukrainian](language_name) language
+- go [Ukrainian](language_name) lang
+- communicate [Ukrainian](language_name) language
+- serve me in [Ukrainian](language_name) country
+- lets choose [Ukrainian](language_name) language
+- talk to me in [Ukrainian](language_name) Language.
+- okay I speak [Ukrainian](language_name) language
+- I'm willing [Ukrainian](language_name) language
+- lets choose [Ukrainian](language_name) Language.
+- lets try [Ukrainian](language_name) country
+- [Ukrainian](language_name) Language.
+- I speak [Ukrainian](language_name) lang
+- lets try [Ukrainian](language_name) language
+- serve me [Ukrainian](language_name)
+- I want [Ukrainian](language_name) language
+- go [Ukrainian](language_name) country
+- do [Ukrainian](language_name) lang
+- try [Ukrainian](language_name) country
+- Talk in [Ukrainian](language_name) language
+- I'm willing to choose [Ukrainian](language_name) lang
+- lets try [Ukrainian](language_name)
+- serve me in [Ukrainian](language_name) Language.
+- okay I speak [Ukrainian](language_name) lang
+- talk [Ukrainian](language_name) language
+- talk [Ukrainian](language_name) country
+- talk to me in [Ukrainian](language_name) country
+- I want to choose [Ukrainian](language_name) country
+- talk to me in [Ukrainian](language_name) language
+- let's talk in [Ukrainian](language_name) Language.
+- talk to me in [Ukrainian](language_name)
+- I'm willing [Ukrainian](language_name) country
+- communicate [Ukrainian](language_name) country
+- I want to choose [Ukrainian](language_name) Language.
+- speak [Ukrainian](language_name) country
+- pls talk in [Ukrainian](language_name) country
+- go [Ukrainian](language_name)
+- serve me in [Ukrainian](language_name) lang
+- I want [Ukrainian](language_name) lang
+- I'm willing [Ukrainian](language_name)
+- talk [Ukrainian](language_name) Language.
+- Talk in [Ukrainian](language_name) lang
+- I want [Ukrainian](language_name)
+- okay, go [Ukrainian](language_name) country
+- okay, go [Ukrainian](language_name) lang
+- [Filipino](language_name)
+- okay I speak [Filipino](language_name) language
+- okay I speak [Filipino](language_name) country
+- I speak [Filipino](language_name)
+- let's talk in [Filipino](language_name)
+- communicate [Filipino](language_name) Language.
+- I speak [Filipino](language_name) language
+- serve me in [Filipino](language_name) Language.
+- I speak [Filipino](language_name) country
+- let's talk in [Filipino](language_name) language
+- pls talk in [Filipino](language_name)
+- lets try [Filipino](language_name) lang
+- do [Filipino](language_name)
+- I want to choose [Filipino](language_name) Language.
+- speak [Filipino](language_name) language
+- talk [Filipino](language_name) language
+- okay, go [Filipino](language_name) Language.
+- try [Filipino](language_name)
+- talk [Filipino](language_name)
+- choose [Filipino](language_name) Language.
+- [Filipino](language_name) language
+- Talk in [Filipino](language_name) language
+- serve me in [Filipino](language_name) language
+- okay, go [Filipino](language_name) lang
+- serve me [Filipino](language_name)
+- I speak [Filipino](language_name) lang
+- [Filipino](language_name)
+- okay I speak [Filipino](language_name) lang
+- speak [Filipino](language_name) country
+- Talk in [Filipino](language_name) Language.
+- try [Filipino](language_name) Language.
+- okay, go [Filipino](language_name) country
+- I want to choose [Filipino](language_name) language
+- lets choose [Filipino](language_name) Language.
+- go [Filipino](language_name)
+- lets try [Filipino](language_name) country
+- lets try [Filipino](language_name) language
+- I'm willing to choose [Filipino](language_name) language
+- I'm willing to choose [Filipino](language_name)
+- I speak [Filipino](language_name) Language.
+- talk to me in [Filipino](language_name)
+- go [Filipino](language_name) Language.
+- choose [Filipino](language_name)
+- pls talk in [Filipino](language_name) Language.
+- serve me in [Filipino](language_name) lang
+- talk [Filipino](language_name) Language.
+- pls talk in [Filipino](language_name) lang
+- do [Filipino](language_name) language
+- lets choose [Filipino](language_name) country
+- I want to choose [Filipino](language_name)
+- try [Filipino](language_name) lang
+- I'm willing [Filipino](language_name) Language.
+- [Maltese](language_name)
+- serve me [Maltese](language_name) Language.
+- I'm willing [Maltese](language_name)
+- pls talk in [Maltese](language_name) language
+- talk to me in [Maltese](language_name) Language.
+- let's talk in [Maltese](language_name) Language.
+- choose [Maltese](language_name) language
+- I want to choose [Maltese](language_name) country
+- lets choose [Maltese](language_name)
+- lets choose [Maltese](language_name) country
+- serve me in [Maltese](language_name) language
+- do [Maltese](language_name) language
+- do [Maltese](language_name) country
+- pls talk in [Maltese](language_name) country
+- communicate [Maltese](language_name) lang
+- speak [Maltese](language_name) language
+- go [Maltese](language_name)
+- Talk in [Maltese](language_name) lang
+- I want [Maltese](language_name) language
+- I want [Maltese](language_name) lang
+- Talk in [Maltese](language_name) country
+- I'm willing [Maltese](language_name) country
+- try [Maltese](language_name) lang
+- try [Maltese](language_name) language
+- let's talk in [Maltese](language_name) country
+- let's talk in [Maltese](language_name) lang
+- do [Maltese](language_name) lang
+- speak [Maltese](language_name)
+- talk [Maltese](language_name) Language.
+- talk [Maltese](language_name) country
+- try [Maltese](language_name)
+- talk to me in [Maltese](language_name) lang
+- communicate [Maltese](language_name) Language.
+- go [Maltese](language_name) country
+- talk to me in [Maltese](language_name)
+- okay, go [Maltese](language_name)
+- I'm willing to choose [Maltese](language_name) language
+- serve me in [Maltese](language_name)
+- [Maltese](language_name) lang
+- okay, go [Maltese](language_name) country
+- pls talk in [Maltese](language_name) Language.
+- talk [Maltese](language_name) language
+- choose [Maltese](language_name)
+- serve me in [Maltese](language_name) country
+- I want to choose [Maltese](language_name) lang
+- [Maltese](language_name) Language.
+- okay I speak [Maltese](language_name)
+- pls talk in [Maltese](language_name)
+- lets try [Maltese](language_name)
+- Talk in [Maltese](language_name) Language.
+- I speak [Maltese](language_name) Language.
+- communicate [Maltese](language_name) language
+- [Kannada](language_name)
+- serve me [Kannada](language_name) Language.
+- okay I speak [Kannada](language_name) language
+- talk [Kannada](language_name) language
+- try [Kannada](language_name) language
+- Talk in [Kannada](language_name)
+- okay, go [Kannada](language_name) Language.
+- okay, go [Kannada](language_name) lang
+- try [Kannada](language_name) country
+- okay, go [Kannada](language_name) country
+- I want to choose [Kannada](language_name) language
+- communicate [Kannada](language_name) country
+- let's talk in [Kannada](language_name) Language.
+- lets try [Kannada](language_name) Language.
+- I'm willing to choose [Kannada](language_name) Language.
+- lets try [Kannada](language_name)
+- choose [Kannada](language_name) Language.
+- speak [Kannada](language_name) language
+- I speak [Kannada](language_name) Language.
+- Talk in [Kannada](language_name) country
+- lets try [Kannada](language_name) lang
+- I want [Kannada](language_name)
+- lets choose [Kannada](language_name) language
+- communicate [Kannada](language_name) language
+- I speak [Kannada](language_name) lang
+- go [Kannada](language_name) country
+- talk to me in [Kannada](language_name) country
+- talk [Kannada](language_name) Language.
+- okay I speak [Kannada](language_name) lang
+- okay I speak [Kannada](language_name) country
+- try [Kannada](language_name)
+- let's talk in [Kannada](language_name) country
+- pls talk in [Kannada](language_name) language
+- Talk in [Kannada](language_name) language
+- I'm willing [Kannada](language_name) country
+- serve me in [Kannada](language_name) language
+- pls talk in [Kannada](language_name) country
+- let's talk in [Kannada](language_name)
+- do [Kannada](language_name)
+- serve me in [Kannada](language_name) lang
+- let's talk in [Kannada](language_name) language
+- do [Kannada](language_name) lang
+- lets choose [Kannada](language_name) lang
+- choose [Kannada](language_name) country
+- do [Kannada](language_name) language
+- pls talk in [Kannada](language_name) lang
+- serve me [Kannada](language_name)
+- okay I speak [Kannada](language_name) Language.
+- I speak [Kannada](language_name) language
+- pls talk in [Kannada](language_name) Language.
+- pls talk in [Kannada](language_name)
+- lets choose [Kannada](language_name) country
+- [Telugu](language_name)
+- do [Telugu](language_name) country
+- communicate [Telugu](language_name) country
+- I want to choose [Telugu](language_name) lang
+- lets choose [Telugu](language_name) lang
+- try [Telugu](language_name) Language.
+- [Telugu](language_name) country
+- I'm willing to choose [Telugu](language_name) Language.
+- okay I speak [Telugu](language_name) Language.
+- communicate [Telugu](language_name) Language.
+- lets try [Telugu](language_name) language
+- try [Telugu](language_name) language
+- I'm willing [Telugu](language_name) lang
+- Talk in [Telugu](language_name) Language.
+- Talk in [Telugu](language_name) country
+- lets try [Telugu](language_name)
+- I speak [Telugu](language_name)
+- lets try [Telugu](language_name) country
+- okay, go [Telugu](language_name)
+- serve me in [Telugu](language_name) language
+- talk [Telugu](language_name) lang
+- I speak [Telugu](language_name) lang
+- I want [Telugu](language_name) country
+- pls talk in [Telugu](language_name)
+- lets choose [Telugu](language_name) country
+- communicate [Telugu](language_name) lang
+- serve me in [Telugu](language_name) country
+- okay I speak [Telugu](language_name) language
+- go [Telugu](language_name)
+- okay I speak [Telugu](language_name)
+- I'm willing [Telugu](language_name) language
+- do [Telugu](language_name)
+- I want to choose [Telugu](language_name) Language.
+- I want [Telugu](language_name)
+- Talk in [Telugu](language_name) lang
+- serve me [Telugu](language_name) lang
+- okay, go [Telugu](language_name) Language.
+- try [Telugu](language_name) country
+- choose [Telugu](language_name) country
+- lets try [Telugu](language_name) Language.
+- [Telugu](language_name) lang
+- talk [Telugu](language_name) language
+- I speak [Telugu](language_name) language
+- do [Telugu](language_name) lang
+- serve me in [Telugu](language_name) lang
+- okay, go [Telugu](language_name) country
+- talk to me in [Telugu](language_name) country
+- communicate [Telugu](language_name)
+- Talk in [Telugu](language_name) language
+- do [Telugu](language_name) Language.
+- lets choose [Telugu](language_name) Language.
+- okay, go [Telugu](language_name) lang
+- [Turkish](language_name)
+- try [Turkish](language_name) country
+- talk to me in [Turkish](language_name) Language.
+- okay I speak [Turkish](language_name) Language.
+- pls talk in [Turkish](language_name)
+- serve me in [Turkish](language_name)
+- lets choose [Turkish](language_name) lang
+- communicate [Turkish](language_name) country
+- go [Turkish](language_name) lang
+- talk to me in [Turkish](language_name) language
+- I'm willing [Turkish](language_name) country
+- choose [Turkish](language_name) Language.
+- lets choose [Turkish](language_name) language
+- [Turkish](language_name) Language.
+- do [Turkish](language_name) country
+- I want [Turkish](language_name) Language.
+- I'm willing [Turkish](language_name)
+- do [Turkish](language_name) lang
+- Talk in [Turkish](language_name) lang
+- choose [Turkish](language_name) country
+- try [Turkish](language_name) lang
+- talk [Turkish](language_name) language
+- I'm willing to choose [Turkish](language_name) language
+- Talk in [Turkish](language_name) language
+- serve me [Turkish](language_name) lang
+- speak [Turkish](language_name) country
+- communicate [Turkish](language_name) Language.
+- I want [Turkish](language_name)
+- okay I speak [Turkish](language_name) country
+- I want to choose [Turkish](language_name)
+- let's talk in [Turkish](language_name) country
+- talk [Turkish](language_name) country
+- speak [Turkish](language_name) Language.
+- okay, go [Turkish](language_name) lang
+- I want to choose [Turkish](language_name) language
+- pls talk in [Turkish](language_name) Language.
+- lets choose [Turkish](language_name) Language.
+- talk [Turkish](language_name) Language.
+- speak [Turkish](language_name)
+- serve me [Turkish](language_name) country
+- serve me [Turkish](language_name) Language.
+- speak [Turkish](language_name) language
+- serve me in [Turkish](language_name) country
+- [Turkish](language_name) lang
+- communicate [Turkish](language_name) language
+- okay, go [Turkish](language_name)
+- okay, go [Turkish](language_name) country
+- okay, go [Turkish](language_name) language
+- I speak [Turkish](language_name) lang
+- let's talk in [Turkish](language_name) Language.
+- [Turkish](language_name)
+- I want to choose [Turkish](language_name) Language.
+- [Indonesian](language_name)
+- I speak [Indonesian](language_name) country
+- pls talk in [Indonesian](language_name)
+- communicate [Indonesian](language_name)
+- communicate [Indonesian](language_name) country
+- [Indonesian](language_name) language
+- let's talk in [Indonesian](language_name)
+- okay, go [Indonesian](language_name)
+- okay, go [Indonesian](language_name) country
+- I speak [Indonesian](language_name) language
+- try [Indonesian](language_name) Language.
+- choose [Indonesian](language_name)
+- Talk in [Indonesian](language_name) country
+- try [Indonesian](language_name) lang
+- try [Indonesian](language_name) country
+- lets try [Indonesian](language_name) language
+- talk [Indonesian](language_name) language
+- I want to choose [Indonesian](language_name) lang
+- go [Indonesian](language_name) Language.
+- choose [Indonesian](language_name) lang
+- speak [Indonesian](language_name) lang
+- I'm willing to choose [Indonesian](language_name) Language.
+- choose [Indonesian](language_name) Language.
+- I want to choose [Indonesian](language_name)
+- pls talk in [Indonesian](language_name) lang
+- Talk in [Indonesian](language_name) lang
+- I want [Indonesian](language_name) Language.
+- go [Indonesian](language_name) country
+- choose [Indonesian](language_name) country
+- serve me [Indonesian](language_name) Language.
+- let's talk in [Indonesian](language_name) lang
+- do [Indonesian](language_name) lang
+- lets choose [Indonesian](language_name) Language.
+- Talk in [Indonesian](language_name)
+- lets choose [Indonesian](language_name) lang
+- okay I speak [Indonesian](language_name)
+- speak [Indonesian](language_name) country
+- I want [Indonesian](language_name)
+- serve me [Indonesian](language_name)
+- communicate [Indonesian](language_name) Language.
+- speak [Indonesian](language_name)
+- okay I speak [Indonesian](language_name) country
+- I want [Indonesian](language_name) lang
+- talk to me in [Indonesian](language_name)
+- try [Indonesian](language_name)
+- I'm willing to choose [Indonesian](language_name)
+- serve me in [Indonesian](language_name) language
+- go [Indonesian](language_name) language
+- [Indonesian](language_name) country
+- talk [Indonesian](language_name) country
+- I'm willing to choose [Indonesian](language_name) language
+- serve me in [Indonesian](language_name) Language.
+- [Czech](language_name)
+- [Czech](language_name) Language.
+- okay, go [Czech](language_name) lang
+- I'm willing to choose [Czech](language_name) country
+- talk to me in [Czech](language_name) language
+- speak [Czech](language_name) lang
+- talk [Czech](language_name) lang
+- communicate [Czech](language_name) country
+- I'm willing to choose [Czech](language_name) language
+- lets choose [Czech](language_name) country
+- I'm willing [Czech](language_name)
+- pls talk in [Czech](language_name) language
+- communicate [Czech](language_name) language
+- okay I speak [Czech](language_name)
+- I speak [Czech](language_name)
+- try [Czech](language_name) country
+- I want to choose [Czech](language_name)
+- okay I speak [Czech](language_name) lang
+- do [Czech](language_name)
+- do [Czech](language_name) Language.
+- serve me [Czech](language_name) language
+- lets choose [Czech](language_name) lang
+- let's talk in [Czech](language_name) Language.
+- [Czech](language_name) country
+- choose [Czech](language_name)
+- I want to choose [Czech](language_name) lang
+- speak [Czech](language_name) country
+- I'm willing to choose [Czech](language_name) lang
+- I'm willing [Czech](language_name) Language.
+- serve me in [Czech](language_name) lang
+- I'm willing [Czech](language_name) country
+- I want [Czech](language_name) country
+- okay I speak [Czech](language_name) country
+- go [Czech](language_name) language
+- okay, go [Czech](language_name) language
+- do [Czech](language_name) country
+- I want [Czech](language_name) lang
+- pls talk in [Czech](language_name)
+- I speak [Czech](language_name) Language.
+- serve me in [Czech](language_name)
+- communicate [Czech](language_name)
+- go [Czech](language_name)
+- okay, go [Czech](language_name) country
+- lets choose [Czech](language_name) language
+- go [Czech](language_name) country
+- try [Czech](language_name) Language.
+- I want to choose [Czech](language_name) Language.
+- try [Czech](language_name)
+- I'm willing [Czech](language_name) lang
+- try [Czech](language_name) lang
+- okay, go [Czech](language_name) Language.
+- speak [Czech](language_name) language
+- [Spanish](language_name)
+- do [Spanish](language_name) country
+- communicate [Spanish](language_name) country
+- communicate [Spanish](language_name)
+- I speak [Spanish](language_name) language
+- communicate [Spanish](language_name) Language.
+- serve me in [Spanish](language_name) country
+- communicate [Spanish](language_name) lang
+- Talk in [Spanish](language_name) country
+- I want to choose [Spanish](language_name) language
+- lets try [Spanish](language_name) language
+- pls talk in [Spanish](language_name) language
+- pls talk in [Spanish](language_name) lang
+- talk [Spanish](language_name) country
+- go [Spanish](language_name)
+- I'm willing to choose [Spanish](language_name) country
+- I want to choose [Spanish](language_name) Language.
+- I want [Spanish](language_name) Language.
+- I speak [Spanish](language_name)
+- [Spanish](language_name)
+- try [Spanish](language_name)
+- do [Spanish](language_name) lang
+- talk [Spanish](language_name) Language.
+- lets choose [Spanish](language_name) lang
+- try [Spanish](language_name) lang
+- talk to me in [Spanish](language_name) country
+- Talk in [Spanish](language_name) Language.
+- lets choose [Spanish](language_name) Language.
+- let's talk in [Spanish](language_name) country
+- serve me [Spanish](language_name) country
+- serve me in [Spanish](language_name) language
+- I want to choose [Spanish](language_name) lang
+- Talk in [Spanish](language_name)
+- speak [Spanish](language_name)
+- communicate [Spanish](language_name) language
+- try [Spanish](language_name) language
+- go [Spanish](language_name) language
+- talk [Spanish](language_name) language
+- choose [Spanish](language_name) Language.
+- lets try [Spanish](language_name) lang
+- I want to choose [Spanish](language_name) country
+- serve me [Spanish](language_name) language
+- serve me [Spanish](language_name) Language.
+- go [Spanish](language_name) Language.
+- okay I speak [Spanish](language_name) lang
+- choose [Spanish](language_name) lang
+- okay I speak [Spanish](language_name) country
+- I want [Spanish](language_name) lang
+- let's talk in [Spanish](language_name)
+- I'm willing [Spanish](language_name) language
+- speak [Spanish](language_name) language
+- do [Spanish](language_name)
+- [Galician](language_name)
+- okay I speak [Galician](language_name) country
+- let's talk in [Galician](language_name)
+- speak [Galician](language_name) country
+- go [Galician](language_name) lang
+- do [Galician](language_name) country
+- serve me in [Galician](language_name)
+- I'm willing to choose [Galician](language_name)
+- [Galician](language_name)
+- do [Galician](language_name) Language.
+- speak [Galician](language_name) Language.
+- serve me in [Galician](language_name) lang
+- pls talk in [Galician](language_name) language
+- Talk in [Galician](language_name)
+- try [Galician](language_name) lang
+- lets choose [Galician](language_name) lang
+- let's talk in [Galician](language_name) Language.
+- Talk in [Galician](language_name) Language.
+- okay I speak [Galician](language_name)
+- serve me in [Galician](language_name) country
+- okay I speak [Galician](language_name) lang
+- I want [Galician](language_name) Language.
+- serve me [Galician](language_name) language
+- talk [Galician](language_name)
+- [Galician](language_name) lang
+- choose [Galician](language_name) Language.
+- communicate [Galician](language_name)
+- talk [Galician](language_name) country
+- I'm willing [Galician](language_name) country
+- do [Galician](language_name) language
+- I speak [Galician](language_name)
+- I'm willing to choose [Galician](language_name) country
+- Talk in [Galician](language_name) country
+- lets choose [Galician](language_name) country
+- I'm willing to choose [Galician](language_name) language
+- talk to me in [Galician](language_name) Language.
+- okay I speak [Galician](language_name) Language.
+- do [Galician](language_name) lang
+- choose [Galician](language_name) lang
+- lets try [Galician](language_name)
+- speak [Galician](language_name) language
+- I'm willing [Galician](language_name) lang
+- talk to me in [Galician](language_name) language
+- [Galician](language_name) country
+- let's talk in [Galician](language_name) lang
+- try [Galician](language_name)
+- okay, go [Galician](language_name) lang
+- I want [Galician](language_name) country
+- serve me [Galician](language_name) country
+- I speak [Galician](language_name) lang
+- I speak [Galician](language_name) country
+- talk [Galician](language_name) language
+- [Vietnamese](language_name)
+- okay, go [Vietnamese](language_name)
+- I'm willing to choose [Vietnamese](language_name) lang
+- speak [Vietnamese](language_name)
+- lets try [Vietnamese](language_name)
+- talk [Vietnamese](language_name)
+- speak [Vietnamese](language_name) lang
+- go [Vietnamese](language_name) Language.
+- speak [Vietnamese](language_name) country
+- let's talk in [Vietnamese](language_name) country
+- okay, go [Vietnamese](language_name) Language.
+- talk [Vietnamese](language_name) Language.
+- do [Vietnamese](language_name) Language.
+- let's talk in [Vietnamese](language_name) language
+- I want [Vietnamese](language_name)
+- go [Vietnamese](language_name) country
+- do [Vietnamese](language_name)
+- I want [Vietnamese](language_name) language
+- okay, go [Vietnamese](language_name) lang
+- lets choose [Vietnamese](language_name) language
+- choose [Vietnamese](language_name)
+- I want [Vietnamese](language_name) Language.
+- I speak [Vietnamese](language_name) language
+- do [Vietnamese](language_name) language
+- lets try [Vietnamese](language_name) country
+- I want to choose [Vietnamese](language_name) lang
+- talk to me in [Vietnamese](language_name) country
+- serve me [Vietnamese](language_name) Language.
+- okay, go [Vietnamese](language_name) country
+- serve me [Vietnamese](language_name)
+- try [Vietnamese](language_name) Language.
+- [Vietnamese](language_name) country
+- talk to me in [Vietnamese](language_name) lang
+- communicate [Vietnamese](language_name) country
+- let's talk in [Vietnamese](language_name) Language.
+- okay I speak [Vietnamese](language_name) country
+- I'm willing to choose [Vietnamese](language_name) Language.
+- lets try [Vietnamese](language_name) Language.
+- communicate [Vietnamese](language_name) lang
+- Talk in [Vietnamese](language_name)
+- [Vietnamese](language_name) Language.
+- okay I speak [Vietnamese](language_name)
+- I want [Vietnamese](language_name) lang
+- pls talk in [Vietnamese](language_name) country
+- I'm willing to choose [Vietnamese](language_name) country
+- okay I speak [Vietnamese](language_name) Language.
+- serve me [Vietnamese](language_name) lang
+- I'm willing [Vietnamese](language_name) lang
+- communicate [Vietnamese](language_name) language
+- I speak [Vietnamese](language_name) country
+- serve me [Vietnamese](language_name) language
+- talk [Vietnamese](language_name) country
+- [Korean](language_name)
+- okay I speak [Korean](language_name)
+- communicate [Korean](language_name) lang
+- I speak [Korean](language_name) language
+- try [Korean](language_name)
+- try [Korean](language_name) language
+- go [Korean](language_name) language
+- serve me [Korean](language_name) lang
+- Talk in [Korean](language_name) country
+- I want [Korean](language_name) language
+- try [Korean](language_name) country
+- talk [Korean](language_name) language
+- I'm willing [Korean](language_name)
+- pls talk in [Korean](language_name) lang
+- go [Korean](language_name) country
+- try [Korean](language_name) Language.
+- serve me in [Korean](language_name) lang
+- serve me [Korean](language_name)
+- okay, go [Korean](language_name) Language.
+- serve me [Korean](language_name) language
+- lets choose [Korean](language_name) lang
+- okay, go [Korean](language_name) lang
+- communicate [Korean](language_name) country
+- I want [Korean](language_name) Language.
+- I want [Korean](language_name)
+- do [Korean](language_name) language
+- lets try [Korean](language_name) language
+- communicate [Korean](language_name) Language.
+- [Korean](language_name) lang
+- I'm willing to choose [Korean](language_name) lang
+- do [Korean](language_name) lang
+- serve me [Korean](language_name) Language.
+- I speak [Korean](language_name) Language.
+- pls talk in [Korean](language_name) Language.
+- serve me in [Korean](language_name)
+- speak [Korean](language_name) language
+- [Korean](language_name)
+- lets choose [Korean](language_name) language
+- Talk in [Korean](language_name) lang
+- talk [Korean](language_name) country
+- I'm willing to choose [Korean](language_name) language
+- lets choose [Korean](language_name)
+- lets try [Korean](language_name) Language.
+- choose [Korean](language_name) country
+- I'm willing to choose [Korean](language_name)
+- okay I speak [Korean](language_name) language
+- okay I speak [Korean](language_name) lang
+- go [Korean](language_name)
+- I want [Korean](language_name) country
+- pls talk in [Korean](language_name) language
+- I'm willing [Korean](language_name) lang
+- choose [Korean](language_name) Language.
+- [Japanese](language_name)
+- speak [Japanese](language_name) country
+- go [Japanese](language_name) Language.
+- I want [Japanese](language_name) Language.
+- I'm willing to choose [Japanese](language_name) Language.
+- pls talk in [Japanese](language_name) Language.
+- do [Japanese](language_name) language
+- I'm willing to choose [Japanese](language_name) country
+- okay I speak [Japanese](language_name) country
+- I'm willing to choose [Japanese](language_name)
+- I'm willing to choose [Japanese](language_name) lang
+- [Japanese](language_name)
+- choose [Japanese](language_name) Language.
+- serve me in [Japanese](language_name) country
+- I want [Japanese](language_name) language
+- I speak [Japanese](language_name) country
+- okay I speak [Japanese](language_name)
+- Talk in [Japanese](language_name) language
+- Talk in [Japanese](language_name) country
+- I want [Japanese](language_name) lang
+- serve me in [Japanese](language_name) Language.
+- Talk in [Japanese](language_name) lang
+- serve me in [Japanese](language_name) lang
+- lets choose [Japanese](language_name) language
+- pls talk in [Japanese](language_name) lang
+- lets try [Japanese](language_name) language
+- try [Japanese](language_name)
+- communicate [Japanese](language_name)
+- choose [Japanese](language_name)
+- okay, go [Japanese](language_name) country
+- serve me [Japanese](language_name)
+- okay, go [Japanese](language_name) lang
+- okay I speak [Japanese](language_name) Language.
+- I'm willing [Japanese](language_name)
+- talk [Japanese](language_name) Language.
+- I speak [Japanese](language_name)
+- serve me in [Japanese](language_name) language
+- go [Japanese](language_name)
+- talk [Japanese](language_name)
+- let's talk in [Japanese](language_name) country
+- talk to me in [Japanese](language_name) country
+- lets choose [Japanese](language_name) lang
+- I want to choose [Japanese](language_name)
+- I want [Japanese](language_name) country
+- I speak [Japanese](language_name) language
+- talk [Japanese](language_name) lang
+- okay, go [Japanese](language_name) Language.
+- lets try [Japanese](language_name) country
+- communicate [Japanese](language_name) Language.
+- lets try [Japanese](language_name)
+- I'm willing to choose [Japanese](language_name) language
+- try [Japanese](language_name) country
+- [Chinese Simplified](language_name)
+- talk to me in [Chinese Simplified](language_name)
+- I'm willing to choose [Chinese Simplified](language_name) lang
+- communicate [Chinese Simplified](language_name) country
+- Talk in [Chinese Simplified](language_name)
+- let's talk in [Chinese Simplified](language_name) lang
+- okay, go [Chinese Simplified](language_name) lang
+- lets choose [Chinese Simplified](language_name)
+- communicate [Chinese Simplified](language_name)
+- try [Chinese Simplified](language_name) language
+- [Chinese Simplified](language_name) language
+- communicate [Chinese Simplified](language_name) language
+- okay, go [Chinese Simplified](language_name) language
+- I want to choose [Chinese Simplified](language_name) lang
+- okay, go [Chinese Simplified](language_name)
+- choose [Chinese Simplified](language_name) Language.
+- let's talk in [Chinese Simplified](language_name)
+- I want [Chinese Simplified](language_name) Language.
+- talk [Chinese Simplified](language_name) language
+- [Chinese Simplified](language_name) lang
+- speak [Chinese Simplified](language_name)
+- serve me in [Chinese Simplified](language_name)
+- okay I speak [Chinese Simplified](language_name) Language.
+- I speak [Chinese Simplified](language_name)
+- go [Chinese Simplified](language_name)
+- do [Chinese Simplified](language_name)
+- lets try [Chinese Simplified](language_name) language
+- I want [Chinese Simplified](language_name)
+- speak [Chinese Simplified](language_name) lang
+- I'm willing [Chinese Simplified](language_name) language
+- I'm willing to choose [Chinese Simplified](language_name) language
+- okay, go [Chinese Simplified](language_name) country
+- do [Chinese Simplified](language_name) lang
+- I speak [Chinese Simplified](language_name) Language.
+- lets choose [Chinese Simplified](language_name) Language.
+- I want to choose [Chinese Simplified](language_name) country
+- serve me [Chinese Simplified](language_name)
+- lets try [Chinese Simplified](language_name) Language.
+- I'm willing to choose [Chinese Simplified](language_name)
+- choose [Chinese Simplified](language_name)
+- Talk in [Chinese Simplified](language_name) language
+- Talk in [Chinese Simplified](language_name) lang
+- I want to choose [Chinese Simplified](language_name) Language.
+- let's talk in [Chinese Simplified](language_name) Language.
+- I want to choose [Chinese Simplified](language_name)
+- [Chinese Simplified](language_name) country
+- serve me [Chinese Simplified](language_name) language
+- I speak [Chinese Simplified](language_name) lang
+- serve me [Chinese Simplified](language_name) Language.
+- choose [Chinese Simplified](language_name) language
+- I want [Chinese Simplified](language_name) language
+- serve me [Chinese Simplified](language_name) lang
+- [Estonian](language_name)
+- choose [Estonian](language_name) language
+- do [Estonian](language_name) Language.
+- talk to me in [Estonian](language_name)
+- communicate [Estonian](language_name) language
+- lets try [Estonian](language_name) lang
+- serve me [Estonian](language_name)
+- I'm willing [Estonian](language_name) country
+- choose [Estonian](language_name)
+- do [Estonian](language_name) language
+- I want [Estonian](language_name) country
+- lets try [Estonian](language_name) language
+- I want to choose [Estonian](language_name) language
+- pls talk in [Estonian](language_name) Language.
+- lets try [Estonian](language_name) country
+- talk [Estonian](language_name) language
+- talk to me in [Estonian](language_name) lang
+- serve me in [Estonian](language_name) language
+- I'm willing to choose [Estonian](language_name) country
+- speak [Estonian](language_name) Language.
+- let's talk in [Estonian](language_name) lang
+- pls talk in [Estonian](language_name) language
+- I'm willing to choose [Estonian](language_name)
+- I want [Estonian](language_name) lang
+- I'm willing [Estonian](language_name) Language.
+- okay, go [Estonian](language_name) lang
+- talk [Estonian](language_name) country
+- communicate [Estonian](language_name) lang
+- lets choose [Estonian](language_name) lang
+- I'm willing [Estonian](language_name) language
+- I speak [Estonian](language_name) language
+- try [Estonian](language_name) language
+- serve me [Estonian](language_name) language
+- choose [Estonian](language_name) lang
+- I want to choose [Estonian](language_name)
+- serve me [Estonian](language_name) lang
+- [Estonian](language_name) language
+- talk to me in [Estonian](language_name) language
+- I speak [Estonian](language_name) lang
+- try [Estonian](language_name) country
+- I'm willing [Estonian](language_name) lang
+- okay I speak [Estonian](language_name) language
+- go [Estonian](language_name)
+- go [Estonian](language_name) lang
+- choose [Estonian](language_name) country
+- okay I speak [Estonian](language_name) Language.
+- Talk in [Estonian](language_name)
+- okay, go [Estonian](language_name) language
+- talk to me in [Estonian](language_name) Language.
+- go [Estonian](language_name) country
+- talk [Estonian](language_name) lang
+- lets choose [Estonian](language_name) Language.
+- [Gujarati](language_name)
+- try [Gujarati](language_name)
+- lets choose [Gujarati](language_name) lang
+- I want [Gujarati](language_name) language
+- talk to me in [Gujarati](language_name)
+- okay, go [Gujarati](language_name) country
+- okay I speak [Gujarati](language_name) lang
+- lets choose [Gujarati](language_name)
+- serve me [Gujarati](language_name) Language.
+- pls talk in [Gujarati](language_name)
+- speak [Gujarati](language_name) language
+- I want [Gujarati](language_name) Language.
+- okay I speak [Gujarati](language_name) Language.
+- do [Gujarati](language_name) Language.
+- choose [Gujarati](language_name) language
+- I'm willing to choose [Gujarati](language_name) lang
+- lets try [Gujarati](language_name) lang
+- communicate [Gujarati](language_name) country
+- talk to me in [Gujarati](language_name) country
+- I'm willing [Gujarati](language_name) Language.
+- go [Gujarati](language_name) country
+- let's talk in [Gujarati](language_name)
+- do [Gujarati](language_name) language
+- serve me in [Gujarati](language_name)
+- lets try [Gujarati](language_name)
+- serve me in [Gujarati](language_name) language
+- I want to choose [Gujarati](language_name) country
+- try [Gujarati](language_name) lang
+- talk [Gujarati](language_name) country
+- [Gujarati](language_name) country
+- talk to me in [Gujarati](language_name) lang
+- serve me [Gujarati](language_name) lang
+- talk [Gujarati](language_name) Language.
+- speak [Gujarati](language_name) country
+- pls talk in [Gujarati](language_name) country
+- do [Gujarati](language_name) lang
+- go [Gujarati](language_name) lang
+- speak [Gujarati](language_name)
+- lets choose [Gujarati](language_name) Language.
+- try [Gujarati](language_name) country
+- let's talk in [Gujarati](language_name) Language.
+- Talk in [Gujarati](language_name)
+- okay, go [Gujarati](language_name)
+- choose [Gujarati](language_name)
+- speak [Gujarati](language_name) Language.
+- choose [Gujarati](language_name) Language.
+- serve me [Gujarati](language_name) country
+- okay I speak [Gujarati](language_name)
+- communicate [Gujarati](language_name) Language.
+- try [Gujarati](language_name) language
+- I want to choose [Gujarati](language_name) lang
+- I want to choose [Gujarati](language_name) language
+- [Italian](language_name)
+- try [Italian](language_name) language
+- serve me [Italian](language_name) country
+- talk to me in [Italian](language_name) language
+- communicate [Italian](language_name) country
+- I want [Italian](language_name) Language.
+- serve me in [Italian](language_name) Language.
+- go [Italian](language_name)
+- go [Italian](language_name) country
+- communicate [Italian](language_name)
+- choose [Italian](language_name) lang
+- okay I speak [Italian](language_name) language
+- I want [Italian](language_name) lang
+- let's talk in [Italian](language_name) language
+- Talk in [Italian](language_name)
+- lets try [Italian](language_name) lang
+- I want [Italian](language_name) language
+- pls talk in [Italian](language_name) country
+- choose [Italian](language_name) Language.
+- pls talk in [Italian](language_name) lang
+- I'm willing [Italian](language_name)
+- talk to me in [Italian](language_name) lang
+- choose [Italian](language_name) country
+- speak [Italian](language_name) country
+- let's talk in [Italian](language_name) country
+- I'm willing [Italian](language_name) Language.
+- serve me in [Italian](language_name) language
+- pls talk in [Italian](language_name) Language.
+- speak [Italian](language_name)
+- serve me [Italian](language_name) language
+- do [Italian](language_name) Language.
+- serve me [Italian](language_name) lang
+- talk [Italian](language_name) language
+- I want [Italian](language_name)
+- okay, go [Italian](language_name) language
+- serve me [Italian](language_name)
+- do [Italian](language_name)
+- talk [Italian](language_name) lang
+- I speak [Italian](language_name)
+- pls talk in [Italian](language_name)
+- lets try [Italian](language_name) Language.
+- lets try [Italian](language_name) country
+- choose [Italian](language_name)
+- [Italian](language_name) Language.
+- I want [Italian](language_name) country
+- I'm willing [Italian](language_name) country
+- lets try [Italian](language_name) language
+- talk to me in [Italian](language_name) country
+- serve me in [Italian](language_name)
+- serve me in [Italian](language_name) lang
+- talk [Italian](language_name) Language.
+- speak [Italian](language_name) lang
+- [Bengali](language_name)
+- choose [Bengali](language_name) lang
+- talk to me in [Bengali](language_name)
+- communicate [Bengali](language_name) Language.
+- serve me in [Bengali](language_name) Language.
+- serve me [Bengali](language_name)
+- I speak [Bengali](language_name) Language.
+- do [Bengali](language_name) Language.
+- communicate [Bengali](language_name)
+- pls talk in [Bengali](language_name) language
+- I speak [Bengali](language_name)
+- serve me in [Bengali](language_name) language
+- I want to choose [Bengali](language_name)
+- lets try [Bengali](language_name) country
+- I'm willing [Bengali](language_name) Language.
+- I'm willing [Bengali](language_name)
+- pls talk in [Bengali](language_name) country
+- talk [Bengali](language_name) Language.
+- talk to me in [Bengali](language_name) lang
+- okay I speak [Bengali](language_name) language
+- go [Bengali](language_name) country
+- Talk in [Bengali](language_name) lang
+- serve me in [Bengali](language_name) country
+- okay I speak [Bengali](language_name) country
+- do [Bengali](language_name) lang
+- lets try [Bengali](language_name)
+- try [Bengali](language_name)
+- communicate [Bengali](language_name) country
+- go [Bengali](language_name)
+- okay I speak [Bengali](language_name)
+- I want [Bengali](language_name) language
+- choose [Bengali](language_name) language
+- [Bengali](language_name) Language.
+- try [Bengali](language_name) lang
+- pls talk in [Bengali](language_name) lang
+- I'm willing to choose [Bengali](language_name) Language.
+- I speak [Bengali](language_name) country
+- try [Bengali](language_name) language
+- Talk in [Bengali](language_name) language
+- I'm willing [Bengali](language_name) language
+- I'm willing [Bengali](language_name) country
+- serve me [Bengali](language_name) language
+- Talk in [Bengali](language_name) country
+- serve me in [Bengali](language_name)
+- Talk in [Bengali](language_name)
+- communicate [Bengali](language_name) language
+- I speak [Bengali](language_name) language
+- okay, go [Bengali](language_name) country
+- let's talk in [Bengali](language_name) lang
+- talk to me in [Bengali](language_name) country
+- lets choose [Bengali](language_name) lang
+- serve me [Bengali](language_name) lang
+- [Swahili](language_name)
+- serve me in [Swahili](language_name) language
+- lets try [Swahili](language_name) country
+- I'm willing to choose [Swahili](language_name) Language.
+- okay, go [Swahili](language_name) Language.
+- let's talk in [Swahili](language_name) lang
+- okay I speak [Swahili](language_name) Language.
+- I speak [Swahili](language_name) Language.
+- serve me [Swahili](language_name) lang
+- talk to me in [Swahili](language_name) country
+- serve me in [Swahili](language_name) lang
+- communicate [Swahili](language_name) lang
+- speak [Swahili](language_name) language
+- talk [Swahili](language_name) language
+- Talk in [Swahili](language_name) language
+- talk [Swahili](language_name)
+- I'm willing [Swahili](language_name) country
+- I'm willing [Swahili](language_name) language
+- serve me [Swahili](language_name) Language.
+- lets choose [Swahili](language_name)
+- okay, go [Swahili](language_name) lang
+- okay I speak [Swahili](language_name) lang
+- communicate [Swahili](language_name)
+- talk to me in [Swahili](language_name) lang
+- speak [Swahili](language_name) lang
+- okay I speak [Swahili](language_name)
+- lets try [Swahili](language_name)
+- go [Swahili](language_name) country
+- serve me [Swahili](language_name)
+- I want to choose [Swahili](language_name) country
+- I speak [Swahili](language_name) language
+- pls talk in [Swahili](language_name)
+- speak [Swahili](language_name) country
+- I speak [Swahili](language_name)
+- I speak [Swahili](language_name) lang
+- lets try [Swahili](language_name) Language.
+- I'm willing to choose [Swahili](language_name) lang
+- lets choose [Swahili](language_name) country
+- lets choose [Swahili](language_name) language
+- [Swahili](language_name) lang
+- try [Swahili](language_name)
+- lets try [Swahili](language_name) language
+- I'm willing to choose [Swahili](language_name)
+- try [Swahili](language_name) language
+- [Swahili](language_name) Language.
+- I'm willing to choose [Swahili](language_name) language
+- Talk in [Swahili](language_name) Language.
+- communicate [Swahili](language_name) country
+- let's talk in [Swahili](language_name) Language.
+- communicate [Swahili](language_name) language
+- serve me [Swahili](language_name) country
+- I'm willing [Swahili](language_name) lang
+- [Finnish](language_name)
+- lets try [Finnish](language_name)
+- [Finnish](language_name)
+- okay I speak [Finnish](language_name) lang
+- serve me [Finnish](language_name) Language.
+- I'm willing to choose [Finnish](language_name) language
+- talk to me in [Finnish](language_name) Language.
+- communicate [Finnish](language_name) lang
+- Talk in [Finnish](language_name) lang
+- I'm willing to choose [Finnish](language_name) Language.
+- I'm willing to choose [Finnish](language_name)
+- I want to choose [Finnish](language_name) language
+- talk to me in [Finnish](language_name) language
+- pls talk in [Finnish](language_name) lang
+- [Finnish](language_name) country
+- talk to me in [Finnish](language_name) country
+- try [Finnish](language_name) country
+- I'm willing [Finnish](language_name) country
+- Talk in [Finnish](language_name)
+- Talk in [Finnish](language_name) Language.
+- lets choose [Finnish](language_name) language
+- lets try [Finnish](language_name) language
+- talk [Finnish](language_name) Language.
+- pls talk in [Finnish](language_name) Language.
+- communicate [Finnish](language_name)
+- serve me in [Finnish](language_name)
+- choose [Finnish](language_name) country
+- choose [Finnish](language_name) language
+- go [Finnish](language_name) country
+- okay, go [Finnish](language_name) Language.
+- I want to choose [Finnish](language_name) country
+- serve me in [Finnish](language_name) language
+- speak [Finnish](language_name)
+- I want [Finnish](language_name) lang
+- talk [Finnish](language_name) language
+- let's talk in [Finnish](language_name) lang
+- Talk in [Finnish](language_name) language
+- choose [Finnish](language_name) lang
+- speak [Finnish](language_name) Language.
+- I want [Finnish](language_name) country
+- I speak [Finnish](language_name) language
+- okay I speak [Finnish](language_name)
+- I want to choose [Finnish](language_name)
+- communicate [Finnish](language_name) Language.
+- I want to choose [Finnish](language_name) Language.
+- I'm willing [Finnish](language_name) Language.
+- serve me [Finnish](language_name) language
+- [Finnish](language_name) Language.
+- let's talk in [Finnish](language_name) Language.
+- do [Finnish](language_name) country
+- I speak [Finnish](language_name)
+- talk to me in [Finnish](language_name) lang
+- [Portuguese](language_name)
+- I'm willing [Portuguese](language_name) Language.
+- serve me in [Portuguese](language_name) Language.
+- I want [Portuguese](language_name) language
+- serve me [Portuguese](language_name) Language.
+- serve me in [Portuguese](language_name) lang
+- [Portuguese](language_name) language
+- pls talk in [Portuguese](language_name)
+- let's talk in [Portuguese](language_name) language
+- talk [Portuguese](language_name) language
+- go [Portuguese](language_name) Language.
+- I want [Portuguese](language_name) country
+- serve me [Portuguese](language_name) language
+- talk to me in [Portuguese](language_name) language
+- I'm willing to choose [Portuguese](language_name) country
+- lets choose [Portuguese](language_name) Language.
+- I'm willing to choose [Portuguese](language_name) language
+- lets choose [Portuguese](language_name)
+- let's talk in [Portuguese](language_name) lang
+- okay I speak [Portuguese](language_name) language
+- lets choose [Portuguese](language_name) lang
+- let's talk in [Portuguese](language_name)
+- Talk in [Portuguese](language_name) lang
+- I speak [Portuguese](language_name) country
+- okay, go [Portuguese](language_name) lang
+- speak [Portuguese](language_name) Language.
+- try [Portuguese](language_name) language
+- choose [Portuguese](language_name)
+- serve me [Portuguese](language_name) country
+- Talk in [Portuguese](language_name) Language.
+- go [Portuguese](language_name) lang
+- Talk in [Portuguese](language_name) language
+- lets try [Portuguese](language_name)
+- talk [Portuguese](language_name) country
+- I'm willing [Portuguese](language_name)
+- I'm willing [Portuguese](language_name) lang
+- okay I speak [Portuguese](language_name) Language.
+- go [Portuguese](language_name) country
+- let's talk in [Portuguese](language_name) country
+- choose [Portuguese](language_name) lang
+- speak [Portuguese](language_name) country
+- Talk in [Portuguese](language_name)
+- [Portuguese](language_name) Language.
+- I want to choose [Portuguese](language_name) Language.
+- okay I speak [Portuguese](language_name) lang
+- Talk in [Portuguese](language_name) country
+- let's talk in [Portuguese](language_name) Language.
+- lets choose [Portuguese](language_name) language
+- I'm willing [Portuguese](language_name) language
+- I speak [Portuguese](language_name)
+- talk [Portuguese](language_name) lang
+- [Portuguese](language_name) lang
+- [Esperanto](language_name)
+- talk [Esperanto](language_name) language
+- I speak [Esperanto](language_name) Language.
+- I want to choose [Esperanto](language_name) country
+- I'm willing [Esperanto](language_name) Language.
+- choose [Esperanto](language_name)
+- talk [Esperanto](language_name) lang
+- lets try [Esperanto](language_name) lang
+- okay, go [Esperanto](language_name) language
+- talk [Esperanto](language_name) country
+- talk to me in [Esperanto](language_name)
+- talk to me in [Esperanto](language_name) country
+- I want [Esperanto](language_name) lang
+- serve me in [Esperanto](language_name)
+- I want [Esperanto](language_name) language
+- try [Esperanto](language_name) Language.
+- talk to me in [Esperanto](language_name) language
+- talk [Esperanto](language_name) Language.
+- I want to choose [Esperanto](language_name) lang
+- do [Esperanto](language_name) country
+- talk [Esperanto](language_name)
+- go [Esperanto](language_name)
+- communicate [Esperanto](language_name) country
+- let's talk in [Esperanto](language_name) country
+- try [Esperanto](language_name) language
+- speak [Esperanto](language_name)
+- Talk in [Esperanto](language_name) language
+- choose [Esperanto](language_name) language
+- serve me in [Esperanto](language_name) lang
+- serve me [Esperanto](language_name) lang
+- let's talk in [Esperanto](language_name) Language.
+- do [Esperanto](language_name) Language.
+- I'm willing to choose [Esperanto](language_name) language
+- serve me [Esperanto](language_name)
+- lets choose [Esperanto](language_name) language
+- communicate [Esperanto](language_name)
+- I'm willing [Esperanto](language_name) language
+- go [Esperanto](language_name) Language.
+- serve me in [Esperanto](language_name) language
+- okay I speak [Esperanto](language_name) lang
+- I'm willing [Esperanto](language_name)
+- I want to choose [Esperanto](language_name) language
+- talk to me in [Esperanto](language_name) lang
+- go [Esperanto](language_name) country
+- serve me [Esperanto](language_name) Language.
+- I speak [Esperanto](language_name)
+- Talk in [Esperanto](language_name) lang
+- lets try [Esperanto](language_name) country
+- lets choose [Esperanto](language_name)
+- lets try [Esperanto](language_name) language
+- okay I speak [Esperanto](language_name) Language.
+- [Esperanto](language_name) language
+- [Hindi](language_name)
+- do [Hindi](language_name)
+- I speak [Hindi](language_name) Language.
+- okay I speak [Hindi](language_name) country
+- I want [Hindi](language_name) country
+- lets choose [Hindi](language_name) country
+- pls talk in [Hindi](language_name) lang
+- lets choose [Hindi](language_name) Language.
+- talk to me in [Hindi](language_name) country
+- I'm willing [Hindi](language_name) lang
+- I want [Hindi](language_name) language
+- [Hindi](language_name) country
+- Talk in [Hindi](language_name)
+- pls talk in [Hindi](language_name)
+- I'm willing to choose [Hindi](language_name)
+- I want to choose [Hindi](language_name) country
+- serve me in [Hindi](language_name) country
+- choose [Hindi](language_name) Language.
+- let's talk in [Hindi](language_name) country
+- [Hindi](language_name)
+- let's talk in [Hindi](language_name) language
+- lets try [Hindi](language_name) Language.
+- I speak [Hindi](language_name) language
+- lets try [Hindi](language_name) country
+- do [Hindi](language_name) language
+- [Hindi](language_name) lang
+- okay I speak [Hindi](language_name) language
+- serve me in [Hindi](language_name) lang
+- go [Hindi](language_name)
+- [Hindi](language_name) Language.
+- Talk in [Hindi](language_name) Language.
+- okay, go [Hindi](language_name) country
+- I want to choose [Hindi](language_name) Language.
+- talk [Hindi](language_name) language
+- serve me [Hindi](language_name) Language.
+- I want to choose [Hindi](language_name) lang
+- serve me in [Hindi](language_name)
+- I want [Hindi](language_name) Language.
+- communicate [Hindi](language_name) Language.
+- let's talk in [Hindi](language_name) lang
+- serve me in [Hindi](language_name) Language.
+- try [Hindi](language_name) Language.
+- I'm willing [Hindi](language_name) language
+- Talk in [Hindi](language_name) lang
+- talk [Hindi](language_name)
+- Talk in [Hindi](language_name) language
+- speak [Hindi](language_name) country
+- try [Hindi](language_name) lang
+- serve me [Hindi](language_name) country
+- communicate [Hindi](language_name) lang
+- okay I speak [Hindi](language_name)
+- [Hindi](language_name) language
 
 ## lookup:language_code
 data/lookups/language_codes.txt

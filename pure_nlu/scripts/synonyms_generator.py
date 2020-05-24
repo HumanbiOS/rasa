@@ -75,12 +75,12 @@ def parse_data():
             training_suffixes.append(each_suffix.strip())
     context_parts = list(product(training_prefixes, training_suffixes))
 
-    # use only 15% of the permutated parts
-    random_percentage = len(context_parts) * 15 // 100
+    # use only 45% of the permutated parts
+    random_percentage = len(context_parts) * 45 // 100
     with open(examples_ln, "w+") as x_ln, open(examples_lc, "w+") as x_lc:
         # Create examples for training the NLU model
-        # .2 means 20% of the data to be used in samples
-        for index, sample_row in df.sample(frac = .25).iterrows():
+        # .45 means 45% of the data to be used in samples
+        for index, sample_row in df.sample(frac = .45).iterrows():
             x_lc.write(f"[{sample_row['Language Code']}](language_code)\n")
             x_ln.write(f"[{sample_row['Language Name']}](language_name)\n")
             for p, s in random.sample(context_parts, random_percentage):
