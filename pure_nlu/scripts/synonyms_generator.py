@@ -1,3 +1,4 @@
+from itertools import product
 import pandas as pd
 import environ
 import pathlib
@@ -13,15 +14,18 @@ def parse_data():
     #df = pd.read_csv(flags_path)
     
     synonyms_fp = ROOT / "csv" / "synonyms_file.md"
-    lookup_table_lc_fp = ROOT / "csv" / "lookups" / "language_codes.txt"
+    lookup_table_lc_fp = ROOT / "csv" / "lookups" / "language_code_lookup.txt"
     examples_lc = ROOT / "csv" / "language_codes.csv"
     examples_ln = ROOT / "csv" / "language_names.csv"
+    training_prefixes_fp = ROOT / "csv" / "context_prefixes.csv"
+    training_suffixes_fp = ROOT / "csv" / "context_suffixes.csv"
 
     with open(synonyms_fp, "w+") as sf, open(lookup_table_lc_fp, "w+") as table_lc:
     #if True:
         for index, each_row in df.iterrows():
-            # Write language codes lookup table
+            # Write lookup tables
             table_lc.write(f"{each_row['Language Code']}\n")
+            table_lc.write(f"{each_row['Language Name']}\n")
             # Write synonyms to the language code
             synonym = f"## synonym:{each_row['Language Code']}\n"
             for each in each_row:
@@ -39,13 +43,26 @@ def parse_data():
             sf.write(synonym)
             #print(synonym, end="")
     
+    # Prepare examples context parts
+    training_prefixes = list()
+    with open(training_prefixes_fp) as tp:
+        for each_prefix in tp.readlines():
+            training_prefixes.append(each_prefix.strip())
+    training_suffixes = list()
+    with open(training_suffixes_fp) as ts:
+        for each_suffix in ts.readlines():
+            training_suffixes.append(each_suffix.strip())
+    context_parts = list(product(training_prefixes, training_suffixes))
+
     with open(examples_ln, "w+") as x_ln, open(examples_lc, "w+") as x_lc:
         # Create examples for training the NLU model
         # .2 means 20% of the data to be used in samples
-        for index, sample_row in df.sample(frac = .2).iterrows():
-            x_lc.write(f"{sample_row['Language Code']}\n")
-            x_ln.write(f"{sample_row['Language Name']}\n")
-
+        for index, sample_row in df.sample(frac = .1).iterrows():
+            x_lc.write(f"({sample_row['Language Code']})[language_code]\n")
+            x_ln.write(f"({sample_row['Language Name']})[language_code]\n")
+            for p, s in context_parts:
+                x_lc.write(f"{p} ({sample_row['Language Code']})[language_code] {s}".strip() + "\n")
+                x_ln.write(f"{p} ({sample_row['Language Name']})[language_code] {s}".strip() + "\n")
 
 if __name__ == "__main__":
     parse_data()

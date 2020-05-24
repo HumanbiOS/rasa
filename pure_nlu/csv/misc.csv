@@ -1,5 +1,2 @@
-## regex:language_code
-- [a-zA-Z]{2,3}
-
 ## lookup:language_code
-  data/lookups/language_codes.txt
+  data/lookups/language_code_lookup.txt

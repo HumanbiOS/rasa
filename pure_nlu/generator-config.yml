@@ -4,10 +4,8 @@ intents:
     extract_lang_code:
          - 
            source:     language_codes.csv
-           extract_as: language_code
          - 
            source:     language_names.csv
-           extract_as: language_code
     extract_country:
          - 
            source:     country_names.csv
