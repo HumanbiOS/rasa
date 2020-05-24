@@ -2,6 +2,7 @@ from itertools import product
 import pandas as pd
 import environ
 import pathlib
+import random
 import yaml
 
 ROOT = pathlib.Path(environ.Path(__file__) - 2)
@@ -42,7 +43,7 @@ def parse_data():
                     lc_synonym += f"- {lower}\n"
                 if each != upper:
                     lc_synonym += f"- {upper}\n"
-            lc_synonym += "\n\n"
+            lc_synonym += "\n"
             sf.write(lc_synonym)
             
             # Write synonyms to the language name
@@ -58,7 +59,7 @@ def parse_data():
                     ln_synonym += f"- {lower}\n"
                 if each != upper:
                     ln_synonym += f"- {upper}\n"
-            ln_synonym += "\n\n"
+            ln_synonym += "\n"
             sf.write(ln_synonym)
 
             #print(synonym, end="")
@@ -74,13 +75,15 @@ def parse_data():
             training_suffixes.append(each_suffix.strip())
     context_parts = list(product(training_prefixes, training_suffixes))
 
+    # use only 15% of the permutated parts
+    random_percentage = len(context_parts) * 15 // 100
     with open(examples_ln, "w+") as x_ln, open(examples_lc, "w+") as x_lc:
         # Create examples for training the NLU model
         # .2 means 20% of the data to be used in samples
-        for index, sample_row in df.sample(frac = .1).iterrows():
+        for index, sample_row in df.sample(frac = .25).iterrows():
             x_lc.write(f"[{sample_row['Language Code']}](language_code)\n")
             x_ln.write(f"[{sample_row['Language Name']}](language_name)\n")
-            for p, s in context_parts:
+            for p, s in random.sample(context_parts, random_percentage):
                 x_lc.write(f"{p} [{sample_row['Language Code']}](language_code) {s}".strip() + "\n")
                 x_ln.write(f"{p} [{sample_row['Language Name']}](language_name) {s}".strip() + "\n")
 
