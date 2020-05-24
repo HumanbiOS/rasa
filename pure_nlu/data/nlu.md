@@ -1,625 +1,566 @@
 ## intent:extract_lang_code
-- [🇦🇨](flag)
-- [🇦🇩](flag)
-- [🇦🇪](flag)
-- [🇦🇫](flag)
-- [🇦🇬](flag)
-- [🇦🇮](flag)
-- [🇦🇱](flag)
-- [🇦🇲](flag)
-- [🇦🇴](flag)
-- [🇦🇶](flag)
-- [🇦🇷](flag)
-- [🇦🇸](flag)
-- [🇦🇹](flag)
-- [🇦🇺](flag)
-- [🇦🇼](flag)
-- [🇦🇽](flag)
-- [🇦🇿](flag)
-- [🇧🇦](flag)
-- [🇧🇧](flag)
-- [🇧🇩](flag)
-- [🇧🇪](flag)
-- [🇧🇫](flag)
-- [🇧🇬](flag)
-- [🇧🇭](flag)
-- [🇧🇮](flag)
-- [🇧🇯](flag)
-- [🇧🇱](flag)
-- [🇧🇲](flag)
-- [🇧🇳](flag)
-- [🇧🇴](flag)
-- [🇧🇶](flag)
-- [🇧🇷](flag)
-- [🇧🇸](flag)
-- [🇧🇹](flag)
-- [🇧🇻](flag)
-- [🇧🇼](flag)
-- [🇧🇾](flag)
-- [🇧🇿](flag)
-- [🇨🇦](flag)
-- [🇨🇨](flag)
-- [🇨🇩](flag)
-- [🇨🇫](flag)
-- [🇨🇬](flag)
-- [🇨🇭](flag)
-- [🇨🇮](flag)
-- [🇨🇰](flag)
-- [🇨🇱](flag)
-- [🇨🇲](flag)
-- [🇨🇳](flag)
-- [🇨🇴](flag)
-- [🇨🇵](flag)
-- [🇨🇷](flag)
-- [🇨🇺](flag)
-- [🇨🇻](flag)
-- [🇨🇼](flag)
-- [🇨🇽](flag)
-- [🇨🇾](flag)
-- [🇨🇿](flag)
-- [🇩🇪](flag)
-- [🇩🇬](flag)
-- [🇩🇯](flag)
-- [🇩🇰](flag)
-- [🇩🇲](flag)
-- [🇩🇴](flag)
-- [🇩🇿](flag)
-- [🇪🇦](flag)
-- [🇪🇨](flag)
-- [🇪🇪](flag)
-- [🇪🇬](flag)
-- [🇪🇭](flag)
-- [🇪🇷](flag)
-- [🇪🇸](flag)
-- [🇪🇹](flag)
-- [🇪🇺](flag)
-- [🇫🇮](flag)
-- [🇫🇯](flag)
-- [🇫🇰](flag)
-- [🇫🇲](flag)
-- [🇫🇴](flag)
-- [🇫🇷](flag)
-- [🇬🇦](flag)
-- [🇬🇧](flag)
-- [🇬🇩](flag)
-- [🇬🇪](flag)
-- [🇬🇫](flag)
-- [🇬🇬](flag)
-- [🇬🇭](flag)
-- [🇬🇮](flag)
-- [🇬🇱](flag)
-- [🇬🇲](flag)
-- [🇬🇳](flag)
-- [🇬🇵](flag)
-- [🇬🇶](flag)
-- [🇬🇷](flag)
-- [🇬🇸](flag)
-- [🇬🇹](flag)
-- [🇬🇺](flag)
-- [🇬🇼](flag)
-- [🇬🇾](flag)
-- [🇭🇰](flag)
-- [🇭🇲](flag)
-- [🇭🇳](flag)
-- [🇭🇷](flag)
-- [🇭🇹](flag)
-- [🇭🇺](flag)
-- [🇮🇨](flag)
-- [🇮🇩](flag)
-- [🇮🇪](flag)
-- [🇮🇱](flag)
-- [🇮🇲](flag)
-- [🇮🇳](flag)
-- [🇮🇴](flag)
-- [🇮🇶](flag)
-- [🇮🇷](flag)
-- [🇮🇸](flag)
-- [🇮🇹](flag)
-- [🇯🇪](flag)
-- [🇯🇲](flag)
-- [🇯🇴](flag)
-- [🇯🇵](flag)
-- [🇰🇪](flag)
-- [🇰🇬](flag)
-- [🇰🇭](flag)
-- [🇰🇮](flag)
-- [🇰🇲](flag)
-- [🇰🇳](flag)
-- [🇰🇵](flag)
-- [🇰🇷](flag)
-- [🇰🇼](flag)
-- [🇰🇾](flag)
-- [🇰🇿](flag)
-- [🇱🇦](flag)
-- [🇱🇧](flag)
-- [🇱🇨](flag)
-- [🇱🇮](flag)
-- [🇱🇰](flag)
-- [🇱🇷](flag)
-- [🇱🇸](flag)
-- [🇱🇹](flag)
-- [🇱🇺](flag)
-- [🇱🇻](flag)
-- [🇱🇾](flag)
-- [🇲🇦](flag)
-- [🇲🇨](flag)
-- [🇲🇩](flag)
-- [🇲🇪](flag)
-- [🇲🇫](flag)
-- [🇲🇬](flag)
-- [🇲🇭](flag)
-- [🇲🇰](flag)
-- [🇲🇱](flag)
-- [🇲🇲](flag)
-- [🇲🇳](flag)
-- [🇲🇴](flag)
-- [🇲🇵](flag)
-- [🇲🇶](flag)
-- [🇲🇷](flag)
-- [🇲🇸](flag)
-- [🇲🇹](flag)
-- [🇲🇺](flag)
-- [🇲🇻](flag)
-- [🇲🇼](flag)
-- [🇲🇽](flag)
-- [🇲🇾](flag)
-- [🇲🇿](flag)
-- [🇳🇦](flag)
-- [🇳🇨](flag)
-- [🇳🇪](flag)
-- [🇳🇫](flag)
-- [🇳🇬](flag)
-- [🇳🇮](flag)
-- [🇳🇱](flag)
-- [🇳🇴](flag)
-- [🇳🇵](flag)
-- [🇳🇷](flag)
-- [🇳🇺](flag)
-- [🇳🇿](flag)
-- [🇴🇲](flag)
-- [🇵🇦](flag)
-- [🇵🇪](flag)
-- [🇵🇫](flag)
-- [🇵🇬](flag)
-- [🇵🇭](flag)
-- [🇵🇰](flag)
-- [🇵🇱](flag)
-- [🇵🇲](flag)
-- [🇵🇳](flag)
-- [🇵🇷](flag)
-- [🇵🇸](flag)
-- [🇵🇹](flag)
-- [🇵🇼](flag)
-- [🇵🇾](flag)
-- [🇶🇦](flag)
-- [🇷🇪](flag)
-- [🇷🇴](flag)
-- [🇷🇸](flag)
-- [🇷🇺](flag)
-- [🇷🇼](flag)
-- [🇸🇦](flag)
-- [🇸🇧](flag)
-- [🇸🇨](flag)
-- [🇸🇩](flag)
-- [🇸🇪](flag)
-- [🇸🇬](flag)
-- [🇸🇭](flag)
-- [🇸🇮](flag)
-- [🇸🇯](flag)
-- [🇸🇰](flag)
-- [🇸🇱](flag)
-- [🇸🇲](flag)
-- [🇸🇳](flag)
-- [🇸🇴](flag)
-- [🇸🇷](flag)
-- [🇸🇸](flag)
-- [🇸🇹](flag)
-- [🇸🇻](flag)
-- [🇸🇽](flag)
-- [🇸🇾](flag)
-- [🇸🇿](flag)
-- [🇹🇦](flag)
-- [🇹🇨](flag)
-- [🇹🇩](flag)
-- [🇹🇫](flag)
-- [🇹🇬](flag)
-- [🇹🇭](flag)
-- [🇹🇯](flag)
-- [🇹🇰](flag)
-- [🇹🇱](flag)
-- [🇹🇲](flag)
-- [🇹🇳](flag)
-- [🇹🇴](flag)
-- [🇹🇷](flag)
-- [🇹🇹](flag)
-- [🇹🇻](flag)
-- [🇹🇼](flag)
-- [🇹🇿](flag)
-- [🇺🇦](flag)
-- [🇺🇬](flag)
-- [🇺🇲](flag)
-- [🇺🇳](flag)
-- [🇺🇸](flag)
-- [🇺🇾](flag)
-- [🇺🇿](flag)
-- [🇻🇦](flag)
-- [🇻🇨](flag)
-- [🇻🇪](flag)
-- [🇻🇬](flag)
-- [🇻🇮](flag)
-- [🇻🇳](flag)
-- [🇻🇺](flag)
-- [🇼🇫](flag)
-- [🇼🇸](flag)
-- [🇽🇰](flag)
-- [🇾🇪](flag)
-- [🇾🇹](flag)
-- [🇿🇦](flag)
-- [🇿🇲](flag)
-- [🇿🇼](flag)
-- [AC](language_code)
-- [AD](language_code)
-- [AE](language_code)
-- [AF](language_code)
-- [AG](language_code)
-- [AI](language_code)
-- [AL](language_code)
-- [AM](language_code)
-- [AO](language_code)
-- [AQ](language_code)
-- [AR](language_code)
-- [AS](language_code)
-- [AT](language_code)
-- [AU](language_code)
-- [AW](language_code)
-- [AX](language_code)
-- [AZ](language_code)
-- [BA](language_code)
-- [BB](language_code)
-- [BD](language_code)
-- [BE](language_code)
-- [BF](language_code)
-- [BG](language_code)
-- [BH](language_code)
-- [BI](language_code)
-- [BJ](language_code)
-- [BL](language_code)
-- [BM](language_code)
-- [BN](language_code)
-- [BO](language_code)
-- [BQ](language_code)
-- [BR](language_code)
-- [BS](language_code)
-- [BT](language_code)
-- [BV](language_code)
-- [BW](language_code)
-- [BY](language_code)
-- [BZ](language_code)
-- [CA](language_code)
-- [CC](language_code)
-- [CD](language_code)
-- [CF](language_code)
-- [CG](language_code)
-- [CH](language_code)
-- [CI](language_code)
-- [CK](language_code)
-- [CL](language_code)
-- [CM](language_code)
-- [CN](language_code)
-- [CO](language_code)
-- [CP](language_code)
-- [CR](language_code)
-- [CU](language_code)
-- [CV](language_code)
-- [CW](language_code)
-- [CX](language_code)
-- [CY](language_code)
-- [CZ](language_code)
-- [DE](language_code)
-- [DG](language_code)
-- [DJ](language_code)
-- [DK](language_code)
-- [DM](language_code)
-- [DO](language_code)
-- [DZ](language_code)
-- [EA](language_code)
-- [EC](language_code)
-- [EE](language_code)
-- [EG](language_code)
-- [EH](language_code)
-- [ER](language_code)
-- [ES](language_code)
-- [ET](language_code)
-- [EU](language_code)
-- [FI](language_code)
-- [FJ](language_code)
-- [FK](language_code)
-- [FM](language_code)
-- [FO](language_code)
-- [FR](language_code)
-- [GA](language_code)
-- [GB](language_code)
-- [GD](language_code)
-- [GE](language_code)
-- [GF](language_code)
-- [GG](language_code)
-- [GH](language_code)
-- [GI](language_code)
-- [GL](language_code)
-- [GM](language_code)
-- [GN](language_code)
-- [GP](language_code)
-- [GQ](language_code)
-- [GR](language_code)
-- [GS](language_code)
-- [GT](language_code)
-- [GU](language_code)
-- [GW](language_code)
-- [GY](language_code)
-- [HK](language_code)
-- [HM](language_code)
-- [HN](language_code)
-- [HR](language_code)
-- [HT](language_code)
-- [HU](language_code)
-- [IC](language_code)
-- [ID](language_code)
-- [IE](language_code)
-- [IL](language_code)
-- [IM](language_code)
-- [IN](language_code)
-- [IO](language_code)
-- [IQ](language_code)
-- [IR](language_code)
-- [IS](language_code)
-- [IT](language_code)
-- [JE](language_code)
-- [JM](language_code)
-- [JO](language_code)
-- [JP](language_code)
-- [KE](language_code)
-- [KG](language_code)
-- [KH](language_code)
-- [KI](language_code)
-- [KM](language_code)
-- [KN](language_code)
-- [KP](language_code)
-- [KR](language_code)
-- [KW](language_code)
-- [KY](language_code)
-- [KZ](language_code)
-- [LA](language_code)
-- [LB](language_code)
-- [LC](language_code)
-- [LI](language_code)
-- [LK](language_code)
-- [LR](language_code)
-- [LS](language_code)
-- [LT](language_code)
-- [LU](language_code)
-- [LV](language_code)
-- [LY](language_code)
-- [MA](language_code)
-- [MC](language_code)
-- [MD](language_code)
-- [ME](language_code)
-- [MF](language_code)
-- [MG](language_code)
-- [MH](language_code)
-- [MK](language_code)
-- [ML](language_code)
-- [MM](language_code)
-- [MN](language_code)
-- [MO](language_code)
-- [MP](language_code)
-- [MQ](language_code)
-- [MR](language_code)
-- [MS](language_code)
-- [MT](language_code)
-- [MU](language_code)
-- [MV](language_code)
-- [MW](language_code)
-- [MX](language_code)
-- [MY](language_code)
-- [MZ](language_code)
-- [NA](language_code)
-- [NC](language_code)
-- [NE](language_code)
-- [NF](language_code)
-- [NG](language_code)
-- [NI](language_code)
-- [NL](language_code)
-- [NO](language_code)
-- [NP](language_code)
-- [NR](language_code)
-- [NU](language_code)
-- [NZ](language_code)
-- [OM](language_code)
-- [PA](language_code)
-- [PE](language_code)
-- [PF](language_code)
-- [PG](language_code)
-- [PH](language_code)
-- [PK](language_code)
-- [PL](language_code)
-- [PM](language_code)
-- [PN](language_code)
-- [PR](language_code)
-- [PS](language_code)
-- [PT](language_code)
-- [PW](language_code)
-- [PY](language_code)
-- [QA](language_code)
-- [RE](language_code)
-- [RO](language_code)
-- [RS](language_code)
-- [RU](language_code)
-- [RW](language_code)
-- [SA](language_code)
-- [SB](language_code)
-- [SC](language_code)
-- [SD](language_code)
-- [SE](language_code)
-- [SG](language_code)
-- [SH](language_code)
-- [SI](language_code)
-- [SJ](language_code)
-- [SK](language_code)
-- [SL](language_code)
-- [SM](language_code)
-- [SN](language_code)
-- [SO](language_code)
-- [SR](language_code)
-- [SS](language_code)
-- [ST](language_code)
-- [SV](language_code)
-- [SX](language_code)
-- [SY](language_code)
-- [SZ](language_code)
-- [TA](language_code)
-- [TC](language_code)
-- [TD](language_code)
-- [TF](language_code)
-- [TG](language_code)
-- [TH](language_code)
-- [TJ](language_code)
-- [TK](language_code)
-- [TL](language_code)
-- [TM](language_code)
-- [TN](language_code)
-- [TO](language_code)
-- [TR](language_code)
-- [TT](language_code)
-- [TV](language_code)
-- [TW](language_code)
-- [TZ](language_code)
-- [UA](language_code)
-- [UG](language_code)
-- [UM](language_code)
-- [UN](language_code)
-- [US](language_code)
-- [UY](language_code)
-- [UZ](language_code)
-- [VA](language_code)
-- [VC](language_code)
-- [VE](language_code)
-- [VG](language_code)
-- [VI](language_code)
-- [VN](language_code)
-- [VU](language_code)
-- [WF](language_code)
-- [WS](language_code)
-- [XK](language_code)
-- [YE](language_code)
-- [YT](language_code)
-- [ZA](language_code)
-- [ZM](language_code)
-- [ZW](language_code)
+- [pl](language_code)
+- [cs](language_code)
+- [da](language_code)
+- [af](language_code)
+- [hi](language_code)
+- [es](language_code)
+- [la](language_code)
+- [ms](language_code)
+- [sv](language_code)
+- [de](language_code)
+- [eu](language_code)
+- [ro](language_code)
+- [zh-CN](language_code)
+- [Polish](language_code)
+- [Czech](language_code)
+- [Danish](language_code)
+- [Afrikaans](language_code)
+- [Hindi](language_code)
+- [Spanish](language_code)
+- [Latin](language_code)
+- [Malay](language_code)
+- [Swedish](language_code)
+- [German](language_code)
+- [Basque](language_code)
+- [Romanian](language_code)
+- [Chinese Simplified](language_code)
 
-## intent:extract_lang_name
-- [Afrikaans](language_name)
-- [Albanian](language_name)
-- [Amharic](language_name)
-- [Arabic](language_name)
-- [Armenian](language_name)
-- [Azerbaijani](language_name)
-- [Basque](language_name)
-- [Belarusian](language_name)
-- [Bengali](language_name)
-- [Bosnian](language_name)
-- [Bulgarian](language_name)
-- [Burmese](language_name)
-- [Catalan](language_name)
-- [Cebuano](language_name)
-- [Chewa](language_name)
-- [Chinese](language_name)
-- [Corsican](language_name)
-- [Croatian](language_name)
-- [Czech](language_name)
-- [Danish](language_name)
-- [Dutch](language_name)
-- [English](language_name)
-- [Esperanto](language_name)
-- [Estonian](language_name)
-- [Filipino](language_name)
-- [Finnish](language_name)
-- [French](language_name)
-- [Galician](language_name)
-- [Georgian](language_name)
-- [German](language_name)
-- [Greek](language_name)
-- [Gujarati](language_name)
-- [Haitian Creole](language_name)
-- [Hausa](language_name)
-- [Hawaiian](language_name)
-- [Hebrew](language_name)
-- [Hindi](language_name)
-- [Hmong](language_name)
-- [Hungarian](language_name)
-- [Icelandic](language_name)
-- [Igbo](language_name)
-- [Indonesian](language_name)
-- [Irish](language_name)
-- [Italian](language_name)
-- [Japanese](language_name)
-- [Javanese](language_name)
-- [Kannada](language_name)
-- [Kazakh](language_name)
-- [Khmer](language_name)
-- [Kinyarwanda](language_name)
-- [Korean](language_name)
-- [Kyrgyz](language_name)
-- [Lao](language_name)
-- [Latin](language_name)
-- [Latvian](language_name)
-- [Lithuanian](language_name)
-- [Luxembourgish](language_name)
-- [Macedonian](language_name)
-- [Malagasy](language_name)
-- [Malay](language_name)
-- [Malayalam](language_name)
-- [Maltese](language_name)
-- [Maori](language_name)
-- [Marathi](language_name)
-- [Mongolian](language_name)
-- [Nepali](language_name)
-- [Odia](language_name)
-- [Pashto](language_name)
-- [Persian](language_name)
-- [Polish](language_name)
-- [Portuguese](language_name)
-- [Romanian](language_name)
-- [Russian](language_name)
-- [Samoan](language_name)
-- [Scots Gaelic](language_name)
-- [Serbian](language_name)
-- [Sesotho](language_name)
-- [Shona](language_name)
-- [Sindhi](language_name)
-- [Sinhala](language_name)
-- [Slovak](language_name)
-- [Slovenian](language_name)
-- [Somali](language_name)
-- [Spanish](language_name)
-- [Sundanese](language_name)
-- [Swahili](language_name)
-- [Swedish](language_name)
-- [Tajik](language_name)
-- [Tamil](language_name)
-- [Tatar](language_name)
-- [Telugu](language_name)
-- [Thai](language_name)
-- [Turkish](language_name)
-- [Turkmen](language_name)
-- [Ukrainian](language_name)
-- [Urdu](language_name)
-- [Uyghur](language_name)
-- [Uzbek](language_name)
-- [Vietnamese](language_name)
-- [Welsh](language_name)
-- [West Frisian](language_name)
-- [Xhosa](language_name)
-- [Yiddish](language_name)
-- [Yoruba](language_name)
-- [Zulu](language_name)
+## intent:extract_country
+- [dsdasdasf](country_name)
+- [asffsakoi](country_name)
+- [feijetjbmp ob](country_name)
+- [tbeijwkbelbwetb](country_name)
+- [vroqio wvq iojrvjwqv](country_name)
+- [prwqv bwqoibwr](country_name)
+- [eqojiwewqelmckqwn](country_name)
+- [cepowqecwqncbiwqo](country_name)
+- [ceioqwecnwqc ewqnc](country_name)
+- [cepoqwejcqwjcewjoq](country_name)
+- [ceoqjwcenwcqieq](country_name)
+- [ceiqnecwqecqc](country_name)
+- [ceoqjcwqijcq](country_name)
+- [cenqwecnwjqek](country_name)
+- [ceqnjcwkqc](country_name)
+- [cqwoiemcwqckelcmq](country_name)
+- [cewqpokcqwpcemqwcm](country_name)
+
+## regex:language_code
+- [a-zA-Z]{2,3}
+
+## lookup:language_code
+  data/lookups/language_codes.txt
+## synonym:af
+- Afrikaans
+- afrikaans
+- AFRIKAANS
+- af
+- AF
+
+
+## synonym:ga
+- Irish
+- irish
+- IRISH
+- ga
+- GA
+
+
+## synonym:sq
+- Albanian
+- albanian
+- ALBANIAN
+- sq
+- SQ
+
+
+## synonym:it
+- Italian
+- italian
+- ITALIAN
+- it
+- IT
+
+
+## synonym:ar
+- Arabic
+- arabic
+- ARABIC
+- ar
+- AR
+
+
+## synonym:ja
+- Japanese
+- japanese
+- JAPANESE
+- ja
+- JA
+
+
+## synonym:az
+- Azerbaijani
+- azerbaijani
+- AZERBAIJANI
+- az
+- AZ
+
+
+## synonym:kn
+- Kannada
+- kannada
+- KANNADA
+- kn
+- KN
+
+
+## synonym:eu
+- Basque
+- basque
+- BASQUE
+- eu
+- EU
+
+
+## synonym:ko
+- Korean
+- korean
+- KOREAN
+- ko
+- KO
+
+
+## synonym:bn
+- Bengali
+- bengali
+- BENGALI
+- bn
+- BN
+
+
+## synonym:la
+- Latin
+- latin
+- LATIN
+- la
+- LA
+
+
+## synonym:be
+- Belarusian
+- belarusian
+- BELARUSIAN
+- be
+- BE
+
+
+## synonym:lv
+- Latvian
+- latvian
+- LATVIAN
+- lv
+- LV
+
+
+## synonym:bg
+- Bulgarian
+- bulgarian
+- BULGARIAN
+- bg
+- BG
+
+
+## synonym:lt
+- Lithuanian
+- lithuanian
+- LITHUANIAN
+- lt
+- LT
+
+
+## synonym:ca
+- Catalan
+- catalan
+- CATALAN
+- ca
+- CA
+
+
+## synonym:mk
+- Macedonian
+- macedonian
+- MACEDONIAN
+- mk
+- MK
+
+
+## synonym:zh-CN
+- Chinese Simplified
+- chinese simplified
+- CHINESE SIMPLIFIED
+- zh-CN
+- zh-cn
+- ZH-CN
+
+
+## synonym:ms
+- Malay
+- malay
+- MALAY
+- ms
+- MS
+
+
+## synonym:zh-TW
+- Chinese Traditional
+- chinese traditional
+- CHINESE TRADITIONAL
+- zh-TW
+- zh-tw
+- ZH-TW
+
+
+## synonym:mt
+- Maltese
+- maltese
+- MALTESE
+- mt
+- MT
+
+
+## synonym:hr
+- Croatian
+- croatian
+- CROATIAN
+- hr
+- HR
+
+
+## synonym:no
+- Norwegian
+- norwegian
+- NORWEGIAN
+- no
+- NO
+
+
+## synonym:cs
+- Czech
+- czech
+- CZECH
+- cs
+- CS
+
+
+## synonym:fa
+- Persian
+- persian
+- PERSIAN
+- fa
+- FA
+
+
+## synonym:da
+- Danish
+- danish
+- DANISH
+- da
+- DA
+
+
+## synonym:pl
+- Polish
+- polish
+- POLISH
+- pl
+- PL
+
+
+## synonym:nl
+- Dutch
+- dutch
+- DUTCH
+- nl
+- NL
+
+
+## synonym:pt
+- Portuguese
+- portuguese
+- PORTUGUESE
+- pt
+- PT
+
+
+## synonym:en
+- English
+- english
+- ENGLISH
+- en
+- EN
+
+
+## synonym:ro
+- Romanian
+- romanian
+- ROMANIAN
+- ro
+- RO
+
+
+## synonym:eo
+- Esperanto
+- esperanto
+- ESPERANTO
+- eo
+- EO
+
+
+## synonym:ru
+- Russian
+- russian
+- RUSSIAN
+- ru
+- RU
+
+
+## synonym:et
+- Estonian
+- estonian
+- ESTONIAN
+- et
+- ET
+
+
+## synonym:sr
+- Serbian
+- serbian
+- SERBIAN
+- sr
+- SR
+
+
+## synonym:tl
+- Filipino
+- filipino
+- FILIPINO
+- tl
+- TL
+
+
+## synonym:sk
+- Slovak
+- slovak
+- SLOVAK
+- sk
+- SK
+
+
+## synonym:fi
+- Finnish
+- finnish
+- FINNISH
+- fi
+- FI
+
+
+## synonym:sl
+- Slovenian
+- slovenian
+- SLOVENIAN
+- sl
+- SL
+
+
+## synonym:fr
+- French
+- french
+- FRENCH
+- fr
+- FR
+
+
+## synonym:es
+- Spanish
+- spanish
+- SPANISH
+- es
+- ES
+
+
+## synonym:gl
+- Galician
+- galician
+- GALICIAN
+- gl
+- GL
+
+
+## synonym:sw
+- Swahili
+- swahili
+- SWAHILI
+- sw
+- SW
+
+
+## synonym:ka
+- Georgian
+- georgian
+- GEORGIAN
+- ka
+- KA
+
+
+## synonym:sv
+- Swedish
+- swedish
+- SWEDISH
+- sv
+- SV
+
+
+## synonym:de
+- German
+- german
+- GERMAN
+- de
+- DE
+
+
+## synonym:ta
+- Tamil
+- tamil
+- TAMIL
+- ta
+- TA
+
+
+## synonym:el
+- Greek
+- greek
+- GREEK
+- el
+- EL
+
+
+## synonym:te
+- Telugu
+- telugu
+- TELUGU
+- te
+- TE
+
+
+## synonym:gu
+- Gujarati
+- gujarati
+- GUJARATI
+- gu
+- GU
+
+
+## synonym:th
+- Thai
+- thai
+- THAI
+- th
+- TH
+
+
+## synonym:ht
+- Haitian Creole
+- haitian creole
+- HAITIAN CREOLE
+- ht
+- HT
+
+
+## synonym:tr
+- Turkish
+- turkish
+- TURKISH
+- tr
+- TR
+
+
+## synonym:iw
+- Hebrew
+- hebrew
+- HEBREW
+- iw
+- IW
+
+
+## synonym:uk
+- Ukrainian
+- ukrainian
+- UKRAINIAN
+- uk
+- UK
+
+
+## synonym:hi
+- Hindi
+- hindi
+- HINDI
+- hi
+- HI
+
+
+## synonym:ur
+- Urdu
+- urdu
+- URDU
+- ur
+- UR
+
+
+## synonym:hu
+- Hungarian
+- hungarian
+- HUNGARIAN
+- hu
+- HU
+
+
+## synonym:vi
+- Vietnamese
+- vietnamese
+- VIETNAMESE
+- vi
+- VI
+
+
+## synonym:is
+- Icelandic
+- icelandic
+- ICELANDIC
+- is
+- IS
+
+
+## synonym:cy
+- Welsh
+- welsh
+- WELSH
+- cy
+- CY
+
+
+## synonym:id
+- Indonesian
+- indonesian
+- INDONESIAN
+- id
+- ID
+
+
+## synonym:yi
+- Yiddish
+- yiddish
+- YIDDISH
+- yi
+- YI
+
 

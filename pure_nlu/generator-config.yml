@@ -3,16 +3,17 @@
 intents:
     extract_lang_code:
          - 
-           source:     flag_emoticons.csv
-           extract_as: flag
-         - 
            source:     language_codes.csv
            extract_as: language_code
-    
-    extract_lang_name:   
          - 
            source:     language_names.csv
-           extract_as: language_name
+           extract_as: language_code
+    extract_country:
+         - 
+           source:     country_names.csv
+           extract_as: country_name
 
+# Will be appended without pre-processing
 misc:
     - misc.csv
+    - synonyms_file.md

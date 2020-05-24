@@ -8,3 +8,4 @@ services:
       - ./pure_nlu/:/app
     command:
       - run
+      - --enable-api
