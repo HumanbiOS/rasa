@@ -7,5 +7,5 @@ WORKDIR /app
 RUN pip3 install -r requirements.txt
 
 # Launch
-CMD rasa run --enable-api -m models/latest.tar.gz
+CMD ["rasa", "run", "--enable-api", "-m", "models/latest.tar.gz"]
 

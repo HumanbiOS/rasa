@@ -19,9 +19,6 @@ log/
 # PyCharm
 .idea
 
-# Rasa
-*/*/models/*.tar.gz
-
 # Local test
 test.py
 
