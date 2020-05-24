@@ -1,14 +1,10 @@
-version: "3.7"
-
+version: '3.0'
 services:
-  caddy:
-    container_name: humanbios-rasa
-    image: humanbios-rasa
-    restart: unless-stopped
+  rasa_pure_nlu:
+    image: rasa/rasa:1.10.1-full
     ports:
-    - 5005:5005
-
-networks:
-  default:
-    external:
-      name: caddynet
+      - 5005:5005
+    volumes:
+      - ./pure_nlu/:/app
+    command:
+      - run
