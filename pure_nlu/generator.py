@@ -4,7 +4,7 @@ import yaml
 
 
 def parse_data():
-    with open("samples-config.yml") as config:
+    with open("generator-config.yml") as config:
         config = yaml.safe_load(config)
     
     intents = config['intents']
