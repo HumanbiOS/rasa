@@ -1,681 +1,684 @@
 ## intent:extract_lang_code
-- [vi](language_code)
-- [vi](language_code)
-- [vi](language_code) language
-- [vi](language_code) lang
-- [vi](language_code) Language.
-- [vi](language_code) country
-- I want [vi](language_code)
-- I want [vi](language_code) language
-- I want [vi](language_code) lang
-- I want [vi](language_code) Language.
-- I want [vi](language_code) country
-- I'm willing [vi](language_code)
-- I'm willing [vi](language_code) language
-- I'm willing [vi](language_code) lang
-- I'm willing [vi](language_code) Language.
-- I'm willing [vi](language_code) country
-- okay I speak [vi](language_code)
-- okay I speak [vi](language_code) language
-- okay I speak [vi](language_code) lang
-- okay I speak [vi](language_code) Language.
-- okay I speak [vi](language_code) country
-- speak [vi](language_code)
-- speak [vi](language_code) language
-- speak [vi](language_code) lang
-- speak [vi](language_code) Language.
-- speak [vi](language_code) country
-- talk [vi](language_code)
-- talk [vi](language_code) language
-- talk [vi](language_code) lang
-- talk [vi](language_code) Language.
-- talk [vi](language_code) country
-- choose [vi](language_code)
-- choose [vi](language_code) language
-- choose [vi](language_code) lang
-- choose [vi](language_code) Language.
-- choose [vi](language_code) country
-- lets choose [vi](language_code)
-- lets choose [vi](language_code) language
-- lets choose [vi](language_code) lang
-- lets choose [vi](language_code) Language.
-- lets choose [vi](language_code) country
-- I speak [vi](language_code)
-- I speak [vi](language_code) language
-- I speak [vi](language_code) lang
-- I speak [vi](language_code) Language.
-- I speak [vi](language_code) country
-- I want to choose [vi](language_code)
-- I want to choose [vi](language_code) language
-- I want to choose [vi](language_code) lang
-- I want to choose [vi](language_code) Language.
-- I want to choose [vi](language_code) country
-- I'm willing to choose [vi](language_code)
-- I'm willing to choose [vi](language_code) language
-- I'm willing to choose [vi](language_code) lang
-- I'm willing to choose [vi](language_code) Language.
-- I'm willing to choose [vi](language_code) country
-- [ta](language_code)
-- [ta](language_code)
-- [ta](language_code) language
-- [ta](language_code) lang
-- [ta](language_code) Language.
-- [ta](language_code) country
-- I want [ta](language_code)
-- I want [ta](language_code) language
-- I want [ta](language_code) lang
-- I want [ta](language_code) Language.
-- I want [ta](language_code) country
-- I'm willing [ta](language_code)
-- I'm willing [ta](language_code) language
-- I'm willing [ta](language_code) lang
-- I'm willing [ta](language_code) Language.
-- I'm willing [ta](language_code) country
-- okay I speak [ta](language_code)
-- okay I speak [ta](language_code) language
-- okay I speak [ta](language_code) lang
-- okay I speak [ta](language_code) Language.
-- okay I speak [ta](language_code) country
-- speak [ta](language_code)
-- speak [ta](language_code) language
-- speak [ta](language_code) lang
-- speak [ta](language_code) Language.
-- speak [ta](language_code) country
-- talk [ta](language_code)
-- talk [ta](language_code) language
-- talk [ta](language_code) lang
-- talk [ta](language_code) Language.
-- talk [ta](language_code) country
-- choose [ta](language_code)
-- choose [ta](language_code) language
-- choose [ta](language_code) lang
-- choose [ta](language_code) Language.
-- choose [ta](language_code) country
-- lets choose [ta](language_code)
-- lets choose [ta](language_code) language
-- lets choose [ta](language_code) lang
-- lets choose [ta](language_code) Language.
-- lets choose [ta](language_code) country
-- I speak [ta](language_code)
-- I speak [ta](language_code) language
-- I speak [ta](language_code) lang
-- I speak [ta](language_code) Language.
-- I speak [ta](language_code) country
-- I want to choose [ta](language_code)
-- I want to choose [ta](language_code) language
-- I want to choose [ta](language_code) lang
-- I want to choose [ta](language_code) Language.
-- I want to choose [ta](language_code) country
-- I'm willing to choose [ta](language_code)
-- I'm willing to choose [ta](language_code) language
-- I'm willing to choose [ta](language_code) lang
-- I'm willing to choose [ta](language_code) Language.
-- I'm willing to choose [ta](language_code) country
-- [no](language_code)
-- [no](language_code)
-- [no](language_code) language
-- [no](language_code) lang
-- [no](language_code) Language.
-- [no](language_code) country
-- I want [no](language_code)
-- I want [no](language_code) language
-- I want [no](language_code) lang
-- I want [no](language_code) Language.
-- I want [no](language_code) country
-- I'm willing [no](language_code)
-- I'm willing [no](language_code) language
-- I'm willing [no](language_code) lang
-- I'm willing [no](language_code) Language.
-- I'm willing [no](language_code) country
-- okay I speak [no](language_code)
-- okay I speak [no](language_code) language
-- okay I speak [no](language_code) lang
-- okay I speak [no](language_code) Language.
-- okay I speak [no](language_code) country
-- speak [no](language_code)
-- speak [no](language_code) language
-- speak [no](language_code) lang
-- speak [no](language_code) Language.
-- speak [no](language_code) country
-- talk [no](language_code)
-- talk [no](language_code) language
-- talk [no](language_code) lang
-- talk [no](language_code) Language.
-- talk [no](language_code) country
-- choose [no](language_code)
-- choose [no](language_code) language
-- choose [no](language_code) lang
-- choose [no](language_code) Language.
-- choose [no](language_code) country
-- lets choose [no](language_code)
-- lets choose [no](language_code) language
-- lets choose [no](language_code) lang
-- lets choose [no](language_code) Language.
-- lets choose [no](language_code) country
-- I speak [no](language_code)
-- I speak [no](language_code) language
-- I speak [no](language_code) lang
-- I speak [no](language_code) Language.
-- I speak [no](language_code) country
-- I want to choose [no](language_code)
-- I want to choose [no](language_code) language
-- I want to choose [no](language_code) lang
-- I want to choose [no](language_code) Language.
-- I want to choose [no](language_code) country
-- I'm willing to choose [no](language_code)
-- I'm willing to choose [no](language_code) language
-- I'm willing to choose [no](language_code) lang
-- I'm willing to choose [no](language_code) Language.
-- I'm willing to choose [no](language_code) country
-- [az](language_code)
-- [az](language_code)
-- [az](language_code) language
-- [az](language_code) lang
-- [az](language_code) Language.
-- [az](language_code) country
-- I want [az](language_code)
-- I want [az](language_code) language
-- I want [az](language_code) lang
-- I want [az](language_code) Language.
-- I want [az](language_code) country
-- I'm willing [az](language_code)
-- I'm willing [az](language_code) language
-- I'm willing [az](language_code) lang
-- I'm willing [az](language_code) Language.
-- I'm willing [az](language_code) country
-- okay I speak [az](language_code)
-- okay I speak [az](language_code) language
-- okay I speak [az](language_code) lang
-- okay I speak [az](language_code) Language.
-- okay I speak [az](language_code) country
-- speak [az](language_code)
-- speak [az](language_code) language
-- speak [az](language_code) lang
-- speak [az](language_code) Language.
-- speak [az](language_code) country
-- talk [az](language_code)
-- talk [az](language_code) language
-- talk [az](language_code) lang
-- talk [az](language_code) Language.
-- talk [az](language_code) country
-- choose [az](language_code)
-- choose [az](language_code) language
-- choose [az](language_code) lang
-- choose [az](language_code) Language.
-- choose [az](language_code) country
-- lets choose [az](language_code)
-- lets choose [az](language_code) language
-- lets choose [az](language_code) lang
-- lets choose [az](language_code) Language.
-- lets choose [az](language_code) country
-- I speak [az](language_code)
-- I speak [az](language_code) language
-- I speak [az](language_code) lang
-- I speak [az](language_code) Language.
-- I speak [az](language_code) country
-- I want to choose [az](language_code)
-- I want to choose [az](language_code) language
-- I want to choose [az](language_code) lang
-- I want to choose [az](language_code) Language.
-- I want to choose [az](language_code) country
-- I'm willing to choose [az](language_code)
-- I'm willing to choose [az](language_code) language
-- I'm willing to choose [az](language_code) lang
-- I'm willing to choose [az](language_code) Language.
-- I'm willing to choose [az](language_code) country
-- [iw](language_code)
-- [iw](language_code)
-- [iw](language_code) language
-- [iw](language_code) lang
-- [iw](language_code) Language.
-- [iw](language_code) country
-- I want [iw](language_code)
-- I want [iw](language_code) language
-- I want [iw](language_code) lang
-- I want [iw](language_code) Language.
-- I want [iw](language_code) country
-- I'm willing [iw](language_code)
-- I'm willing [iw](language_code) language
-- I'm willing [iw](language_code) lang
-- I'm willing [iw](language_code) Language.
-- I'm willing [iw](language_code) country
-- okay I speak [iw](language_code)
-- okay I speak [iw](language_code) language
-- okay I speak [iw](language_code) lang
-- okay I speak [iw](language_code) Language.
-- okay I speak [iw](language_code) country
-- speak [iw](language_code)
-- speak [iw](language_code) language
-- speak [iw](language_code) lang
-- speak [iw](language_code) Language.
-- speak [iw](language_code) country
-- talk [iw](language_code)
-- talk [iw](language_code) language
-- talk [iw](language_code) lang
-- talk [iw](language_code) Language.
-- talk [iw](language_code) country
-- choose [iw](language_code)
-- choose [iw](language_code) language
-- choose [iw](language_code) lang
-- choose [iw](language_code) Language.
-- choose [iw](language_code) country
-- lets choose [iw](language_code)
-- lets choose [iw](language_code) language
-- lets choose [iw](language_code) lang
-- lets choose [iw](language_code) Language.
-- lets choose [iw](language_code) country
-- I speak [iw](language_code)
-- I speak [iw](language_code) language
-- I speak [iw](language_code) lang
-- I speak [iw](language_code) Language.
-- I speak [iw](language_code) country
-- I want to choose [iw](language_code)
-- I want to choose [iw](language_code) language
-- I want to choose [iw](language_code) lang
-- I want to choose [iw](language_code) Language.
-- I want to choose [iw](language_code) country
-- I'm willing to choose [iw](language_code)
-- I'm willing to choose [iw](language_code) language
-- I'm willing to choose [iw](language_code) lang
-- I'm willing to choose [iw](language_code) Language.
-- I'm willing to choose [iw](language_code) country
-- [cs](language_code)
-- [cs](language_code)
-- [cs](language_code) language
-- [cs](language_code) lang
-- [cs](language_code) Language.
-- [cs](language_code) country
-- I want [cs](language_code)
-- I want [cs](language_code) language
-- I want [cs](language_code) lang
-- I want [cs](language_code) Language.
-- I want [cs](language_code) country
-- I'm willing [cs](language_code)
-- I'm willing [cs](language_code) language
-- I'm willing [cs](language_code) lang
-- I'm willing [cs](language_code) Language.
-- I'm willing [cs](language_code) country
-- okay I speak [cs](language_code)
-- okay I speak [cs](language_code) language
-- okay I speak [cs](language_code) lang
-- okay I speak [cs](language_code) Language.
-- okay I speak [cs](language_code) country
-- speak [cs](language_code)
-- speak [cs](language_code) language
-- speak [cs](language_code) lang
-- speak [cs](language_code) Language.
-- speak [cs](language_code) country
-- talk [cs](language_code)
-- talk [cs](language_code) language
-- talk [cs](language_code) lang
-- talk [cs](language_code) Language.
-- talk [cs](language_code) country
-- choose [cs](language_code)
-- choose [cs](language_code) language
-- choose [cs](language_code) lang
-- choose [cs](language_code) Language.
-- choose [cs](language_code) country
-- lets choose [cs](language_code)
-- lets choose [cs](language_code) language
-- lets choose [cs](language_code) lang
-- lets choose [cs](language_code) Language.
-- lets choose [cs](language_code) country
-- I speak [cs](language_code)
-- I speak [cs](language_code) language
-- I speak [cs](language_code) lang
-- I speak [cs](language_code) Language.
-- I speak [cs](language_code) country
-- I want to choose [cs](language_code)
-- I want to choose [cs](language_code) language
-- I want to choose [cs](language_code) lang
-- I want to choose [cs](language_code) Language.
-- I want to choose [cs](language_code) country
-- I'm willing to choose [cs](language_code)
-- I'm willing to choose [cs](language_code) language
-- I'm willing to choose [cs](language_code) lang
-- I'm willing to choose [cs](language_code) Language.
-- I'm willing to choose [cs](language_code) country
+- [cy](language_code)
+- [cy](language_code)
+- [cy](language_code) language
+- [cy](language_code) lang
+- [cy](language_code) Language.
+- [cy](language_code) country
+- I want [cy](language_code)
+- I want [cy](language_code) language
+- I want [cy](language_code) lang
+- I want [cy](language_code) Language.
+- I want [cy](language_code) country
+- I'm willing [cy](language_code)
+- I'm willing [cy](language_code) language
+- I'm willing [cy](language_code) lang
+- I'm willing [cy](language_code) Language.
+- I'm willing [cy](language_code) country
+- okay I speak [cy](language_code)
+- okay I speak [cy](language_code) language
+- okay I speak [cy](language_code) lang
+- okay I speak [cy](language_code) Language.
+- okay I speak [cy](language_code) country
+- speak [cy](language_code)
+- speak [cy](language_code) language
+- speak [cy](language_code) lang
+- speak [cy](language_code) Language.
+- speak [cy](language_code) country
+- talk [cy](language_code)
+- talk [cy](language_code) language
+- talk [cy](language_code) lang
+- talk [cy](language_code) Language.
+- talk [cy](language_code) country
+- choose [cy](language_code)
+- choose [cy](language_code) language
+- choose [cy](language_code) lang
+- choose [cy](language_code) Language.
+- choose [cy](language_code) country
+- lets choose [cy](language_code)
+- lets choose [cy](language_code) language
+- lets choose [cy](language_code) lang
+- lets choose [cy](language_code) Language.
+- lets choose [cy](language_code) country
+- I speak [cy](language_code)
+- I speak [cy](language_code) language
+- I speak [cy](language_code) lang
+- I speak [cy](language_code) Language.
+- I speak [cy](language_code) country
+- I want to choose [cy](language_code)
+- I want to choose [cy](language_code) language
+- I want to choose [cy](language_code) lang
+- I want to choose [cy](language_code) Language.
+- I want to choose [cy](language_code) country
+- I'm willing to choose [cy](language_code)
+- I'm willing to choose [cy](language_code) language
+- I'm willing to choose [cy](language_code) lang
+- I'm willing to choose [cy](language_code) Language.
+- I'm willing to choose [cy](language_code) country
+- [bn](language_code)
+- [bn](language_code)
+- [bn](language_code) language
+- [bn](language_code) lang
+- [bn](language_code) Language.
+- [bn](language_code) country
+- I want [bn](language_code)
+- I want [bn](language_code) language
+- I want [bn](language_code) lang
+- I want [bn](language_code) Language.
+- I want [bn](language_code) country
+- I'm willing [bn](language_code)
+- I'm willing [bn](language_code) language
+- I'm willing [bn](language_code) lang
+- I'm willing [bn](language_code) Language.
+- I'm willing [bn](language_code) country
+- okay I speak [bn](language_code)
+- okay I speak [bn](language_code) language
+- okay I speak [bn](language_code) lang
+- okay I speak [bn](language_code) Language.
+- okay I speak [bn](language_code) country
+- speak [bn](language_code)
+- speak [bn](language_code) language
+- speak [bn](language_code) lang
+- speak [bn](language_code) Language.
+- speak [bn](language_code) country
+- talk [bn](language_code)
+- talk [bn](language_code) language
+- talk [bn](language_code) lang
+- talk [bn](language_code) Language.
+- talk [bn](language_code) country
+- choose [bn](language_code)
+- choose [bn](language_code) language
+- choose [bn](language_code) lang
+- choose [bn](language_code) Language.
+- choose [bn](language_code) country
+- lets choose [bn](language_code)
+- lets choose [bn](language_code) language
+- lets choose [bn](language_code) lang
+- lets choose [bn](language_code) Language.
+- lets choose [bn](language_code) country
+- I speak [bn](language_code)
+- I speak [bn](language_code) language
+- I speak [bn](language_code) lang
+- I speak [bn](language_code) Language.
+- I speak [bn](language_code) country
+- I want to choose [bn](language_code)
+- I want to choose [bn](language_code) language
+- I want to choose [bn](language_code) lang
+- I want to choose [bn](language_code) Language.
+- I want to choose [bn](language_code) country
+- I'm willing to choose [bn](language_code)
+- I'm willing to choose [bn](language_code) language
+- I'm willing to choose [bn](language_code) lang
+- I'm willing to choose [bn](language_code) Language.
+- I'm willing to choose [bn](language_code) country
+- [lv](language_code)
+- [lv](language_code)
+- [lv](language_code) language
+- [lv](language_code) lang
+- [lv](language_code) Language.
+- [lv](language_code) country
+- I want [lv](language_code)
+- I want [lv](language_code) language
+- I want [lv](language_code) lang
+- I want [lv](language_code) Language.
+- I want [lv](language_code) country
+- I'm willing [lv](language_code)
+- I'm willing [lv](language_code) language
+- I'm willing [lv](language_code) lang
+- I'm willing [lv](language_code) Language.
+- I'm willing [lv](language_code) country
+- okay I speak [lv](language_code)
+- okay I speak [lv](language_code) language
+- okay I speak [lv](language_code) lang
+- okay I speak [lv](language_code) Language.
+- okay I speak [lv](language_code) country
+- speak [lv](language_code)
+- speak [lv](language_code) language
+- speak [lv](language_code) lang
+- speak [lv](language_code) Language.
+- speak [lv](language_code) country
+- talk [lv](language_code)
+- talk [lv](language_code) language
+- talk [lv](language_code) lang
+- talk [lv](language_code) Language.
+- talk [lv](language_code) country
+- choose [lv](language_code)
+- choose [lv](language_code) language
+- choose [lv](language_code) lang
+- choose [lv](language_code) Language.
+- choose [lv](language_code) country
+- lets choose [lv](language_code)
+- lets choose [lv](language_code) language
+- lets choose [lv](language_code) lang
+- lets choose [lv](language_code) Language.
+- lets choose [lv](language_code) country
+- I speak [lv](language_code)
+- I speak [lv](language_code) language
+- I speak [lv](language_code) lang
+- I speak [lv](language_code) Language.
+- I speak [lv](language_code) country
+- I want to choose [lv](language_code)
+- I want to choose [lv](language_code) language
+- I want to choose [lv](language_code) lang
+- I want to choose [lv](language_code) Language.
+- I want to choose [lv](language_code) country
+- I'm willing to choose [lv](language_code)
+- I'm willing to choose [lv](language_code) language
+- I'm willing to choose [lv](language_code) lang
+- I'm willing to choose [lv](language_code) Language.
+- I'm willing to choose [lv](language_code) country
+- [en](language_code)
+- [en](language_code)
+- [en](language_code) language
+- [en](language_code) lang
+- [en](language_code) Language.
+- [en](language_code) country
+- I want [en](language_code)
+- I want [en](language_code) language
+- I want [en](language_code) lang
+- I want [en](language_code) Language.
+- I want [en](language_code) country
+- I'm willing [en](language_code)
+- I'm willing [en](language_code) language
+- I'm willing [en](language_code) lang
+- I'm willing [en](language_code) Language.
+- I'm willing [en](language_code) country
+- okay I speak [en](language_code)
+- okay I speak [en](language_code) language
+- okay I speak [en](language_code) lang
+- okay I speak [en](language_code) Language.
+- okay I speak [en](language_code) country
+- speak [en](language_code)
+- speak [en](language_code) language
+- speak [en](language_code) lang
+- speak [en](language_code) Language.
+- speak [en](language_code) country
+- talk [en](language_code)
+- talk [en](language_code) language
+- talk [en](language_code) lang
+- talk [en](language_code) Language.
+- talk [en](language_code) country
+- choose [en](language_code)
+- choose [en](language_code) language
+- choose [en](language_code) lang
+- choose [en](language_code) Language.
+- choose [en](language_code) country
+- lets choose [en](language_code)
+- lets choose [en](language_code) language
+- lets choose [en](language_code) lang
+- lets choose [en](language_code) Language.
+- lets choose [en](language_code) country
+- I speak [en](language_code)
+- I speak [en](language_code) language
+- I speak [en](language_code) lang
+- I speak [en](language_code) Language.
+- I speak [en](language_code) country
+- I want to choose [en](language_code)
+- I want to choose [en](language_code) language
+- I want to choose [en](language_code) lang
+- I want to choose [en](language_code) Language.
+- I want to choose [en](language_code) country
+- I'm willing to choose [en](language_code)
+- I'm willing to choose [en](language_code) language
+- I'm willing to choose [en](language_code) lang
+- I'm willing to choose [en](language_code) Language.
+- I'm willing to choose [en](language_code) country
+- [te](language_code)
+- [te](language_code)
+- [te](language_code) language
+- [te](language_code) lang
+- [te](language_code) Language.
+- [te](language_code) country
+- I want [te](language_code)
+- I want [te](language_code) language
+- I want [te](language_code) lang
+- I want [te](language_code) Language.
+- I want [te](language_code) country
+- I'm willing [te](language_code)
+- I'm willing [te](language_code) language
+- I'm willing [te](language_code) lang
+- I'm willing [te](language_code) Language.
+- I'm willing [te](language_code) country
+- okay I speak [te](language_code)
+- okay I speak [te](language_code) language
+- okay I speak [te](language_code) lang
+- okay I speak [te](language_code) Language.
+- okay I speak [te](language_code) country
+- speak [te](language_code)
+- speak [te](language_code) language
+- speak [te](language_code) lang
+- speak [te](language_code) Language.
+- speak [te](language_code) country
+- talk [te](language_code)
+- talk [te](language_code) language
+- talk [te](language_code) lang
+- talk [te](language_code) Language.
+- talk [te](language_code) country
+- choose [te](language_code)
+- choose [te](language_code) language
+- choose [te](language_code) lang
+- choose [te](language_code) Language.
+- choose [te](language_code) country
+- lets choose [te](language_code)
+- lets choose [te](language_code) language
+- lets choose [te](language_code) lang
+- lets choose [te](language_code) Language.
+- lets choose [te](language_code) country
+- I speak [te](language_code)
+- I speak [te](language_code) language
+- I speak [te](language_code) lang
+- I speak [te](language_code) Language.
+- I speak [te](language_code) country
+- I want to choose [te](language_code)
+- I want to choose [te](language_code) language
+- I want to choose [te](language_code) lang
+- I want to choose [te](language_code) Language.
+- I want to choose [te](language_code) country
+- I'm willing to choose [te](language_code)
+- I'm willing to choose [te](language_code) language
+- I'm willing to choose [te](language_code) lang
+- I'm willing to choose [te](language_code) Language.
+- I'm willing to choose [te](language_code) country
+- [af](language_code)
+- [af](language_code)
+- [af](language_code) language
+- [af](language_code) lang
+- [af](language_code) Language.
+- [af](language_code) country
+- I want [af](language_code)
+- I want [af](language_code) language
+- I want [af](language_code) lang
+- I want [af](language_code) Language.
+- I want [af](language_code) country
+- I'm willing [af](language_code)
+- I'm willing [af](language_code) language
+- I'm willing [af](language_code) lang
+- I'm willing [af](language_code) Language.
+- I'm willing [af](language_code) country
+- okay I speak [af](language_code)
+- okay I speak [af](language_code) language
+- okay I speak [af](language_code) lang
+- okay I speak [af](language_code) Language.
+- okay I speak [af](language_code) country
+- speak [af](language_code)
+- speak [af](language_code) language
+- speak [af](language_code) lang
+- speak [af](language_code) Language.
+- speak [af](language_code) country
+- talk [af](language_code)
+- talk [af](language_code) language
+- talk [af](language_code) lang
+- talk [af](language_code) Language.
+- talk [af](language_code) country
+- choose [af](language_code)
+- choose [af](language_code) language
+- choose [af](language_code) lang
+- choose [af](language_code) Language.
+- choose [af](language_code) country
+- lets choose [af](language_code)
+- lets choose [af](language_code) language
+- lets choose [af](language_code) lang
+- lets choose [af](language_code) Language.
+- lets choose [af](language_code) country
+- I speak [af](language_code)
+- I speak [af](language_code) language
+- I speak [af](language_code) lang
+- I speak [af](language_code) Language.
+- I speak [af](language_code) country
+- I want to choose [af](language_code)
+- I want to choose [af](language_code) language
+- I want to choose [af](language_code) lang
+- I want to choose [af](language_code) Language.
+- I want to choose [af](language_code) country
+- I'm willing to choose [af](language_code)
+- I'm willing to choose [af](language_code) language
+- I'm willing to choose [af](language_code) lang
+- I'm willing to choose [af](language_code) Language.
+- I'm willing to choose [af](language_code) country
 
 ## intent:extract_lang_name
-- [Vietnamese](language_name)
-- [Vietnamese](language_name)
-- [Vietnamese](language_name) language
-- [Vietnamese](language_name) lang
-- [Vietnamese](language_name) Language.
-- [Vietnamese](language_name) country
-- I want [Vietnamese](language_name)
-- I want [Vietnamese](language_name) language
-- I want [Vietnamese](language_name) lang
-- I want [Vietnamese](language_name) Language.
-- I want [Vietnamese](language_name) country
-- I'm willing [Vietnamese](language_name)
-- I'm willing [Vietnamese](language_name) language
-- I'm willing [Vietnamese](language_name) lang
-- I'm willing [Vietnamese](language_name) Language.
-- I'm willing [Vietnamese](language_name) country
-- okay I speak [Vietnamese](language_name)
-- okay I speak [Vietnamese](language_name) language
-- okay I speak [Vietnamese](language_name) lang
-- okay I speak [Vietnamese](language_name) Language.
-- okay I speak [Vietnamese](language_name) country
-- speak [Vietnamese](language_name)
-- speak [Vietnamese](language_name) language
-- speak [Vietnamese](language_name) lang
-- speak [Vietnamese](language_name) Language.
-- speak [Vietnamese](language_name) country
-- talk [Vietnamese](language_name)
-- talk [Vietnamese](language_name) language
-- talk [Vietnamese](language_name) lang
-- talk [Vietnamese](language_name) Language.
-- talk [Vietnamese](language_name) country
-- choose [Vietnamese](language_name)
-- choose [Vietnamese](language_name) language
-- choose [Vietnamese](language_name) lang
-- choose [Vietnamese](language_name) Language.
-- choose [Vietnamese](language_name) country
-- lets choose [Vietnamese](language_name)
-- lets choose [Vietnamese](language_name) language
-- lets choose [Vietnamese](language_name) lang
-- lets choose [Vietnamese](language_name) Language.
-- lets choose [Vietnamese](language_name) country
-- I speak [Vietnamese](language_name)
-- I speak [Vietnamese](language_name) language
-- I speak [Vietnamese](language_name) lang
-- I speak [Vietnamese](language_name) Language.
-- I speak [Vietnamese](language_name) country
-- I want to choose [Vietnamese](language_name)
-- I want to choose [Vietnamese](language_name) language
-- I want to choose [Vietnamese](language_name) lang
-- I want to choose [Vietnamese](language_name) Language.
-- I want to choose [Vietnamese](language_name) country
-- I'm willing to choose [Vietnamese](language_name)
-- I'm willing to choose [Vietnamese](language_name) language
-- I'm willing to choose [Vietnamese](language_name) lang
-- I'm willing to choose [Vietnamese](language_name) Language.
-- I'm willing to choose [Vietnamese](language_name) country
-- [Tamil](language_name)
-- [Tamil](language_name)
-- [Tamil](language_name) language
-- [Tamil](language_name) lang
-- [Tamil](language_name) Language.
-- [Tamil](language_name) country
-- I want [Tamil](language_name)
-- I want [Tamil](language_name) language
-- I want [Tamil](language_name) lang
-- I want [Tamil](language_name) Language.
-- I want [Tamil](language_name) country
-- I'm willing [Tamil](language_name)
-- I'm willing [Tamil](language_name) language
-- I'm willing [Tamil](language_name) lang
-- I'm willing [Tamil](language_name) Language.
-- I'm willing [Tamil](language_name) country
-- okay I speak [Tamil](language_name)
-- okay I speak [Tamil](language_name) language
-- okay I speak [Tamil](language_name) lang
-- okay I speak [Tamil](language_name) Language.
-- okay I speak [Tamil](language_name) country
-- speak [Tamil](language_name)
-- speak [Tamil](language_name) language
-- speak [Tamil](language_name) lang
-- speak [Tamil](language_name) Language.
-- speak [Tamil](language_name) country
-- talk [Tamil](language_name)
-- talk [Tamil](language_name) language
-- talk [Tamil](language_name) lang
-- talk [Tamil](language_name) Language.
-- talk [Tamil](language_name) country
-- choose [Tamil](language_name)
-- choose [Tamil](language_name) language
-- choose [Tamil](language_name) lang
-- choose [Tamil](language_name) Language.
-- choose [Tamil](language_name) country
-- lets choose [Tamil](language_name)
-- lets choose [Tamil](language_name) language
-- lets choose [Tamil](language_name) lang
-- lets choose [Tamil](language_name) Language.
-- lets choose [Tamil](language_name) country
-- I speak [Tamil](language_name)
-- I speak [Tamil](language_name) language
-- I speak [Tamil](language_name) lang
-- I speak [Tamil](language_name) Language.
-- I speak [Tamil](language_name) country
-- I want to choose [Tamil](language_name)
-- I want to choose [Tamil](language_name) language
-- I want to choose [Tamil](language_name) lang
-- I want to choose [Tamil](language_name) Language.
-- I want to choose [Tamil](language_name) country
-- I'm willing to choose [Tamil](language_name)
-- I'm willing to choose [Tamil](language_name) language
-- I'm willing to choose [Tamil](language_name) lang
-- I'm willing to choose [Tamil](language_name) Language.
-- I'm willing to choose [Tamil](language_name) country
-- [Norwegian](language_name)
-- [Norwegian](language_name)
-- [Norwegian](language_name) language
-- [Norwegian](language_name) lang
-- [Norwegian](language_name) Language.
-- [Norwegian](language_name) country
-- I want [Norwegian](language_name)
-- I want [Norwegian](language_name) language
-- I want [Norwegian](language_name) lang
-- I want [Norwegian](language_name) Language.
-- I want [Norwegian](language_name) country
-- I'm willing [Norwegian](language_name)
-- I'm willing [Norwegian](language_name) language
-- I'm willing [Norwegian](language_name) lang
-- I'm willing [Norwegian](language_name) Language.
-- I'm willing [Norwegian](language_name) country
-- okay I speak [Norwegian](language_name)
-- okay I speak [Norwegian](language_name) language
-- okay I speak [Norwegian](language_name) lang
-- okay I speak [Norwegian](language_name) Language.
-- okay I speak [Norwegian](language_name) country
-- speak [Norwegian](language_name)
-- speak [Norwegian](language_name) language
-- speak [Norwegian](language_name) lang
-- speak [Norwegian](language_name) Language.
-- speak [Norwegian](language_name) country
-- talk [Norwegian](language_name)
-- talk [Norwegian](language_name) language
-- talk [Norwegian](language_name) lang
-- talk [Norwegian](language_name) Language.
-- talk [Norwegian](language_name) country
-- choose [Norwegian](language_name)
-- choose [Norwegian](language_name) language
-- choose [Norwegian](language_name) lang
-- choose [Norwegian](language_name) Language.
-- choose [Norwegian](language_name) country
-- lets choose [Norwegian](language_name)
-- lets choose [Norwegian](language_name) language
-- lets choose [Norwegian](language_name) lang
-- lets choose [Norwegian](language_name) Language.
-- lets choose [Norwegian](language_name) country
-- I speak [Norwegian](language_name)
-- I speak [Norwegian](language_name) language
-- I speak [Norwegian](language_name) lang
-- I speak [Norwegian](language_name) Language.
-- I speak [Norwegian](language_name) country
-- I want to choose [Norwegian](language_name)
-- I want to choose [Norwegian](language_name) language
-- I want to choose [Norwegian](language_name) lang
-- I want to choose [Norwegian](language_name) Language.
-- I want to choose [Norwegian](language_name) country
-- I'm willing to choose [Norwegian](language_name)
-- I'm willing to choose [Norwegian](language_name) language
-- I'm willing to choose [Norwegian](language_name) lang
-- I'm willing to choose [Norwegian](language_name) Language.
-- I'm willing to choose [Norwegian](language_name) country
-- [Azerbaijani](language_name)
-- [Azerbaijani](language_name)
-- [Azerbaijani](language_name) language
-- [Azerbaijani](language_name) lang
-- [Azerbaijani](language_name) Language.
-- [Azerbaijani](language_name) country
-- I want [Azerbaijani](language_name)
-- I want [Azerbaijani](language_name) language
-- I want [Azerbaijani](language_name) lang
-- I want [Azerbaijani](language_name) Language.
-- I want [Azerbaijani](language_name) country
-- I'm willing [Azerbaijani](language_name)
-- I'm willing [Azerbaijani](language_name) language
-- I'm willing [Azerbaijani](language_name) lang
-- I'm willing [Azerbaijani](language_name) Language.
-- I'm willing [Azerbaijani](language_name) country
-- okay I speak [Azerbaijani](language_name)
-- okay I speak [Azerbaijani](language_name) language
-- okay I speak [Azerbaijani](language_name) lang
-- okay I speak [Azerbaijani](language_name) Language.
-- okay I speak [Azerbaijani](language_name) country
-- speak [Azerbaijani](language_name)
-- speak [Azerbaijani](language_name) language
-- speak [Azerbaijani](language_name) lang
-- speak [Azerbaijani](language_name) Language.
-- speak [Azerbaijani](language_name) country
-- talk [Azerbaijani](language_name)
-- talk [Azerbaijani](language_name) language
-- talk [Azerbaijani](language_name) lang
-- talk [Azerbaijani](language_name) Language.
-- talk [Azerbaijani](language_name) country
-- choose [Azerbaijani](language_name)
-- choose [Azerbaijani](language_name) language
-- choose [Azerbaijani](language_name) lang
-- choose [Azerbaijani](language_name) Language.
-- choose [Azerbaijani](language_name) country
-- lets choose [Azerbaijani](language_name)
-- lets choose [Azerbaijani](language_name) language
-- lets choose [Azerbaijani](language_name) lang
-- lets choose [Azerbaijani](language_name) Language.
-- lets choose [Azerbaijani](language_name) country
-- I speak [Azerbaijani](language_name)
-- I speak [Azerbaijani](language_name) language
-- I speak [Azerbaijani](language_name) lang
-- I speak [Azerbaijani](language_name) Language.
-- I speak [Azerbaijani](language_name) country
-- I want to choose [Azerbaijani](language_name)
-- I want to choose [Azerbaijani](language_name) language
-- I want to choose [Azerbaijani](language_name) lang
-- I want to choose [Azerbaijani](language_name) Language.
-- I want to choose [Azerbaijani](language_name) country
-- I'm willing to choose [Azerbaijani](language_name)
-- I'm willing to choose [Azerbaijani](language_name) language
-- I'm willing to choose [Azerbaijani](language_name) lang
-- I'm willing to choose [Azerbaijani](language_name) Language.
-- I'm willing to choose [Azerbaijani](language_name) country
-- [Hebrew](language_name)
-- [Hebrew](language_name)
-- [Hebrew](language_name) language
-- [Hebrew](language_name) lang
-- [Hebrew](language_name) Language.
-- [Hebrew](language_name) country
-- I want [Hebrew](language_name)
-- I want [Hebrew](language_name) language
-- I want [Hebrew](language_name) lang
-- I want [Hebrew](language_name) Language.
-- I want [Hebrew](language_name) country
-- I'm willing [Hebrew](language_name)
-- I'm willing [Hebrew](language_name) language
-- I'm willing [Hebrew](language_name) lang
-- I'm willing [Hebrew](language_name) Language.
-- I'm willing [Hebrew](language_name) country
-- okay I speak [Hebrew](language_name)
-- okay I speak [Hebrew](language_name) language
-- okay I speak [Hebrew](language_name) lang
-- okay I speak [Hebrew](language_name) Language.
-- okay I speak [Hebrew](language_name) country
-- speak [Hebrew](language_name)
-- speak [Hebrew](language_name) language
-- speak [Hebrew](language_name) lang
-- speak [Hebrew](language_name) Language.
-- speak [Hebrew](language_name) country
-- talk [Hebrew](language_name)
-- talk [Hebrew](language_name) language
-- talk [Hebrew](language_name) lang
-- talk [Hebrew](language_name) Language.
-- talk [Hebrew](language_name) country
-- choose [Hebrew](language_name)
-- choose [Hebrew](language_name) language
-- choose [Hebrew](language_name) lang
-- choose [Hebrew](language_name) Language.
-- choose [Hebrew](language_name) country
-- lets choose [Hebrew](language_name)
-- lets choose [Hebrew](language_name) language
-- lets choose [Hebrew](language_name) lang
-- lets choose [Hebrew](language_name) Language.
-- lets choose [Hebrew](language_name) country
-- I speak [Hebrew](language_name)
-- I speak [Hebrew](language_name) language
-- I speak [Hebrew](language_name) lang
-- I speak [Hebrew](language_name) Language.
-- I speak [Hebrew](language_name) country
-- I want to choose [Hebrew](language_name)
-- I want to choose [Hebrew](language_name) language
-- I want to choose [Hebrew](language_name) lang
-- I want to choose [Hebrew](language_name) Language.
-- I want to choose [Hebrew](language_name) country
-- I'm willing to choose [Hebrew](language_name)
-- I'm willing to choose [Hebrew](language_name) language
-- I'm willing to choose [Hebrew](language_name) lang
-- I'm willing to choose [Hebrew](language_name) Language.
-- I'm willing to choose [Hebrew](language_name) country
-- [Czech](language_name)
-- [Czech](language_name)
-- [Czech](language_name) language
-- [Czech](language_name) lang
-- [Czech](language_name) Language.
-- [Czech](language_name) country
-- I want [Czech](language_name)
-- I want [Czech](language_name) language
-- I want [Czech](language_name) lang
-- I want [Czech](language_name) Language.
-- I want [Czech](language_name) country
-- I'm willing [Czech](language_name)
-- I'm willing [Czech](language_name) language
-- I'm willing [Czech](language_name) lang
-- I'm willing [Czech](language_name) Language.
-- I'm willing [Czech](language_name) country
-- okay I speak [Czech](language_name)
-- okay I speak [Czech](language_name) language
-- okay I speak [Czech](language_name) lang
-- okay I speak [Czech](language_name) Language.
-- okay I speak [Czech](language_name) country
-- speak [Czech](language_name)
-- speak [Czech](language_name) language
-- speak [Czech](language_name) lang
-- speak [Czech](language_name) Language.
-- speak [Czech](language_name) country
-- talk [Czech](language_name)
-- talk [Czech](language_name) language
-- talk [Czech](language_name) lang
-- talk [Czech](language_name) Language.
-- talk [Czech](language_name) country
-- choose [Czech](language_name)
-- choose [Czech](language_name) language
-- choose [Czech](language_name) lang
-- choose [Czech](language_name) Language.
-- choose [Czech](language_name) country
-- lets choose [Czech](language_name)
-- lets choose [Czech](language_name) language
-- lets choose [Czech](language_name) lang
-- lets choose [Czech](language_name) Language.
-- lets choose [Czech](language_name) country
-- I speak [Czech](language_name)
-- I speak [Czech](language_name) language
-- I speak [Czech](language_name) lang
-- I speak [Czech](language_name) Language.
-- I speak [Czech](language_name) country
-- I want to choose [Czech](language_name)
-- I want to choose [Czech](language_name) language
-- I want to choose [Czech](language_name) lang
-- I want to choose [Czech](language_name) Language.
-- I want to choose [Czech](language_name) country
-- I'm willing to choose [Czech](language_name)
-- I'm willing to choose [Czech](language_name) language
-- I'm willing to choose [Czech](language_name) lang
-- I'm willing to choose [Czech](language_name) Language.
-- I'm willing to choose [Czech](language_name) country
+- [Welsh](language_name)
+- [Welsh](language_name)
+- [Welsh](language_name) language
+- [Welsh](language_name) lang
+- [Welsh](language_name) Language.
+- [Welsh](language_name) country
+- I want [Welsh](language_name)
+- I want [Welsh](language_name) language
+- I want [Welsh](language_name) lang
+- I want [Welsh](language_name) Language.
+- I want [Welsh](language_name) country
+- I'm willing [Welsh](language_name)
+- I'm willing [Welsh](language_name) language
+- I'm willing [Welsh](language_name) lang
+- I'm willing [Welsh](language_name) Language.
+- I'm willing [Welsh](language_name) country
+- okay I speak [Welsh](language_name)
+- okay I speak [Welsh](language_name) language
+- okay I speak [Welsh](language_name) lang
+- okay I speak [Welsh](language_name) Language.
+- okay I speak [Welsh](language_name) country
+- speak [Welsh](language_name)
+- speak [Welsh](language_name) language
+- speak [Welsh](language_name) lang
+- speak [Welsh](language_name) Language.
+- speak [Welsh](language_name) country
+- talk [Welsh](language_name)
+- talk [Welsh](language_name) language
+- talk [Welsh](language_name) lang
+- talk [Welsh](language_name) Language.
+- talk [Welsh](language_name) country
+- choose [Welsh](language_name)
+- choose [Welsh](language_name) language
+- choose [Welsh](language_name) lang
+- choose [Welsh](language_name) Language.
+- choose [Welsh](language_name) country
+- lets choose [Welsh](language_name)
+- lets choose [Welsh](language_name) language
+- lets choose [Welsh](language_name) lang
+- lets choose [Welsh](language_name) Language.
+- lets choose [Welsh](language_name) country
+- I speak [Welsh](language_name)
+- I speak [Welsh](language_name) language
+- I speak [Welsh](language_name) lang
+- I speak [Welsh](language_name) Language.
+- I speak [Welsh](language_name) country
+- I want to choose [Welsh](language_name)
+- I want to choose [Welsh](language_name) language
+- I want to choose [Welsh](language_name) lang
+- I want to choose [Welsh](language_name) Language.
+- I want to choose [Welsh](language_name) country
+- I'm willing to choose [Welsh](language_name)
+- I'm willing to choose [Welsh](language_name) language
+- I'm willing to choose [Welsh](language_name) lang
+- I'm willing to choose [Welsh](language_name) Language.
+- I'm willing to choose [Welsh](language_name) country
+- [Bengali](language_name)
+- [Bengali](language_name)
+- [Bengali](language_name) language
+- [Bengali](language_name) lang
+- [Bengali](language_name) Language.
+- [Bengali](language_name) country
+- I want [Bengali](language_name)
+- I want [Bengali](language_name) language
+- I want [Bengali](language_name) lang
+- I want [Bengali](language_name) Language.
+- I want [Bengali](language_name) country
+- I'm willing [Bengali](language_name)
+- I'm willing [Bengali](language_name) language
+- I'm willing [Bengali](language_name) lang
+- I'm willing [Bengali](language_name) Language.
+- I'm willing [Bengali](language_name) country
+- okay I speak [Bengali](language_name)
+- okay I speak [Bengali](language_name) language
+- okay I speak [Bengali](language_name) lang
+- okay I speak [Bengali](language_name) Language.
+- okay I speak [Bengali](language_name) country
+- speak [Bengali](language_name)
+- speak [Bengali](language_name) language
+- speak [Bengali](language_name) lang
+- speak [Bengali](language_name) Language.
+- speak [Bengali](language_name) country
+- talk [Bengali](language_name)
+- talk [Bengali](language_name) language
+- talk [Bengali](language_name) lang
+- talk [Bengali](language_name) Language.
+- talk [Bengali](language_name) country
+- choose [Bengali](language_name)
+- choose [Bengali](language_name) language
+- choose [Bengali](language_name) lang
+- choose [Bengali](language_name) Language.
+- choose [Bengali](language_name) country
+- lets choose [Bengali](language_name)
+- lets choose [Bengali](language_name) language
+- lets choose [Bengali](language_name) lang
+- lets choose [Bengali](language_name) Language.
+- lets choose [Bengali](language_name) country
+- I speak [Bengali](language_name)
+- I speak [Bengali](language_name) language
+- I speak [Bengali](language_name) lang
+- I speak [Bengali](language_name) Language.
+- I speak [Bengali](language_name) country
+- I want to choose [Bengali](language_name)
+- I want to choose [Bengali](language_name) language
+- I want to choose [Bengali](language_name) lang
+- I want to choose [Bengali](language_name) Language.
+- I want to choose [Bengali](language_name) country
+- I'm willing to choose [Bengali](language_name)
+- I'm willing to choose [Bengali](language_name) language
+- I'm willing to choose [Bengali](language_name) lang
+- I'm willing to choose [Bengali](language_name) Language.
+- I'm willing to choose [Bengali](language_name) country
+- [Latvian](language_name)
+- [Latvian](language_name)
+- [Latvian](language_name) language
+- [Latvian](language_name) lang
+- [Latvian](language_name) Language.
+- [Latvian](language_name) country
+- I want [Latvian](language_name)
+- I want [Latvian](language_name) language
+- I want [Latvian](language_name) lang
+- I want [Latvian](language_name) Language.
+- I want [Latvian](language_name) country
+- I'm willing [Latvian](language_name)
+- I'm willing [Latvian](language_name) language
+- I'm willing [Latvian](language_name) lang
+- I'm willing [Latvian](language_name) Language.
+- I'm willing [Latvian](language_name) country
+- okay I speak [Latvian](language_name)
+- okay I speak [Latvian](language_name) language
+- okay I speak [Latvian](language_name) lang
+- okay I speak [Latvian](language_name) Language.
+- okay I speak [Latvian](language_name) country
+- speak [Latvian](language_name)
+- speak [Latvian](language_name) language
+- speak [Latvian](language_name) lang
+- speak [Latvian](language_name) Language.
+- speak [Latvian](language_name) country
+- talk [Latvian](language_name)
+- talk [Latvian](language_name) language
+- talk [Latvian](language_name) lang
+- talk [Latvian](language_name) Language.
+- talk [Latvian](language_name) country
+- choose [Latvian](language_name)
+- choose [Latvian](language_name) language
+- choose [Latvian](language_name) lang
+- choose [Latvian](language_name) Language.
+- choose [Latvian](language_name) country
+- lets choose [Latvian](language_name)
+- lets choose [Latvian](language_name) language
+- lets choose [Latvian](language_name) lang
+- lets choose [Latvian](language_name) Language.
+- lets choose [Latvian](language_name) country
+- I speak [Latvian](language_name)
+- I speak [Latvian](language_name) language
+- I speak [Latvian](language_name) lang
+- I speak [Latvian](language_name) Language.
+- I speak [Latvian](language_name) country
+- I want to choose [Latvian](language_name)
+- I want to choose [Latvian](language_name) language
+- I want to choose [Latvian](language_name) lang
+- I want to choose [Latvian](language_name) Language.
+- I want to choose [Latvian](language_name) country
+- I'm willing to choose [Latvian](language_name)
+- I'm willing to choose [Latvian](language_name) language
+- I'm willing to choose [Latvian](language_name) lang
+- I'm willing to choose [Latvian](language_name) Language.
+- I'm willing to choose [Latvian](language_name) country
+- [English](language_name)
+- [English](language_name)
+- [English](language_name) language
+- [English](language_name) lang
+- [English](language_name) Language.
+- [English](language_name) country
+- I want [English](language_name)
+- I want [English](language_name) language
+- I want [English](language_name) lang
+- I want [English](language_name) Language.
+- I want [English](language_name) country
+- I'm willing [English](language_name)
+- I'm willing [English](language_name) language
+- I'm willing [English](language_name) lang
+- I'm willing [English](language_name) Language.
+- I'm willing [English](language_name) country
+- okay I speak [English](language_name)
+- okay I speak [English](language_name) language
+- okay I speak [English](language_name) lang
+- okay I speak [English](language_name) Language.
+- okay I speak [English](language_name) country
+- speak [English](language_name)
+- speak [English](language_name) language
+- speak [English](language_name) lang
+- speak [English](language_name) Language.
+- speak [English](language_name) country
+- talk [English](language_name)
+- talk [English](language_name) language
+- talk [English](language_name) lang
+- talk [English](language_name) Language.
+- talk [English](language_name) country
+- choose [English](language_name)
+- choose [English](language_name) language
+- choose [English](language_name) lang
+- choose [English](language_name) Language.
+- choose [English](language_name) country
+- lets choose [English](language_name)
+- lets choose [English](language_name) language
+- lets choose [English](language_name) lang
+- lets choose [English](language_name) Language.
+- lets choose [English](language_name) country
+- I speak [English](language_name)
+- I speak [English](language_name) language
+- I speak [English](language_name) lang
+- I speak [English](language_name) Language.
+- I speak [English](language_name) country
+- I want to choose [English](language_name)
+- I want to choose [English](language_name) language
+- I want to choose [English](language_name) lang
+- I want to choose [English](language_name) Language.
+- I want to choose [English](language_name) country
+- I'm willing to choose [English](language_name)
+- I'm willing to choose [English](language_name) language
+- I'm willing to choose [English](language_name) lang
+- I'm willing to choose [English](language_name) Language.
+- I'm willing to choose [English](language_name) country
+- [Telugu](language_name)
+- [Telugu](language_name)
+- [Telugu](language_name) language
+- [Telugu](language_name) lang
+- [Telugu](language_name) Language.
+- [Telugu](language_name) country
+- I want [Telugu](language_name)
+- I want [Telugu](language_name) language
+- I want [Telugu](language_name) lang
+- I want [Telugu](language_name) Language.
+- I want [Telugu](language_name) country
+- I'm willing [Telugu](language_name)
+- I'm willing [Telugu](language_name) language
+- I'm willing [Telugu](language_name) lang
+- I'm willing [Telugu](language_name) Language.
+- I'm willing [Telugu](language_name) country
+- okay I speak [Telugu](language_name)
+- okay I speak [Telugu](language_name) language
+- okay I speak [Telugu](language_name) lang
+- okay I speak [Telugu](language_name) Language.
+- okay I speak [Telugu](language_name) country
+- speak [Telugu](language_name)
+- speak [Telugu](language_name) language
+- speak [Telugu](language_name) lang
+- speak [Telugu](language_name) Language.
+- speak [Telugu](language_name) country
+- talk [Telugu](language_name)
+- talk [Telugu](language_name) language
+- talk [Telugu](language_name) lang
+- talk [Telugu](language_name) Language.
+- talk [Telugu](language_name) country
+- choose [Telugu](language_name)
+- choose [Telugu](language_name) language
+- choose [Telugu](language_name) lang
+- choose [Telugu](language_name) Language.
+- choose [Telugu](language_name) country
+- lets choose [Telugu](language_name)
+- lets choose [Telugu](language_name) language
+- lets choose [Telugu](language_name) lang
+- lets choose [Telugu](language_name) Language.
+- lets choose [Telugu](language_name) country
+- I speak [Telugu](language_name)
+- I speak [Telugu](language_name) language
+- I speak [Telugu](language_name) lang
+- I speak [Telugu](language_name) Language.
+- I speak [Telugu](language_name) country
+- I want to choose [Telugu](language_name)
+- I want to choose [Telugu](language_name) language
+- I want to choose [Telugu](language_name) lang
+- I want to choose [Telugu](language_name) Language.
+- I want to choose [Telugu](language_name) country
+- I'm willing to choose [Telugu](language_name)
+- I'm willing to choose [Telugu](language_name) language
+- I'm willing to choose [Telugu](language_name) lang
+- I'm willing to choose [Telugu](language_name) Language.
+- I'm willing to choose [Telugu](language_name) country
+- [Afrikaans](language_name)
+- [Afrikaans](language_name)
+- [Afrikaans](language_name) language
+- [Afrikaans](language_name) lang
+- [Afrikaans](language_name) Language.
+- [Afrikaans](language_name) country
+- I want [Afrikaans](language_name)
+- I want [Afrikaans](language_name) language
+- I want [Afrikaans](language_name) lang
+- I want [Afrikaans](language_name) Language.
+- I want [Afrikaans](language_name) country
+- I'm willing [Afrikaans](language_name)
+- I'm willing [Afrikaans](language_name) language
+- I'm willing [Afrikaans](language_name) lang
+- I'm willing [Afrikaans](language_name) Language.
+- I'm willing [Afrikaans](language_name) country
+- okay I speak [Afrikaans](language_name)
+- okay I speak [Afrikaans](language_name) language
+- okay I speak [Afrikaans](language_name) lang
+- okay I speak [Afrikaans](language_name) Language.
+- okay I speak [Afrikaans](language_name) country
+- speak [Afrikaans](language_name)
+- speak [Afrikaans](language_name) language
+- speak [Afrikaans](language_name) lang
+- speak [Afrikaans](language_name) Language.
+- speak [Afrikaans](language_name) country
+- talk [Afrikaans](language_name)
+- talk [Afrikaans](language_name) language
+- talk [Afrikaans](language_name) lang
+- talk [Afrikaans](language_name) Language.
+- talk [Afrikaans](language_name) country
+- choose [Afrikaans](language_name)
+- choose [Afrikaans](language_name) language
+- choose [Afrikaans](language_name) lang
+- choose [Afrikaans](language_name) Language.
+- choose [Afrikaans](language_name) country
+- lets choose [Afrikaans](language_name)
+- lets choose [Afrikaans](language_name) language
+- lets choose [Afrikaans](language_name) lang
+- lets choose [Afrikaans](language_name) Language.
+- lets choose [Afrikaans](language_name) country
+- I speak [Afrikaans](language_name)
+- I speak [Afrikaans](language_name) language
+- I speak [Afrikaans](language_name) lang
+- I speak [Afrikaans](language_name) Language.
+- I speak [Afrikaans](language_name) country
+- I want to choose [Afrikaans](language_name)
+- I want to choose [Afrikaans](language_name) language
+- I want to choose [Afrikaans](language_name) lang
+- I want to choose [Afrikaans](language_name) Language.
+- I want to choose [Afrikaans](language_name) country
+- I'm willing to choose [Afrikaans](language_name)
+- I'm willing to choose [Afrikaans](language_name) language
+- I'm willing to choose [Afrikaans](language_name) lang
+- I'm willing to choose [Afrikaans](language_name) Language.
+- I'm willing to choose [Afrikaans](language_name) country
 
 ## lookup:language_code
-  data/lookups/language_code_lookup.txt
+  data/lookups/language_codes.txt
+
+## lookup:language_name
+  data/lookups/language_names.txt
 ## synonym:af
 - af
 - AF

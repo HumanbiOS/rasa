@@ -15,19 +15,19 @@ def parse_data():
     
     synonyms_fp = ROOT / "csv" / "synonyms_file.md"
     lookup_table_lc_fp = ROOT / "csv" / "lookups" / "language_codes.txt"
-    lookup_table_lc_fp = ROOT / "csv" / "lookups" / "language_names.txt"
+    lookup_table_ln_fp = ROOT / "csv" / "lookups" / "language_names.txt"
     examples_lc = ROOT / "csv" / "language_codes.csv"
     examples_ln = ROOT / "csv" / "language_names.csv"
     training_prefixes_fp = ROOT / "csv" / "context_prefixes.csv"
     training_suffixes_fp = ROOT / "csv" / "context_suffixes.csv"
 
-    with open(synonyms_fp, "w+") as sf, open(lookup_table_lc_fp, "w+") as table_lc:
+    with open(synonyms_fp, "w+") as sf, open(lookup_table_lc_fp, "w+") as table_lc, open(lookup_table_ln_fp, "w+") as table_ln:
     #if True:
         for index, each_row in df.iterrows():
             
             # Write lookup tables
             table_lc.write(f"{each_row['Language Code']}\n")
-            table_lc.write(f"{each_row['Language Name']}\n")
+            table_ln.write(f"{each_row['Language Name']}\n")
             
             # Write synonyms to the language code
             lc_synonym = f"## synonym:{each_row['Language Code']}\n"
