@@ -1,18 +1,49 @@
 
 # List of intents to generate nlu.md file
 intents:
-    extract_lang_code:
-         - 
-           source:     language_codes.csv
-    extract_lang_name:
-         - 
-           source:     language_names.csv
-    #extract_country:
-    #     - 
-    #       source:     country_names.csv
-    #       extract_as: country_name
+    # Values and their defaults, "*" means required
+    # Values:               Default:
+    #     folder*               -
+    #     source                data_*.csv
+    #     extract               -
+    #     lookup                False
+    #     prefixes              prefixes.csv
+    #     suffixes              suffixes.csv
+    #     random_percentage     45
+    extract_language:
+        - 
+         folder:     language_detection
+         source:     data_language_codes.csv
+         extract:    language_code
+         lookup:     True
+        - 
+         folder:     language_detection
+         source:     data_language_names.csv
+         extract:    language_name
+         lookup:     True
+    extract_country:
+        - 
+         folder:     country_detection
+         source:     data_country_names.csv
+         extract:    country_name
+         lookup:     True
+        - 
+         folder:     country_detection
+         source:     data_country_codes.csv
+         extract:    country_code
+         lookup:     True
+       #- 
+       #  folder:     country_detection
+       #  source:     data_country_flags.csv
+       #  extract:    country_flag
+       #  lookup:     True
+
+# Folders that contain files with synonyms
+# 'folder_name: column_name'
+synonyms:
+    language_detection:    Language Name
+    country_detection:     Country Name
 
 # Will be appended without pre-processing
 misc:
     - misc.csv
-    - synonyms_file.md

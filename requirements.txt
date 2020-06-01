@@ -1,4 +1,5 @@
-rasa
+rasa[convert]~=1.10.0
+pytablewriter
 pandas
 pyyaml
 django-environ
