@@ -1,6509 +1,6991 @@
 ## intent:extract_language
-- [zh-CN](language_code)
-- I want to choose [zh-CN](language_code) lang
-- lets try [zh-CN](language_code) country
-- try [zh-CN](language_code) Language.
-- [zh-CN](language_code)
-- okay, go [zh-CN](language_code) Language.
-- choose [zh-CN](language_code) Language.
-- talk to me in [zh-CN](language_code)
-- speak [zh-CN](language_code)
-- okay I speak [zh-CN](language_code) country
-- choose [zh-CN](language_code) lang
-- do [zh-CN](language_code) Language.
-- try [zh-CN](language_code) language
-- talk to me in [zh-CN](language_code) country
-- talk [zh-CN](language_code) lang
-- I'm willing [zh-CN](language_code) country
-- communicate [zh-CN](language_code) lang
-- do [zh-CN](language_code) lang
-- lets try [zh-CN](language_code)
-- Talk in [zh-CN](language_code) lang
-- I'm willing to choose [zh-CN](language_code) country
-- I want [zh-CN](language_code) lang
-- pls talk in [zh-CN](language_code)
-- I'm willing [zh-CN](language_code)
-- Talk in [zh-CN](language_code) country
-- lets choose [zh-CN](language_code) Language.
-- okay, go [zh-CN](language_code) lang
-- I'm willing [zh-CN](language_code) language
-- okay I speak [zh-CN](language_code) language
-- serve me in [zh-CN](language_code) Language.
-- okay, go [zh-CN](language_code) country
-- Talk in [zh-CN](language_code) language
-- choose [zh-CN](language_code) language
-- I'm willing [zh-CN](language_code) Language.
-- serve me in [zh-CN](language_code)
-- I speak [zh-CN](language_code) Language.
-- do [zh-CN](language_code)
-- okay I speak [zh-CN](language_code) Language.
-- communicate [zh-CN](language_code) country
-- pls talk in [zh-CN](language_code) Language.
-- okay, go [zh-CN](language_code) language
-- serve me [zh-CN](language_code) country
-- talk to me in [zh-CN](language_code) Language.
-- [zh-CN](language_code) language
-- okay I speak [zh-CN](language_code)
-- go [zh-CN](language_code) language
-- talk [zh-CN](language_code) Language.
-- lets choose [zh-CN](language_code) language
-- Talk in [zh-CN](language_code)
-- lets choose [zh-CN](language_code) country
-- I speak [zh-CN](language_code)
-- communicate [zh-CN](language_code) Language.
-- [mt](language_code)
-- Talk in [mt](language_code) Language.
-- I'm willing [mt](language_code) lang
-- I'm willing [mt](language_code) Language.
-- talk [mt](language_code)
-- I want to choose [mt](language_code) language
-- talk to me in [mt](language_code) language
-- go [mt](language_code)
-- I speak [mt](language_code) lang
-- choose [mt](language_code) lang
-- pls talk in [mt](language_code)
-- Talk in [mt](language_code)
-- talk to me in [mt](language_code) Language.
-- lets choose [mt](language_code) language
-- Talk in [mt](language_code) lang
-- I'm willing to choose [mt](language_code) language
-- [mt](language_code) lang
-- try [mt](language_code) lang
-- serve me in [mt](language_code) lang
-- serve me in [mt](language_code) language
-- do [mt](language_code) Language.
-- go [mt](language_code) language
-- I'm willing [mt](language_code) language
-- lets try [mt](language_code) Language.
-- choose [mt](language_code) language
-- do [mt](language_code)
-- speak [mt](language_code)
-- I speak [mt](language_code) Language.
-- try [mt](language_code) country
-- communicate [mt](language_code) language
-- Talk in [mt](language_code) language
-- let's talk in [mt](language_code)
-- let's talk in [mt](language_code) country
-- communicate [mt](language_code) Language.
-- do [mt](language_code) lang
-- speak [mt](language_code) Language.
-- choose [mt](language_code)
-- choose [mt](language_code) Language.
-- I want [mt](language_code) language
-- speak [mt](language_code) language
-- serve me [mt](language_code) lang
-- serve me [mt](language_code)
-- pls talk in [mt](language_code) Language.
-- I want [mt](language_code)
-- I want to choose [mt](language_code) Language.
-- [mt](language_code)
-- pls talk in [mt](language_code) language
-- I'm willing [mt](language_code) country
-- serve me [mt](language_code) language
-- okay, go [mt](language_code) Language.
-- [mt](language_code) Language.
-- serve me [mt](language_code) country
+- [da](language_code)
+- I'm willing to choose [da](language_code)
+- communicate [da](language_code) Language.
+- go [da](language_code)
+- go [da](language_code) country
+- Talk in [da](language_code) language
+- lets choose [da](language_code) Language.
+- try [da](language_code) country
+- I want to choose [da](language_code) lang
+- communicate [da](language_code) lang
+- I want to choose [da](language_code) Language.
+- I'm willing [da](language_code) country
+- I'm willing [da](language_code) language
+- I'm willing [da](language_code)
+- okay, go [da](language_code)
+- I speak [da](language_code) language
+- Talk in [da](language_code) country
+- talk to me in [da](language_code) lang
+- I want to choose [da](language_code) language
+- I want to choose [da](language_code)
+- lets choose [da](language_code) lang
+- communicate [da](language_code)
+- serve me in [da](language_code) Language.
+- [da](language_code) lang
+- [da](language_code) language
+- serve me [da](language_code)
+- let's talk in [da](language_code) language
+- I speak [da](language_code)
+- okay, go [da](language_code) Language.
+- speak [da](language_code)
+- Talk in [da](language_code) lang
+- I'm willing [da](language_code) lang
+- lets choose [da](language_code) language
+- try [da](language_code) language
+- talk to me in [da](language_code) language
+- [da](language_code)
+- I'm willing to choose [da](language_code) Language.
+- okay I speak [da](language_code)
+- I'm willing to choose [da](language_code) country
+- speak [da](language_code) country
+- serve me in [da](language_code) lang
+- lets choose [da](language_code)
+- do [da](language_code)
+- okay I speak [da](language_code) country
+- I want [da](language_code) language
+- do [da](language_code) lang
+- speak [da](language_code) language
+- I want [da](language_code) Language.
+- talk [da](language_code) country
+- talk to me in [da](language_code) country
+- talk [da](language_code) language
+- lets try [da](language_code) country
 - [ms](language_code)
-- I'm willing to choose [ms](language_code) Language.
-- pls talk in [ms](language_code) country
-- I want [ms](language_code) country
-- I speak [ms](language_code)
-- go [ms](language_code) Language.
-- let's talk in [ms](language_code) lang
-- choose [ms](language_code)
-- okay I speak [ms](language_code)
+- do [ms](language_code)
 - talk to me in [ms](language_code) language
-- okay, go [ms](language_code) language
-- okay, go [ms](language_code)
-- I'm willing to choose [ms](language_code)
-- okay, go [ms](language_code) country
-- do [ms](language_code) Language.
-- I want to choose [ms](language_code) Language.
-- serve me in [ms](language_code) lang
-- lets try [ms](language_code) country
-- Talk in [ms](language_code) Language.
-- let's talk in [ms](language_code) Language.
-- communicate [ms](language_code) country
-- talk to me in [ms](language_code)
-- lets try [ms](language_code)
-- talk [ms](language_code) Language.
-- communicate [ms](language_code)
-- speak [ms](language_code) language
-- [ms](language_code) language
-- [ms](language_code) lang
-- communicate [ms](language_code) Language.
-- okay I speak [ms](language_code) Language.
-- [ms](language_code) country
-- speak [ms](language_code) Language.
-- I want to choose [ms](language_code) lang
-- talk to me in [ms](language_code) lang
-- try [ms](language_code)
-- serve me [ms](language_code) lang
-- okay, go [ms](language_code) lang
-- I want [ms](language_code)
-- Talk in [ms](language_code) language
-- I'm willing [ms](language_code) Language.
-- I want to choose [ms](language_code) language
-- I speak [ms](language_code) lang
-- choose [ms](language_code) language
-- choose [ms](language_code) Language.
-- I'm willing to choose [ms](language_code) language
-- talk [ms](language_code) country
-- lets try [ms](language_code) language
-- talk to me in [ms](language_code) country
-- pls talk in [ms](language_code)
-- pls talk in [ms](language_code) lang
-- serve me [ms](language_code) language
+- let's talk in [ms](language_code) language
+- go [ms](language_code) language
 - talk [ms](language_code)
-- [ja](language_code)
-- go [ja](language_code) country
-- serve me [ja](language_code) Language.
-- speak [ja](language_code)
-- I want [ja](language_code)
-- lets try [ja](language_code) lang
-- do [ja](language_code) lang
-- I'm willing [ja](language_code) language
-- I want to choose [ja](language_code) Language.
-- okay, go [ja](language_code) lang
-- I want to choose [ja](language_code) lang
-- lets try [ja](language_code) Language.
-- lets try [ja](language_code) language
-- speak [ja](language_code) language
-- lets choose [ja](language_code) Language.
-- I want [ja](language_code) language
-- okay, go [ja](language_code) Language.
-- talk [ja](language_code) Language.
-- let's talk in [ja](language_code)
-- serve me in [ja](language_code)
-- I'm willing [ja](language_code)
-- I'm willing [ja](language_code) country
-- serve me in [ja](language_code) lang
-- okay, go [ja](language_code) language
-- pls talk in [ja](language_code) Language.
-- talk [ja](language_code) lang
-- [ja](language_code) language
-- I'm willing to choose [ja](language_code)
-- okay I speak [ja](language_code) Language.
-- speak [ja](language_code) Language.
-- I want to choose [ja](language_code) country
-- [ja](language_code) Language.
-- serve me in [ja](language_code) Language.
-- choose [ja](language_code) lang
-- lets try [ja](language_code)
-- try [ja](language_code) lang
-- talk to me in [ja](language_code) language
-- talk [ja](language_code)
-- go [ja](language_code) language
-- pls talk in [ja](language_code) lang
-- communicate [ja](language_code) country
-- okay, go [ja](language_code)
-- I want [ja](language_code) lang
-- I'm willing [ja](language_code) lang
-- okay I speak [ja](language_code) lang
-- let's talk in [ja](language_code) lang
-- do [ja](language_code) language
-- I'm willing to choose [ja](language_code) Language.
-- try [ja](language_code)
-- serve me [ja](language_code) lang
-- try [ja](language_code) language
-- try [ja](language_code) Language.
-- [sl](language_code)
-- pls talk in [sl](language_code) country
-- I'm willing [sl](language_code) lang
-- I want to choose [sl](language_code) Language.
-- serve me in [sl](language_code) country
-- [sl](language_code) language
-- pls talk in [sl](language_code) lang
-- lets choose [sl](language_code)
-- speak [sl](language_code) Language.
-- go [sl](language_code) lang
-- serve me [sl](language_code) language
-- do [sl](language_code)
-- I want to choose [sl](language_code)
-- serve me in [sl](language_code) lang
-- I speak [sl](language_code) Language.
-- go [sl](language_code) language
-- I want [sl](language_code) lang
-- do [sl](language_code) country
-- communicate [sl](language_code) Language.
-- okay, go [sl](language_code) country
-- I'm willing to choose [sl](language_code) Language.
-- try [sl](language_code)
-- serve me [sl](language_code) Language.
-- Talk in [sl](language_code)
-- I speak [sl](language_code) lang
-- try [sl](language_code) language
-- [sl](language_code) lang
-- do [sl](language_code) lang
-- I'm willing [sl](language_code) Language.
-- speak [sl](language_code) country
-- choose [sl](language_code) language
-- let's talk in [sl](language_code) Language.
-- lets try [sl](language_code) lang
-- [sl](language_code) country
-- I'm willing to choose [sl](language_code) language
-- okay, go [sl](language_code) language
-- lets try [sl](language_code)
-- lets choose [sl](language_code) Language.
-- talk [sl](language_code) country
-- talk [sl](language_code) Language.
-- I'm willing [sl](language_code)
-- serve me in [sl](language_code) language
-- I speak [sl](language_code)
-- I want to choose [sl](language_code) language
-- let's talk in [sl](language_code) country
-- pls talk in [sl](language_code)
-- try [sl](language_code) lang
-- do [sl](language_code) language
-- talk to me in [sl](language_code) lang
-- serve me [sl](language_code) country
-- I want [sl](language_code)
-- go [sl](language_code) Language.
-- [it](language_code)
-- serve me [it](language_code) country
-- serve me [it](language_code)
-- serve me in [it](language_code) Language.
-- I want to choose [it](language_code) lang
-- [it](language_code) lang
-- lets choose [it](language_code) language
-- I'm willing [it](language_code)
-- I want [it](language_code)
-- communicate [it](language_code) lang
-- Talk in [it](language_code)
-- I'm willing [it](language_code) language
-- lets try [it](language_code) country
-- okay, go [it](language_code) lang
-- communicate [it](language_code) Language.
-- I speak [it](language_code) lang
-- choose [it](language_code)
-- speak [it](language_code) Language.
-- do [it](language_code) lang
-- pls talk in [it](language_code) language
-- Talk in [it](language_code) lang
-- okay, go [it](language_code) language
-- pls talk in [it](language_code) country
-- Talk in [it](language_code) country
-- do [it](language_code) Language.
-- Talk in [it](language_code) language
-- okay I speak [it](language_code) lang
-- lets choose [it](language_code) lang
-- go [it](language_code)
-- lets try [it](language_code) lang
-- speak [it](language_code) country
-- I'm willing [it](language_code) Language.
-- lets try [it](language_code) Language.
-- I'm willing to choose [it](language_code) country
-- [it](language_code) language
-- go [it](language_code) lang
-- communicate [it](language_code)
-- I want [it](language_code) Language.
-- okay I speak [it](language_code) country
-- communicate [it](language_code) language
-- do [it](language_code)
-- okay, go [it](language_code)
-- serve me [it](language_code) language
-- do [it](language_code) country
-- lets choose [it](language_code)
-- I'm willing to choose [it](language_code) language
-- I speak [it](language_code) country
-- choose [it](language_code) Language.
-- choose [it](language_code) lang
-- let's talk in [it](language_code) language
-- go [it](language_code) country
-- lets choose [it](language_code) country
-- [cs](language_code)
-- okay I speak [cs](language_code) lang
-- talk [cs](language_code) language
-- talk [cs](language_code) country
-- choose [cs](language_code) lang
-- pls talk in [cs](language_code) country
-- lets try [cs](language_code)
-- go [cs](language_code) country
-- choose [cs](language_code)
-- lets try [cs](language_code) country
-- serve me [cs](language_code) language
-- serve me [cs](language_code)
-- try [cs](language_code) language
-- okay, go [cs](language_code) country
-- talk to me in [cs](language_code) lang
-- speak [cs](language_code) country
-- I speak [cs](language_code) lang
-- go [cs](language_code) Language.
-- I want to choose [cs](language_code)
-- speak [cs](language_code) Language.
-- [cs](language_code) Language.
-- speak [cs](language_code) lang
-- let's talk in [cs](language_code) lang
-- I'm willing [cs](language_code)
-- I speak [cs](language_code)
-- Talk in [cs](language_code) lang
-- okay I speak [cs](language_code) language
-- talk [cs](language_code) Language.
-- okay, go [cs](language_code) language
-- pls talk in [cs](language_code) language
-- communicate [cs](language_code)
-- [cs](language_code)
-- [cs](language_code) language
-- [cs](language_code) lang
-- speak [cs](language_code)
-- try [cs](language_code) lang
-- do [cs](language_code) lang
-- I'm willing [cs](language_code) Language.
-- okay I speak [cs](language_code) country
-- I'm willing to choose [cs](language_code) lang
-- serve me [cs](language_code) country
-- okay, go [cs](language_code) Language.
-- I'm willing [cs](language_code) language
-- I'm willing to choose [cs](language_code) country
-- I speak [cs](language_code) country
-- I want [cs](language_code)
-- let's talk in [cs](language_code)
-- lets try [cs](language_code) language
-- I speak [cs](language_code) Language.
-- I want [cs](language_code) Language.
-- lets try [cs](language_code) Language.
-- communicate [cs](language_code) country
-- [id](language_code)
-- choose [id](language_code)
-- try [id](language_code)
-- do [id](language_code) Language.
-- lets try [id](language_code) country
-- communicate [id](language_code) Language.
-- go [id](language_code) lang
-- pls talk in [id](language_code) country
-- lets try [id](language_code) Language.
-- talk to me in [id](language_code)
-- let's talk in [id](language_code) country
-- I speak [id](language_code)
-- communicate [id](language_code)
-- I want to choose [id](language_code) lang
-- Talk in [id](language_code) country
-- okay I speak [id](language_code) country
-- [id](language_code)
-- I'm willing to choose [id](language_code) Language.
-- lets try [id](language_code) lang
-- pls talk in [id](language_code) lang
-- lets choose [id](language_code) country
-- I'm willing to choose [id](language_code) language
-- I speak [id](language_code) Language.
-- okay I speak [id](language_code) language
-- okay, go [id](language_code) lang
-- let's talk in [id](language_code) language
-- go [id](language_code) Language.
-- [id](language_code) country
-- pls talk in [id](language_code)
-- I want [id](language_code) language
-- okay, go [id](language_code) country
-- Talk in [id](language_code) Language.
-- [id](language_code) language
-- okay I speak [id](language_code) lang
-- serve me in [id](language_code) Language.
-- I want to choose [id](language_code) country
-- talk [id](language_code) lang
-- pls talk in [id](language_code) language
-- speak [id](language_code)
-- serve me [id](language_code) language
-- let's talk in [id](language_code)
-- talk [id](language_code)
-- I want to choose [id](language_code) Language.
-- let's talk in [id](language_code) lang
-- serve me [id](language_code)
-- I want [id](language_code) country
-- I'm willing to choose [id](language_code)
-- talk [id](language_code) Language.
-- [id](language_code) Language.
-- do [id](language_code) lang
-- try [id](language_code) lang
-- I'm willing to choose [id](language_code) lang
-- [lv](language_code)
-- I speak [lv](language_code) country
-- talk to me in [lv](language_code)
-- try [lv](language_code) Language.
-- [lv](language_code) Language.
-- speak [lv](language_code)
-- I want [lv](language_code)
-- I want to choose [lv](language_code) language
-- choose [lv](language_code) Language.
-- okay, go [lv](language_code) country
-- communicate [lv](language_code)
-- I'm willing [lv](language_code)
-- Talk in [lv](language_code) country
-- lets try [lv](language_code) Language.
-- okay, go [lv](language_code) language
-- I want [lv](language_code) country
-- I speak [lv](language_code) lang
-- pls talk in [lv](language_code) country
-- let's talk in [lv](language_code) country
-- talk [lv](language_code) lang
-- choose [lv](language_code) lang
-- I speak [lv](language_code)
-- speak [lv](language_code) country
-- choose [lv](language_code) country
-- lets choose [lv](language_code) lang
-- try [lv](language_code) language
-- serve me [lv](language_code)
-- communicate [lv](language_code) Language.
-- [lv](language_code)
-- serve me [lv](language_code) country
-- do [lv](language_code) lang
-- serve me in [lv](language_code) language
-- pls talk in [lv](language_code)
-- lets try [lv](language_code) language
-- serve me in [lv](language_code)
-- let's talk in [lv](language_code) Language.
-- Talk in [lv](language_code) language
-- talk [lv](language_code) Language.
-- okay I speak [lv](language_code) lang
-- I want [lv](language_code) language
-- I'm willing to choose [lv](language_code) country
-- I want [lv](language_code) Language.
-- okay I speak [lv](language_code) Language.
-- talk to me in [lv](language_code) language
-- I'm willing to choose [lv](language_code) language
-- okay I speak [lv](language_code) country
-- serve me [lv](language_code) language
-- I speak [lv](language_code) Language.
-- lets choose [lv](language_code) language
-- I'm willing [lv](language_code) language
-- lets try [lv](language_code) lang
-- let's talk in [lv](language_code) language
-- [ga](language_code)
-- I'm willing to choose [ga](language_code)
-- talk to me in [ga](language_code) country
-- Talk in [ga](language_code)
-- I want [ga](language_code) lang
-- go [ga](language_code) lang
-- talk to me in [ga](language_code) language
-- communicate [ga](language_code)
-- try [ga](language_code) Language.
-- [ga](language_code)
-- do [ga](language_code) lang
-- Talk in [ga](language_code) language
-- talk to me in [ga](language_code) Language.
-- Talk in [ga](language_code) Language.
-- talk [ga](language_code) lang
-- I speak [ga](language_code) language
-- I want to choose [ga](language_code)
-- I'm willing to choose [ga](language_code) Language.
-- serve me [ga](language_code) language
-- [ga](language_code) language
-- talk [ga](language_code)
-- communicate [ga](language_code) country
-- go [ga](language_code) language
-- Talk in [ga](language_code) country
-- lets choose [ga](language_code) country
-- serve me [ga](language_code) Language.
-- talk [ga](language_code) country
-- okay I speak [ga](language_code) lang
-- go [ga](language_code)
-- I'm willing [ga](language_code) language
-- let's talk in [ga](language_code) language
-- lets try [ga](language_code) country
-- lets try [ga](language_code) language
-- serve me [ga](language_code)
-- choose [ga](language_code) country
-- communicate [ga](language_code) Language.
-- I speak [ga](language_code)
-- lets try [ga](language_code) lang
-- speak [ga](language_code) lang
-- I speak [ga](language_code) country
-- pls talk in [ga](language_code) Language.
-- I speak [ga](language_code) lang
-- Talk in [ga](language_code) lang
-- speak [ga](language_code)
-- talk [ga](language_code) Language.
-- lets choose [ga](language_code)
-- okay I speak [ga](language_code)
-- I want [ga](language_code) country
-- I'm willing to choose [ga](language_code) lang
-- try [ga](language_code) language
-- [ga](language_code) country
-- I'm willing [ga](language_code) country
-- [gl](language_code)
-- I'm willing [gl](language_code)
-- okay, go [gl](language_code)
-- I want to choose [gl](language_code) country
-- I speak [gl](language_code)
-- lets choose [gl](language_code) language
-- I want [gl](language_code) country
-- try [gl](language_code) country
-- serve me [gl](language_code) language
-- lets choose [gl](language_code) country
-- lets try [gl](language_code)
-- serve me [gl](language_code) lang
-- communicate [gl](language_code) Language.
-- I want to choose [gl](language_code) Language.
-- lets try [gl](language_code) country
-- talk [gl](language_code)
-- okay I speak [gl](language_code) country
-- I want to choose [gl](language_code) lang
-- okay I speak [gl](language_code) language
-- lets choose [gl](language_code)
-- talk [gl](language_code) language
-- I want [gl](language_code) Language.
-- serve me in [gl](language_code)
-- serve me in [gl](language_code) lang
-- serve me in [gl](language_code) language
-- talk [gl](language_code) Language.
-- choose [gl](language_code) country
-- go [gl](language_code) language
-- Talk in [gl](language_code) lang
-- I'm willing [gl](language_code) Language.
-- talk to me in [gl](language_code)
-- talk to me in [gl](language_code) lang
-- let's talk in [gl](language_code) Language.
-- lets try [gl](language_code) Language.
-- communicate [gl](language_code)
-- pls talk in [gl](language_code) country
-- go [gl](language_code) lang
-- go [gl](language_code) country
-- let's talk in [gl](language_code) lang
-- I want [gl](language_code) lang
-- okay, go [gl](language_code) Language.
-- Talk in [gl](language_code) country
-- Talk in [gl](language_code) Language.
-- I'm willing to choose [gl](language_code) Language.
-- try [gl](language_code)
-- I speak [gl](language_code) Language.
-- I'm willing to choose [gl](language_code) country
-- do [gl](language_code)
-- pls talk in [gl](language_code) lang
-- I want to choose [gl](language_code) language
-- okay I speak [gl](language_code) lang
-- I speak [gl](language_code) language
-- [tl](language_code)
-- do [tl](language_code) country
-- okay, go [tl](language_code) lang
-- pls talk in [tl](language_code) language
-- go [tl](language_code) language
-- Talk in [tl](language_code) Language.
-- Talk in [tl](language_code)
-- Talk in [tl](language_code) country
-- talk [tl](language_code) country
-- serve me [tl](language_code) language
-- try [tl](language_code) language
-- talk to me in [tl](language_code) country
-- I'm willing to choose [tl](language_code) Language.
-- do [tl](language_code) Language.
-- communicate [tl](language_code) Language.
-- lets choose [tl](language_code) Language.
-- I want [tl](language_code)
-- serve me in [tl](language_code) lang
-- okay, go [tl](language_code) language
-- speak [tl](language_code) Language.
-- let's talk in [tl](language_code) lang
-- lets try [tl](language_code) country
-- lets try [tl](language_code) lang
-- go [tl](language_code) Language.
-- pls talk in [tl](language_code) lang
-- lets try [tl](language_code) language
-- let's talk in [tl](language_code) country
-- I speak [tl](language_code)
-- I'm willing to choose [tl](language_code) language
-- lets choose [tl](language_code) country
-- go [tl](language_code) lang
-- communicate [tl](language_code) country
-- talk to me in [tl](language_code)
-- lets choose [tl](language_code)
-- I want [tl](language_code) country
-- I want to choose [tl](language_code) lang
-- talk [tl](language_code) Language.
-- serve me in [tl](language_code) language
-- do [tl](language_code) lang
-- serve me in [tl](language_code) Language.
-- I'm willing to choose [tl](language_code) lang
-- talk to me in [tl](language_code) language
-- Talk in [tl](language_code) lang
-- okay I speak [tl](language_code)
-- I want to choose [tl](language_code) language
-- I want to choose [tl](language_code) country
-- lets choose [tl](language_code) lang
-- serve me [tl](language_code) country
-- [tl](language_code)
-- speak [tl](language_code) lang
-- [tl](language_code) Language.
-- talk to me in [tl](language_code) Language.
-- [bg](language_code)
-- choose [bg](language_code)
-- [bg](language_code)
-- Talk in [bg](language_code) language
-- serve me [bg](language_code) country
-- speak [bg](language_code) language
-- okay, go [bg](language_code) Language.
-- let's talk in [bg](language_code) country
-- go [bg](language_code) lang
-- choose [bg](language_code) lang
-- serve me in [bg](language_code) Language.
-- talk to me in [bg](language_code) country
-- I speak [bg](language_code) language
-- pls talk in [bg](language_code) Language.
-- communicate [bg](language_code) country
-- pls talk in [bg](language_code) country
-- pls talk in [bg](language_code) language
-- okay, go [bg](language_code) lang
-- I'm willing to choose [bg](language_code) lang
-- serve me in [bg](language_code) language
-- I want to choose [bg](language_code) Language.
-- go [bg](language_code)
-- choose [bg](language_code) Language.
-- lets try [bg](language_code) Language.
-- do [bg](language_code) country
-- okay, go [bg](language_code)
-- serve me in [bg](language_code) lang
-- serve me [bg](language_code) Language.
-- pls talk in [bg](language_code)
-- okay I speak [bg](language_code)
-- talk to me in [bg](language_code) lang
-- serve me [bg](language_code) language
-- I'm willing to choose [bg](language_code)
-- [bg](language_code) country
-- talk to me in [bg](language_code) language
-- go [bg](language_code) Language.
-- do [bg](language_code)
-- do [bg](language_code) language
-- go [bg](language_code) language
-- I want [bg](language_code) language
-- lets choose [bg](language_code) country
-- I want [bg](language_code) lang
-- okay I speak [bg](language_code) lang
-- I'm willing to choose [bg](language_code) language
-- I'm willing [bg](language_code)
-- talk [bg](language_code)
-- I'm willing [bg](language_code) language
-- talk [bg](language_code) country
-- lets choose [bg](language_code) language
-- talk [bg](language_code) lang
-- lets choose [bg](language_code) Language.
-- serve me [bg](language_code)
+- serve me in [ms](language_code) lang
+- Talk in [ms](language_code)
+- I'm willing to choose [ms](language_code)
+- I'm willing to choose [ms](language_code) lang
+- I'm willing to choose [ms](language_code) country
+- I want [ms](language_code) Language.
+- I'm willing [ms](language_code) lang
+- let's talk in [ms](language_code) lang
+- I'm willing [ms](language_code) Language.
+- serve me [ms](language_code) Language.
+- speak [ms](language_code)
+- try [ms](language_code) language
+- go [ms](language_code)
+- okay, go [ms](language_code) country
+- I want [ms](language_code)
+- serve me [ms](language_code) language
+- do [ms](language_code) country
+- talk [ms](language_code) language
+- communicate [ms](language_code) country
+- Talk in [ms](language_code) Language.
+- communicate [ms](language_code) lang
+- talk to me in [ms](language_code) lang
+- talk to me in [ms](language_code) country
+- okay, go [ms](language_code) language
+- serve me in [ms](language_code)
+- do [ms](language_code) lang
+- I want [ms](language_code) language
+- communicate [ms](language_code)
+- serve me [ms](language_code)
+- I want to choose [ms](language_code) language
+- let's talk in [ms](language_code) country
+- I want to choose [ms](language_code) lang
+- serve me [ms](language_code) lang
+- lets choose [ms](language_code) country
+- I'm willing [ms](language_code) language
+- I'm willing to choose [ms](language_code) Language.
+- pls talk in [ms](language_code)
+- I want [ms](language_code) lang
+- pls talk in [ms](language_code) Language.
+- [ms](language_code) language
+- lets choose [ms](language_code) Language.
+- okay I speak [ms](language_code) lang
+- speak [ms](language_code) Language.
+- I speak [ms](language_code) Language.
+- I want [ms](language_code) country
+- talk [ms](language_code) Language.
+- [sq](language_code)
+- lets choose [sq](language_code) country
+- pls talk in [sq](language_code) country
+- do [sq](language_code) lang
+- I want to choose [sq](language_code) language
+- serve me in [sq](language_code) lang
+- talk to me in [sq](language_code) language
+- let's talk in [sq](language_code) Language.
+- [sq](language_code)
+- lets choose [sq](language_code) Language.
+- I want to choose [sq](language_code)
+- choose [sq](language_code) Language.
+- okay I speak [sq](language_code)
+- go [sq](language_code)
+- speak [sq](language_code) language
+- I'm willing to choose [sq](language_code) Language.
+- I'm willing to choose [sq](language_code) country
+- pls talk in [sq](language_code) lang
+- serve me in [sq](language_code) language
+- serve me [sq](language_code) language
+- communicate [sq](language_code) Language.
+- let's talk in [sq](language_code)
+- choose [sq](language_code)
+- do [sq](language_code) language
+- I want to choose [sq](language_code) country
+- talk to me in [sq](language_code) lang
+- go [sq](language_code) lang
+- I want to choose [sq](language_code) lang
+- lets try [sq](language_code) Language.
+- okay, go [sq](language_code) lang
+- choose [sq](language_code) language
+- I'm willing [sq](language_code) language
+- okay I speak [sq](language_code) lang
+- okay I speak [sq](language_code) Language.
+- lets choose [sq](language_code)
+- choose [sq](language_code) lang
+- serve me [sq](language_code) country
+- I want [sq](language_code) Language.
+- Talk in [sq](language_code) country
+- I'm willing to choose [sq](language_code) language
+- I speak [sq](language_code) country
+- serve me in [sq](language_code) Language.
+- do [sq](language_code) country
+- try [sq](language_code) Language.
+- Talk in [sq](language_code)
+- talk to me in [sq](language_code) Language.
+- do [sq](language_code) Language.
+- [sq](language_code) lang
+- okay I speak [sq](language_code) country
+- Talk in [sq](language_code) language
+- pls talk in [sq](language_code) Language.
+- okay, go [sq](language_code)
+- [hi](language_code)
+- talk [hi](language_code)
+- I speak [hi](language_code)
+- I'm willing to choose [hi](language_code) Language.
+- talk [hi](language_code) language
+- okay I speak [hi](language_code) country
+- I want [hi](language_code) lang
+- [hi](language_code) language
+- try [hi](language_code) lang
+- Talk in [hi](language_code) Language.
+- talk to me in [hi](language_code)
+- speak [hi](language_code) language
+- go [hi](language_code) country
+- go [hi](language_code)
+- do [hi](language_code) country
+- pls talk in [hi](language_code) lang
+- speak [hi](language_code) country
+- [hi](language_code)
+- pls talk in [hi](language_code) country
+- go [hi](language_code) lang
+- I'm willing [hi](language_code) Language.
+- lets try [hi](language_code) lang
+- choose [hi](language_code) country
+- serve me [hi](language_code) Language.
+- Talk in [hi](language_code) country
+- I'm willing [hi](language_code) country
+- okay I speak [hi](language_code) language
+- serve me in [hi](language_code) Language.
+- I speak [hi](language_code) Language.
+- try [hi](language_code)
+- choose [hi](language_code) lang
+- Talk in [hi](language_code) language
+- I want [hi](language_code) Language.
+- I want to choose [hi](language_code) country
+- speak [hi](language_code) Language.
+- okay, go [hi](language_code) language
+- Talk in [hi](language_code)
+- okay I speak [hi](language_code) Language.
+- lets choose [hi](language_code)
+- lets choose [hi](language_code) lang
+- talk to me in [hi](language_code) lang
+- I want [hi](language_code) language
+- I want [hi](language_code) country
+- do [hi](language_code) lang
+- I speak [hi](language_code) country
+- talk to me in [hi](language_code) Language.
+- talk [hi](language_code) lang
+- okay, go [hi](language_code) Language.
+- pls talk in [hi](language_code) language
+- I'm willing to choose [hi](language_code) language
+- lets choose [hi](language_code) language
+- let's talk in [hi](language_code)
+- [fr](language_code)
+- I speak [fr](language_code) country
+- I'm willing to choose [fr](language_code) lang
+- try [fr](language_code) lang
+- Talk in [fr](language_code) lang
+- I want [fr](language_code)
+- speak [fr](language_code) country
+- serve me [fr](language_code) Language.
+- okay, go [fr](language_code) language
+- lets try [fr](language_code) Language.
+- lets try [fr](language_code) language
+- choose [fr](language_code) lang
+- serve me in [fr](language_code) language
+- go [fr](language_code) language
+- I'm willing [fr](language_code) country
+- I want to choose [fr](language_code)
+- communicate [fr](language_code) country
+- [fr](language_code) country
+- Talk in [fr](language_code)
+- I speak [fr](language_code) Language.
+- talk [fr](language_code) lang
+- communicate [fr](language_code) Language.
+- try [fr](language_code)
+- serve me [fr](language_code) lang
+- serve me in [fr](language_code) Language.
+- okay I speak [fr](language_code) Language.
+- let's talk in [fr](language_code)
+- speak [fr](language_code) language
+- pls talk in [fr](language_code) Language.
+- I'm willing to choose [fr](language_code) country
+- go [fr](language_code)
+- lets try [fr](language_code)
+- Talk in [fr](language_code) language
+- choose [fr](language_code)
+- pls talk in [fr](language_code)
+- okay, go [fr](language_code) country
+- I'm willing [fr](language_code) Language.
+- communicate [fr](language_code)
+- okay I speak [fr](language_code) language
+- I'm willing [fr](language_code)
+- okay I speak [fr](language_code) lang
+- lets try [fr](language_code) country
+- I want [fr](language_code) language
+- talk [fr](language_code) Language.
+- I want to choose [fr](language_code) language
+- try [fr](language_code) Language.
+- choose [fr](language_code) Language.
+- do [fr](language_code) lang
+- go [fr](language_code) country
+- try [fr](language_code) language
+- lets choose [fr](language_code) language
+- talk to me in [fr](language_code) lang
+- [zh-TW](language_code)
+- talk to me in [zh-TW](language_code) language
+- I want [zh-TW](language_code) country
+- serve me in [zh-TW](language_code) country
+- serve me [zh-TW](language_code)
+- choose [zh-TW](language_code) lang
+- do [zh-TW](language_code) lang
+- do [zh-TW](language_code) language
+- communicate [zh-TW](language_code) country
+- do [zh-TW](language_code) Language.
+- speak [zh-TW](language_code) country
+- lets try [zh-TW](language_code)
+- let's talk in [zh-TW](language_code) Language.
+- lets choose [zh-TW](language_code) Language.
+- try [zh-TW](language_code) Language.
+- okay I speak [zh-TW](language_code) language
+- try [zh-TW](language_code) country
+- [zh-TW](language_code) lang
+- pls talk in [zh-TW](language_code) language
+- talk [zh-TW](language_code) country
+- communicate [zh-TW](language_code) language
+- I want [zh-TW](language_code) lang
+- I want to choose [zh-TW](language_code) lang
+- okay, go [zh-TW](language_code)
+- okay, go [zh-TW](language_code) Language.
+- I'm willing to choose [zh-TW](language_code) lang
+- lets choose [zh-TW](language_code) lang
+- okay I speak [zh-TW](language_code)
+- talk [zh-TW](language_code) lang
+- serve me in [zh-TW](language_code)
+- lets try [zh-TW](language_code) lang
+- I want to choose [zh-TW](language_code) language
+- [zh-TW](language_code) Language.
+- choose [zh-TW](language_code) country
+- pls talk in [zh-TW](language_code)
+- talk to me in [zh-TW](language_code) country
+- I want [zh-TW](language_code) Language.
+- I speak [zh-TW](language_code) lang
+- speak [zh-TW](language_code)
+- go [zh-TW](language_code)
+- serve me [zh-TW](language_code) Language.
+- okay I speak [zh-TW](language_code) lang
+- lets try [zh-TW](language_code) language
+- try [zh-TW](language_code) lang
+- choose [zh-TW](language_code) Language.
+- let's talk in [zh-TW](language_code)
+- lets choose [zh-TW](language_code) country
+- serve me [zh-TW](language_code) country
+- lets try [zh-TW](language_code) country
+- let's talk in [zh-TW](language_code) country
+- lets choose [zh-TW](language_code) language
+- go [zh-TW](language_code) language
+- [ur](language_code)
+- choose [ur](language_code)
+- I speak [ur](language_code) language
+- talk to me in [ur](language_code) country
+- I'm willing [ur](language_code) country
+- serve me in [ur](language_code) lang
+- serve me in [ur](language_code) Language.
+- lets choose [ur](language_code) Language.
+- I'm willing to choose [ur](language_code)
+- communicate [ur](language_code) Language.
+- pls talk in [ur](language_code) country
+- Talk in [ur](language_code)
+- do [ur](language_code) country
+- I want [ur](language_code) Language.
+- pls talk in [ur](language_code) language
+- lets choose [ur](language_code)
+- serve me in [ur](language_code) country
+- I'm willing [ur](language_code) lang
+- lets try [ur](language_code) lang
+- I'm willing [ur](language_code) language
+- let's talk in [ur](language_code) lang
+- I speak [ur](language_code) country
+- okay, go [ur](language_code) country
+- I'm willing to choose [ur](language_code) Language.
+- let's talk in [ur](language_code) language
+- lets choose [ur](language_code) lang
+- try [ur](language_code) country
+- serve me [ur](language_code)
+- okay I speak [ur](language_code) language
+- pls talk in [ur](language_code) lang
+- speak [ur](language_code) Language.
+- I speak [ur](language_code) Language.
+- serve me [ur](language_code) language
+- do [ur](language_code) Language.
+- talk [ur](language_code)
+- choose [ur](language_code) country
+- Talk in [ur](language_code) language
+- speak [ur](language_code) language
+- communicate [ur](language_code)
+- talk [ur](language_code) country
+- [ur](language_code)
+- try [ur](language_code) language
+- I want to choose [ur](language_code) language
+- speak [ur](language_code) country
+- communicate [ur](language_code) language
+- talk to me in [ur](language_code)
+- lets try [ur](language_code) country
+- [ur](language_code) lang
+- talk to me in [ur](language_code) language
+- [ur](language_code) country
+- serve me [ur](language_code) lang
+- I'm willing [ur](language_code)
+- [af](language_code)
+- serve me [af](language_code) language
+- I want [af](language_code) Language.
+- I'm willing [af](language_code) Language.
+- I'm willing to choose [af](language_code) language
+- speak [af](language_code) lang
+- lets choose [af](language_code) lang
+- let's talk in [af](language_code) country
+- do [af](language_code) country
+- [af](language_code) country
+- lets try [af](language_code) country
+- pls talk in [af](language_code) language
+- let's talk in [af](language_code) language
+- go [af](language_code) lang
+- I speak [af](language_code) Language.
+- I'm willing [af](language_code)
+- communicate [af](language_code) lang
+- communicate [af](language_code) language
+- pls talk in [af](language_code) Language.
+- choose [af](language_code)
+- do [af](language_code) lang
+- okay, go [af](language_code) lang
+- I speak [af](language_code) language
+- lets try [af](language_code) language
+- choose [af](language_code) language
+- okay I speak [af](language_code) country
+- communicate [af](language_code) Language.
+- I want [af](language_code) lang
+- talk to me in [af](language_code) Language.
+- try [af](language_code)
+- lets choose [af](language_code) language
+- I speak [af](language_code)
+- communicate [af](language_code)
+- I want to choose [af](language_code) language
+- I want to choose [af](language_code) country
+- go [af](language_code) language
+- I want to choose [af](language_code) Language.
+- try [af](language_code) language
+- I want [af](language_code) language
+- let's talk in [af](language_code) lang
+- talk [af](language_code) Language.
+- serve me [af](language_code) lang
+- Talk in [af](language_code) language
+- serve me [af](language_code)
+- I'm willing to choose [af](language_code) Language.
+- serve me in [af](language_code)
+- talk [af](language_code) country
+- pls talk in [af](language_code) country
+- speak [af](language_code) country
+- [af](language_code) lang
+- okay, go [af](language_code) language
+- okay, go [af](language_code)
 - [en](language_code)
-- serve me [en](language_code) lang
-- Talk in [en](language_code) country
-- serve me in [en](language_code) language
-- I speak [en](language_code) language
-- I want to choose [en](language_code) lang
-- do [en](language_code) Language.
-- I want [en](language_code) Language.
-- let's talk in [en](language_code) language
-- go [en](language_code) lang
-- pls talk in [en](language_code) country
-- I want [en](language_code) lang
-- I'm willing [en](language_code) country
-- talk [en](language_code)
-- talk [en](language_code) country
-- lets choose [en](language_code) language
-- serve me in [en](language_code)
-- lets try [en](language_code)
-- okay, go [en](language_code) country
-- choose [en](language_code) language
-- I want [en](language_code) language
-- I'm willing [en](language_code)
-- talk to me in [en](language_code) language
-- let's talk in [en](language_code) Language.
-- I want to choose [en](language_code) language
-- okay I speak [en](language_code) country
-- okay, go [en](language_code) Language.
-- communicate [en](language_code) Language.
-- I'm willing to choose [en](language_code) country
-- I speak [en](language_code) Language.
-- serve me in [en](language_code) Language.
-- I speak [en](language_code)
-- go [en](language_code) Language.
-- communicate [en](language_code)
-- do [en](language_code) language
-- serve me [en](language_code)
+- serve me in [en](language_code) country
+- okay, go [en](language_code) lang
+- let's talk in [en](language_code) country
+- [en](language_code)
+- try [en](language_code)
+- I want [en](language_code) country
 - serve me [en](language_code) language
-- go [en](language_code) language
-- I'm willing to choose [en](language_code) lang
-- speak [en](language_code) Language.
-- I'm willing to choose [en](language_code)
-- talk [en](language_code) Language.
-- speak [en](language_code) country
-- Talk in [en](language_code)
+- I'm willing to choose [en](language_code) country
+- serve me in [en](language_code)
+- lets choose [en](language_code) country
 - okay I speak [en](language_code) Language.
-- choose [en](language_code) Language.
-- lets choose [en](language_code) lang
-- [en](language_code) Language.
+- I'm willing [en](language_code) Language.
+- serve me [en](language_code) country
+- serve me [en](language_code) Language.
+- lets choose [en](language_code)
+- do [en](language_code) lang
+- do [en](language_code) language
+- I speak [en](language_code) country
+- lets try [en](language_code) Language.
+- Talk in [en](language_code) lang
+- let's talk in [en](language_code) lang
+- communicate [en](language_code) lang
+- go [en](language_code) language
+- Talk in [en](language_code) language
+- I want to choose [en](language_code) lang
+- go [en](language_code)
+- talk [en](language_code) country
+- communicate [en](language_code) language
+- talk [en](language_code) lang
+- go [en](language_code) lang
+- serve me in [en](language_code) lang
+- I speak [en](language_code)
+- I want [en](language_code) Language.
+- okay, go [en](language_code) country
 - okay, go [en](language_code)
-- do [en](language_code) country
-- choose [en](language_code) country
-- lets try [en](language_code) country
-- [be](language_code)
-- talk to me in [be](language_code) lang
-- choose [be](language_code)
-- okay, go [be](language_code) language
-- I'm willing [be](language_code)
-- communicate [be](language_code) country
-- I want [be](language_code) Language.
-- lets try [be](language_code)
-- try [be](language_code) lang
-- do [be](language_code) Language.
-- lets choose [be](language_code) language
-- [be](language_code) language
-- I want to choose [be](language_code) lang
-- I want [be](language_code)
-- talk to me in [be](language_code)
-- serve me [be](language_code) country
-- serve me [be](language_code)
-- lets try [be](language_code) language
-- Talk in [be](language_code) language
-- I'm willing [be](language_code) language
-- okay, go [be](language_code) lang
-- I'm willing to choose [be](language_code) lang
-- I'm willing to choose [be](language_code) language
-- okay I speak [be](language_code) lang
-- talk [be](language_code)
-- I want [be](language_code) lang
-- choose [be](language_code) language
-- go [be](language_code) country
-- I'm willing [be](language_code) lang
-- lets choose [be](language_code)
-- I want to choose [be](language_code) language
-- serve me [be](language_code) Language.
-- communicate [be](language_code) lang
-- I speak [be](language_code) lang
-- do [be](language_code) lang
-- talk to me in [be](language_code) Language.
-- talk [be](language_code) language
-- lets try [be](language_code) lang
-- choose [be](language_code) lang
-- go [be](language_code)
-- [be](language_code)
-- pls talk in [be](language_code)
-- I want to choose [be](language_code)
-- serve me in [be](language_code) Language.
-- serve me [be](language_code) lang
-- do [be](language_code) country
-- I want [be](language_code) country
-- communicate [be](language_code)
-- speak [be](language_code)
-- choose [be](language_code) Language.
-- okay I speak [be](language_code) country
-- communicate [be](language_code) language
-- [nl](language_code)
-- let's talk in [nl](language_code) language
-- I'm willing to choose [nl](language_code) lang
-- talk [nl](language_code) country
-- I speak [nl](language_code) country
-- choose [nl](language_code) lang
-- communicate [nl](language_code) Language.
-- choose [nl](language_code) country
-- I want [nl](language_code)
-- I want to choose [nl](language_code) country
-- go [nl](language_code) lang
-- let's talk in [nl](language_code) country
-- talk to me in [nl](language_code) country
-- Talk in [nl](language_code) language
-- okay, go [nl](language_code) lang
-- do [nl](language_code) lang
-- I speak [nl](language_code) language
-- go [nl](language_code)
-- talk to me in [nl](language_code) language
-- serve me [nl](language_code) language
-- choose [nl](language_code) language
-- I want to choose [nl](language_code) Language.
-- lets try [nl](language_code)
-- serve me in [nl](language_code)
-- speak [nl](language_code) Language.
-- [nl](language_code) lang
-- try [nl](language_code) language
-- I'm willing to choose [nl](language_code)
-- communicate [nl](language_code) lang
-- serve me in [nl](language_code) language
-- I want [nl](language_code) country
-- I'm willing [nl](language_code) country
-- serve me [nl](language_code) lang
-- serve me [nl](language_code) country
-- I'm willing [nl](language_code) language
-- lets try [nl](language_code) Language.
-- try [nl](language_code) country
-- lets choose [nl](language_code) lang
-- Talk in [nl](language_code) lang
-- do [nl](language_code)
-- do [nl](language_code) country
-- speak [nl](language_code) lang
-- talk [nl](language_code) language
-- try [nl](language_code) lang
-- pls talk in [nl](language_code) language
-- talk to me in [nl](language_code)
-- I'm willing [nl](language_code) lang
-- speak [nl](language_code) country
-- okay I speak [nl](language_code) language
-- okay I speak [nl](language_code) lang
-- let's talk in [nl](language_code) Language.
-- I'm willing to choose [nl](language_code) Language.
+- speak [en](language_code)
+- okay, go [en](language_code) Language.
+- Talk in [en](language_code)
+- try [en](language_code) Language.
+- okay I speak [en](language_code)
+- I want to choose [en](language_code) Language.
+- okay I speak [en](language_code) country
+- speak [en](language_code) language
+- pls talk in [en](language_code) lang
+- I want to choose [en](language_code)
+- communicate [en](language_code) country
+- pls talk in [en](language_code)
+- let's talk in [en](language_code) Language.
+- okay I speak [en](language_code) lang
+- pls talk in [en](language_code) language
+- I'm willing to choose [en](language_code) language
+- [lv](language_code)
+- go [lv](language_code) country
+- pls talk in [lv](language_code) lang
+- okay, go [lv](language_code) Language.
+- I'm willing to choose [lv](language_code) language
+- communicate [lv](language_code)
+- do [lv](language_code) country
+- communicate [lv](language_code) Language.
+- lets choose [lv](language_code) language
+- okay, go [lv](language_code)
+- choose [lv](language_code)
+- talk [lv](language_code) country
+- I want to choose [lv](language_code) Language.
+- do [lv](language_code) lang
+- let's talk in [lv](language_code)
+- serve me [lv](language_code)
+- I want to choose [lv](language_code) lang
+- [lv](language_code) country
+- I speak [lv](language_code) language
+- lets try [lv](language_code) Language.
+- I'm willing [lv](language_code) lang
+- pls talk in [lv](language_code) Language.
+- go [lv](language_code)
+- serve me in [lv](language_code) Language.
+- speak [lv](language_code) language
+- lets choose [lv](language_code) Language.
+- okay I speak [lv](language_code) lang
+- lets try [lv](language_code) language
+- lets try [lv](language_code) country
+- go [lv](language_code) Language.
+- talk [lv](language_code) lang
+- [lv](language_code)
+- let's talk in [lv](language_code) lang
+- I want [lv](language_code) lang
+- lets choose [lv](language_code) country
+- choose [lv](language_code) lang
+- speak [lv](language_code)
+- choose [lv](language_code) language
+- do [lv](language_code)
+- okay, go [lv](language_code) lang
+- Talk in [lv](language_code) Language.
+- choose [lv](language_code) Language.
+- go [lv](language_code) lang
+- I speak [lv](language_code) lang
+- Talk in [lv](language_code) language
+- go [lv](language_code) language
+- talk [lv](language_code) language
+- pls talk in [lv](language_code) language
+- communicate [lv](language_code) language
+- okay I speak [lv](language_code) language
+- Talk in [lv](language_code) country
+- okay, go [lv](language_code) language
+- [gl](language_code)
+- okay, go [gl](language_code) lang
+- talk [gl](language_code)
+- talk [gl](language_code) lang
+- speak [gl](language_code) Language.
+- choose [gl](language_code)
+- I want [gl](language_code) language
+- talk to me in [gl](language_code) lang
+- do [gl](language_code) language
+- do [gl](language_code) lang
+- try [gl](language_code) lang
+- let's talk in [gl](language_code) language
+- talk [gl](language_code) language
+- do [gl](language_code) Language.
+- pls talk in [gl](language_code) lang
+- I'm willing [gl](language_code) country
+- let's talk in [gl](language_code) country
+- speak [gl](language_code) lang
+- I want [gl](language_code) lang
+- I want to choose [gl](language_code) lang
+- serve me in [gl](language_code) Language.
+- Talk in [gl](language_code) language
+- lets try [gl](language_code) country
+- okay I speak [gl](language_code) lang
+- I want [gl](language_code) Language.
+- serve me in [gl](language_code) lang
+- choose [gl](language_code) country
+- lets choose [gl](language_code) country
+- Talk in [gl](language_code) Language.
+- speak [gl](language_code) language
+- communicate [gl](language_code) language
+- lets try [gl](language_code) Language.
+- okay, go [gl](language_code)
+- lets choose [gl](language_code) lang
+- communicate [gl](language_code) Language.
+- I'm willing [gl](language_code) Language.
+- let's talk in [gl](language_code)
+- speak [gl](language_code)
+- I'm willing [gl](language_code)
+- I'm willing to choose [gl](language_code) country
+- talk [gl](language_code) country
+- lets try [gl](language_code) language
+- talk to me in [gl](language_code) Language.
+- try [gl](language_code)
+- serve me in [gl](language_code) country
+- okay I speak [gl](language_code) language
+- I speak [gl](language_code) country
+- okay I speak [gl](language_code) country
+- I speak [gl](language_code) language
+- lets try [gl](language_code)
+- communicate [gl](language_code) country
+- [gl](language_code)
+- [ja](language_code)
+- lets try [ja](language_code) country
+- communicate [ja](language_code) country
+- I'm willing [ja](language_code) Language.
+- [ja](language_code) country
+- choose [ja](language_code) Language.
+- serve me [ja](language_code) country
+- communicate [ja](language_code)
+- talk to me in [ja](language_code) Language.
+- I want [ja](language_code) lang
+- let's talk in [ja](language_code) language
+- go [ja](language_code) country
+- go [ja](language_code) Language.
+- I'm willing [ja](language_code) lang
+- do [ja](language_code) language
+- choose [ja](language_code) lang
+- okay I speak [ja](language_code) Language.
+- choose [ja](language_code) language
+- I want to choose [ja](language_code) lang
+- I want [ja](language_code) language
+- go [ja](language_code) lang
+- serve me [ja](language_code) language
+- serve me in [ja](language_code) lang
+- pls talk in [ja](language_code)
+- talk to me in [ja](language_code) country
+- I speak [ja](language_code) language
+- speak [ja](language_code) country
+- okay, go [ja](language_code) country
+- I want to choose [ja](language_code) Language.
+- Talk in [ja](language_code) country
+- [ja](language_code)
+- I'm willing [ja](language_code) country
+- I'm willing to choose [ja](language_code)
+- lets choose [ja](language_code) Language.
+- go [ja](language_code) language
+- choose [ja](language_code) country
+- go [ja](language_code)
+- do [ja](language_code) Language.
+- I speak [ja](language_code) country
+- lets try [ja](language_code) Language.
+- try [ja](language_code)
+- okay, go [ja](language_code) Language.
+- try [ja](language_code) Language.
+- communicate [ja](language_code) lang
+- let's talk in [ja](language_code) country
+- communicate [ja](language_code) Language.
+- okay I speak [ja](language_code) lang
+- I want [ja](language_code) Language.
+- pls talk in [ja](language_code) lang
+- lets try [ja](language_code) language
+- talk [ja](language_code) language
+- okay, go [ja](language_code)
 - [kn](language_code)
-- serve me in [kn](language_code) language
-- I speak [kn](language_code) lang
-- try [kn](language_code) country
-- go [kn](language_code)
-- speak [kn](language_code) language
-- lets choose [kn](language_code)
-- serve me in [kn](language_code) country
-- I'm willing to choose [kn](language_code) Language.
-- choose [kn](language_code) lang
+- serve me in [kn](language_code)
+- talk to me in [kn](language_code) country
 - do [kn](language_code) language
-- I want to choose [kn](language_code) language
-- try [kn](language_code) language
-- serve me in [kn](language_code) Language.
-- I want to choose [kn](language_code) Language.
-- pls talk in [kn](language_code) country
-- lets choose [kn](language_code) Language.
-- lets choose [kn](language_code) country
-- I speak [kn](language_code) Language.
-- do [kn](language_code) lang
-- do [kn](language_code) country
+- serve me [kn](language_code) country
+- lets try [kn](language_code)
+- Talk in [kn](language_code) lang
+- [kn](language_code) language
+- serve me in [kn](language_code) language
+- [kn](language_code)
+- go [kn](language_code) Language.
+- pls talk in [kn](language_code) language
+- lets choose [kn](language_code)
+- I want to choose [kn](language_code) country
+- I want [kn](language_code) country
+- talk [kn](language_code) lang
+- serve me in [kn](language_code) country
+- choose [kn](language_code) country
+- talk [kn](language_code) country
+- let's talk in [kn](language_code) lang
+- talk to me in [kn](language_code) lang
+- try [kn](language_code)
+- okay I speak [kn](language_code) language
+- talk to me in [kn](language_code) Language.
+- communicate [kn](language_code) language
+- choose [kn](language_code) Language.
+- communicate [kn](language_code) Language.
+- okay, go [kn](language_code) language
 - okay, go [kn](language_code) lang
 - speak [kn](language_code) Language.
-- I speak [kn](language_code)
-- speak [kn](language_code) lang
-- okay I speak [kn](language_code) Language.
-- pls talk in [kn](language_code) lang
-- Talk in [kn](language_code) Language.
-- serve me [kn](language_code) Language.
-- I want [kn](language_code) country
-- I want [kn](language_code)
-- let's talk in [kn](language_code) country
-- I'm willing [kn](language_code) lang
-- I'm willing to choose [kn](language_code) country
-- [kn](language_code) lang
-- I want to choose [kn](language_code) lang
-- okay I speak [kn](language_code) country
-- okay, go [kn](language_code) language
-- speak [kn](language_code) country
-- serve me [kn](language_code) language
-- do [kn](language_code)
-- lets try [kn](language_code) lang
+- [kn](language_code) Language.
+- I want [kn](language_code) language
 - pls talk in [kn](language_code)
+- choose [kn](language_code) language
+- let's talk in [kn](language_code) country
+- let's talk in [kn](language_code) language
+- choose [kn](language_code) lang
+- try [kn](language_code) Language.
+- okay, go [kn](language_code) country
+- speak [kn](language_code) language
+- let's talk in [kn](language_code) Language.
+- go [kn](language_code) lang
+- serve me [kn](language_code) language
 - lets try [kn](language_code) country
-- I speak [kn](language_code) language
+- serve me [kn](language_code)
+- I want [kn](language_code) Language.
+- communicate [kn](language_code) lang
+- Talk in [kn](language_code) country
 - talk to me in [kn](language_code) language
-- choose [kn](language_code)
-- serve me [kn](language_code) lang
-- okay, go [kn](language_code)
-- go [kn](language_code) Language.
-- [kn](language_code) language
-- lets try [kn](language_code) Language.
-- [ur](language_code)
-- I speak [ur](language_code) lang
-- I speak [ur](language_code) country
-- go [ur](language_code)
-- Talk in [ur](language_code) Language.
-- I'm willing [ur](language_code) country
-- try [ur](language_code) country
-- do [ur](language_code) country
-- pls talk in [ur](language_code)
-- [ur](language_code)
-- speak [ur](language_code)
-- do [ur](language_code)
-- talk [ur](language_code) country
-- try [ur](language_code) language
-- I'm willing [ur](language_code) Language.
-- let's talk in [ur](language_code) country
-- lets choose [ur](language_code) lang
-- communicate [ur](language_code) language
-- choose [ur](language_code)
-- go [ur](language_code) Language.
-- okay I speak [ur](language_code) country
-- [ur](language_code) language
-- serve me in [ur](language_code)
-- communicate [ur](language_code) country
-- talk [ur](language_code) language
-- okay, go [ur](language_code) language
-- talk [ur](language_code)
-- serve me in [ur](language_code) lang
-- pls talk in [ur](language_code) language
-- pls talk in [ur](language_code) country
-- serve me [ur](language_code)
-- I'm willing [ur](language_code)
-- okay, go [ur](language_code) country
-- talk [ur](language_code) Language.
-- [ur](language_code) Language.
-- speak [ur](language_code) Language.
-- okay I speak [ur](language_code) Language.
-- talk to me in [ur](language_code) country
-- serve me [ur](language_code) lang
-- I want to choose [ur](language_code) language
-- I speak [ur](language_code) Language.
-- Talk in [ur](language_code)
-- do [ur](language_code) Language.
-- I want [ur](language_code)
-- I want to choose [ur](language_code) lang
-- serve me [ur](language_code) Language.
-- let's talk in [ur](language_code) lang
-- lets choose [ur](language_code) country
-- serve me in [ur](language_code) language
-- choose [ur](language_code) lang
-- talk to me in [ur](language_code) language
-- I want [ur](language_code) language
-- [az](language_code)
-- let's talk in [az](language_code) lang
-- okay, go [az](language_code) Language.
-- serve me in [az](language_code)
-- I'm willing to choose [az](language_code) language
-- [az](language_code) lang
-- okay, go [az](language_code) language
-- serve me [az](language_code) country
-- speak [az](language_code) lang
-- let's talk in [az](language_code) Language.
-- try [az](language_code) language
-- lets try [az](language_code) Language.
-- try [az](language_code)
-- let's talk in [az](language_code) language
-- lets choose [az](language_code) lang
-- communicate [az](language_code) language
-- choose [az](language_code) lang
-- go [az](language_code) Language.
-- let's talk in [az](language_code) country
-- choose [az](language_code) country
-- I want [az](language_code)
-- lets choose [az](language_code) country
-- talk to me in [az](language_code) language
-- I want [az](language_code) language
-- I want to choose [az](language_code)
-- serve me in [az](language_code) lang
-- [az](language_code) language
-- I want [az](language_code) Language.
-- speak [az](language_code)
-- okay I speak [az](language_code) lang
-- speak [az](language_code) Language.
-- okay I speak [az](language_code)
-- I want to choose [az](language_code) language
-- choose [az](language_code)
-- talk [az](language_code) Language.
-- pls talk in [az](language_code) language
-- pls talk in [az](language_code) lang
-- I'm willing to choose [az](language_code) lang
-- talk to me in [az](language_code) Language.
-- Talk in [az](language_code) language
-- okay I speak [az](language_code) Language.
-- okay I speak [az](language_code) language
-- I want to choose [az](language_code) Language.
-- do [az](language_code) language
-- serve me in [az](language_code) language
-- talk to me in [az](language_code)
-- Talk in [az](language_code)
-- okay, go [az](language_code) lang
-- I want to choose [az](language_code) lang
-- lets choose [az](language_code)
-- try [az](language_code) country
-- talk [az](language_code) lang
-- [hr](language_code)
-- choose [hr](language_code) lang
-- choose [hr](language_code) language
-- communicate [hr](language_code)
-- okay I speak [hr](language_code)
-- talk to me in [hr](language_code) Language.
-- communicate [hr](language_code) Language.
-- talk [hr](language_code) Language.
-- lets choose [hr](language_code) country
-- I want [hr](language_code) lang
-- I want [hr](language_code) country
-- okay, go [hr](language_code) lang
-- speak [hr](language_code) Language.
-- okay, go [hr](language_code)
-- pls talk in [hr](language_code) Language.
-- [hr](language_code) lang
-- try [hr](language_code) lang
-- lets try [hr](language_code) Language.
-- do [hr](language_code) country
-- I speak [hr](language_code) language
-- I'm willing [hr](language_code)
-- I'm willing [hr](language_code) language
-- choose [hr](language_code)
-- I'm willing to choose [hr](language_code)
-- I want to choose [hr](language_code) Language.
-- pls talk in [hr](language_code) language
-- serve me in [hr](language_code) lang
-- go [hr](language_code) language
-- I'm willing to choose [hr](language_code) country
-- serve me [hr](language_code) country
-- okay I speak [hr](language_code) language
-- lets try [hr](language_code) country
-- serve me in [hr](language_code) country
-- I want to choose [hr](language_code) language
-- serve me [hr](language_code) language
-- [hr](language_code)
-- serve me [hr](language_code) Language.
-- go [hr](language_code) country
-- talk to me in [hr](language_code) lang
-- serve me [hr](language_code)
-- let's talk in [hr](language_code)
-- I speak [hr](language_code) Language.
-- talk [hr](language_code) lang
-- do [hr](language_code)
-- I want [hr](language_code)
-- go [hr](language_code) Language.
-- okay I speak [hr](language_code) Language.
-- I want [hr](language_code) language
-- pls talk in [hr](language_code)
-- talk to me in [hr](language_code) country
-- speak [hr](language_code) country
-- talk to me in [hr](language_code) language
-- [ru](language_code)
-- talk [ru](language_code) lang
-- pls talk in [ru](language_code) Language.
-- I want to choose [ru](language_code) Language.
-- serve me in [ru](language_code)
-- [ru](language_code) country
-- try [ru](language_code) language
-- choose [ru](language_code) language
-- I want to choose [ru](language_code)
-- I want to choose [ru](language_code) country
-- go [ru](language_code) lang
-- okay I speak [ru](language_code) language
-- do [ru](language_code) lang
-- speak [ru](language_code) lang
-- I'm willing to choose [ru](language_code) country
-- okay, go [ru](language_code) lang
-- communicate [ru](language_code) Language.
-- lets try [ru](language_code) country
-- I want to choose [ru](language_code) language
-- let's talk in [ru](language_code) country
-- speak [ru](language_code) Language.
-- go [ru](language_code) country
-- I want [ru](language_code) Language.
-- lets choose [ru](language_code) country
-- choose [ru](language_code) country
-- Talk in [ru](language_code)
-- try [ru](language_code)
-- do [ru](language_code) country
-- pls talk in [ru](language_code)
-- I want [ru](language_code) language
-- talk to me in [ru](language_code) language
-- I'm willing [ru](language_code) language
-- lets try [ru](language_code)
-- okay, go [ru](language_code) Language.
-- serve me [ru](language_code) lang
-- talk to me in [ru](language_code) country
-- lets choose [ru](language_code) lang
-- I'm willing to choose [ru](language_code) language
-- lets choose [ru](language_code) language
-- go [ru](language_code) language
-- I'm willing to choose [ru](language_code) lang
-- I speak [ru](language_code)
-- talk [ru](language_code) Language.
-- serve me in [ru](language_code) Language.
-- okay I speak [ru](language_code) Language.
-- okay I speak [ru](language_code)
-- I speak [ru](language_code) lang
-- pls talk in [ru](language_code) language
-- okay, go [ru](language_code) country
-- [ru](language_code) lang
-- do [ru](language_code) Language.
-- do [ru](language_code)
-- [vi](language_code)
-- talk [vi](language_code) Language.
-- choose [vi](language_code) country
-- pls talk in [vi](language_code) language
-- speak [vi](language_code) Language.
-- I want to choose [vi](language_code) country
-- talk to me in [vi](language_code)
-- I speak [vi](language_code)
-- pls talk in [vi](language_code) Language.
-- I want to choose [vi](language_code) language
-- lets try [vi](language_code) lang
-- choose [vi](language_code) Language.
-- I speak [vi](language_code) Language.
-- talk [vi](language_code) country
-- lets try [vi](language_code) Language.
-- okay, go [vi](language_code) language
-- talk [vi](language_code)
-- go [vi](language_code) country
-- [vi](language_code) language
-- lets choose [vi](language_code)
-- I'm willing [vi](language_code) language
-- okay, go [vi](language_code) country
-- talk [vi](language_code) language
-- I'm willing to choose [vi](language_code) lang
-- okay, go [vi](language_code) lang
-- communicate [vi](language_code)
-- try [vi](language_code) lang
-- let's talk in [vi](language_code) lang
-- I'm willing [vi](language_code) country
-- communicate [vi](language_code) lang
-- go [vi](language_code) language
-- I speak [vi](language_code) country
-- choose [vi](language_code) language
-- serve me [vi](language_code) lang
-- Talk in [vi](language_code)
-- I'm willing to choose [vi](language_code) Language.
-- let's talk in [vi](language_code)
-- serve me in [vi](language_code) country
-- serve me [vi](language_code) country
-- try [vi](language_code)
-- okay, go [vi](language_code)
-- do [vi](language_code) lang
-- I want to choose [vi](language_code)
-- do [vi](language_code) Language.
-- communicate [vi](language_code) country
-- I'm willing [vi](language_code) Language.
-- I'm willing to choose [vi](language_code) language
-- Talk in [vi](language_code) country
-- I want [vi](language_code) lang
-- let's talk in [vi](language_code) country
-- I want [vi](language_code) language
-- lets try [vi](language_code)
-- [af](language_code)
-- speak [af](language_code) lang
-- lets try [af](language_code) language
-- talk [af](language_code) country
-- pls talk in [af](language_code) Language.
-- let's talk in [af](language_code)
-- try [af](language_code) lang
-- okay, go [af](language_code)
-- okay, go [af](language_code) country
-- let's talk in [af](language_code) Language.
-- I want to choose [af](language_code)
-- communicate [af](language_code) country
-- lets choose [af](language_code)
-- Talk in [af](language_code) language
-- I want [af](language_code)
-- communicate [af](language_code) language
-- try [af](language_code) country
-- speak [af](language_code) Language.
-- I'm willing to choose [af](language_code) lang
-- let's talk in [af](language_code) language
-- communicate [af](language_code) lang
-- talk to me in [af](language_code) language
-- talk to me in [af](language_code)
-- lets choose [af](language_code) country
-- [af](language_code) language
-- speak [af](language_code) language
-- lets try [af](language_code) country
-- okay I speak [af](language_code) language
-- lets choose [af](language_code) language
-- try [af](language_code)
-- talk to me in [af](language_code) country
-- choose [af](language_code) lang
-- talk [af](language_code) lang
-- serve me [af](language_code) lang
-- go [af](language_code) country
-- serve me [af](language_code) language
-- I want to choose [af](language_code) Language.
-- [af](language_code) lang
-- I want [af](language_code) Language.
-- okay, go [af](language_code) Language.
-- let's talk in [af](language_code) country
-- do [af](language_code) language
-- go [af](language_code) language
-- pls talk in [af](language_code) language
-- okay I speak [af](language_code) Language.
-- I'm willing to choose [af](language_code) country
-- I want [af](language_code) language
-- serve me in [af](language_code) Language.
-- [af](language_code) Language.
-- try [af](language_code) language
-- talk [af](language_code) Language.
-- I want [af](language_code) country
-- [el](language_code)
-- go [el](language_code) Language.
-- go [el](language_code) country
-- talk to me in [el](language_code) language
-- go [el](language_code) lang
-- let's talk in [el](language_code)
-- okay, go [el](language_code) lang
-- I'm willing to choose [el](language_code) country
-- choose [el](language_code) language
-- I'm willing [el](language_code) Language.
-- lets try [el](language_code) country
-- do [el](language_code) lang
-- speak [el](language_code) lang
-- I want [el](language_code) language
-- I'm willing to choose [el](language_code) lang
-- communicate [el](language_code) language
-- talk to me in [el](language_code) lang
-- speak [el](language_code) country
-- talk to me in [el](language_code) country
-- choose [el](language_code)
-- I'm willing [el](language_code) country
-- I want [el](language_code) Language.
-- communicate [el](language_code) Language.
-- lets try [el](language_code) language
-- let's talk in [el](language_code) Language.
-- speak [el](language_code) language
-- lets try [el](language_code) Language.
-- choose [el](language_code) country
-- serve me [el](language_code) country
-- serve me [el](language_code) language
-- go [el](language_code)
-- Talk in [el](language_code) lang
-- okay I speak [el](language_code) language
-- communicate [el](language_code) lang
-- pls talk in [el](language_code) language
-- I'm willing to choose [el](language_code) Language.
-- Talk in [el](language_code) Language.
-- lets choose [el](language_code) Language.
-- pls talk in [el](language_code) Language.
-- communicate [el](language_code) country
-- lets try [el](language_code) lang
-- pls talk in [el](language_code) lang
-- go [el](language_code) language
-- I want to choose [el](language_code) lang
-- do [el](language_code) Language.
-- do [el](language_code) country
-- try [el](language_code) Language.
-- speak [el](language_code)
-- choose [el](language_code) Language.
-- I want to choose [el](language_code) language
-- [el](language_code)
-- okay I speak [el](language_code) country
-- [sr](language_code)
-- I want to choose [sr](language_code)
-- Talk in [sr](language_code) language
-- do [sr](language_code)
-- talk to me in [sr](language_code) lang
-- do [sr](language_code) country
-- let's talk in [sr](language_code) country
-- speak [sr](language_code) language
-- Talk in [sr](language_code) Language.
+- I'm willing [kn](language_code) language
+- I'm willing [kn](language_code) Language.
+- okay, go [kn](language_code) Language.
+- [tl](language_code)
+- I'm willing [tl](language_code) Language.
+- do [tl](language_code) lang
+- [tl](language_code) Language.
+- I speak [tl](language_code)
+- I'm willing to choose [tl](language_code) lang
+- serve me [tl](language_code) Language.
+- do [tl](language_code) language
+- Talk in [tl](language_code) lang
+- I want to choose [tl](language_code)
+- choose [tl](language_code) Language.
+- lets try [tl](language_code) Language.
+- I want to choose [tl](language_code) language
+- go [tl](language_code)
+- talk [tl](language_code) Language.
+- try [tl](language_code) language
+- okay, go [tl](language_code) country
+- serve me in [tl](language_code)
+- Talk in [tl](language_code) language
+- okay I speak [tl](language_code) language
+- talk [tl](language_code) language
+- Talk in [tl](language_code) country
+- Talk in [tl](language_code) Language.
+- let's talk in [tl](language_code) Language.
+- speak [tl](language_code) language
+- talk [tl](language_code) lang
+- pls talk in [tl](language_code)
+- pls talk in [tl](language_code) country
+- Talk in [tl](language_code)
+- talk to me in [tl](language_code)
+- communicate [tl](language_code) lang
+- I'm willing [tl](language_code)
+- I want to choose [tl](language_code) lang
+- go [tl](language_code) country
+- let's talk in [tl](language_code) country
+- choose [tl](language_code) lang
+- serve me in [tl](language_code) lang
+- serve me in [tl](language_code) language
+- I speak [tl](language_code) language
+- I'm willing to choose [tl](language_code) Language.
+- serve me [tl](language_code) country
+- okay, go [tl](language_code)
+- let's talk in [tl](language_code)
+- lets try [tl](language_code) lang
+- talk to me in [tl](language_code) Language.
+- I'm willing [tl](language_code) language
+- communicate [tl](language_code) language
+- okay, go [tl](language_code) language
+- I speak [tl](language_code) lang
+- communicate [tl](language_code) country
+- let's talk in [tl](language_code) language
+- choose [tl](language_code) country
+- [ro](language_code)
+- lets try [ro](language_code)
+- I speak [ro](language_code)
+- do [ro](language_code)
+- Talk in [ro](language_code) Language.
+- lets try [ro](language_code) language
+- do [ro](language_code) country
+- choose [ro](language_code) Language.
+- let's talk in [ro](language_code) language
+- I want to choose [ro](language_code) country
+- okay I speak [ro](language_code) lang
+- talk [ro](language_code) country
+- [ro](language_code) Language.
+- talk [ro](language_code) lang
+- okay I speak [ro](language_code)
+- talk [ro](language_code) Language.
+- I'm willing to choose [ro](language_code) country
+- talk to me in [ro](language_code) language
+- talk [ro](language_code)
+- pls talk in [ro](language_code) Language.
+- lets try [ro](language_code) Language.
+- I want [ro](language_code) Language.
+- lets choose [ro](language_code)
+- communicate [ro](language_code) Language.
+- [ro](language_code)
+- let's talk in [ro](language_code) Language.
+- serve me [ro](language_code) lang
+- let's talk in [ro](language_code)
+- okay, go [ro](language_code) country
+- lets choose [ro](language_code) country
+- pls talk in [ro](language_code) language
+- pls talk in [ro](language_code)
+- talk to me in [ro](language_code)
+- I want to choose [ro](language_code) language
+- serve me in [ro](language_code) language
+- okay I speak [ro](language_code) Language.
+- do [ro](language_code) language
+- okay, go [ro](language_code) lang
+- I'm willing [ro](language_code) Language.
+- I'm willing [ro](language_code) lang
+- go [ro](language_code) Language.
+- I speak [ro](language_code) country
+- lets choose [ro](language_code) Language.
+- [ro](language_code) language
+- okay I speak [ro](language_code) country
+- speak [ro](language_code)
+- go [ro](language_code) lang
+- do [ro](language_code) Language.
+- serve me in [ro](language_code)
+- lets try [ro](language_code) lang
+- go [ro](language_code) country
+- I want to choose [ro](language_code) Language.
+- [nl](language_code)
+- pls talk in [nl](language_code) Language.
+- choose [nl](language_code)
+- I'm willing to choose [nl](language_code)
+- I'm willing to choose [nl](language_code) Language.
+- lets try [nl](language_code) lang
+- talk to me in [nl](language_code) country
+- I speak [nl](language_code) Language.
+- communicate [nl](language_code) country
+- do [nl](language_code)
+- [nl](language_code) language
+- pls talk in [nl](language_code) lang
+- communicate [nl](language_code) lang
+- talk to me in [nl](language_code) Language.
+- lets choose [nl](language_code)
+- I speak [nl](language_code)
+- I want [nl](language_code) Language.
+- speak [nl](language_code) country
+- I'm willing to choose [nl](language_code) lang
+- choose [nl](language_code) Language.
+- okay, go [nl](language_code) lang
+- I want to choose [nl](language_code) country
+- okay I speak [nl](language_code) Language.
+- talk [nl](language_code) Language.
+- I'm willing [nl](language_code)
+- talk [nl](language_code) country
+- let's talk in [nl](language_code)
+- I'm willing [nl](language_code) country
+- go [nl](language_code) language
+- I want [nl](language_code) language
+- I want to choose [nl](language_code)
+- [nl](language_code)
+- pls talk in [nl](language_code) country
+- okay, go [nl](language_code)
+- I'm willing [nl](language_code) lang
+- serve me in [nl](language_code) lang
+- I'm willing [nl](language_code) language
+- serve me in [nl](language_code) language
+- do [nl](language_code) country
+- try [nl](language_code) language
+- serve me [nl](language_code) language
+- okay, go [nl](language_code) Language.
+- okay I speak [nl](language_code)
+- speak [nl](language_code) lang
+- Talk in [nl](language_code) lang
+- Talk in [nl](language_code) Language.
+- communicate [nl](language_code) language
+- let's talk in [nl](language_code) lang
+- serve me [nl](language_code)
+- I'm willing to choose [nl](language_code) country
+- pls talk in [nl](language_code) language
+- talk [nl](language_code) lang
+- [iw](language_code)
+- I'm willing to choose [iw](language_code) language
+- speak [iw](language_code) lang
+- Talk in [iw](language_code) language
+- serve me [iw](language_code) lang
+- do [iw](language_code) country
+- serve me in [iw](language_code) lang
+- I'm willing to choose [iw](language_code) Language.
+- let's talk in [iw](language_code) Language.
+- serve me in [iw](language_code) country
+- try [iw](language_code) language
+- speak [iw](language_code) country
+- I want [iw](language_code) lang
+- I'm willing [iw](language_code) language
+- talk to me in [iw](language_code) language
+- do [iw](language_code) language
+- do [iw](language_code)
+- I speak [iw](language_code) country
+- try [iw](language_code) country
+- Talk in [iw](language_code) Language.
+- I want to choose [iw](language_code) lang
+- pls talk in [iw](language_code) lang
+- communicate [iw](language_code) Language.
+- serve me in [iw](language_code) Language.
+- pls talk in [iw](language_code)
+- choose [iw](language_code) lang
+- serve me [iw](language_code) language
+- I'm willing to choose [iw](language_code)
+- lets choose [iw](language_code) language
+- lets try [iw](language_code) Language.
+- go [iw](language_code) lang
+- okay, go [iw](language_code) Language.
+- [iw](language_code) language
+- speak [iw](language_code)
+- lets try [iw](language_code)
+- okay, go [iw](language_code) language
+- I want to choose [iw](language_code)
+- okay I speak [iw](language_code) Language.
+- try [iw](language_code)
+- talk [iw](language_code) Language.
+- serve me [iw](language_code) Language.
+- I want to choose [iw](language_code) language
+- choose [iw](language_code) language
+- talk [iw](language_code) country
+- I'm willing [iw](language_code)
+- I want to choose [iw](language_code) country
+- communicate [iw](language_code) lang
+- I speak [iw](language_code)
+- talk to me in [iw](language_code) Language.
+- lets choose [iw](language_code) lang
+- I want [iw](language_code)
+- talk [iw](language_code) language
+- [ar](language_code)
+- I'm willing to choose [ar](language_code) lang
+- talk to me in [ar](language_code) lang
+- I want [ar](language_code) country
+- I want [ar](language_code) lang
+- communicate [ar](language_code) language
+- talk to me in [ar](language_code) language
+- choose [ar](language_code) language
+- talk [ar](language_code) language
+- pls talk in [ar](language_code) Language.
+- serve me in [ar](language_code) country
+- I speak [ar](language_code)
+- pls talk in [ar](language_code) country
+- do [ar](language_code)
+- okay, go [ar](language_code) language
+- I want to choose [ar](language_code) Language.
+- okay I speak [ar](language_code) country
+- pls talk in [ar](language_code) lang
+- serve me [ar](language_code) language
+- speak [ar](language_code) country
+- let's talk in [ar](language_code) lang
+- lets choose [ar](language_code)
+- I'm willing to choose [ar](language_code) language
+- serve me in [ar](language_code) language
+- talk to me in [ar](language_code) Language.
+- I want to choose [ar](language_code)
+- I speak [ar](language_code) Language.
+- I want [ar](language_code)
+- do [ar](language_code) language
+- okay, go [ar](language_code) country
+- go [ar](language_code) Language.
+- talk [ar](language_code) Language.
+- speak [ar](language_code) language
+- I'm willing to choose [ar](language_code) country
+- try [ar](language_code) lang
+- serve me [ar](language_code) country
+- do [ar](language_code) country
+- Talk in [ar](language_code) lang
+- choose [ar](language_code) lang
+- talk to me in [ar](language_code) country
+- go [ar](language_code) lang
+- I want to choose [ar](language_code) lang
+- Talk in [ar](language_code)
+- lets try [ar](language_code) Language.
+- okay I speak [ar](language_code) Language.
+- speak [ar](language_code)
+- I'm willing to choose [ar](language_code) Language.
+- [ar](language_code)
+- I'm willing [ar](language_code) language
+- go [ar](language_code) country
+- try [ar](language_code) language
+- [ar](language_code) Language.
+- [ko](language_code)
+- talk to me in [ko](language_code) Language.
+- I'm willing to choose [ko](language_code) country
+- go [ko](language_code) language
+- talk to me in [ko](language_code) language
+- I'm willing to choose [ko](language_code) language
+- I speak [ko](language_code) country
+- I speak [ko](language_code)
+- Talk in [ko](language_code) Language.
+- choose [ko](language_code) Language.
+- lets choose [ko](language_code) lang
+- try [ko](language_code) country
+- talk [ko](language_code) country
+- serve me in [ko](language_code) Language.
+- lets choose [ko](language_code) country
+- I'm willing [ko](language_code) country
+- lets try [ko](language_code) Language.
+- lets try [ko](language_code) lang
+- [ko](language_code) country
+- choose [ko](language_code)
+- serve me [ko](language_code) Language.
+- serve me [ko](language_code) language
+- choose [ko](language_code) country
+- lets try [ko](language_code) language
+- okay I speak [ko](language_code) lang
+- Talk in [ko](language_code) lang
+- Talk in [ko](language_code) language
+- okay I speak [ko](language_code) Language.
+- I want to choose [ko](language_code) country
+- [ko](language_code)
+- communicate [ko](language_code) Language.
+- talk [ko](language_code) language
+- I want [ko](language_code) Language.
+- speak [ko](language_code) lang
+- I want [ko](language_code) country
+- go [ko](language_code) country
+- talk [ko](language_code)
+- go [ko](language_code) lang
+- talk [ko](language_code) lang
+- speak [ko](language_code) Language.
+- speak [ko](language_code)
+- try [ko](language_code) lang
+- serve me in [ko](language_code) language
+- okay, go [ko](language_code) country
+- do [ko](language_code) country
+- try [ko](language_code) language
+- [ko](language_code) lang
+- okay I speak [ko](language_code) country
+- pls talk in [ko](language_code) country
+- communicate [ko](language_code) country
+- serve me [ko](language_code) country
+- okay, go [ko](language_code) lang
+- [zh-CN](language_code)
+- I'm willing to choose [zh-CN](language_code) Language.
+- talk [zh-CN](language_code) lang
+- let's talk in [zh-CN](language_code) language
+- talk to me in [zh-CN](language_code) country
+- [zh-CN](language_code) country
+- choose [zh-CN](language_code) country
+- I'm willing [zh-CN](language_code) lang
+- speak [zh-CN](language_code)
+- do [zh-CN](language_code) Language.
+- do [zh-CN](language_code) lang
+- communicate [zh-CN](language_code)
+- I speak [zh-CN](language_code) language
+- I want to choose [zh-CN](language_code)
+- serve me [zh-CN](language_code) Language.
+- try [zh-CN](language_code)
+- I speak [zh-CN](language_code) country
+- choose [zh-CN](language_code)
+- go [zh-CN](language_code) lang
+- let's talk in [zh-CN](language_code) country
+- try [zh-CN](language_code) country
+- communicate [zh-CN](language_code) country
+- I want [zh-CN](language_code) lang
+- [zh-CN](language_code)
+- I speak [zh-CN](language_code) lang
+- communicate [zh-CN](language_code) lang
+- Talk in [zh-CN](language_code) language
+- communicate [zh-CN](language_code) language
+- I speak [zh-CN](language_code)
+- serve me in [zh-CN](language_code) language
+- lets choose [zh-CN](language_code) country
+- I'm willing [zh-CN](language_code) Language.
+- pls talk in [zh-CN](language_code) country
+- do [zh-CN](language_code) country
+- lets choose [zh-CN](language_code)
+- Talk in [zh-CN](language_code)
+- pls talk in [zh-CN](language_code)
+- pls talk in [zh-CN](language_code) Language.
+- communicate [zh-CN](language_code) Language.
+- pls talk in [zh-CN](language_code) lang
+- pls talk in [zh-CN](language_code) language
+- serve me in [zh-CN](language_code) country
+- I want to choose [zh-CN](language_code) lang
+- okay I speak [zh-CN](language_code) language
+- go [zh-CN](language_code) country
+- serve me in [zh-CN](language_code) Language.
+- serve me [zh-CN](language_code) country
+- lets try [zh-CN](language_code)
+- okay, go [zh-CN](language_code) country
+- lets try [zh-CN](language_code) Language.
+- serve me in [zh-CN](language_code) lang
+- lets try [zh-CN](language_code) lang
+- [mk](language_code)
+- serve me in [mk](language_code)
+- try [mk](language_code)
+- speak [mk](language_code) country
+- talk to me in [mk](language_code) Language.
+- go [mk](language_code) Language.
+- okay I speak [mk](language_code) Language.
+- pls talk in [mk](language_code) Language.
+- go [mk](language_code)
+- [mk](language_code) country
+- serve me [mk](language_code) language
+- talk [mk](language_code) language
+- I speak [mk](language_code) language
+- talk to me in [mk](language_code) country
+- lets try [mk](language_code) country
+- go [mk](language_code) language
+- choose [mk](language_code) Language.
+- okay, go [mk](language_code) country
+- Talk in [mk](language_code)
+- talk to me in [mk](language_code) lang
+- lets choose [mk](language_code) Language.
+- I'm willing to choose [mk](language_code) lang
+- Talk in [mk](language_code) Language.
+- talk to me in [mk](language_code)
+- I want [mk](language_code) Language.
+- I'm willing to choose [mk](language_code) Language.
+- lets try [mk](language_code)
+- okay, go [mk](language_code) language
+- choose [mk](language_code) language
+- go [mk](language_code) lang
+- pls talk in [mk](language_code) country
+- okay I speak [mk](language_code) lang
+- serve me in [mk](language_code) language
+- communicate [mk](language_code) language
+- talk [mk](language_code) country
+- I want [mk](language_code) lang
+- okay, go [mk](language_code) lang
+- [mk](language_code) Language.
+- okay I speak [mk](language_code)
+- talk to me in [mk](language_code) language
+- go [mk](language_code) country
+- I want to choose [mk](language_code) lang
+- I speak [mk](language_code) Language.
+- okay I speak [mk](language_code) country
+- I'm willing [mk](language_code) country
+- serve me in [mk](language_code) country
+- I want to choose [mk](language_code) Language.
+- Talk in [mk](language_code) lang
+- Talk in [mk](language_code) country
+- I'm willing to choose [mk](language_code) country
+- speak [mk](language_code)
+- speak [mk](language_code) Language.
+- [tr](language_code)
+- lets try [tr](language_code) country
+- speak [tr](language_code) country
+- okay I speak [tr](language_code) Language.
+- serve me in [tr](language_code) language
+- go [tr](language_code) Language.
+- speak [tr](language_code) Language.
+- lets choose [tr](language_code) lang
+- speak [tr](language_code) language
+- I'm willing to choose [tr](language_code)
+- lets choose [tr](language_code) Language.
+- I speak [tr](language_code) language
+- okay I speak [tr](language_code) country
+- do [tr](language_code) Language.
+- let's talk in [tr](language_code) country
+- lets choose [tr](language_code) country
+- lets try [tr](language_code)
+- Talk in [tr](language_code) lang
+- okay, go [tr](language_code) country
+- speak [tr](language_code) lang
+- okay, go [tr](language_code) lang
+- go [tr](language_code) language
+- serve me [tr](language_code) language
+- I'm willing [tr](language_code) lang
+- speak [tr](language_code)
+- communicate [tr](language_code) lang
+- choose [tr](language_code) Language.
+- try [tr](language_code) language
+- let's talk in [tr](language_code) language
+- lets choose [tr](language_code) language
+- okay I speak [tr](language_code)
+- communicate [tr](language_code) country
+- lets choose [tr](language_code)
+- I speak [tr](language_code) country
+- choose [tr](language_code)
+- talk to me in [tr](language_code) Language.
+- talk [tr](language_code)
+- choose [tr](language_code) lang
+- I want to choose [tr](language_code) country
+- okay I speak [tr](language_code) language
+- lets try [tr](language_code) Language.
+- pls talk in [tr](language_code) lang
+- talk [tr](language_code) country
+- I want to choose [tr](language_code) Language.
+- I'm willing to choose [tr](language_code) country
+- [tr](language_code)
+- do [tr](language_code)
+- Talk in [tr](language_code) country
+- go [tr](language_code) country
+- communicate [tr](language_code) language
+- serve me [tr](language_code)
+- [tr](language_code) country
+- [it](language_code)
+- lets choose [it](language_code) language
+- talk [it](language_code) Language.
+- lets try [it](language_code) Language.
+- lets choose [it](language_code) lang
+- lets try [it](language_code)
+- let's talk in [it](language_code) language
+- lets try [it](language_code) country
+- do [it](language_code) country
+- try [it](language_code) country
+- [it](language_code) Language.
+- let's talk in [it](language_code)
+- try [it](language_code) lang
+- let's talk in [it](language_code) Language.
+- let's talk in [it](language_code) country
+- serve me [it](language_code) country
+- pls talk in [it](language_code) language
+- Talk in [it](language_code) lang
+- pls talk in [it](language_code) Language.
+- go [it](language_code) language
+- I speak [it](language_code) language
+- I'm willing to choose [it](language_code) language
+- choose [it](language_code) lang
+- okay I speak [it](language_code) Language.
+- pls talk in [it](language_code) country
+- speak [it](language_code)
+- communicate [it](language_code) Language.
+- okay I speak [it](language_code) country
+- I speak [it](language_code) country
+- [it](language_code)
+- let's talk in [it](language_code) lang
+- do [it](language_code) lang
+- serve me in [it](language_code)
+- lets choose [it](language_code)
+- I speak [it](language_code)
+- I want [it](language_code) language
+- do [it](language_code) Language.
+- I want to choose [it](language_code) lang
+- try [it](language_code) language
+- choose [it](language_code) language
+- communicate [it](language_code) language
+- serve me [it](language_code) lang
+- Talk in [it](language_code) country
+- go [it](language_code) lang
+- speak [it](language_code) language
+- speak [it](language_code) lang
+- do [it](language_code)
+- okay I speak [it](language_code) lang
+- I want to choose [it](language_code) Language.
+- okay I speak [it](language_code) language
+- serve me in [it](language_code) lang
+- serve me in [it](language_code) country
+- [bn](language_code)
+- lets try [bn](language_code) language
+- I want to choose [bn](language_code) country
+- talk [bn](language_code) lang
+- lets choose [bn](language_code) Language.
+- I'm willing [bn](language_code) lang
+- let's talk in [bn](language_code) language
+- I'm willing to choose [bn](language_code) lang
+- lets choose [bn](language_code) lang
+- lets try [bn](language_code) Language.
+- lets choose [bn](language_code) country
+- try [bn](language_code) lang
+- talk to me in [bn](language_code)
+- I'm willing to choose [bn](language_code) language
+- I'm willing [bn](language_code)
+- lets try [bn](language_code) lang
+- okay I speak [bn](language_code) country
+- lets try [bn](language_code)
+- [bn](language_code) language
+- I want to choose [bn](language_code) Language.
+- try [bn](language_code) country
+- let's talk in [bn](language_code) lang
+- okay I speak [bn](language_code)
+- communicate [bn](language_code)
+- choose [bn](language_code) Language.
+- communicate [bn](language_code) country
+- I want [bn](language_code) Language.
+- pls talk in [bn](language_code) country
+- try [bn](language_code) Language.
+- let's talk in [bn](language_code)
+- I'm willing to choose [bn](language_code) Language.
+- serve me in [bn](language_code)
+- talk to me in [bn](language_code) Language.
+- choose [bn](language_code) country
+- pls talk in [bn](language_code) lang
+- Talk in [bn](language_code) language
+- I want [bn](language_code) language
+- speak [bn](language_code) language
+- I want to choose [bn](language_code)
+- do [bn](language_code) language
+- Talk in [bn](language_code) lang
+- serve me [bn](language_code) language
+- I speak [bn](language_code) language
+- lets try [bn](language_code) country
+- go [bn](language_code) language
+- serve me in [bn](language_code) language
+- communicate [bn](language_code) language
+- talk [bn](language_code)
+- I'm willing [bn](language_code) Language.
+- serve me [bn](language_code)
+- talk to me in [bn](language_code) lang
+- I speak [bn](language_code) lang
 - [sr](language_code)
 - serve me [sr](language_code) country
-- I speak [sr](language_code)
-- okay, go [sr](language_code)
-- okay I speak [sr](language_code) language
-- I'm willing to choose [sr](language_code) lang
-- speak [sr](language_code) country
+- I speak [sr](language_code) Language.
+- speak [sr](language_code)
+- I want to choose [sr](language_code) country
+- let's talk in [sr](language_code) Language.
 - try [sr](language_code) country
-- lets try [sr](language_code) lang
-- let's talk in [sr](language_code)
-- I want [sr](language_code)
-- okay, go [sr](language_code) Language.
-- choose [sr](language_code) language
 - communicate [sr](language_code) language
-- Talk in [sr](language_code) country
+- speak [sr](language_code) Language.
+- I speak [sr](language_code)
+- I'm willing to choose [sr](language_code) lang
+- I speak [sr](language_code) lang
+- try [sr](language_code)
+- choose [sr](language_code) language
+- try [sr](language_code) Language.
+- go [sr](language_code) language
+- I speak [sr](language_code) country
+- [sr](language_code) country
+- Talk in [sr](language_code) Language.
+- serve me in [sr](language_code) language
+- Talk in [sr](language_code) lang
+- okay, go [sr](language_code) language
+- [sr](language_code)
+- I'm willing to choose [sr](language_code) country
+- communicate [sr](language_code)
+- I want [sr](language_code) Language.
+- talk to me in [sr](language_code) language
+- talk [sr](language_code)
+- I want [sr](language_code)
+- serve me in [sr](language_code) country
+- lets try [sr](language_code) language
+- I want to choose [sr](language_code) language
+- I'm willing [sr](language_code) language
+- talk [sr](language_code) Language.
+- communicate [sr](language_code) country
+- I want [sr](language_code) lang
+- talk [sr](language_code) lang
+- talk to me in [sr](language_code) lang
+- I'm willing to choose [sr](language_code) language
+- speak [sr](language_code) lang
 - go [sr](language_code) lang
-- serve me [sr](language_code) Language.
-- lets try [sr](language_code)
-- Talk in [sr](language_code)
-- I'm willing [sr](language_code) Language.
-- I'm willing [sr](language_code) country
-- do [sr](language_code) language
-- do [sr](language_code) Language.
-- lets try [sr](language_code) country
+- let's talk in [sr](language_code) lang
+- go [sr](language_code) country
 - try [sr](language_code) language
 - serve me [sr](language_code) language
-- lets try [sr](language_code) language
-- speak [sr](language_code) lang
-- I want to choose [sr](language_code) language
-- serve me in [sr](language_code) lang
-- okay I speak [sr](language_code) Language.
-- okay, go [sr](language_code) lang
-- lets choose [sr](language_code) language
-- pls talk in [sr](language_code) Language.
-- I want [sr](language_code) country
-- let's talk in [sr](language_code) language
-- serve me in [sr](language_code) Language.
-- I speak [sr](language_code) country
-- okay I speak [sr](language_code) lang
-- serve me in [sr](language_code) language
-- I'm willing [sr](language_code) lang
-- talk [sr](language_code)
+- do [sr](language_code) language
+- talk to me in [sr](language_code) Language.
+- choose [sr](language_code) lang
+- let's talk in [sr](language_code) country
 - I'm willing [sr](language_code)
-- [es](language_code)
-- I'm willing to choose [es](language_code)
-- talk to me in [es](language_code) country
-- go [es](language_code)
-- I want to choose [es](language_code) language
-- go [es](language_code) Language.
-- [es](language_code) lang
-- okay, go [es](language_code)
-- I'm willing [es](language_code) lang
-- okay I speak [es](language_code)
-- I want to choose [es](language_code) Language.
-- talk [es](language_code) Language.
-- communicate [es](language_code) country
-- I speak [es](language_code) country
-- talk to me in [es](language_code)
-- communicate [es](language_code) lang
-- speak [es](language_code) country
-- serve me [es](language_code) language
-- I'm willing [es](language_code) country
-- Talk in [es](language_code) Language.
-- lets choose [es](language_code) country
-- lets try [es](language_code)
-- try [es](language_code) language
-- I want [es](language_code) lang
-- I'm willing [es](language_code) Language.
-- talk [es](language_code)
-- choose [es](language_code) lang
-- I'm willing [es](language_code)
-- serve me in [es](language_code)
-- lets try [es](language_code) lang
-- try [es](language_code) Language.
-- [es](language_code) country
-- I want to choose [es](language_code) country
-- talk to me in [es](language_code) language
-- choose [es](language_code) language
-- speak [es](language_code) lang
-- do [es](language_code) country
-- [es](language_code) language
-- I'm willing to choose [es](language_code) lang
-- serve me [es](language_code) country
-- okay, go [es](language_code) Language.
-- talk [es](language_code) country
-- talk to me in [es](language_code) lang
-- I speak [es](language_code) Language.
-- talk to me in [es](language_code) Language.
-- lets choose [es](language_code)
-- [es](language_code) Language.
-- do [es](language_code) lang
-- I want [es](language_code)
-- I'm willing to choose [es](language_code) country
-- talk [es](language_code) language
-- lets choose [es](language_code) language
-- [la](language_code)
-- [la](language_code) lang
-- I'm willing to choose [la](language_code) Language.
-- [la](language_code) country
-- okay I speak [la](language_code) country
-- [la](language_code) language
-- I want to choose [la](language_code) country
-- do [la](language_code) lang
-- serve me in [la](language_code) lang
-- communicate [la](language_code) Language.
-- okay, go [la](language_code) country
-- serve me [la](language_code) country
-- lets choose [la](language_code)
-- I'm willing to choose [la](language_code)
-- try [la](language_code) language
-- choose [la](language_code) country
-- I'm willing [la](language_code) lang
-- pls talk in [la](language_code) country
-- talk [la](language_code) lang
-- speak [la](language_code)
-- lets try [la](language_code) Language.
-- I speak [la](language_code) language
-- I'm willing [la](language_code) Language.
-- go [la](language_code) Language.
-- communicate [la](language_code) language
-- okay, go [la](language_code) lang
-- okay I speak [la](language_code) lang
-- try [la](language_code) country
-- talk [la](language_code) Language.
-- okay I speak [la](language_code) language
-- do [la](language_code) Language.
-- lets choose [la](language_code) country
-- serve me [la](language_code)
-- Talk in [la](language_code) language
-- lets try [la](language_code) country
-- okay, go [la](language_code) language
-- okay I speak [la](language_code) Language.
-- okay I speak [la](language_code)
-- go [la](language_code) lang
-- okay, go [la](language_code)
-- speak [la](language_code) lang
-- talk to me in [la](language_code) language
-- lets choose [la](language_code) lang
-- communicate [la](language_code) country
-- try [la](language_code) Language.
-- okay, go [la](language_code) Language.
-- do [la](language_code) country
-- I'm willing [la](language_code) country
-- let's talk in [la](language_code) lang
-- Talk in [la](language_code) country
-- let's talk in [la](language_code) language
-- I'm willing to choose [la](language_code) lang
-- [ka](language_code)
-- okay, go [ka](language_code) Language.
-- go [ka](language_code) country
-- Talk in [ka](language_code) Language.
-- talk [ka](language_code) Language.
-- [ka](language_code) country
-- I want to choose [ka](language_code) language
-- serve me [ka](language_code) language
-- I'm willing [ka](language_code) Language.
-- let's talk in [ka](language_code) country
-- let's talk in [ka](language_code) language
-- go [ka](language_code) language
-- serve me in [ka](language_code) language
-- try [ka](language_code)
-- talk to me in [ka](language_code) lang
-- okay, go [ka](language_code)
-- okay, go [ka](language_code) language
-- let's talk in [ka](language_code) lang
-- do [ka](language_code) Language.
-- [ka](language_code) language
-- talk to me in [ka](language_code) language
-- I want [ka](language_code) language
-- communicate [ka](language_code) country
-- I speak [ka](language_code) country
-- I'm willing to choose [ka](language_code) Language.
-- choose [ka](language_code)
-- [ka](language_code) Language.
-- I want to choose [ka](language_code)
-- serve me [ka](language_code)
-- I'm willing [ka](language_code) language
-- speak [ka](language_code) language
-- okay I speak [ka](language_code) Language.
-- serve me in [ka](language_code) Language.
-- I want to choose [ka](language_code) Language.
-- pls talk in [ka](language_code)
-- serve me in [ka](language_code) country
-- I'm willing to choose [ka](language_code) country
-- talk [ka](language_code) country
-- Talk in [ka](language_code)
-- try [ka](language_code) language
-- serve me in [ka](language_code)
-- speak [ka](language_code)
-- serve me [ka](language_code) country
-- I'm willing to choose [ka](language_code) lang
-- lets try [ka](language_code) Language.
-- choose [ka](language_code) Language.
-- serve me [ka](language_code) lang
-- lets choose [ka](language_code)
-- speak [ka](language_code) lang
-- talk [ka](language_code) lang
-- do [ka](language_code)
-- communicate [ka](language_code) language
-- [ko](language_code)
-- speak [ko](language_code) country
-- choose [ko](language_code) Language.
-- Talk in [ko](language_code)
-- okay, go [ko](language_code) Language.
-- okay I speak [ko](language_code) Language.
-- I'm willing [ko](language_code) Language.
-- I want to choose [ko](language_code) language
-- okay I speak [ko](language_code)
-- I want [ko](language_code) language
-- I'm willing to choose [ko](language_code) country
-- I want to choose [ko](language_code) Language.
-- talk to me in [ko](language_code)
-- choose [ko](language_code) language
-- I want to choose [ko](language_code)
-- lets try [ko](language_code) country
-- serve me [ko](language_code) lang
-- let's talk in [ko](language_code) country
-- I speak [ko](language_code) language
-- do [ko](language_code) lang
-- do [ko](language_code) Language.
-- talk [ko](language_code) Language.
-- communicate [ko](language_code) language
-- okay I speak [ko](language_code) lang
-- try [ko](language_code) country
-- serve me in [ko](language_code)
-- serve me [ko](language_code) country
-- I speak [ko](language_code)
-- speak [ko](language_code) language
-- speak [ko](language_code)
-- go [ko](language_code) language
-- I speak [ko](language_code) country
-- lets choose [ko](language_code) country
-- I want [ko](language_code) Language.
-- serve me [ko](language_code)
-- [ko](language_code) country
-- try [ko](language_code) lang
-- I'm willing [ko](language_code) country
-- [ko](language_code)
-- I'm willing to choose [ko](language_code) language
-- okay, go [ko](language_code) country
-- let's talk in [ko](language_code) lang
-- I want to choose [ko](language_code) country
-- serve me in [ko](language_code) Language.
-- choose [ko](language_code) country
-- talk to me in [ko](language_code) Language.
-- okay I speak [ko](language_code) language
-- I want [ko](language_code) lang
-- let's talk in [ko](language_code) language
-- talk [ko](language_code) country
-- try [ko](language_code) language
-- pls talk in [ko](language_code) country
-- [Macedonian](language_name)
-- serve me in [Macedonian](language_name) lang
-- try [Macedonian](language_name) language
-- try [Macedonian](language_name) country
-- okay I speak [Macedonian](language_name) country
-- talk to me in [Macedonian](language_name) language
-- communicate [Macedonian](language_name) country
-- Talk in [Macedonian](language_name) country
-- Talk in [Macedonian](language_name) lang
-- pls talk in [Macedonian](language_name) language
-- serve me in [Macedonian](language_name) Language.
-- go [Macedonian](language_name) language
-- okay I speak [Macedonian](language_name)
-- lets choose [Macedonian](language_name) lang
-- do [Macedonian](language_name) Language.
-- go [Macedonian](language_name) lang
-- I want [Macedonian](language_name) language
-- I speak [Macedonian](language_name) Language.
-- pls talk in [Macedonian](language_name) lang
-- I speak [Macedonian](language_name)
-- I want to choose [Macedonian](language_name) language
-- serve me in [Macedonian](language_name)
-- serve me [Macedonian](language_name) language
-- talk [Macedonian](language_name) country
-- speak [Macedonian](language_name) Language.
-- pls talk in [Macedonian](language_name) country
-- try [Macedonian](language_name) Language.
-- talk to me in [Macedonian](language_name)
-- I speak [Macedonian](language_name) country
-- I want [Macedonian](language_name) Language.
-- lets try [Macedonian](language_name) lang
-- I want to choose [Macedonian](language_name) country
-- I speak [Macedonian](language_name) language
-- I want to choose [Macedonian](language_name)
-- choose [Macedonian](language_name) lang
-- I'm willing [Macedonian](language_name) country
-- [Macedonian](language_name) language
-- do [Macedonian](language_name) country
-- [Macedonian](language_name) Language.
-- let's talk in [Macedonian](language_name)
-- let's talk in [Macedonian](language_name) language
-- lets try [Macedonian](language_name) Language.
-- serve me [Macedonian](language_name)
-- okay I speak [Macedonian](language_name) lang
-- choose [Macedonian](language_name) country
-- do [Macedonian](language_name) language
-- talk [Macedonian](language_name) Language.
-- okay, go [Macedonian](language_name) country
-- okay, go [Macedonian](language_name) language
-- I want [Macedonian](language_name) lang
-- pls talk in [Macedonian](language_name)
-- Talk in [Macedonian](language_name)
-- [French](language_name)
-- pls talk in [French](language_name) Language.
-- let's talk in [French](language_name) country
-- I'm willing to choose [French](language_name) language
-- speak [French](language_name) language
-- communicate [French](language_name) country
-- serve me in [French](language_name) lang
-- lets choose [French](language_name) Language.
-- communicate [French](language_name)
-- I want to choose [French](language_name) lang
-- serve me in [French](language_name) country
-- speak [French](language_name) country
-- I'm willing to choose [French](language_name) Language.
-- [French](language_name) language
-- I want to choose [French](language_name) country
-- serve me [French](language_name) language
-- okay I speak [French](language_name) country
-- Talk in [French](language_name) lang
-- let's talk in [French](language_name) lang
-- lets try [French](language_name)
-- go [French](language_name) country
-- I want to choose [French](language_name)
-- I speak [French](language_name) lang
-- go [French](language_name) language
-- Talk in [French](language_name)
-- okay I speak [French](language_name) lang
-- I'm willing to choose [French](language_name)
-- speak [French](language_name) Language.
-- I want [French](language_name) language
-- let's talk in [French](language_name)
-- I speak [French](language_name) language
-- I'm willing to choose [French](language_name) lang
-- I want [French](language_name) country
-- communicate [French](language_name) language
-- choose [French](language_name) language
-- serve me [French](language_name) lang
-- communicate [French](language_name) lang
-- speak [French](language_name) lang
-- serve me [French](language_name) Language.
-- I'm willing [French](language_name)
-- lets choose [French](language_name) country
-- pls talk in [French](language_name)
-- I'm willing [French](language_name) lang
-- lets choose [French](language_name) language
-- let's talk in [French](language_name) language
-- talk [French](language_name) Language.
-- try [French](language_name) lang
-- do [French](language_name) country
-- serve me in [French](language_name) language
-- [French](language_name) Language.
-- choose [French](language_name) country
-- I'm willing [French](language_name) Language.
-- [Italian](language_name)
-- I want to choose [Italian](language_name)
-- serve me in [Italian](language_name)
-- I speak [Italian](language_name) lang
-- okay I speak [Italian](language_name) Language.
-- talk [Italian](language_name) language
-- [Italian](language_name)
-- I speak [Italian](language_name) Language.
-- go [Italian](language_name) language
-- serve me [Italian](language_name)
-- lets try [Italian](language_name) lang
-- I speak [Italian](language_name) language
-- speak [Italian](language_name) lang
-- choose [Italian](language_name) Language.
-- Talk in [Italian](language_name) language
-- [Italian](language_name) language
-- pls talk in [Italian](language_name) country
-- serve me in [Italian](language_name) lang
-- okay, go [Italian](language_name) Language.
-- I want [Italian](language_name) country
-- okay, go [Italian](language_name) lang
-- communicate [Italian](language_name)
-- lets choose [Italian](language_name) Language.
-- serve me [Italian](language_name) country
-- okay I speak [Italian](language_name) lang
-- pls talk in [Italian](language_name) lang
-- let's talk in [Italian](language_name) language
-- talk [Italian](language_name) Language.
-- lets choose [Italian](language_name)
-- okay, go [Italian](language_name) language
-- serve me in [Italian](language_name) language
-- try [Italian](language_name) country
-- okay, go [Italian](language_name) country
-- lets try [Italian](language_name) language
-- I speak [Italian](language_name)
-- pls talk in [Italian](language_name) Language.
-- do [Italian](language_name) language
-- pls talk in [Italian](language_name) language
-- communicate [Italian](language_name) Language.
-- I want [Italian](language_name)
-- lets try [Italian](language_name) Language.
-- do [Italian](language_name) country
-- I'm willing [Italian](language_name) lang
-- talk to me in [Italian](language_name) country
-- choose [Italian](language_name) country
-- try [Italian](language_name) language
-- I speak [Italian](language_name) country
-- speak [Italian](language_name) Language.
-- speak [Italian](language_name) language
-- lets choose [Italian](language_name) language
-- communicate [Italian](language_name) language
-- okay I speak [Italian](language_name) country
-- [Persian](language_name)
-- talk to me in [Persian](language_name) country
-- I'm willing to choose [Persian](language_name) country
-- let's talk in [Persian](language_name) country
-- I want [Persian](language_name)
-- okay, go [Persian](language_name) lang
-- okay, go [Persian](language_name) language
-- choose [Persian](language_name) language
-- pls talk in [Persian](language_name)
-- serve me [Persian](language_name)
-- I'm willing to choose [Persian](language_name) lang
-- talk [Persian](language_name) Language.
-- [Persian](language_name) language
-- communicate [Persian](language_name) Language.
-- I speak [Persian](language_name) language
-- Talk in [Persian](language_name) language
-- talk to me in [Persian](language_name) Language.
-- lets choose [Persian](language_name) Language.
-- okay I speak [Persian](language_name)
-- try [Persian](language_name)
-- okay, go [Persian](language_name) Language.
-- lets try [Persian](language_name) language
-- okay I speak [Persian](language_name) lang
-- I want [Persian](language_name) language
-- talk to me in [Persian](language_name) language
-- try [Persian](language_name) Language.
-- Talk in [Persian](language_name) Language.
-- communicate [Persian](language_name) country
-- do [Persian](language_name) language
-- I want [Persian](language_name) country
-- I want to choose [Persian](language_name) Language.
-- try [Persian](language_name) lang
-- I want to choose [Persian](language_name)
-- okay, go [Persian](language_name)
-- communicate [Persian](language_name) lang
-- go [Persian](language_name) Language.
-- I'm willing to choose [Persian](language_name) language
-- lets choose [Persian](language_name) language
-- try [Persian](language_name) language
-- lets try [Persian](language_name)
-- okay I speak [Persian](language_name) language
-- pls talk in [Persian](language_name) Language.
-- go [Persian](language_name) lang
-- I want to choose [Persian](language_name) lang
-- go [Persian](language_name) country
-- okay I speak [Persian](language_name) country
-- [Persian](language_name)
-- talk [Persian](language_name)
-- I want to choose [Persian](language_name) country
-- I speak [Persian](language_name) Language.
-- I want [Persian](language_name) Language.
-- okay I speak [Persian](language_name) Language.
-- [Russian](language_name)
-- I speak [Russian](language_name) language
-- serve me [Russian](language_name) Language.
-- okay I speak [Russian](language_name) language
-- talk to me in [Russian](language_name) Language.
-- Talk in [Russian](language_name) Language.
-- go [Russian](language_name) lang
-- lets choose [Russian](language_name) lang
-- I'm willing to choose [Russian](language_name) lang
-- try [Russian](language_name) country
-- lets try [Russian](language_name) language
-- speak [Russian](language_name) Language.
-- lets try [Russian](language_name) lang
-- okay, go [Russian](language_name)
-- serve me [Russian](language_name) language
-- Talk in [Russian](language_name) country
-- I speak [Russian](language_name)
-- lets choose [Russian](language_name) language
-- I want [Russian](language_name)
-- Talk in [Russian](language_name)
-- [Russian](language_name) language
-- let's talk in [Russian](language_name)
-- do [Russian](language_name) lang
-- try [Russian](language_name) Language.
-- communicate [Russian](language_name)
-- pls talk in [Russian](language_name) language
-- lets choose [Russian](language_name) Language.
-- talk to me in [Russian](language_name)
-- I want to choose [Russian](language_name) country
-- I'm willing to choose [Russian](language_name) Language.
-- do [Russian](language_name) language
-- let's talk in [Russian](language_name) country
-- talk [Russian](language_name) country
-- I'm willing to choose [Russian](language_name) language
-- choose [Russian](language_name) Language.
-- I want to choose [Russian](language_name)
-- talk [Russian](language_name)
-- Talk in [Russian](language_name) lang
-- try [Russian](language_name) language
-- okay I speak [Russian](language_name) lang
-- I want to choose [Russian](language_name) language
-- go [Russian](language_name)
-- choose [Russian](language_name) country
-- I want [Russian](language_name) lang
-- okay, go [Russian](language_name) country
-- talk to me in [Russian](language_name) lang
-- I'm willing to choose [Russian](language_name)
-- choose [Russian](language_name) lang
-- okay, go [Russian](language_name) lang
-- talk to me in [Russian](language_name) language
-- try [Russian](language_name) lang
-- okay, go [Russian](language_name) language
-- [Czech](language_name)
-- talk to me in [Czech](language_name) language
-- speak [Czech](language_name)
-- okay, go [Czech](language_name) Language.
-- let's talk in [Czech](language_name) Language.
-- talk to me in [Czech](language_name) lang
-- I want [Czech](language_name)
-- serve me in [Czech](language_name) country
-- I'm willing [Czech](language_name) Language.
-- lets choose [Czech](language_name) Language.
-- serve me in [Czech](language_name) Language.
-- okay I speak [Czech](language_name) Language.
-- [Czech](language_name)
-- speak [Czech](language_name) lang
-- serve me in [Czech](language_name) lang
-- pls talk in [Czech](language_name) Language.
-- choose [Czech](language_name)
-- okay, go [Czech](language_name) country
-- Talk in [Czech](language_name)
-- lets try [Czech](language_name) lang
-- let's talk in [Czech](language_name) country
-- I speak [Czech](language_name) language
-- I want [Czech](language_name) lang
-- pls talk in [Czech](language_name) language
-- [Czech](language_name) country
-- okay, go [Czech](language_name) language
-- lets choose [Czech](language_name)
-- I'm willing [Czech](language_name) country
-- talk [Czech](language_name)
-- serve me [Czech](language_name) lang
-- lets choose [Czech](language_name) country
-- pls talk in [Czech](language_name) lang
-- try [Czech](language_name) language
-- choose [Czech](language_name) language
-- [Czech](language_name) Language.
-- talk to me in [Czech](language_name) Language.
-- I'm willing to choose [Czech](language_name) Language.
-- do [Czech](language_name) language
-- Talk in [Czech](language_name) Language.
-- communicate [Czech](language_name)
-- Talk in [Czech](language_name) language
-- go [Czech](language_name) language
-- try [Czech](language_name) Language.
-- okay, go [Czech](language_name) lang
-- let's talk in [Czech](language_name)
-- choose [Czech](language_name) Language.
-- okay I speak [Czech](language_name) lang
-- serve me in [Czech](language_name) language
-- I speak [Czech](language_name)
-- I'm willing [Czech](language_name)
-- I want [Czech](language_name) Language.
-- I'm willing to choose [Czech](language_name) country
-- [Urdu](language_name)
-- talk [Urdu](language_name) language
-- okay I speak [Urdu](language_name) lang
-- serve me in [Urdu](language_name) language
-- I want to choose [Urdu](language_name) country
-- choose [Urdu](language_name) lang
-- pls talk in [Urdu](language_name) Language.
-- I'm willing to choose [Urdu](language_name) country
-- [Urdu](language_name) Language.
-- go [Urdu](language_name)
-- talk to me in [Urdu](language_name) Language.
-- speak [Urdu](language_name) lang
-- choose [Urdu](language_name) country
-- I'm willing to choose [Urdu](language_name) Language.
-- lets choose [Urdu](language_name) Language.
-- I'm willing to choose [Urdu](language_name) language
-- okay, go [Urdu](language_name) language
-- go [Urdu](language_name) lang
-- let's talk in [Urdu](language_name)
-- okay I speak [Urdu](language_name) language
-- speak [Urdu](language_name)
-- lets choose [Urdu](language_name) lang
-- communicate [Urdu](language_name)
-- serve me [Urdu](language_name) language
-- talk to me in [Urdu](language_name) country
-- okay, go [Urdu](language_name)
-- try [Urdu](language_name)
-- okay I speak [Urdu](language_name) country
-- let's talk in [Urdu](language_name) language
-- lets try [Urdu](language_name) country
-- lets try [Urdu](language_name)
-- go [Urdu](language_name) language
-- communicate [Urdu](language_name) Language.
-- serve me [Urdu](language_name) lang
-- I want [Urdu](language_name) lang
-- I'm willing to choose [Urdu](language_name)
-- lets choose [Urdu](language_name) country
-- I want to choose [Urdu](language_name) lang
-- I'm willing [Urdu](language_name) Language.
-- I'm willing [Urdu](language_name) language
-- speak [Urdu](language_name) country
-- do [Urdu](language_name) Language.
-- I want [Urdu](language_name)
-- speak [Urdu](language_name) language
-- okay, go [Urdu](language_name) Language.
-- I speak [Urdu](language_name)
-- let's talk in [Urdu](language_name) lang
-- serve me in [Urdu](language_name) Language.
-- let's talk in [Urdu](language_name) Language.
-- Talk in [Urdu](language_name) lang
-- talk to me in [Urdu](language_name) language
-- pls talk in [Urdu](language_name) language
-- [Catalan](language_name)
-- communicate [Catalan](language_name)
-- choose [Catalan](language_name) language
-- talk to me in [Catalan](language_name) Language.
-- do [Catalan](language_name) Language.
-- [Catalan](language_name) language
-- pls talk in [Catalan](language_name) country
-- I'm willing to choose [Catalan](language_name) country
-- okay, go [Catalan](language_name) Language.
-- go [Catalan](language_name) country
-- Talk in [Catalan](language_name) lang
-- lets choose [Catalan](language_name) Language.
-- I want [Catalan](language_name) lang
-- Talk in [Catalan](language_name) language
-- serve me in [Catalan](language_name)
-- serve me [Catalan](language_name) Language.
-- I want [Catalan](language_name) Language.
-- pls talk in [Catalan](language_name)
-- choose [Catalan](language_name) lang
-- Talk in [Catalan](language_name) country
-- I speak [Catalan](language_name) lang
-- I'm willing [Catalan](language_name) lang
-- I speak [Catalan](language_name) Language.
-- I'm willing to choose [Catalan](language_name) lang
-- I'm willing to choose [Catalan](language_name) language
-- lets choose [Catalan](language_name) country
-- speak [Catalan](language_name) lang
-- lets choose [Catalan](language_name) lang
-- go [Catalan](language_name) lang
-- I want [Catalan](language_name)
-- I want to choose [Catalan](language_name)
-- do [Catalan](language_name) lang
-- let's talk in [Catalan](language_name) Language.
-- speak [Catalan](language_name)
-- okay I speak [Catalan](language_name)
-- choose [Catalan](language_name)
-- pls talk in [Catalan](language_name) Language.
-- let's talk in [Catalan](language_name)
-- go [Catalan](language_name) language
-- talk [Catalan](language_name) country
-- let's talk in [Catalan](language_name) lang
-- communicate [Catalan](language_name) lang
-- I want to choose [Catalan](language_name) country
-- go [Catalan](language_name)
-- lets choose [Catalan](language_name) language
-- talk [Catalan](language_name) language
-- I'm willing [Catalan](language_name) Language.
-- lets try [Catalan](language_name) Language.
-- pls talk in [Catalan](language_name) lang
-- do [Catalan](language_name) country
-- try [Catalan](language_name) country
-- talk [Catalan](language_name) lang
-- [Slovenian](language_name)
-- I want to choose [Slovenian](language_name) country
-- speak [Slovenian](language_name) lang
-- let's talk in [Slovenian](language_name) lang
-- do [Slovenian](language_name) lang
-- lets choose [Slovenian](language_name) Language.
-- okay I speak [Slovenian](language_name)
-- lets try [Slovenian](language_name) country
-- lets choose [Slovenian](language_name) country
-- okay I speak [Slovenian](language_name) language
-- speak [Slovenian](language_name) language
-- talk to me in [Slovenian](language_name)
-- Talk in [Slovenian](language_name) lang
-- talk [Slovenian](language_name) Language.
-- pls talk in [Slovenian](language_name) language
-- I want to choose [Slovenian](language_name) language
-- okay, go [Slovenian](language_name) lang
-- serve me [Slovenian](language_name)
-- I'm willing to choose [Slovenian](language_name) language
-- do [Slovenian](language_name) language
-- communicate [Slovenian](language_name)
-- communicate [Slovenian](language_name) language
-- I want [Slovenian](language_name) Language.
-- serve me in [Slovenian](language_name) language
-- communicate [Slovenian](language_name) Language.
-- let's talk in [Slovenian](language_name)
-- Talk in [Slovenian](language_name) language
-- pls talk in [Slovenian](language_name)
-- Talk in [Slovenian](language_name) country
-- serve me in [Slovenian](language_name) country
-- I want [Slovenian](language_name) language
-- okay, go [Slovenian](language_name) language
-- lets choose [Slovenian](language_name)
-- I'm willing [Slovenian](language_name) language
-- I want [Slovenian](language_name) country
-- I want to choose [Slovenian](language_name) Language.
-- choose [Slovenian](language_name) country
-- choose [Slovenian](language_name) Language.
-- okay, go [Slovenian](language_name) Language.
-- do [Slovenian](language_name) Language.
-- serve me in [Slovenian](language_name) lang
-- I'm willing [Slovenian](language_name)
-- talk [Slovenian](language_name) lang
-- try [Slovenian](language_name) language
-- okay, go [Slovenian](language_name)
-- try [Slovenian](language_name) Language.
-- communicate [Slovenian](language_name) lang
-- pls talk in [Slovenian](language_name) Language.
-- go [Slovenian](language_name) lang
-- okay, go [Slovenian](language_name) country
-- I'm willing to choose [Slovenian](language_name) lang
-- [Slovenian](language_name) lang
-- [Welsh](language_name)
-- try [Welsh](language_name) lang
-- serve me in [Welsh](language_name) country
-- talk to me in [Welsh](language_name) country
-- I want to choose [Welsh](language_name) lang
-- serve me in [Welsh](language_name) lang
-- go [Welsh](language_name)
-- I want to choose [Welsh](language_name)
-- let's talk in [Welsh](language_name) lang
-- try [Welsh](language_name) Language.
-- okay I speak [Welsh](language_name)
-- Talk in [Welsh](language_name) country
-- I'm willing to choose [Welsh](language_name) lang
-- lets try [Welsh](language_name) Language.
-- I'm willing to choose [Welsh](language_name)
-- pls talk in [Welsh](language_name) country
-- communicate [Welsh](language_name) lang
-- I speak [Welsh](language_name) country
-- pls talk in [Welsh](language_name) Language.
-- okay, go [Welsh](language_name) language
-- lets try [Welsh](language_name) language
-- I want [Welsh](language_name) Language.
-- do [Welsh](language_name) lang
-- serve me [Welsh](language_name)
-- talk to me in [Welsh](language_name) lang
-- okay, go [Welsh](language_name)
-- serve me [Welsh](language_name) country
-- let's talk in [Welsh](language_name)
-- lets choose [Welsh](language_name) language
-- I want to choose [Welsh](language_name) country
-- talk [Welsh](language_name) Language.
-- serve me [Welsh](language_name) lang
-- try [Welsh](language_name) language
-- serve me [Welsh](language_name) Language.
-- talk to me in [Welsh](language_name)
-- serve me [Welsh](language_name) language
-- choose [Welsh](language_name) lang
-- talk to me in [Welsh](language_name) Language.
-- I speak [Welsh](language_name) language
-- I'm willing [Welsh](language_name) country
-- communicate [Welsh](language_name) country
-- talk [Welsh](language_name) language
-- speak [Welsh](language_name) Language.
-- [Welsh](language_name) lang
-- I'm willing to choose [Welsh](language_name) country
-- Talk in [Welsh](language_name) language
-- choose [Welsh](language_name) Language.
-- do [Welsh](language_name) Language.
-- choose [Welsh](language_name) language
-- serve me in [Welsh](language_name)
-- speak [Welsh](language_name)
-- lets choose [Welsh](language_name) country
+- do [sr](language_code)
+- lets choose [sr](language_code)
+- [sl](language_code)
+- okay I speak [sl](language_code)
+- talk to me in [sl](language_code) language
+- Talk in [sl](language_code) lang
+- I'm willing to choose [sl](language_code) Language.
+- choose [sl](language_code) country
+- I want [sl](language_code) country
+- let's talk in [sl](language_code) lang
+- I want to choose [sl](language_code) lang
+- serve me in [sl](language_code) country
+- speak [sl](language_code) country
+- speak [sl](language_code) Language.
+- talk to me in [sl](language_code) country
+- serve me [sl](language_code) language
+- do [sl](language_code)
+- serve me in [sl](language_code) lang
+- I want to choose [sl](language_code) Language.
+- okay I speak [sl](language_code) Language.
+- Talk in [sl](language_code) country
+- I'm willing to choose [sl](language_code) lang
+- lets try [sl](language_code) lang
+- [sl](language_code) Language.
+- I'm willing [sl](language_code) country
+- okay I speak [sl](language_code) language
+- speak [sl](language_code)
+- pls talk in [sl](language_code) country
+- Talk in [sl](language_code) language
+- lets try [sl](language_code)
+- serve me [sl](language_code)
+- serve me [sl](language_code) country
+- speak [sl](language_code) lang
+- lets choose [sl](language_code) language
+- [sl](language_code) country
+- pls talk in [sl](language_code) language
+- I want to choose [sl](language_code) language
+- go [sl](language_code) country
+- okay, go [sl](language_code) Language.
+- choose [sl](language_code) language
+- go [sl](language_code)
+- do [sl](language_code) language
+- talk to me in [sl](language_code) Language.
+- lets choose [sl](language_code) lang
+- talk to me in [sl](language_code)
+- let's talk in [sl](language_code) language
+- talk [sl](language_code)
+- talk to me in [sl](language_code) lang
+- lets choose [sl](language_code)
+- do [sl](language_code) Language.
+- lets try [sl](language_code) language
+- okay, go [sl](language_code) country
+- I speak [sl](language_code) Language.
+- talk [sl](language_code) lang
+- [pl](language_code)
+- serve me in [pl](language_code) Language.
+- I want to choose [pl](language_code) country
+- pls talk in [pl](language_code)
+- lets choose [pl](language_code) lang
+- I want [pl](language_code) lang
+- lets try [pl](language_code) country
+- lets try [pl](language_code) lang
+- try [pl](language_code) Language.
+- speak [pl](language_code)
+- I want to choose [pl](language_code) language
+- I speak [pl](language_code) language
+- talk [pl](language_code) country
+- [pl](language_code) lang
+- talk [pl](language_code) lang
+- communicate [pl](language_code) Language.
+- go [pl](language_code) Language.
+- let's talk in [pl](language_code) Language.
+- I'm willing to choose [pl](language_code)
+- I'm willing [pl](language_code) lang
+- I speak [pl](language_code) lang
+- okay I speak [pl](language_code)
+- talk to me in [pl](language_code)
+- Talk in [pl](language_code) country
+- I speak [pl](language_code)
+- I'm willing [pl](language_code)
+- pls talk in [pl](language_code) country
+- speak [pl](language_code) lang
+- do [pl](language_code) lang
+- I speak [pl](language_code) country
+- I want to choose [pl](language_code)
+- communicate [pl](language_code) lang
+- speak [pl](language_code) Language.
+- try [pl](language_code) language
+- try [pl](language_code) country
+- okay, go [pl](language_code) country
+- Talk in [pl](language_code) Language.
+- choose [pl](language_code) Language.
+- lets try [pl](language_code)
+- serve me in [pl](language_code) language
+- choose [pl](language_code)
+- okay I speak [pl](language_code) Language.
+- lets try [pl](language_code) Language.
+- okay I speak [pl](language_code) language
+- [pl](language_code) language
+- serve me in [pl](language_code) country
+- pls talk in [pl](language_code) lang
+- I'm willing [pl](language_code) Language.
+- communicate [pl](language_code) language
+- okay, go [pl](language_code) language
+- okay I speak [pl](language_code) country
+- do [pl](language_code)
+- [el](language_code)
+- try [el](language_code) lang
+- serve me [el](language_code) Language.
+- serve me [el](language_code) country
+- communicate [el](language_code) lang
+- okay I speak [el](language_code) language
+- serve me in [el](language_code) lang
+- communicate [el](language_code) country
+- lets choose [el](language_code) lang
+- serve me [el](language_code)
+- serve me in [el](language_code)
+- I'm willing [el](language_code) country
+- speak [el](language_code) Language.
+- [el](language_code) Language.
+- I speak [el](language_code) language
+- okay I speak [el](language_code) Language.
+- Talk in [el](language_code) language
+- lets try [el](language_code) language
+- okay, go [el](language_code) country
+- let's talk in [el](language_code)
+- communicate [el](language_code) Language.
+- talk [el](language_code) lang
+- let's talk in [el](language_code) lang
+- I want [el](language_code) Language.
+- I want [el](language_code) language
+- lets try [el](language_code) Language.
+- I'm willing [el](language_code) lang
+- choose [el](language_code)
+- go [el](language_code) lang
+- speak [el](language_code) lang
+- I'm willing [el](language_code) language
+- do [el](language_code) Language.
+- okay I speak [el](language_code)
+- talk to me in [el](language_code) lang
+- [el](language_code) language
+- Talk in [el](language_code)
+- go [el](language_code) country
+- okay, go [el](language_code) lang
+- talk [el](language_code) language
+- okay I speak [el](language_code) lang
+- [el](language_code) lang
+- choose [el](language_code) Language.
+- Talk in [el](language_code) country
+- lets choose [el](language_code) Language.
+- lets try [el](language_code) country
+- I'm willing to choose [el](language_code)
+- [el](language_code)
+- I'm willing to choose [el](language_code) Language.
+- talk to me in [el](language_code) language
+- lets try [el](language_code) lang
+- lets choose [el](language_code) country
+- talk [el](language_code)
+- [gu](language_code)
+- serve me [gu](language_code) country
+- communicate [gu](language_code) Language.
+- okay I speak [gu](language_code) lang
+- talk [gu](language_code) lang
+- Talk in [gu](language_code) lang
+- I want to choose [gu](language_code) language
+- lets try [gu](language_code) Language.
+- serve me [gu](language_code) Language.
+- okay, go [gu](language_code) country
+- [gu](language_code) country
+- okay, go [gu](language_code) Language.
+- [gu](language_code) language
+- let's talk in [gu](language_code)
+- do [gu](language_code)
+- lets choose [gu](language_code)
+- I'm willing [gu](language_code) country
+- I'm willing to choose [gu](language_code) language
+- okay I speak [gu](language_code) Language.
+- I'm willing to choose [gu](language_code) lang
+- go [gu](language_code) country
+- I'm willing [gu](language_code) Language.
+- try [gu](language_code) country
+- serve me in [gu](language_code)
+- okay, go [gu](language_code) lang
+- try [gu](language_code) Language.
+- serve me in [gu](language_code) country
+- I want [gu](language_code) Language.
+- lets choose [gu](language_code) lang
+- talk [gu](language_code) Language.
+- I speak [gu](language_code)
+- Talk in [gu](language_code) language
+- let's talk in [gu](language_code) country
+- serve me in [gu](language_code) language
+- I'm willing [gu](language_code)
+- [gu](language_code) lang
+- do [gu](language_code) Language.
+- I want [gu](language_code) country
+- I'm willing [gu](language_code) language
+- serve me [gu](language_code) language
+- I'm willing to choose [gu](language_code) country
+- lets try [gu](language_code) country
+- try [gu](language_code) language
+- serve me in [gu](language_code) lang
+- go [gu](language_code) Language.
+- choose [gu](language_code)
+- choose [gu](language_code) country
+- speak [gu](language_code) language
+- I'm willing to choose [gu](language_code) Language.
+- I speak [gu](language_code) Language.
+- I speak [gu](language_code) language
+- choose [gu](language_code) language
+- [Azerbaijani](language_name)
+- do [Azerbaijani](language_name) language
+- I want to choose [Azerbaijani](language_name) country
+- okay I speak [Azerbaijani](language_name)
+- serve me [Azerbaijani](language_name) lang
+- I speak [Azerbaijani](language_name) Language.
+- lets choose [Azerbaijani](language_name) lang
+- communicate [Azerbaijani](language_name) Language.
+- communicate [Azerbaijani](language_name)
+- I speak [Azerbaijani](language_name) country
+- pls talk in [Azerbaijani](language_name) lang
+- go [Azerbaijani](language_name)
+- [Azerbaijani](language_name) country
+- speak [Azerbaijani](language_name) lang
+- pls talk in [Azerbaijani](language_name)
+- I want to choose [Azerbaijani](language_name) Language.
+- I want to choose [Azerbaijani](language_name) lang
+- let's talk in [Azerbaijani](language_name) language
+- okay I speak [Azerbaijani](language_name) language
+- talk [Azerbaijani](language_name) Language.
+- okay, go [Azerbaijani](language_name) lang
+- I'm willing to choose [Azerbaijani](language_name) country
+- talk [Azerbaijani](language_name) lang
+- lets try [Azerbaijani](language_name) lang
+- lets try [Azerbaijani](language_name) country
+- I speak [Azerbaijani](language_name)
+- okay, go [Azerbaijani](language_name) language
+- pls talk in [Azerbaijani](language_name) Language.
+- let's talk in [Azerbaijani](language_name) country
+- Talk in [Azerbaijani](language_name) lang
+- communicate [Azerbaijani](language_name) lang
+- go [Azerbaijani](language_name) country
+- serve me in [Azerbaijani](language_name) country
+- I'm willing [Azerbaijani](language_name) Language.
+- [Azerbaijani](language_name)
+- let's talk in [Azerbaijani](language_name)
+- let's talk in [Azerbaijani](language_name) lang
+- let's talk in [Azerbaijani](language_name) Language.
+- talk to me in [Azerbaijani](language_name) language
+- I speak [Azerbaijani](language_name) language
+- lets choose [Azerbaijani](language_name) language
+- do [Azerbaijani](language_name) lang
+- lets try [Azerbaijani](language_name)
+- try [Azerbaijani](language_name) Language.
+- speak [Azerbaijani](language_name) Language.
+- communicate [Azerbaijani](language_name) country
+- serve me [Azerbaijani](language_name) country
+- communicate [Azerbaijani](language_name) language
+- I want [Azerbaijani](language_name) country
+- okay I speak [Azerbaijani](language_name) Language.
+- talk to me in [Azerbaijani](language_name) lang
+- lets try [Azerbaijani](language_name) Language.
+- [Kannada](language_name)
+- do [Kannada](language_name)
+- I want to choose [Kannada](language_name) country
+- okay, go [Kannada](language_name) Language.
+- go [Kannada](language_name) country
+- I speak [Kannada](language_name) language
+- I'm willing [Kannada](language_name) lang
+- pls talk in [Kannada](language_name)
+- serve me [Kannada](language_name) Language.
+- I'm willing [Kannada](language_name) country
+- try [Kannada](language_name) country
+- choose [Kannada](language_name)
+- lets try [Kannada](language_name) language
+- do [Kannada](language_name) lang
+- I want to choose [Kannada](language_name) Language.
+- I speak [Kannada](language_name)
+- I'm willing to choose [Kannada](language_name) Language.
+- lets try [Kannada](language_name) country
+- okay I speak [Kannada](language_name) Language.
+- I want [Kannada](language_name) Language.
+- talk to me in [Kannada](language_name) Language.
+- communicate [Kannada](language_name) language
+- I speak [Kannada](language_name) lang
+- let's talk in [Kannada](language_name)
+- talk to me in [Kannada](language_name) country
+- try [Kannada](language_name) Language.
+- I want [Kannada](language_name) country
+- lets try [Kannada](language_name)
+- do [Kannada](language_name) country
+- let's talk in [Kannada](language_name) country
+- serve me [Kannada](language_name) lang
+- I want [Kannada](language_name)
+- I'm willing [Kannada](language_name)
+- serve me in [Kannada](language_name) country
+- communicate [Kannada](language_name) lang
+- pls talk in [Kannada](language_name) country
+- talk [Kannada](language_name)
+- I want [Kannada](language_name) language
+- talk to me in [Kannada](language_name)
+- serve me in [Kannada](language_name) Language.
+- speak [Kannada](language_name) Language.
+- pls talk in [Kannada](language_name) lang
+- okay, go [Kannada](language_name) language
+- Talk in [Kannada](language_name) country
+- I speak [Kannada](language_name) Language.
+- I'm willing [Kannada](language_name) Language.
+- speak [Kannada](language_name) language
+- serve me in [Kannada](language_name)
+- speak [Kannada](language_name) country
+- lets try [Kannada](language_name) Language.
+- go [Kannada](language_name) language
+- talk [Kannada](language_name) Language.
+- [Yiddish](language_name)
+- try [Yiddish](language_name) country
+- I want [Yiddish](language_name)
+- try [Yiddish](language_name)
+- okay I speak [Yiddish](language_name) Language.
+- serve me in [Yiddish](language_name) language
+- serve me [Yiddish](language_name) language
+- I speak [Yiddish](language_name) lang
+- I speak [Yiddish](language_name) country
+- choose [Yiddish](language_name)
+- speak [Yiddish](language_name)
+- talk [Yiddish](language_name)
+- serve me in [Yiddish](language_name)
+- Talk in [Yiddish](language_name) country
+- talk [Yiddish](language_name) Language.
+- Talk in [Yiddish](language_name)
+- pls talk in [Yiddish](language_name)
+- I want to choose [Yiddish](language_name) country
+- choose [Yiddish](language_name) Language.
+- lets choose [Yiddish](language_name) lang
+- I'm willing [Yiddish](language_name) Language.
+- I'm willing [Yiddish](language_name) country
+- communicate [Yiddish](language_name) Language.
+- serve me [Yiddish](language_name) lang
+- speak [Yiddish](language_name) Language.
+- okay I speak [Yiddish](language_name) country
+- lets choose [Yiddish](language_name) language
+- let's talk in [Yiddish](language_name) Language.
+- I'm willing to choose [Yiddish](language_name) country
+- serve me [Yiddish](language_name)
+- talk to me in [Yiddish](language_name) lang
+- I want to choose [Yiddish](language_name) language
+- communicate [Yiddish](language_name) lang
+- I want [Yiddish](language_name) country
+- do [Yiddish](language_name) language
+- I speak [Yiddish](language_name)
+- communicate [Yiddish](language_name)
+- do [Yiddish](language_name) lang
+- okay I speak [Yiddish](language_name)
+- go [Yiddish](language_name)
+- communicate [Yiddish](language_name) country
+- lets try [Yiddish](language_name) language
+- lets choose [Yiddish](language_name) country
+- lets choose [Yiddish](language_name)
+- serve me in [Yiddish](language_name) lang
+- speak [Yiddish](language_name) language
+- go [Yiddish](language_name) language
+- do [Yiddish](language_name)
+- okay, go [Yiddish](language_name) country
+- [Yiddish](language_name) Language.
+- Talk in [Yiddish](language_name) language
+- go [Yiddish](language_name) Language.
 - [Finnish](language_name)
-- pls talk in [Finnish](language_name) lang
-- Talk in [Finnish](language_name) lang
-- choose [Finnish](language_name) country
-- [Finnish](language_name) Language.
-- pls talk in [Finnish](language_name) language
-- [Finnish](language_name) country
-- talk [Finnish](language_name) Language.
-- communicate [Finnish](language_name) Language.
-- I want to choose [Finnish](language_name) language
+- I want [Finnish](language_name) country
 - communicate [Finnish](language_name) lang
-- choose [Finnish](language_name) Language.
-- I'm willing to choose [Finnish](language_name) lang
-- communicate [Finnish](language_name)
-- talk to me in [Finnish](language_name) language
-- I'm willing to choose [Finnish](language_name) Language.
-- lets choose [Finnish](language_name) Language.
-- serve me [Finnish](language_name) Language.
-- do [Finnish](language_name) Language.
-- I want [Finnish](language_name) Language.
-- okay, go [Finnish](language_name) Language.
-- choose [Finnish](language_name)
-- lets choose [Finnish](language_name) lang
-- serve me [Finnish](language_name)
-- pls talk in [Finnish](language_name) Language.
-- I want [Finnish](language_name) language
-- go [Finnish](language_name) Language.
-- I'm willing to choose [Finnish](language_name)
-- talk [Finnish](language_name) language
-- let's talk in [Finnish](language_name) lang
-- I'm willing [Finnish](language_name) Language.
-- lets try [Finnish](language_name) lang
-- okay I speak [Finnish](language_name) language
-- serve me in [Finnish](language_name) lang
-- lets try [Finnish](language_name)
-- pls talk in [Finnish](language_name)
-- go [Finnish](language_name) country
-- talk [Finnish](language_name) country
-- okay, go [Finnish](language_name) country
-- lets choose [Finnish](language_name) language
-- go [Finnish](language_name) lang
-- let's talk in [Finnish](language_name) country
-- serve me in [Finnish](language_name) country
+- pls talk in [Finnish](language_name) lang
+- talk [Finnish](language_name) Language.
 - communicate [Finnish](language_name) country
-- let's talk in [Finnish](language_name) Language.
-- I want [Finnish](language_name) lang
-- [Finnish](language_name)
-- let's talk in [Finnish](language_name) language
-- okay, go [Finnish](language_name)
-- lets try [Finnish](language_name) country
-- I speak [Finnish](language_name) Language.
+- okay I speak [Finnish](language_name)
+- communicate [Finnish](language_name)
+- try [Finnish](language_name) language
+- choose [Finnish](language_name) language
+- do [Finnish](language_name) Language.
+- okay, go [Finnish](language_name) Language.
 - serve me in [Finnish](language_name)
-- [Basque](language_name)
-- Talk in [Basque](language_name) country
-- lets try [Basque](language_name) lang
-- I'm willing to choose [Basque](language_name) language
-- communicate [Basque](language_name) language
-- communicate [Basque](language_name) Language.
-- choose [Basque](language_name) lang
-- talk to me in [Basque](language_name)
-- I want [Basque](language_name) lang
-- pls talk in [Basque](language_name)
-- speak [Basque](language_name) lang
-- Talk in [Basque](language_name) language
-- choose [Basque](language_name)
-- Talk in [Basque](language_name) Language.
-- I want to choose [Basque](language_name) Language.
-- do [Basque](language_name) country
-- let's talk in [Basque](language_name) lang
-- communicate [Basque](language_name) lang
-- serve me in [Basque](language_name) Language.
-- okay I speak [Basque](language_name)
-- lets choose [Basque](language_name)
-- I want [Basque](language_name) Language.
-- speak [Basque](language_name)
-- I'm willing [Basque](language_name) lang
-- okay I speak [Basque](language_name) Language.
-- [Basque](language_name)
-- go [Basque](language_name) lang
-- [Basque](language_name) Language.
-- lets choose [Basque](language_name) country
-- I want to choose [Basque](language_name) language
-- let's talk in [Basque](language_name)
-- pls talk in [Basque](language_name) country
-- I speak [Basque](language_name) language
-- speak [Basque](language_name) country
-- let's talk in [Basque](language_name) language
-- talk [Basque](language_name)
-- serve me [Basque](language_name) Language.
-- [Basque](language_name) lang
-- I want [Basque](language_name)
-- go [Basque](language_name)
-- try [Basque](language_name) lang
-- speak [Basque](language_name) language
-- choose [Basque](language_name) country
-- okay, go [Basque](language_name) language
-- choose [Basque](language_name) language
-- pls talk in [Basque](language_name) lang
-- serve me [Basque](language_name) lang
-- I'm willing [Basque](language_name) language
-- okay, go [Basque](language_name)
-- I want [Basque](language_name) language
-- I speak [Basque](language_name)
-- choose [Basque](language_name) Language.
-- [Portuguese](language_name)
-- serve me in [Portuguese](language_name) lang
-- do [Portuguese](language_name) language
-- talk [Portuguese](language_name) Language.
-- go [Portuguese](language_name) Language.
-- okay I speak [Portuguese](language_name) lang
-- [Portuguese](language_name)
-- let's talk in [Portuguese](language_name) country
-- I want to choose [Portuguese](language_name) language
-- talk to me in [Portuguese](language_name) Language.
-- lets try [Portuguese](language_name) country
-- do [Portuguese](language_name) Language.
-- I'm willing to choose [Portuguese](language_name) lang
-- I'm willing [Portuguese](language_name) country
-- I speak [Portuguese](language_name) Language.
-- try [Portuguese](language_name) country
-- okay I speak [Portuguese](language_name) country
-- lets try [Portuguese](language_name) Language.
-- lets try [Portuguese](language_name) lang
-- do [Portuguese](language_name) country
-- talk to me in [Portuguese](language_name) language
-- I want [Portuguese](language_name) country
-- talk to me in [Portuguese](language_name)
-- speak [Portuguese](language_name) country
-- I want [Portuguese](language_name) Language.
-- Talk in [Portuguese](language_name) language
-- I speak [Portuguese](language_name) lang
-- I'm willing to choose [Portuguese](language_name) country
-- lets try [Portuguese](language_name) language
-- lets choose [Portuguese](language_name)
-- speak [Portuguese](language_name) Language.
-- I'm willing to choose [Portuguese](language_name) Language.
-- serve me in [Portuguese](language_name) language
-- let's talk in [Portuguese](language_name) language
-- lets choose [Portuguese](language_name) language
-- serve me [Portuguese](language_name) country
-- try [Portuguese](language_name) lang
-- I want to choose [Portuguese](language_name)
-- talk [Portuguese](language_name) lang
-- okay I speak [Portuguese](language_name) Language.
-- communicate [Portuguese](language_name)
-- do [Portuguese](language_name)
-- Talk in [Portuguese](language_name) country
-- I want [Portuguese](language_name) lang
-- I want to choose [Portuguese](language_name) country
-- choose [Portuguese](language_name) country
-- talk [Portuguese](language_name)
-- speak [Portuguese](language_name) language
-- go [Portuguese](language_name) lang
-- [Portuguese](language_name) Language.
-- choose [Portuguese](language_name)
-- choose [Portuguese](language_name) lang
-- [English](language_name)
-- okay, go [English](language_name) country
-- try [English](language_name) country
-- I want to choose [English](language_name) country
-- serve me in [English](language_name)
-- lets choose [English](language_name)
-- Talk in [English](language_name)
-- communicate [English](language_name) Language.
-- I'm willing [English](language_name) lang
-- talk to me in [English](language_name) Language.
-- let's talk in [English](language_name) language
-- serve me [English](language_name) Language.
-- serve me in [English](language_name) lang
-- talk [English](language_name) lang
-- speak [English](language_name)
-- pls talk in [English](language_name) country
-- I speak [English](language_name) language
-- do [English](language_name)
-- serve me in [English](language_name) language
-- I speak [English](language_name) lang
-- serve me in [English](language_name) country
-- talk [English](language_name) language
-- I want [English](language_name) Language.
-- let's talk in [English](language_name)
-- lets try [English](language_name) lang
-- talk to me in [English](language_name) lang
-- Talk in [English](language_name) lang
-- let's talk in [English](language_name) Language.
-- I want [English](language_name) language
-- talk [English](language_name) Language.
-- pls talk in [English](language_name) lang
-- talk to me in [English](language_name)
-- okay, go [English](language_name) Language.
-- pls talk in [English](language_name)
-- try [English](language_name) language
-- lets choose [English](language_name) language
-- okay I speak [English](language_name) Language.
-- communicate [English](language_name) lang
-- lets choose [English](language_name) lang
-- I'm willing to choose [English](language_name) Language.
-- I want [English](language_name)
-- lets try [English](language_name)
-- okay I speak [English](language_name) language
-- communicate [English](language_name)
-- okay I speak [English](language_name) lang
-- [English](language_name) Language.
-- I want to choose [English](language_name) lang
-- serve me in [English](language_name) Language.
-- serve me [English](language_name)
-- [English](language_name) lang
-- let's talk in [English](language_name) lang
-- I'm willing to choose [English](language_name) country
-- [Icelandic](language_name)
-- lets try [Icelandic](language_name) Language.
-- pls talk in [Icelandic](language_name) Language.
-- serve me in [Icelandic](language_name) Language.
-- lets choose [Icelandic](language_name) lang
-- [Icelandic](language_name) lang
-- speak [Icelandic](language_name) Language.
-- I'm willing to choose [Icelandic](language_name)
-- serve me [Icelandic](language_name) lang
-- [Icelandic](language_name) country
-- lets choose [Icelandic](language_name)
-- I want to choose [Icelandic](language_name) language
-- I'm willing [Icelandic](language_name) lang
-- go [Icelandic](language_name) language
-- let's talk in [Icelandic](language_name) country
-- Talk in [Icelandic](language_name) language
-- do [Icelandic](language_name) lang
-- communicate [Icelandic](language_name)
-- I speak [Icelandic](language_name) lang
-- okay I speak [Icelandic](language_name) Language.
-- okay, go [Icelandic](language_name) lang
-- [Icelandic](language_name) Language.
-- try [Icelandic](language_name) Language.
-- I'm willing to choose [Icelandic](language_name) country
-- communicate [Icelandic](language_name) Language.
-- serve me in [Icelandic](language_name) country
-- okay, go [Icelandic](language_name) country
-- do [Icelandic](language_name) Language.
-- I want to choose [Icelandic](language_name) country
-- Talk in [Icelandic](language_name) country
-- I want to choose [Icelandic](language_name)
-- let's talk in [Icelandic](language_name) Language.
-- I speak [Icelandic](language_name)
-- talk to me in [Icelandic](language_name) lang
-- choose [Icelandic](language_name) Language.
-- let's talk in [Icelandic](language_name) lang
-- choose [Icelandic](language_name) country
-- lets try [Icelandic](language_name)
-- talk [Icelandic](language_name) language
-- lets try [Icelandic](language_name) lang
-- speak [Icelandic](language_name)
-- I'm willing to choose [Icelandic](language_name) lang
-- pls talk in [Icelandic](language_name) lang
-- let's talk in [Icelandic](language_name)
-- try [Icelandic](language_name) language
-- talk to me in [Icelandic](language_name) Language.
-- I'm willing [Icelandic](language_name) language
-- okay I speak [Icelandic](language_name) language
-- pls talk in [Icelandic](language_name)
-- lets choose [Icelandic](language_name) Language.
-- communicate [Icelandic](language_name) language
-- lets choose [Icelandic](language_name) country
-- [Maltese](language_name)
-- I'm willing [Maltese](language_name) country
-- okay I speak [Maltese](language_name) lang
-- I'm willing [Maltese](language_name) language
-- I want to choose [Maltese](language_name) Language.
-- communicate [Maltese](language_name) Language.
-- communicate [Maltese](language_name) lang
-- choose [Maltese](language_name) country
-- talk [Maltese](language_name)
-- do [Maltese](language_name) country
-- try [Maltese](language_name) Language.
-- I speak [Maltese](language_name) country
-- lets choose [Maltese](language_name) Language.
-- I want to choose [Maltese](language_name) language
-- serve me in [Maltese](language_name) language
-- I'm willing to choose [Maltese](language_name) country
-- try [Maltese](language_name) country
-- talk [Maltese](language_name) country
-- I'm willing to choose [Maltese](language_name)
-- go [Maltese](language_name) country
-- Talk in [Maltese](language_name) lang
-- communicate [Maltese](language_name) country
-- let's talk in [Maltese](language_name) language
-- let's talk in [Maltese](language_name) country
-- I'm willing [Maltese](language_name) Language.
-- I speak [Maltese](language_name) language
-- choose [Maltese](language_name) lang
-- I'm willing to choose [Maltese](language_name) Language.
-- I want [Maltese](language_name) Language.
-- serve me [Maltese](language_name) Language.
-- I speak [Maltese](language_name) lang
-- talk [Maltese](language_name) Language.
-- okay, go [Maltese](language_name)
-- I speak [Maltese](language_name)
-- go [Maltese](language_name)
-- I want [Maltese](language_name) language
-- okay I speak [Maltese](language_name)
-- I want [Maltese](language_name)
-- okay, go [Maltese](language_name) Language.
-- talk to me in [Maltese](language_name)
-- speak [Maltese](language_name) lang
-- I'm willing [Maltese](language_name)
-- I'm willing to choose [Maltese](language_name) language
-- lets choose [Maltese](language_name)
-- [Maltese](language_name) Language.
-- try [Maltese](language_name) language
-- talk [Maltese](language_name) lang
-- talk to me in [Maltese](language_name) lang
-- serve me in [Maltese](language_name) Language.
-- lets choose [Maltese](language_name) lang
-- [Maltese](language_name) language
-- Talk in [Maltese](language_name) language
-- [Thai](language_name)
-- serve me in [Thai](language_name) language
-- [Thai](language_name)
-- talk to me in [Thai](language_name) country
-- go [Thai](language_name) country
-- I'm willing to choose [Thai](language_name) lang
-- serve me in [Thai](language_name) country
-- [Thai](language_name) lang
-- lets try [Thai](language_name) lang
-- I want to choose [Thai](language_name) country
-- I want to choose [Thai](language_name) lang
-- okay, go [Thai](language_name) country
-- choose [Thai](language_name) Language.
-- talk to me in [Thai](language_name)
-- pls talk in [Thai](language_name) Language.
-- lets try [Thai](language_name) Language.
-- go [Thai](language_name) lang
-- communicate [Thai](language_name) language
-- I want [Thai](language_name) lang
-- serve me in [Thai](language_name)
-- okay I speak [Thai](language_name) language
-- lets choose [Thai](language_name) Language.
-- okay I speak [Thai](language_name) Language.
-- communicate [Thai](language_name)
-- do [Thai](language_name) country
-- lets choose [Thai](language_name) language
-- serve me [Thai](language_name)
-- I'm willing [Thai](language_name) lang
-- Talk in [Thai](language_name) Language.
-- Talk in [Thai](language_name) lang
-- try [Thai](language_name) country
-- okay I speak [Thai](language_name)
-- I speak [Thai](language_name) country
-- lets try [Thai](language_name) language
-- lets choose [Thai](language_name)
-- do [Thai](language_name) language
-- I want [Thai](language_name)
-- talk to me in [Thai](language_name) language
-- Talk in [Thai](language_name)
-- try [Thai](language_name)
-- I want to choose [Thai](language_name)
-- serve me [Thai](language_name) country
-- let's talk in [Thai](language_name) country
-- I'm willing [Thai](language_name)
-- Talk in [Thai](language_name) country
-- let's talk in [Thai](language_name) lang
-- I speak [Thai](language_name) Language.
-- serve me [Thai](language_name) Language.
-- I'm willing to choose [Thai](language_name) country
-- choose [Thai](language_name) language
-- go [Thai](language_name)
-- I want [Thai](language_name) country
+- I speak [Finnish](language_name) lang
+- I'm willing to choose [Finnish](language_name) country
+- do [Finnish](language_name)
+- I'm willing [Finnish](language_name) Language.
+- lets try [Finnish](language_name) language
+- talk to me in [Finnish](language_name) country
+- okay I speak [Finnish](language_name) lang
+- lets try [Finnish](language_name) lang
+- serve me [Finnish](language_name) language
+- pls talk in [Finnish](language_name) country
+- choose [Finnish](language_name) lang
+- speak [Finnish](language_name)
+- I'm willing to choose [Finnish](language_name)
+- speak [Finnish](language_name) Language.
+- speak [Finnish](language_name) language
+- pls talk in [Finnish](language_name) Language.
+- okay, go [Finnish](language_name) language
+- go [Finnish](language_name) language
+- serve me [Finnish](language_name) lang
+- talk to me in [Finnish](language_name) lang
+- Talk in [Finnish](language_name) Language.
+- serve me in [Finnish](language_name) lang
+- serve me in [Finnish](language_name) Language.
+- talk to me in [Finnish](language_name)
+- Talk in [Finnish](language_name) lang
+- let's talk in [Finnish](language_name) language
+- I want to choose [Finnish](language_name) Language.
+- go [Finnish](language_name) lang
+- [Finnish](language_name) Language.
+- try [Finnish](language_name) lang
+- let's talk in [Finnish](language_name) country
+- do [Finnish](language_name) country
+- talk [Finnish](language_name) lang
+- let's talk in [Finnish](language_name) lang
+- I'm willing [Finnish](language_name)
+- talk to me in [Finnish](language_name) language
+- okay, go [Finnish](language_name)
+- talk [Finnish](language_name) country
+- I speak [Finnish](language_name) country
+- [Romanian](language_name)
+- talk to me in [Romanian](language_name) country
+- I speak [Romanian](language_name) country
+- I'm willing to choose [Romanian](language_name)
+- talk to me in [Romanian](language_name) language
+- let's talk in [Romanian](language_name) language
+- talk to me in [Romanian](language_name) Language.
+- Talk in [Romanian](language_name) lang
+- let's talk in [Romanian](language_name) country
+- pls talk in [Romanian](language_name) language
+- lets try [Romanian](language_name) lang
+- pls talk in [Romanian](language_name) Language.
+- serve me [Romanian](language_name) country
+- I'm willing to choose [Romanian](language_name) Language.
+- I'm willing [Romanian](language_name)
+- pls talk in [Romanian](language_name)
+- I want [Romanian](language_name)
+- lets choose [Romanian](language_name)
+- I want [Romanian](language_name) language
+- okay I speak [Romanian](language_name) country
+- lets choose [Romanian](language_name) country
+- I want to choose [Romanian](language_name) country
+- communicate [Romanian](language_name)
+- let's talk in [Romanian](language_name) Language.
+- lets choose [Romanian](language_name) Language.
+- serve me [Romanian](language_name) language
+- communicate [Romanian](language_name) Language.
+- communicate [Romanian](language_name) language
+- do [Romanian](language_name) lang
+- I speak [Romanian](language_name)
+- I'm willing [Romanian](language_name) lang
+- serve me [Romanian](language_name) Language.
+- pls talk in [Romanian](language_name) lang
+- I'm willing to choose [Romanian](language_name) lang
+- Talk in [Romanian](language_name) language
+- okay, go [Romanian](language_name) Language.
+- communicate [Romanian](language_name) lang
+- I'm willing [Romanian](language_name) language
+- speak [Romanian](language_name) country
+- choose [Romanian](language_name) country
+- try [Romanian](language_name) lang
+- go [Romanian](language_name) Language.
+- do [Romanian](language_name) Language.
+- I'm willing [Romanian](language_name) Language.
+- let's talk in [Romanian](language_name)
+- I want [Romanian](language_name) country
+- lets try [Romanian](language_name) language
+- try [Romanian](language_name)
+- talk [Romanian](language_name) lang
+- choose [Romanian](language_name) lang
+- lets try [Romanian](language_name) country
+- talk [Romanian](language_name) language
+- [German](language_name)
+- do [German](language_name)
+- talk to me in [German](language_name) country
+- serve me in [German](language_name) country
+- go [German](language_name) language
+- talk to me in [German](language_name) language
+- let's talk in [German](language_name) country
+- [German](language_name)
+- do [German](language_name) lang
+- serve me [German](language_name) Language.
+- speak [German](language_name) country
+- I want [German](language_name) Language.
+- I'm willing [German](language_name) lang
+- go [German](language_name)
+- communicate [German](language_name) language
+- talk to me in [German](language_name) lang
+- I want [German](language_name) language
+- Talk in [German](language_name) Language.
+- lets try [German](language_name) Language.
+- I speak [German](language_name) language
+- talk to me in [German](language_name) Language.
+- lets choose [German](language_name)
+- I want [German](language_name) country
+- let's talk in [German](language_name) language
+- I speak [German](language_name)
+- do [German](language_name) language
+- I'm willing [German](language_name) language
+- I'm willing to choose [German](language_name) language
+- okay I speak [German](language_name)
+- Talk in [German](language_name) language
+- serve me [German](language_name) country
+- communicate [German](language_name) country
+- I want to choose [German](language_name) Language.
+- go [German](language_name) country
+- I want to choose [German](language_name)
+- lets try [German](language_name) language
+- communicate [German](language_name) Language.
+- speak [German](language_name)
+- choose [German](language_name) Language.
+- do [German](language_name) Language.
+- serve me [German](language_name) lang
+- serve me in [German](language_name) Language.
+- lets try [German](language_name) country
+- okay, go [German](language_name) country
+- talk to me in [German](language_name)
+- Talk in [German](language_name)
+- serve me in [German](language_name) language
+- I speak [German](language_name) country
+- I'm willing to choose [German](language_name) Language.
+- okay, go [German](language_name) lang
+- okay I speak [German](language_name) country
+- I'm willing to choose [German](language_name) lang
+- [Urdu](language_name)
+- let's talk in [Urdu](language_name) lang
+- I want to choose [Urdu](language_name) country
+- talk to me in [Urdu](language_name)
+- pls talk in [Urdu](language_name) language
+- I want [Urdu](language_name) lang
+- [Urdu](language_name) language
+- Talk in [Urdu](language_name) language
+- let's talk in [Urdu](language_name) country
+- I want [Urdu](language_name)
+- communicate [Urdu](language_name)
+- choose [Urdu](language_name) language
+- speak [Urdu](language_name) Language.
+- I speak [Urdu](language_name) lang
+- choose [Urdu](language_name) Language.
+- speak [Urdu](language_name) country
+- lets choose [Urdu](language_name) Language.
+- I speak [Urdu](language_name) Language.
+- Talk in [Urdu](language_name)
+- lets try [Urdu](language_name) lang
+- [Urdu](language_name)
+- serve me in [Urdu](language_name) lang
+- communicate [Urdu](language_name) lang
+- talk [Urdu](language_name) country
+- okay I speak [Urdu](language_name) lang
+- let's talk in [Urdu](language_name) Language.
+- okay, go [Urdu](language_name)
+- I'm willing to choose [Urdu](language_name) Language.
+- I want [Urdu](language_name) language
+- talk [Urdu](language_name) lang
+- pls talk in [Urdu](language_name) Language.
+- lets choose [Urdu](language_name)
+- I want to choose [Urdu](language_name) lang
+- I want [Urdu](language_name) Language.
+- I'm willing to choose [Urdu](language_name) country
+- I speak [Urdu](language_name) country
+- choose [Urdu](language_name)
+- try [Urdu](language_name) language
+- talk [Urdu](language_name)
+- I'm willing [Urdu](language_name) country
+- serve me [Urdu](language_name)
+- try [Urdu](language_name) Language.
+- serve me in [Urdu](language_name) Language.
+- I want to choose [Urdu](language_name) language
+- [Urdu](language_name) country
+- lets try [Urdu](language_name)
+- let's talk in [Urdu](language_name)
+- [Urdu](language_name) Language.
+- serve me [Urdu](language_name) country
+- serve me [Urdu](language_name) Language.
+- Talk in [Urdu](language_name) country
+- lets try [Urdu](language_name) Language.
+- [Bengali](language_name)
+- [Bengali](language_name) lang
+- I'm willing [Bengali](language_name) language
+- okay I speak [Bengali](language_name) country
+- communicate [Bengali](language_name) country
+- pls talk in [Bengali](language_name) language
+- lets choose [Bengali](language_name) lang
+- Talk in [Bengali](language_name) language
+- talk to me in [Bengali](language_name)
+- I'm willing [Bengali](language_name) Language.
+- talk [Bengali](language_name)
+- I'm willing to choose [Bengali](language_name) country
+- I want [Bengali](language_name) language
+- serve me in [Bengali](language_name) country
+- okay, go [Bengali](language_name) Language.
+- pls talk in [Bengali](language_name) country
+- talk [Bengali](language_name) Language.
+- talk to me in [Bengali](language_name) Language.
+- do [Bengali](language_name)
+- [Bengali](language_name) country
+- I want [Bengali](language_name) Language.
+- I want to choose [Bengali](language_name) language
+- lets try [Bengali](language_name) language
+- [Bengali](language_name) language
+- serve me in [Bengali](language_name) lang
+- try [Bengali](language_name) language
+- serve me in [Bengali](language_name) Language.
+- do [Bengali](language_name) lang
+- lets try [Bengali](language_name) Language.
+- Talk in [Bengali](language_name) Language.
+- go [Bengali](language_name) country
+- lets try [Bengali](language_name) country
+- I'm willing [Bengali](language_name)
+- choose [Bengali](language_name) lang
+- go [Bengali](language_name) Language.
+- talk [Bengali](language_name) lang
+- choose [Bengali](language_name) Language.
+- go [Bengali](language_name) lang
+- communicate [Bengali](language_name) Language.
+- Talk in [Bengali](language_name)
+- talk [Bengali](language_name) language
+- I want [Bengali](language_name) country
+- I want to choose [Bengali](language_name)
+- go [Bengali](language_name)
+- talk to me in [Bengali](language_name) lang
+- let's talk in [Bengali](language_name) lang
+- I speak [Bengali](language_name) country
+- let's talk in [Bengali](language_name) language
+- [Bengali](language_name)
+- I want [Bengali](language_name) lang
+- okay, go [Bengali](language_name) country
+- lets choose [Bengali](language_name) country
+- [Slovak](language_name)
+- try [Slovak](language_name) Language.
+- Talk in [Slovak](language_name) language
+- I want to choose [Slovak](language_name) lang
+- talk to me in [Slovak](language_name) Language.
+- do [Slovak](language_name) country
+- do [Slovak](language_name) lang
+- I'm willing [Slovak](language_name) lang
+- I want [Slovak](language_name) Language.
+- I speak [Slovak](language_name) country
+- lets try [Slovak](language_name) country
+- do [Slovak](language_name) language
+- okay I speak [Slovak](language_name) language
+- speak [Slovak](language_name) country
+- I speak [Slovak](language_name) lang
+- Talk in [Slovak](language_name)
+- I want [Slovak](language_name) country
+- serve me in [Slovak](language_name) Language.
+- talk [Slovak](language_name) language
+- [Slovak](language_name) Language.
+- speak [Slovak](language_name) Language.
+- [Slovak](language_name) language
+- I want [Slovak](language_name) lang
+- talk [Slovak](language_name)
+- serve me in [Slovak](language_name)
+- lets choose [Slovak](language_name) Language.
+- lets choose [Slovak](language_name) lang
+- okay, go [Slovak](language_name) country
+- try [Slovak](language_name)
+- let's talk in [Slovak](language_name)
+- [Slovak](language_name) lang
+- communicate [Slovak](language_name) Language.
+- pls talk in [Slovak](language_name)
+- serve me in [Slovak](language_name) country
+- serve me [Slovak](language_name)
+- go [Slovak](language_name) language
+- okay, go [Slovak](language_name)
+- Talk in [Slovak](language_name) country
+- go [Slovak](language_name) Language.
+- communicate [Slovak](language_name) country
+- talk [Slovak](language_name) Language.
+- I speak [Slovak](language_name) Language.
+- let's talk in [Slovak](language_name) country
+- pls talk in [Slovak](language_name) Language.
+- lets choose [Slovak](language_name) country
+- lets try [Slovak](language_name) language
+- let's talk in [Slovak](language_name) Language.
+- okay, go [Slovak](language_name) language
+- serve me [Slovak](language_name) Language.
+- I'm willing to choose [Slovak](language_name) lang
+- I want to choose [Slovak](language_name) Language.
+- do [Slovak](language_name)
 - [Hungarian](language_name)
+- I'm willing [Hungarian](language_name)
+- talk to me in [Hungarian](language_name) country
+- talk to me in [Hungarian](language_name) Language.
+- okay, go [Hungarian](language_name) country
+- I speak [Hungarian](language_name) Language.
+- I want [Hungarian](language_name) lang
 - lets choose [Hungarian](language_name) language
 - let's talk in [Hungarian](language_name) language
-- try [Hungarian](language_name) lang
-- do [Hungarian](language_name) country
-- let's talk in [Hungarian](language_name) Language.
-- lets try [Hungarian](language_name)
-- Talk in [Hungarian](language_name) Language.
+- I'm willing [Hungarian](language_name) lang
 - lets try [Hungarian](language_name) language
-- pls talk in [Hungarian](language_name) language
-- go [Hungarian](language_name) lang
-- Talk in [Hungarian](language_name)
-- okay I speak [Hungarian](language_name) Language.
-- I'm willing [Hungarian](language_name) language
-- lets try [Hungarian](language_name) lang
-- talk [Hungarian](language_name)
-- go [Hungarian](language_name)
-- go [Hungarian](language_name) Language.
-- okay, go [Hungarian](language_name) country
-- okay I speak [Hungarian](language_name)
-- [Hungarian](language_name) country
-- speak [Hungarian](language_name) lang
-- lets choose [Hungarian](language_name)
-- pls talk in [Hungarian](language_name)
-- talk to me in [Hungarian](language_name) country
-- I want [Hungarian](language_name) lang
-- I want [Hungarian](language_name) country
-- communicate [Hungarian](language_name) lang
-- talk to me in [Hungarian](language_name) Language.
-- speak [Hungarian](language_name) country
-- do [Hungarian](language_name)
-- serve me [Hungarian](language_name) language
-- try [Hungarian](language_name) Language.
-- I want [Hungarian](language_name) Language.
-- Talk in [Hungarian](language_name) lang
-- talk to me in [Hungarian](language_name)
-- I want [Hungarian](language_name)
-- lets choose [Hungarian](language_name) lang
-- serve me [Hungarian](language_name) country
-- talk to me in [Hungarian](language_name) lang
-- Talk in [Hungarian](language_name) country
-- communicate [Hungarian](language_name)
-- talk [Hungarian](language_name) country
-- talk to me in [Hungarian](language_name) language
-- I'm willing to choose [Hungarian](language_name) language
-- let's talk in [Hungarian](language_name) lang
-- choose [Hungarian](language_name) lang
+- lets try [Hungarian](language_name) Language.
 - I want to choose [Hungarian](language_name)
+- I want [Hungarian](language_name)
+- do [Hungarian](language_name) country
+- do [Hungarian](language_name) lang
+- talk [Hungarian](language_name) lang
+- communicate [Hungarian](language_name)
+- lets try [Hungarian](language_name) lang
+- speak [Hungarian](language_name) language
+- I'm willing to choose [Hungarian](language_name) lang
+- do [Hungarian](language_name)
+- okay I speak [Hungarian](language_name) Language.
 - I'm willing to choose [Hungarian](language_name) Language.
-- I'm willing to choose [Hungarian](language_name) country
+- I want to choose [Hungarian](language_name) language
+- I'm willing to choose [Hungarian](language_name)
+- go [Hungarian](language_name) country
+- Talk in [Hungarian](language_name) Language.
+- choose [Hungarian](language_name) language
+- [Hungarian](language_name)
 - pls talk in [Hungarian](language_name) lang
-- talk [Hungarian](language_name) language
-- [Afrikaans](language_name)
-- serve me [Afrikaans](language_name) Language.
-- I speak [Afrikaans](language_name)
-- speak [Afrikaans](language_name) country
-- try [Afrikaans](language_name) Language.
-- let's talk in [Afrikaans](language_name) country
-- try [Afrikaans](language_name) lang
-- communicate [Afrikaans](language_name) Language.
-- pls talk in [Afrikaans](language_name)
-- okay I speak [Afrikaans](language_name) lang
-- I want to choose [Afrikaans](language_name) language
-- choose [Afrikaans](language_name) Language.
-- I'm willing [Afrikaans](language_name)
-- I'm willing to choose [Afrikaans](language_name)
-- do [Afrikaans](language_name) country
-- pls talk in [Afrikaans](language_name) country
-- talk [Afrikaans](language_name) language
-- speak [Afrikaans](language_name)
-- talk [Afrikaans](language_name)
-- let's talk in [Afrikaans](language_name) Language.
-- lets try [Afrikaans](language_name)
-- go [Afrikaans](language_name) Language.
-- do [Afrikaans](language_name)
-- talk to me in [Afrikaans](language_name) country
-- lets choose [Afrikaans](language_name) country
-- go [Afrikaans](language_name) language
-- serve me [Afrikaans](language_name) lang
-- Talk in [Afrikaans](language_name) language
-- pls talk in [Afrikaans](language_name) lang
-- okay, go [Afrikaans](language_name) language
-- I'm willing to choose [Afrikaans](language_name) lang
-- choose [Afrikaans](language_name) language
-- do [Afrikaans](language_name) Language.
-- serve me in [Afrikaans](language_name) language
-- okay I speak [Afrikaans](language_name) language
-- I want [Afrikaans](language_name) Language.
-- I'm willing [Afrikaans](language_name) language
-- I want [Afrikaans](language_name)
-- okay, go [Afrikaans](language_name)
-- okay, go [Afrikaans](language_name) country
-- lets try [Afrikaans](language_name) country
-- let's talk in [Afrikaans](language_name)
-- talk [Afrikaans](language_name) country
-- talk [Afrikaans](language_name) Language.
-- choose [Afrikaans](language_name)
-- pls talk in [Afrikaans](language_name) Language.
-- communicate [Afrikaans](language_name)
-- I'm willing to choose [Afrikaans](language_name) country
-- [Afrikaans](language_name) Language.
-- do [Afrikaans](language_name) language
-- lets choose [Afrikaans](language_name) language
-- talk to me in [Afrikaans](language_name)
-- [Gujarati](language_name)
-- I'm willing to choose [Gujarati](language_name) language
-- talk to me in [Gujarati](language_name) lang
-- I want to choose [Gujarati](language_name) language
-- lets choose [Gujarati](language_name) lang
-- lets choose [Gujarati](language_name) language
-- I speak [Gujarati](language_name) country
-- I'm willing to choose [Gujarati](language_name) Language.
-- lets choose [Gujarati](language_name)
-- speak [Gujarati](language_name) language
-- lets try [Gujarati](language_name)
-- lets try [Gujarati](language_name) Language.
-- choose [Gujarati](language_name)
-- okay I speak [Gujarati](language_name) country
-- communicate [Gujarati](language_name) lang
-- I'm willing [Gujarati](language_name) language
-- lets try [Gujarati](language_name) language
-- [Gujarati](language_name) language
-- go [Gujarati](language_name) language
-- do [Gujarati](language_name) Language.
-- talk to me in [Gujarati](language_name) country
-- I want [Gujarati](language_name) country
-- okay I speak [Gujarati](language_name) language
-- let's talk in [Gujarati](language_name) Language.
-- serve me [Gujarati](language_name) country
-- I speak [Gujarati](language_name)
-- Talk in [Gujarati](language_name) country
-- I speak [Gujarati](language_name) language
-- go [Gujarati](language_name) country
-- I speak [Gujarati](language_name) Language.
-- okay, go [Gujarati](language_name) country
-- I want [Gujarati](language_name)
-- try [Gujarati](language_name) language
-- I want [Gujarati](language_name) lang
-- serve me in [Gujarati](language_name) Language.
-- talk to me in [Gujarati](language_name)
-- okay, go [Gujarati](language_name) Language.
-- speak [Gujarati](language_name) Language.
-- speak [Gujarati](language_name) lang
-- communicate [Gujarati](language_name) language
-- try [Gujarati](language_name)
-- I want to choose [Gujarati](language_name) country
-- I speak [Gujarati](language_name) lang
-- speak [Gujarati](language_name)
-- talk [Gujarati](language_name) Language.
-- Talk in [Gujarati](language_name) Language.
-- I'm willing to choose [Gujarati](language_name)
-- okay I speak [Gujarati](language_name) Language.
-- talk [Gujarati](language_name) country
-- do [Gujarati](language_name)
-- I'm willing [Gujarati](language_name) country
-- Talk in [Gujarati](language_name) language
-- [Dutch](language_name)
-- let's talk in [Dutch](language_name)
-- lets choose [Dutch](language_name) country
-- I want [Dutch](language_name) Language.
-- okay I speak [Dutch](language_name) lang
-- Talk in [Dutch](language_name) Language.
-- lets try [Dutch](language_name) Language.
-- pls talk in [Dutch](language_name) language
-- try [Dutch](language_name) lang
-- talk to me in [Dutch](language_name)
-- talk [Dutch](language_name)
-- I'm willing to choose [Dutch](language_name) country
-- serve me in [Dutch](language_name)
-- talk [Dutch](language_name) lang
-- I'm willing [Dutch](language_name)
-- talk [Dutch](language_name) country
-- I speak [Dutch](language_name) Language.
-- I want to choose [Dutch](language_name) language
-- I speak [Dutch](language_name) country
-- speak [Dutch](language_name)
-- do [Dutch](language_name) Language.
-- serve me [Dutch](language_name) lang
-- okay I speak [Dutch](language_name) Language.
-- okay, go [Dutch](language_name) language
-- go [Dutch](language_name) Language.
-- serve me [Dutch](language_name) Language.
-- go [Dutch](language_name) language
-- I'm willing [Dutch](language_name) language
-- serve me in [Dutch](language_name) country
-- try [Dutch](language_name) language
-- I want to choose [Dutch](language_name) country
-- serve me [Dutch](language_name) country
-- let's talk in [Dutch](language_name) Language.
-- I want to choose [Dutch](language_name) Language.
-- choose [Dutch](language_name)
-- try [Dutch](language_name)
-- I'm willing to choose [Dutch](language_name) language
-- okay I speak [Dutch](language_name) country
-- do [Dutch](language_name)
-- I'm willing to choose [Dutch](language_name)
-- [Dutch](language_name)
-- lets choose [Dutch](language_name) Language.
-- communicate [Dutch](language_name) Language.
-- speak [Dutch](language_name) country
-- go [Dutch](language_name) country
-- talk to me in [Dutch](language_name) Language.
-- lets try [Dutch](language_name) lang
-- I speak [Dutch](language_name) lang
-- choose [Dutch](language_name) language
-- [Dutch](language_name) lang
-- Talk in [Dutch](language_name)
-- communicate [Dutch](language_name)
-- [Yiddish](language_name)
-- talk to me in [Yiddish](language_name) country
-- do [Yiddish](language_name) Language.
-- okay, go [Yiddish](language_name)
-- [Yiddish](language_name) lang
-- I speak [Yiddish](language_name) language
-- serve me in [Yiddish](language_name) lang
-- [Yiddish](language_name) country
-- serve me [Yiddish](language_name) country
-- okay, go [Yiddish](language_name) lang
-- serve me in [Yiddish](language_name) country
-- [Yiddish](language_name) Language.
-- talk to me in [Yiddish](language_name)
-- lets choose [Yiddish](language_name)
-- let's talk in [Yiddish](language_name) lang
-- pls talk in [Yiddish](language_name) language
-- I want to choose [Yiddish](language_name) lang
-- I speak [Yiddish](language_name) lang
-- pls talk in [Yiddish](language_name)
-- talk [Yiddish](language_name) Language.
-- do [Yiddish](language_name) language
-- choose [Yiddish](language_name) language
-- I want to choose [Yiddish](language_name) country
-- okay, go [Yiddish](language_name) Language.
-- okay I speak [Yiddish](language_name) lang
-- choose [Yiddish](language_name)
-- talk [Yiddish](language_name) lang
-- let's talk in [Yiddish](language_name) language
-- go [Yiddish](language_name) country
-- communicate [Yiddish](language_name) lang
-- serve me [Yiddish](language_name) lang
-- okay I speak [Yiddish](language_name) Language.
-- let's talk in [Yiddish](language_name)
-- go [Yiddish](language_name)
-- serve me in [Yiddish](language_name)
-- I'm willing to choose [Yiddish](language_name)
-- I'm willing [Yiddish](language_name) country
-- go [Yiddish](language_name) Language.
-- Talk in [Yiddish](language_name) Language.
-- [Yiddish](language_name)
-- I want [Yiddish](language_name) lang
-- okay I speak [Yiddish](language_name) language
-- I want [Yiddish](language_name) Language.
-- speak [Yiddish](language_name)
-- communicate [Yiddish](language_name) language
-- Talk in [Yiddish](language_name) lang
-- talk to me in [Yiddish](language_name) Language.
-- try [Yiddish](language_name) lang
-- do [Yiddish](language_name)
-- I'm willing [Yiddish](language_name) Language.
-- [Yiddish](language_name) language
-- do [Yiddish](language_name) country
+- pls talk in [Hungarian](language_name) Language.
+- pls talk in [Hungarian](language_name) language
+- speak [Hungarian](language_name) lang
+- [Hungarian](language_name) lang
+- speak [Hungarian](language_name) Language.
+- serve me in [Hungarian](language_name) country
+- okay, go [Hungarian](language_name)
+- go [Hungarian](language_name) language
+- I want to choose [Hungarian](language_name) Language.
+- talk to me in [Hungarian](language_name) lang
+- I'm willing [Hungarian](language_name) Language.
+- try [Hungarian](language_name) country
+- lets choose [Hungarian](language_name) country
+- Talk in [Hungarian](language_name) lang
+- communicate [Hungarian](language_name) language
+- communicate [Hungarian](language_name) lang
+- lets choose [Hungarian](language_name) lang
+- okay I speak [Hungarian](language_name) country
+- serve me in [Hungarian](language_name)
+- okay, go [Hungarian](language_name) language
+- try [Hungarian](language_name) language
+- [Portuguese](language_name)
+- I'm willing [Portuguese](language_name) language
+- choose [Portuguese](language_name)
+- serve me in [Portuguese](language_name) Language.
+- do [Portuguese](language_name) language
+- do [Portuguese](language_name)
+- I want to choose [Portuguese](language_name) country
+- talk to me in [Portuguese](language_name) lang
+- pls talk in [Portuguese](language_name) language
+- talk [Portuguese](language_name) lang
+- serve me [Portuguese](language_name) Language.
+- I'm willing to choose [Portuguese](language_name) Language.
+- I'm willing to choose [Portuguese](language_name) language
+- pls talk in [Portuguese](language_name) Language.
+- I speak [Portuguese](language_name) language
+- try [Portuguese](language_name)
+- I'm willing to choose [Portuguese](language_name) country
+- Talk in [Portuguese](language_name) country
+- communicate [Portuguese](language_name)
+- communicate [Portuguese](language_name) lang
+- I want [Portuguese](language_name) Language.
+- okay, go [Portuguese](language_name) country
+- I want to choose [Portuguese](language_name) language
+- I speak [Portuguese](language_name) lang
+- do [Portuguese](language_name) Language.
+- try [Portuguese](language_name) country
+- Talk in [Portuguese](language_name) lang
+- I speak [Portuguese](language_name) country
+- serve me [Portuguese](language_name) country
+- I want [Portuguese](language_name) lang
+- try [Portuguese](language_name) Language.
+- let's talk in [Portuguese](language_name) lang
+- I'm willing [Portuguese](language_name) Language.
+- I speak [Portuguese](language_name)
+- lets choose [Portuguese](language_name) language
+- [Portuguese](language_name) country
+- I'm willing to choose [Portuguese](language_name) lang
+- communicate [Portuguese](language_name) country
+- lets try [Portuguese](language_name) Language.
+- lets try [Portuguese](language_name) country
+- speak [Portuguese](language_name) language
+- speak [Portuguese](language_name) lang
+- speak [Portuguese](language_name) country
+- okay I speak [Portuguese](language_name) language
+- serve me in [Portuguese](language_name) country
+- lets choose [Portuguese](language_name)
+- lets try [Portuguese](language_name) language
+- let's talk in [Portuguese](language_name) language
+- choose [Portuguese](language_name) country
+- talk [Portuguese](language_name)
+- speak [Portuguese](language_name) Language.
+- [Portuguese](language_name) lang
+- [Latvian](language_name)
+- go [Latvian](language_name) country
+- talk to me in [Latvian](language_name)
+- pls talk in [Latvian](language_name) Language.
+- serve me in [Latvian](language_name)
+- I'm willing [Latvian](language_name)
+- I want to choose [Latvian](language_name)
+- go [Latvian](language_name) language
+- choose [Latvian](language_name) Language.
+- I'm willing [Latvian](language_name) language
+- do [Latvian](language_name) language
+- speak [Latvian](language_name) country
+- serve me [Latvian](language_name)
+- Talk in [Latvian](language_name)
+- okay I speak [Latvian](language_name) Language.
+- let's talk in [Latvian](language_name) Language.
+- I'm willing [Latvian](language_name) Language.
+- serve me [Latvian](language_name) lang
+- talk to me in [Latvian](language_name) country
+- try [Latvian](language_name) language
+- go [Latvian](language_name) Language.
+- I'm willing [Latvian](language_name) lang
+- communicate [Latvian](language_name) lang
+- lets choose [Latvian](language_name)
+- try [Latvian](language_name) Language.
+- Talk in [Latvian](language_name) country
+- talk to me in [Latvian](language_name) Language.
+- [Latvian](language_name) language
+- lets choose [Latvian](language_name) country
+- speak [Latvian](language_name)
+- communicate [Latvian](language_name)
+- lets try [Latvian](language_name)
+- talk [Latvian](language_name) language
+- try [Latvian](language_name)
+- I'm willing to choose [Latvian](language_name) lang
+- pls talk in [Latvian](language_name) lang
+- communicate [Latvian](language_name) language
+- lets choose [Latvian](language_name) language
+- I'm willing to choose [Latvian](language_name)
+- pls talk in [Latvian](language_name)
+- lets choose [Latvian](language_name) lang
+- okay I speak [Latvian](language_name)
+- I speak [Latvian](language_name) language
+- try [Latvian](language_name) country
+- pls talk in [Latvian](language_name) country
+- go [Latvian](language_name) lang
+- lets try [Latvian](language_name) language
+- speak [Latvian](language_name) lang
+- I speak [Latvian](language_name) Language.
+- I want [Latvian](language_name)
+- okay I speak [Latvian](language_name) country
+- okay, go [Latvian](language_name) language
+- [Maltese](language_name)
+- Talk in [Maltese](language_name) language
+- I speak [Maltese](language_name) country
+- okay, go [Maltese](language_name)
+- lets try [Maltese](language_name) language
+- lets choose [Maltese](language_name) language
+- lets try [Maltese](language_name) Language.
+- do [Maltese](language_name)
+- okay I speak [Maltese](language_name)
+- I want to choose [Maltese](language_name) Language.
+- talk [Maltese](language_name) country
+- go [Maltese](language_name) language
+- serve me [Maltese](language_name) country
+- speak [Maltese](language_name) language
+- try [Maltese](language_name) lang
+- try [Maltese](language_name) country
+- okay I speak [Maltese](language_name) lang
+- serve me [Maltese](language_name)
+- pls talk in [Maltese](language_name) Language.
+- lets choose [Maltese](language_name) country
+- let's talk in [Maltese](language_name) Language.
+- communicate [Maltese](language_name) language
+- lets try [Maltese](language_name) lang
+- I'm willing [Maltese](language_name) Language.
+- try [Maltese](language_name) language
+- lets choose [Maltese](language_name)
+- serve me in [Maltese](language_name) country
+- communicate [Maltese](language_name) Language.
+- I want to choose [Maltese](language_name) lang
+- pls talk in [Maltese](language_name) country
+- pls talk in [Maltese](language_name) lang
+- communicate [Maltese](language_name)
+- I speak [Maltese](language_name) lang
+- okay, go [Maltese](language_name) language
+- communicate [Maltese](language_name) lang
+- communicate [Maltese](language_name) country
+- [Maltese](language_name)
+- do [Maltese](language_name) country
+- talk to me in [Maltese](language_name) lang
+- Talk in [Maltese](language_name) Language.
+- talk to me in [Maltese](language_name) country
+- pls talk in [Maltese](language_name) language
+- [Maltese](language_name) lang
+- talk [Maltese](language_name) lang
+- go [Maltese](language_name)
+- serve me in [Maltese](language_name)
+- serve me [Maltese](language_name) Language.
+- serve me in [Maltese](language_name) language
+- serve me [Maltese](language_name) language
+- I'm willing to choose [Maltese](language_name) language
+- [Maltese](language_name) language
+- I want to choose [Maltese](language_name)
+- [English](language_name)
+- go [English](language_name)
+- I'm willing to choose [English](language_name) lang
+- okay, go [English](language_name) lang
+- pls talk in [English](language_name)
+- talk to me in [English](language_name) country
+- communicate [English](language_name) country
+- serve me [English](language_name) Language.
+- pls talk in [English](language_name) Language.
+- [English](language_name) lang
+- let's talk in [English](language_name) lang
+- I want [English](language_name) country
+- speak [English](language_name) Language.
+- talk to me in [English](language_name) lang
+- serve me in [English](language_name) language
+- Talk in [English](language_name) country
+- okay I speak [English](language_name) country
+- pls talk in [English](language_name) country
+- I'm willing [English](language_name) lang
+- talk [English](language_name) Language.
+- communicate [English](language_name) lang
+- lets try [English](language_name)
+- do [English](language_name) language
+- okay I speak [English](language_name) lang
+- I'm willing [English](language_name) Language.
+- speak [English](language_name)
+- [English](language_name)
+- choose [English](language_name) language
+- talk [English](language_name) language
+- serve me in [English](language_name) lang
+- okay I speak [English](language_name) language
+- go [English](language_name) lang
+- okay, go [English](language_name)
+- choose [English](language_name) lang
+- I'm willing [English](language_name) language
+- I want to choose [English](language_name) lang
+- lets try [English](language_name) Language.
+- choose [English](language_name) country
+- lets choose [English](language_name) country
+- I'm willing [English](language_name) country
+- serve me [English](language_name) country
+- do [English](language_name) Language.
+- pls talk in [English](language_name) lang
+- go [English](language_name) country
+- lets choose [English](language_name) language
+- lets choose [English](language_name) Language.
+- talk to me in [English](language_name)
+- lets choose [English](language_name) lang
+- serve me [English](language_name)
+- I'm willing to choose [English](language_name) country
+- serve me in [English](language_name)
+- try [English](language_name) Language.
+- [Bulgarian](language_name)
+- I'm willing to choose [Bulgarian](language_name)
+- let's talk in [Bulgarian](language_name) country
+- talk to me in [Bulgarian](language_name)
+- choose [Bulgarian](language_name) country
+- I'm willing to choose [Bulgarian](language_name) country
+- [Bulgarian](language_name) lang
+- lets try [Bulgarian](language_name) country
+- serve me in [Bulgarian](language_name) country
+- pls talk in [Bulgarian](language_name) lang
+- talk to me in [Bulgarian](language_name) country
+- Talk in [Bulgarian](language_name) lang
+- lets try [Bulgarian](language_name)
+- I want to choose [Bulgarian](language_name) country
+- Talk in [Bulgarian](language_name) Language.
+- talk [Bulgarian](language_name) lang
+- I speak [Bulgarian](language_name)
+- go [Bulgarian](language_name) language
+- choose [Bulgarian](language_name)
+- speak [Bulgarian](language_name) lang
+- [Bulgarian](language_name) language
+- I want to choose [Bulgarian](language_name) lang
+- go [Bulgarian](language_name) Language.
+- try [Bulgarian](language_name) lang
+- I'm willing [Bulgarian](language_name) country
+- okay I speak [Bulgarian](language_name)
+- communicate [Bulgarian](language_name) lang
+- I speak [Bulgarian](language_name) country
+- let's talk in [Bulgarian](language_name) lang
+- serve me in [Bulgarian](language_name) language
+- serve me [Bulgarian](language_name) language
+- pls talk in [Bulgarian](language_name) language
+- speak [Bulgarian](language_name) country
+- okay I speak [Bulgarian](language_name) language
+- [Bulgarian](language_name) country
+- talk to me in [Bulgarian](language_name) Language.
+- lets choose [Bulgarian](language_name) lang
+- I'm willing [Bulgarian](language_name)
+- I want [Bulgarian](language_name) language
+- I'm willing to choose [Bulgarian](language_name) Language.
+- I'm willing to choose [Bulgarian](language_name) lang
+- talk to me in [Bulgarian](language_name) lang
+- I want [Bulgarian](language_name) lang
+- serve me in [Bulgarian](language_name)
+- go [Bulgarian](language_name) country
+- Talk in [Bulgarian](language_name) country
+- try [Bulgarian](language_name) country
+- do [Bulgarian](language_name) language
+- serve me [Bulgarian](language_name) Language.
+- [Bulgarian](language_name)
+- choose [Bulgarian](language_name) lang
+- I want to choose [Bulgarian](language_name)
+- [Latin](language_name)
+- talk to me in [Latin](language_name)
+- serve me in [Latin](language_name) language
+- try [Latin](language_name) country
+- I want [Latin](language_name) Language.
+- lets try [Latin](language_name) Language.
+- Talk in [Latin](language_name) Language.
+- I want to choose [Latin](language_name) lang
+- Talk in [Latin](language_name)
+- do [Latin](language_name)
+- let's talk in [Latin](language_name) language
+- talk to me in [Latin](language_name) lang
+- communicate [Latin](language_name) country
+- lets choose [Latin](language_name) country
+- serve me [Latin](language_name) Language.
+- choose [Latin](language_name) lang
+- I speak [Latin](language_name)
+- lets choose [Latin](language_name) Language.
+- I'm willing to choose [Latin](language_name) Language.
+- try [Latin](language_name) language
+- Talk in [Latin](language_name) language
+- go [Latin](language_name) country
+- do [Latin](language_name) Language.
+- I want [Latin](language_name) lang
+- speak [Latin](language_name) Language.
+- lets try [Latin](language_name)
+- I'm willing to choose [Latin](language_name)
+- choose [Latin](language_name) country
+- I speak [Latin](language_name) language
+- serve me in [Latin](language_name) Language.
+- I want [Latin](language_name) language
+- pls talk in [Latin](language_name) Language.
+- [Latin](language_name) lang
+- go [Latin](language_name) lang
+- let's talk in [Latin](language_name)
+- talk [Latin](language_name) lang
+- serve me [Latin](language_name)
+- lets choose [Latin](language_name) lang
+- choose [Latin](language_name) Language.
+- lets choose [Latin](language_name)
+- communicate [Latin](language_name) Language.
+- okay I speak [Latin](language_name)
+- go [Latin](language_name) language
+- okay, go [Latin](language_name) language
+- okay I speak [Latin](language_name) country
+- I'm willing [Latin](language_name) Language.
+- serve me [Latin](language_name) lang
+- pls talk in [Latin](language_name)
+- okay, go [Latin](language_name) country
+- communicate [Latin](language_name)
+- let's talk in [Latin](language_name) country
+- do [Latin](language_name) language
 - [Georgian](language_name)
-- talk to me in [Georgian](language_name) country
-- lets choose [Georgian](language_name) language
-- talk to me in [Georgian](language_name) Language.
-- I speak [Georgian](language_name) Language.
-- go [Georgian](language_name) lang
-- Talk in [Georgian](language_name) Language.
-- [Georgian](language_name) Language.
-- communicate [Georgian](language_name) country
-- lets choose [Georgian](language_name)
-- try [Georgian](language_name) country
-- I'm willing to choose [Georgian](language_name) language
-- lets try [Georgian](language_name) language
-- communicate [Georgian](language_name) lang
-- lets try [Georgian](language_name)
-- communicate [Georgian](language_name) Language.
-- pls talk in [Georgian](language_name) Language.
-- speak [Georgian](language_name) lang
-- serve me in [Georgian](language_name) country
-- okay I speak [Georgian](language_name) Language.
-- okay, go [Georgian](language_name) Language.
-- okay, go [Georgian](language_name) lang
-- talk [Georgian](language_name) country
-- do [Georgian](language_name) language
-- let's talk in [Georgian](language_name) Language.
-- pls talk in [Georgian](language_name) language
-- okay I speak [Georgian](language_name) lang
-- I'm willing [Georgian](language_name) Language.
-- I'm willing [Georgian](language_name) language
-- try [Georgian](language_name)
-- talk [Georgian](language_name) language
-- okay I speak [Georgian](language_name)
-- talk to me in [Georgian](language_name) lang
+- choose [Georgian](language_name)
+- do [Georgian](language_name) country
+- [Georgian](language_name) country
+- communicate [Georgian](language_name)
 - Talk in [Georgian](language_name) language
-- [Georgian](language_name) lang
-- talk [Georgian](language_name) lang
-- serve me in [Georgian](language_name) Language.
-- I want to choose [Georgian](language_name)
-- lets choose [Georgian](language_name) lang
+- I'm willing [Georgian](language_name) lang
+- talk [Georgian](language_name)
+- choose [Georgian](language_name) Language.
+- speak [Georgian](language_name) Language.
+- lets choose [Georgian](language_name) language
+- go [Georgian](language_name) Language.
 - I want to choose [Georgian](language_name) language
-- try [Georgian](language_name) lang
-- [Georgian](language_name) language
-- let's talk in [Georgian](language_name) country
-- I want to choose [Georgian](language_name) Language.
-- I want to choose [Georgian](language_name) lang
-- go [Georgian](language_name)
-- do [Georgian](language_name) Language.
-- let's talk in [Georgian](language_name)
-- try [Georgian](language_name) language
-- I want [Georgian](language_name) country
-- serve me [Georgian](language_name)
 - pls talk in [Georgian](language_name) lang
-- [Spanish](language_name)
-- try [Spanish](language_name) language
-- talk to me in [Spanish](language_name) language
-- I'm willing to choose [Spanish](language_name) Language.
-- I'm willing [Spanish](language_name) country
-- choose [Spanish](language_name)
-- lets choose [Spanish](language_name) Language.
-- talk [Spanish](language_name)
-- [Spanish](language_name) lang
-- okay I speak [Spanish](language_name) lang
-- I want [Spanish](language_name) country
-- do [Spanish](language_name)
-- lets choose [Spanish](language_name)
-- serve me [Spanish](language_name) language
-- serve me in [Spanish](language_name) country
-- speak [Spanish](language_name) language
-- communicate [Spanish](language_name) language
-- [Spanish](language_name) country
-- I want to choose [Spanish](language_name) lang
-- okay, go [Spanish](language_name) Language.
-- I'm willing to choose [Spanish](language_name) language
-- go [Spanish](language_name) lang
-- Talk in [Spanish](language_name) Language.
-- pls talk in [Spanish](language_name) country
-- pls talk in [Spanish](language_name) Language.
-- go [Spanish](language_name) country
-- lets try [Spanish](language_name) country
-- I'm willing to choose [Spanish](language_name) country
-- lets choose [Spanish](language_name) lang
-- try [Spanish](language_name)
-- communicate [Spanish](language_name) lang
-- talk to me in [Spanish](language_name) Language.
-- I want [Spanish](language_name) Language.
-- okay, go [Spanish](language_name) lang
-- choose [Spanish](language_name) lang
-- I'm willing [Spanish](language_name) lang
-- choose [Spanish](language_name) language
-- speak [Spanish](language_name) country
-- I want to choose [Spanish](language_name)
-- serve me in [Spanish](language_name) Language.
-- lets choose [Spanish](language_name) country
-- okay, go [Spanish](language_name) language
-- talk [Spanish](language_name) language
-- okay, go [Spanish](language_name)
-- serve me in [Spanish](language_name) lang
-- I want to choose [Spanish](language_name) Language.
-- speak [Spanish](language_name) lang
-- [Spanish](language_name) language
-- talk to me in [Spanish](language_name)
-- talk [Spanish](language_name) Language.
-- let's talk in [Spanish](language_name) country
-- let's talk in [Spanish](language_name) Language.
-- [Chinese Traditional](language_name)
-- do [Chinese Traditional](language_name) Language.
-- [Chinese Traditional](language_name) country
-- talk [Chinese Traditional](language_name) country
-- serve me [Chinese Traditional](language_name)
-- talk to me in [Chinese Traditional](language_name) language
-- I'm willing [Chinese Traditional](language_name) Language.
-- I want [Chinese Traditional](language_name)
-- speak [Chinese Traditional](language_name) country
-- go [Chinese Traditional](language_name) language
-- I'm willing [Chinese Traditional](language_name) country
-- try [Chinese Traditional](language_name) country
-- okay, go [Chinese Traditional](language_name) country
-- I'm willing [Chinese Traditional](language_name) lang
-- talk [Chinese Traditional](language_name) lang
-- talk to me in [Chinese Traditional](language_name)
-- let's talk in [Chinese Traditional](language_name)
-- talk to me in [Chinese Traditional](language_name) Language.
-- I'm willing [Chinese Traditional](language_name) language
-- okay I speak [Chinese Traditional](language_name) Language.
-- I want [Chinese Traditional](language_name) Language.
-- I want [Chinese Traditional](language_name) lang
-- [Chinese Traditional](language_name)
-- choose [Chinese Traditional](language_name) lang
-- choose [Chinese Traditional](language_name) Language.
-- serve me [Chinese Traditional](language_name) lang
-- Talk in [Chinese Traditional](language_name) country
-- pls talk in [Chinese Traditional](language_name) lang
-- I'm willing to choose [Chinese Traditional](language_name) language
-- lets try [Chinese Traditional](language_name) Language.
-- I speak [Chinese Traditional](language_name) Language.
-- okay, go [Chinese Traditional](language_name)
-- okay, go [Chinese Traditional](language_name) language
-- pls talk in [Chinese Traditional](language_name) language
-- let's talk in [Chinese Traditional](language_name) country
-- lets choose [Chinese Traditional](language_name) lang
-- do [Chinese Traditional](language_name) lang
-- try [Chinese Traditional](language_name) language
-- do [Chinese Traditional](language_name) country
-- I want to choose [Chinese Traditional](language_name) Language.
-- I'm willing to choose [Chinese Traditional](language_name)
-- Talk in [Chinese Traditional](language_name) lang
-- Talk in [Chinese Traditional](language_name) Language.
-- I speak [Chinese Traditional](language_name) language
-- let's talk in [Chinese Traditional](language_name) lang
-- [Chinese Traditional](language_name) language
-- try [Chinese Traditional](language_name) Language.
-- pls talk in [Chinese Traditional](language_name) country
-- do [Chinese Traditional](language_name)
-- do [Chinese Traditional](language_name) language
-- I speak [Chinese Traditional](language_name) lang
-- okay I speak [Chinese Traditional](language_name) language
-- [Telugu](language_name)
-- communicate [Telugu](language_name) Language.
-- I'm willing to choose [Telugu](language_name) lang
-- I speak [Telugu](language_name) country
-- talk [Telugu](language_name) lang
-- I want to choose [Telugu](language_name) language
-- do [Telugu](language_name) Language.
-- communicate [Telugu](language_name) language
-- do [Telugu](language_name) country
-- serve me [Telugu](language_name) language
-- do [Telugu](language_name) lang
-- serve me in [Telugu](language_name) Language.
-- I speak [Telugu](language_name) language
-- lets try [Telugu](language_name)
-- okay, go [Telugu](language_name) lang
-- okay, go [Telugu](language_name)
-- I'm willing [Telugu](language_name) lang
-- try [Telugu](language_name) lang
-- talk [Telugu](language_name)
-- lets try [Telugu](language_name) language
-- communicate [Telugu](language_name) country
-- serve me in [Telugu](language_name) lang
-- talk to me in [Telugu](language_name) lang
-- choose [Telugu](language_name) language
-- talk to me in [Telugu](language_name) Language.
-- I speak [Telugu](language_name) lang
-- I'm willing to choose [Telugu](language_name) Language.
-- talk [Telugu](language_name) Language.
-- choose [Telugu](language_name) lang
-- lets choose [Telugu](language_name)
-- okay I speak [Telugu](language_name) country
-- talk to me in [Telugu](language_name) language
-- let's talk in [Telugu](language_name) language
-- I want [Telugu](language_name) lang
-- pls talk in [Telugu](language_name) Language.
-- lets choose [Telugu](language_name) language
-- pls talk in [Telugu](language_name) language
-- let's talk in [Telugu](language_name) country
-- lets choose [Telugu](language_name) lang
-- I'm willing to choose [Telugu](language_name) language
-- I'm willing [Telugu](language_name) Language.
-- talk to me in [Telugu](language_name)
-- pls talk in [Telugu](language_name) country
-- okay, go [Telugu](language_name) language
-- okay I speak [Telugu](language_name) language
-- serve me in [Telugu](language_name)
-- speak [Telugu](language_name) country
-- pls talk in [Telugu](language_name)
-- I want to choose [Telugu](language_name) lang
-- I speak [Telugu](language_name)
-- serve me [Telugu](language_name) lang
-- choose [Telugu](language_name) Language.
-- [Estonian](language_name)
-- let's talk in [Estonian](language_name) Language.
-- I want to choose [Estonian](language_name) language
-- serve me in [Estonian](language_name) lang
-- lets try [Estonian](language_name)
-- speak [Estonian](language_name)
-- okay I speak [Estonian](language_name) lang
-- I'm willing to choose [Estonian](language_name) country
-- choose [Estonian](language_name)
-- do [Estonian](language_name) Language.
-- talk [Estonian](language_name) lang
-- serve me [Estonian](language_name) country
-- [Estonian](language_name) Language.
-- lets choose [Estonian](language_name)
-- serve me [Estonian](language_name) Language.
-- talk to me in [Estonian](language_name) language
-- pls talk in [Estonian](language_name) country
-- okay, go [Estonian](language_name)
-- I'm willing to choose [Estonian](language_name) language
-- serve me in [Estonian](language_name) language
-- try [Estonian](language_name) country
-- okay, go [Estonian](language_name) language
-- lets try [Estonian](language_name) language
-- Talk in [Estonian](language_name) Language.
-- choose [Estonian](language_name) Language.
-- okay, go [Estonian](language_name) country
-- I want to choose [Estonian](language_name) country
-- I'm willing [Estonian](language_name)
-- serve me in [Estonian](language_name)
-- talk [Estonian](language_name) language
-- I speak [Estonian](language_name) country
-- I want [Estonian](language_name) lang
-- talk to me in [Estonian](language_name) lang
-- okay, go [Estonian](language_name) lang
-- speak [Estonian](language_name) country
-- I speak [Estonian](language_name) language
-- talk to me in [Estonian](language_name)
-- let's talk in [Estonian](language_name) lang
-- okay I speak [Estonian](language_name) language
-- I want [Estonian](language_name) country
-- okay I speak [Estonian](language_name) country
-- talk [Estonian](language_name)
-- pls talk in [Estonian](language_name)
-- I speak [Estonian](language_name)
-- I'm willing [Estonian](language_name) Language.
-- Talk in [Estonian](language_name) country
-- pls talk in [Estonian](language_name) Language.
-- lets choose [Estonian](language_name) country
-- I want to choose [Estonian](language_name) Language.
-- talk to me in [Estonian](language_name) Language.
-- pls talk in [Estonian](language_name) lang
-- serve me in [Estonian](language_name) Language.
-- [Belarusian](language_name)
-- serve me [Belarusian](language_name) country
-- I want [Belarusian](language_name) lang
-- try [Belarusian](language_name) Language.
-- communicate [Belarusian](language_name) country
-- I speak [Belarusian](language_name) Language.
-- communicate [Belarusian](language_name) language
-- serve me in [Belarusian](language_name) lang
-- serve me in [Belarusian](language_name) language
-- try [Belarusian](language_name) country
-- speak [Belarusian](language_name) country
-- lets choose [Belarusian](language_name)
-- pls talk in [Belarusian](language_name) language
-- do [Belarusian](language_name) language
-- speak [Belarusian](language_name) language
-- I'm willing to choose [Belarusian](language_name)
-- lets try [Belarusian](language_name)
-- try [Belarusian](language_name) lang
-- [Belarusian](language_name) Language.
-- talk [Belarusian](language_name) Language.
-- go [Belarusian](language_name) lang
-- [Belarusian](language_name) lang
-- choose [Belarusian](language_name) country
-- lets choose [Belarusian](language_name) lang
-- Talk in [Belarusian](language_name) language
-- I'm willing [Belarusian](language_name) country
-- choose [Belarusian](language_name) Language.
-- [Belarusian](language_name)
-- let's talk in [Belarusian](language_name) lang
-- I want to choose [Belarusian](language_name) lang
-- let's talk in [Belarusian](language_name) Language.
-- talk [Belarusian](language_name) lang
-- talk [Belarusian](language_name) country
-- serve me in [Belarusian](language_name)
-- try [Belarusian](language_name)
-- I want [Belarusian](language_name) Language.
-- talk [Belarusian](language_name)
-- choose [Belarusian](language_name)
-- okay, go [Belarusian](language_name) language
-- serve me in [Belarusian](language_name) country
-- okay I speak [Belarusian](language_name) lang
-- choose [Belarusian](language_name) lang
-- I'm willing to choose [Belarusian](language_name) country
-- I'm willing to choose [Belarusian](language_name) Language.
-- Talk in [Belarusian](language_name) lang
-- [Belarusian](language_name) country
-- go [Belarusian](language_name) country
-- I speak [Belarusian](language_name) language
-- I want [Belarusian](language_name) country
-- lets choose [Belarusian](language_name) Language.
-- talk to me in [Belarusian](language_name) language
-- communicate [Belarusian](language_name) lang
-- [Kannada](language_name)
-- lets try [Kannada](language_name) language
-- speak [Kannada](language_name)
-- talk [Kannada](language_name) Language.
-- Talk in [Kannada](language_name)
-- talk to me in [Kannada](language_name) Language.
-- let's talk in [Kannada](language_name) Language.
-- pls talk in [Kannada](language_name) lang
-- communicate [Kannada](language_name)
-- lets choose [Kannada](language_name) lang
-- do [Kannada](language_name) Language.
-- okay I speak [Kannada](language_name) country
-- serve me [Kannada](language_name) language
-- I'm willing to choose [Kannada](language_name) language
-- [Kannada](language_name) lang
-- I'm willing [Kannada](language_name)
-- okay, go [Kannada](language_name) lang
-- serve me in [Kannada](language_name) lang
-- go [Kannada](language_name)
-- serve me in [Kannada](language_name) Language.
-- talk to me in [Kannada](language_name) lang
-- I'm willing to choose [Kannada](language_name) lang
-- let's talk in [Kannada](language_name) language
-- let's talk in [Kannada](language_name)
-- choose [Kannada](language_name) country
-- I want [Kannada](language_name)
-- I want [Kannada](language_name) lang
-- let's talk in [Kannada](language_name) country
-- okay I speak [Kannada](language_name) lang
-- I want to choose [Kannada](language_name) Language.
-- Talk in [Kannada](language_name) Language.
-- [Kannada](language_name) country
-- I want [Kannada](language_name) country
-- go [Kannada](language_name) country
-- talk [Kannada](language_name) language
-- pls talk in [Kannada](language_name) Language.
-- go [Kannada](language_name) Language.
-- I want to choose [Kannada](language_name)
-- let's talk in [Kannada](language_name) lang
-- lets try [Kannada](language_name) Language.
-- pls talk in [Kannada](language_name) country
-- try [Kannada](language_name) country
-- do [Kannada](language_name) country
-- communicate [Kannada](language_name) language
-- lets choose [Kannada](language_name) language
-- [Kannada](language_name)
-- try [Kannada](language_name) language
-- lets try [Kannada](language_name)
-- lets try [Kannada](language_name) country
-- serve me [Kannada](language_name) Language.
-- talk [Kannada](language_name)
-- I want to choose [Kannada](language_name) country
+- talk to me in [Georgian](language_name) language
+- go [Georgian](language_name)
+- I'm willing to choose [Georgian](language_name) country
+- okay, go [Georgian](language_name) country
+- talk to me in [Georgian](language_name) country
+- lets try [Georgian](language_name) language
+- let's talk in [Georgian](language_name) country
+- talk [Georgian](language_name) country
+- I want to choose [Georgian](language_name) lang
+- I want to choose [Georgian](language_name)
+- I'm willing [Georgian](language_name) country
+- I want [Georgian](language_name) language
+- serve me [Georgian](language_name) Language.
+- I'm willing to choose [Georgian](language_name)
+- communicate [Georgian](language_name) Language.
+- let's talk in [Georgian](language_name) lang
+- lets try [Georgian](language_name)
+- go [Georgian](language_name) country
+- pls talk in [Georgian](language_name) language
+- let's talk in [Georgian](language_name) language
+- serve me in [Georgian](language_name) lang
+- pls talk in [Georgian](language_name) Language.
+- try [Georgian](language_name) Language.
+- I speak [Georgian](language_name) lang
+- I want to choose [Georgian](language_name) Language.
+- I speak [Georgian](language_name)
+- talk [Georgian](language_name) lang
+- choose [Georgian](language_name) lang
+- choose [Georgian](language_name) country
+- communicate [Georgian](language_name) country
+- Talk in [Georgian](language_name)
+- I want to choose [Georgian](language_name) country
+- speak [Georgian](language_name) language
+- okay I speak [Georgian](language_name) language
+- serve me [Georgian](language_name)
+- [Georgian](language_name)
+- I'm willing [Georgian](language_name) language
+- I speak [Georgian](language_name) Language.
+- [Afrikaans](language_name)
+- go [Afrikaans](language_name) Language.
+- pls talk in [Afrikaans](language_name)
+- lets try [Afrikaans](language_name) lang
+- lets choose [Afrikaans](language_name) Language.
+- communicate [Afrikaans](language_name) lang
+- talk to me in [Afrikaans](language_name)
+- [Afrikaans](language_name) language
+- choose [Afrikaans](language_name) Language.
+- I speak [Afrikaans](language_name) lang
+- lets try [Afrikaans](language_name) Language.
+- okay, go [Afrikaans](language_name) language
+- lets try [Afrikaans](language_name)
+- I'm willing to choose [Afrikaans](language_name) country
+- serve me in [Afrikaans](language_name)
+- I'm willing to choose [Afrikaans](language_name) Language.
+- speak [Afrikaans](language_name) Language.
+- I want to choose [Afrikaans](language_name) language
+- serve me in [Afrikaans](language_name) country
+- talk to me in [Afrikaans](language_name) lang
+- go [Afrikaans](language_name) language
+- [Afrikaans](language_name) Language.
+- try [Afrikaans](language_name) lang
+- Talk in [Afrikaans](language_name) Language.
+- I'm willing [Afrikaans](language_name) Language.
+- [Afrikaans](language_name)
+- I want [Afrikaans](language_name) Language.
+- lets choose [Afrikaans](language_name) lang
+- speak [Afrikaans](language_name) lang
+- I'm willing [Afrikaans](language_name) language
+- pls talk in [Afrikaans](language_name) language
+- do [Afrikaans](language_name) Language.
+- I want to choose [Afrikaans](language_name) country
+- okay I speak [Afrikaans](language_name) lang
+- I'm willing [Afrikaans](language_name) lang
+- I speak [Afrikaans](language_name) Language.
+- try [Afrikaans](language_name) country
+- talk to me in [Afrikaans](language_name) language
+- speak [Afrikaans](language_name) language
+- I'm willing to choose [Afrikaans](language_name) lang
+- pls talk in [Afrikaans](language_name) country
+- go [Afrikaans](language_name) lang
+- try [Afrikaans](language_name) language
+- communicate [Afrikaans](language_name) language
+- okay, go [Afrikaans](language_name) country
+- do [Afrikaans](language_name) country
+- talk [Afrikaans](language_name) country
+- communicate [Afrikaans](language_name)
+- I want to choose [Afrikaans](language_name) lang
+- [Afrikaans](language_name) country
+- serve me [Afrikaans](language_name) language
+- I want [Afrikaans](language_name)
+- [Croatian](language_name)
+- I speak [Croatian](language_name) language
+- communicate [Croatian](language_name) language
+- go [Croatian](language_name) Language.
+- communicate [Croatian](language_name) country
+- I'm willing to choose [Croatian](language_name) lang
+- pls talk in [Croatian](language_name)
+- I speak [Croatian](language_name) Language.
+- Talk in [Croatian](language_name) language
+- I'm willing [Croatian](language_name) country
+- okay, go [Croatian](language_name) Language.
+- speak [Croatian](language_name) Language.
+- okay I speak [Croatian](language_name) Language.
+- I want [Croatian](language_name)
+- choose [Croatian](language_name) country
+- I want to choose [Croatian](language_name)
+- speak [Croatian](language_name) language
+- talk [Croatian](language_name) Language.
+- talk to me in [Croatian](language_name) country
+- lets try [Croatian](language_name) Language.
+- I'm willing [Croatian](language_name)
+- serve me [Croatian](language_name) country
+- communicate [Croatian](language_name) Language.
+- I'm willing to choose [Croatian](language_name)
+- serve me in [Croatian](language_name) country
+- go [Croatian](language_name)
+- let's talk in [Croatian](language_name) country
+- go [Croatian](language_name) lang
+- lets try [Croatian](language_name)
+- speak [Croatian](language_name) lang
+- let's talk in [Croatian](language_name) lang
+- okay, go [Croatian](language_name) language
+- lets choose [Croatian](language_name) lang
+- serve me [Croatian](language_name) language
+- I want to choose [Croatian](language_name) lang
+- try [Croatian](language_name) language
+- talk [Croatian](language_name) language
+- go [Croatian](language_name) language
+- okay, go [Croatian](language_name)
+- I'm willing to choose [Croatian](language_name) country
+- talk [Croatian](language_name) country
+- talk to me in [Croatian](language_name) Language.
+- pls talk in [Croatian](language_name) country
+- Talk in [Croatian](language_name) lang
+- speak [Croatian](language_name) country
+- try [Croatian](language_name) Language.
+- serve me in [Croatian](language_name) Language.
+- go [Croatian](language_name) country
+- lets choose [Croatian](language_name)
+- choose [Croatian](language_name) lang
+- I want to choose [Croatian](language_name) language
+- pls talk in [Croatian](language_name) Language.
+- [Icelandic](language_name)
+- I'm willing to choose [Icelandic](language_name) language
+- lets choose [Icelandic](language_name) country
+- talk [Icelandic](language_name) Language.
+- choose [Icelandic](language_name) country
+- lets choose [Icelandic](language_name) Language.
+- let's talk in [Icelandic](language_name) country
+- okay I speak [Icelandic](language_name) Language.
+- talk to me in [Icelandic](language_name) lang
+- I want [Icelandic](language_name) lang
+- try [Icelandic](language_name)
+- speak [Icelandic](language_name) lang
+- I'm willing to choose [Icelandic](language_name) lang
+- [Icelandic](language_name) Language.
+- pls talk in [Icelandic](language_name) language
+- I want to choose [Icelandic](language_name) language
+- okay, go [Icelandic](language_name) Language.
+- I'm willing [Icelandic](language_name) language
+- [Icelandic](language_name) country
+- okay, go [Icelandic](language_name) lang
+- communicate [Icelandic](language_name) language
+- I'm willing [Icelandic](language_name)
+- okay I speak [Icelandic](language_name) language
+- speak [Icelandic](language_name) Language.
+- do [Icelandic](language_name) language
+- serve me [Icelandic](language_name) language
+- choose [Icelandic](language_name) Language.
+- I'm willing to choose [Icelandic](language_name) Language.
+- pls talk in [Icelandic](language_name) Language.
+- I want to choose [Icelandic](language_name) lang
+- speak [Icelandic](language_name) country
+- I want [Icelandic](language_name) country
+- pls talk in [Icelandic](language_name) country
+- go [Icelandic](language_name) lang
+- talk to me in [Icelandic](language_name) language
+- go [Icelandic](language_name) language
+- let's talk in [Icelandic](language_name) language
+- talk [Icelandic](language_name)
+- try [Icelandic](language_name) language
+- choose [Icelandic](language_name)
+- okay I speak [Icelandic](language_name) country
+- [Icelandic](language_name) language
+- lets try [Icelandic](language_name) lang
+- let's talk in [Icelandic](language_name) lang
+- do [Icelandic](language_name) lang
+- serve me [Icelandic](language_name) lang
+- talk [Icelandic](language_name) country
+- go [Icelandic](language_name) Language.
+- let's talk in [Icelandic](language_name)
+- I'm willing [Icelandic](language_name) country
+- I want [Icelandic](language_name)
+- I speak [Icelandic](language_name) country
+- [Albanian](language_name)
+- go [Albanian](language_name) Language.
+- communicate [Albanian](language_name) country
+- lets try [Albanian](language_name) language
+- lets try [Albanian](language_name)
+- [Albanian](language_name) country
+- Talk in [Albanian](language_name) Language.
+- [Albanian](language_name)
+- [Albanian](language_name) language
+- go [Albanian](language_name)
+- I speak [Albanian](language_name) language
+- talk to me in [Albanian](language_name) language
+- choose [Albanian](language_name) language
+- [Albanian](language_name) lang
+- communicate [Albanian](language_name) lang
+- choose [Albanian](language_name) country
+- talk to me in [Albanian](language_name) lang
+- I want to choose [Albanian](language_name) language
+- serve me [Albanian](language_name) lang
+- go [Albanian](language_name) language
+- pls talk in [Albanian](language_name) lang
+- okay I speak [Albanian](language_name) language
+- I'm willing to choose [Albanian](language_name) language
+- lets choose [Albanian](language_name) country
+- I'm willing to choose [Albanian](language_name) lang
+- I'm willing [Albanian](language_name)
+- try [Albanian](language_name) Language.
+- serve me in [Albanian](language_name) language
+- speak [Albanian](language_name) lang
+- okay I speak [Albanian](language_name) Language.
+- talk [Albanian](language_name) language
+- I want to choose [Albanian](language_name) country
+- try [Albanian](language_name) lang
+- try [Albanian](language_name) language
+- pls talk in [Albanian](language_name) language
+- talk [Albanian](language_name) Language.
+- speak [Albanian](language_name) language
+- choose [Albanian](language_name) lang
+- do [Albanian](language_name)
+- let's talk in [Albanian](language_name) Language.
+- I want [Albanian](language_name)
+- do [Albanian](language_name) language
+- speak [Albanian](language_name) Language.
+- I speak [Albanian](language_name) country
+- serve me in [Albanian](language_name)
+- do [Albanian](language_name) lang
+- I'm willing [Albanian](language_name) Language.
+- lets try [Albanian](language_name) lang
+- talk to me in [Albanian](language_name) country
+- lets choose [Albanian](language_name) Language.
+- I want to choose [Albanian](language_name) Language.
+- I want [Albanian](language_name) Language.
+- [Vietnamese](language_name)
+- I'm willing to choose [Vietnamese](language_name) country
+- go [Vietnamese](language_name) Language.
+- talk [Vietnamese](language_name) Language.
+- speak [Vietnamese](language_name) Language.
+- okay, go [Vietnamese](language_name) language
+- communicate [Vietnamese](language_name) language
+- speak [Vietnamese](language_name) lang
+- talk to me in [Vietnamese](language_name) country
+- go [Vietnamese](language_name) country
+- lets try [Vietnamese](language_name) Language.
+- do [Vietnamese](language_name) language
+- communicate [Vietnamese](language_name)
+- okay I speak [Vietnamese](language_name) language
+- serve me in [Vietnamese](language_name) Language.
+- talk to me in [Vietnamese](language_name) lang
+- serve me [Vietnamese](language_name) lang
+- serve me [Vietnamese](language_name)
+- I'm willing to choose [Vietnamese](language_name) Language.
+- communicate [Vietnamese](language_name) Language.
+- Talk in [Vietnamese](language_name) Language.
+- I'm willing [Vietnamese](language_name) language
+- okay, go [Vietnamese](language_name) lang
+- pls talk in [Vietnamese](language_name) language
+- I'm willing [Vietnamese](language_name) Language.
+- do [Vietnamese](language_name) country
+- talk [Vietnamese](language_name) country
+- I want [Vietnamese](language_name) Language.
+- okay, go [Vietnamese](language_name) country
+- I'm willing to choose [Vietnamese](language_name)
+- okay, go [Vietnamese](language_name)
+- I want [Vietnamese](language_name) language
+- pls talk in [Vietnamese](language_name) country
+- go [Vietnamese](language_name)
+- I speak [Vietnamese](language_name) language
+- I want [Vietnamese](language_name) lang
+- [Vietnamese](language_name) Language.
+- I want to choose [Vietnamese](language_name) language
+- I speak [Vietnamese](language_name) lang
+- lets try [Vietnamese](language_name)
+- try [Vietnamese](language_name) language
+- communicate [Vietnamese](language_name) country
+- serve me [Vietnamese](language_name) country
+- Talk in [Vietnamese](language_name) lang
+- I speak [Vietnamese](language_name) country
+- speak [Vietnamese](language_name)
+- I want [Vietnamese](language_name) country
+- let's talk in [Vietnamese](language_name) Language.
+- I want [Vietnamese](language_name)
+- go [Vietnamese](language_name) lang
+- I speak [Vietnamese](language_name)
+- lets choose [Vietnamese](language_name) lang
+- [Hebrew](language_name)
+- okay I speak [Hebrew](language_name)
+- I speak [Hebrew](language_name) Language.
+- serve me in [Hebrew](language_name) language
+- communicate [Hebrew](language_name)
+- [Hebrew](language_name) lang
+- I'm willing [Hebrew](language_name) Language.
+- I'm willing [Hebrew](language_name)
+- do [Hebrew](language_name) lang
+- talk [Hebrew](language_name) Language.
+- communicate [Hebrew](language_name) language
+- serve me [Hebrew](language_name) language
+- go [Hebrew](language_name) lang
+- [Hebrew](language_name) Language.
+- speak [Hebrew](language_name) country
+- do [Hebrew](language_name) country
+- let's talk in [Hebrew](language_name)
+- lets try [Hebrew](language_name)
+- choose [Hebrew](language_name) lang
+- talk [Hebrew](language_name) country
+- pls talk in [Hebrew](language_name) language
+- do [Hebrew](language_name) Language.
+- I want to choose [Hebrew](language_name) country
+- go [Hebrew](language_name)
+- lets choose [Hebrew](language_name) language
+- lets choose [Hebrew](language_name)
+- speak [Hebrew](language_name)
+- talk to me in [Hebrew](language_name)
+- okay I speak [Hebrew](language_name) lang
+- go [Hebrew](language_name) Language.
+- I'm willing to choose [Hebrew](language_name) Language.
+- Talk in [Hebrew](language_name) lang
+- choose [Hebrew](language_name) Language.
+- go [Hebrew](language_name) language
+- I'm willing to choose [Hebrew](language_name) language
+- okay, go [Hebrew](language_name) country
+- I want to choose [Hebrew](language_name) Language.
+- [Hebrew](language_name)
+- I speak [Hebrew](language_name) language
+- I want [Hebrew](language_name) Language.
+- communicate [Hebrew](language_name) lang
+- lets try [Hebrew](language_name) language
+- I want [Hebrew](language_name) lang
+- go [Hebrew](language_name) country
+- okay I speak [Hebrew](language_name) language
+- okay, go [Hebrew](language_name)
+- try [Hebrew](language_name) language
+- [Hebrew](language_name) country
+- Talk in [Hebrew](language_name) language
+- serve me [Hebrew](language_name) country
+- choose [Hebrew](language_name) language
+- I'm willing [Hebrew](language_name) country
+- [Chinese Simplified](language_name)
+- I'm willing [Chinese Simplified](language_name) country
+- [Chinese Simplified](language_name)
+- lets try [Chinese Simplified](language_name)
+- communicate [Chinese Simplified](language_name) language
+- okay I speak [Chinese Simplified](language_name) country
+- try [Chinese Simplified](language_name) lang
+- Talk in [Chinese Simplified](language_name) Language.
+- I want [Chinese Simplified](language_name) lang
+- go [Chinese Simplified](language_name) Language.
+- pls talk in [Chinese Simplified](language_name) lang
+- communicate [Chinese Simplified](language_name) Language.
+- talk to me in [Chinese Simplified](language_name) Language.
+- [Chinese Simplified](language_name) Language.
+- I want to choose [Chinese Simplified](language_name) lang
+- lets try [Chinese Simplified](language_name) lang
+- serve me [Chinese Simplified](language_name) lang
+- do [Chinese Simplified](language_name) language
+- talk to me in [Chinese Simplified](language_name) country
+- try [Chinese Simplified](language_name) country
+- serve me [Chinese Simplified](language_name) country
+- I want to choose [Chinese Simplified](language_name) Language.
+- go [Chinese Simplified](language_name) country
+- Talk in [Chinese Simplified](language_name) lang
+- okay I speak [Chinese Simplified](language_name) language
+- go [Chinese Simplified](language_name)
+- I speak [Chinese Simplified](language_name) lang
+- talk [Chinese Simplified](language_name) Language.
+- okay, go [Chinese Simplified](language_name) language
+- okay I speak [Chinese Simplified](language_name) lang
+- lets try [Chinese Simplified](language_name) country
+- lets choose [Chinese Simplified](language_name) Language.
+- okay, go [Chinese Simplified](language_name) Language.
+- Talk in [Chinese Simplified](language_name)
+- choose [Chinese Simplified](language_name) country
+- Talk in [Chinese Simplified](language_name) country
+- choose [Chinese Simplified](language_name) lang
+- I want to choose [Chinese Simplified](language_name) language
+- lets choose [Chinese Simplified](language_name)
+- try [Chinese Simplified](language_name) language
+- speak [Chinese Simplified](language_name) country
+- try [Chinese Simplified](language_name) Language.
+- I'm willing to choose [Chinese Simplified](language_name) language
+- lets choose [Chinese Simplified](language_name) lang
+- I want [Chinese Simplified](language_name) language
+- I speak [Chinese Simplified](language_name)
+- talk [Chinese Simplified](language_name) language
+- okay I speak [Chinese Simplified](language_name) Language.
+- serve me in [Chinese Simplified](language_name) Language.
+- I'm willing to choose [Chinese Simplified](language_name)
+- I want [Chinese Simplified](language_name) country
+- I'm willing [Chinese Simplified](language_name) lang
+- [Korean](language_name)
+- go [Korean](language_name) Language.
+- okay I speak [Korean](language_name) language
+- speak [Korean](language_name) lang
+- I speak [Korean](language_name) language
+- I want to choose [Korean](language_name) country
+- do [Korean](language_name) lang
+- I want [Korean](language_name) language
+- Talk in [Korean](language_name) country
+- serve me in [Korean](language_name) language
+- try [Korean](language_name) Language.
+- serve me in [Korean](language_name) lang
+- communicate [Korean](language_name) country
+- I speak [Korean](language_name) lang
+- try [Korean](language_name) country
+- speak [Korean](language_name) Language.
+- do [Korean](language_name) Language.
+- speak [Korean](language_name) language
+- [Korean](language_name)
+- I'm willing to choose [Korean](language_name)
+- communicate [Korean](language_name)
+- talk [Korean](language_name) Language.
+- talk to me in [Korean](language_name) Language.
+- I want [Korean](language_name) Language.
+- pls talk in [Korean](language_name) Language.
+- go [Korean](language_name)
+- serve me [Korean](language_name) country
+- I'm willing [Korean](language_name) language
+- try [Korean](language_name) lang
+- I'm willing [Korean](language_name)
+- pls talk in [Korean](language_name) language
+- lets try [Korean](language_name) lang
+- speak [Korean](language_name)
+- choose [Korean](language_name) language
+- pls talk in [Korean](language_name) lang
+- lets try [Korean](language_name) country
+- okay I speak [Korean](language_name) country
+- choose [Korean](language_name) country
+- I want to choose [Korean](language_name)
+- I want to choose [Korean](language_name) Language.
+- [Korean](language_name) Language.
+- I'm willing to choose [Korean](language_name) lang
+- okay I speak [Korean](language_name) Language.
+- I speak [Korean](language_name) Language.
+- [Korean](language_name) lang
+- I'm willing [Korean](language_name) Language.
+- lets choose [Korean](language_name) lang
+- serve me [Korean](language_name)
+- let's talk in [Korean](language_name) Language.
+- let's talk in [Korean](language_name) country
+- Talk in [Korean](language_name) language
+- talk to me in [Korean](language_name) lang
+- [Filipino](language_name)
+- lets try [Filipino](language_name) language
+- choose [Filipino](language_name) language
+- Talk in [Filipino](language_name) Language.
+- speak [Filipino](language_name)
+- go [Filipino](language_name) country
+- serve me in [Filipino](language_name) language
+- communicate [Filipino](language_name) country
+- choose [Filipino](language_name) lang
+- I'm willing to choose [Filipino](language_name)
+- go [Filipino](language_name) lang
+- talk [Filipino](language_name) country
+- talk [Filipino](language_name) language
+- let's talk in [Filipino](language_name)
+- I want to choose [Filipino](language_name) country
+- talk to me in [Filipino](language_name) language
+- speak [Filipino](language_name) language
+- I'm willing to choose [Filipino](language_name) country
+- okay I speak [Filipino](language_name) language
+- let's talk in [Filipino](language_name) country
+- I want [Filipino](language_name) Language.
+- communicate [Filipino](language_name) Language.
+- Talk in [Filipino](language_name)
+- try [Filipino](language_name) country
+- go [Filipino](language_name) Language.
+- [Filipino](language_name) Language.
+- I speak [Filipino](language_name) language
+- [Filipino](language_name) language
+- lets choose [Filipino](language_name) Language.
+- I want to choose [Filipino](language_name) language
+- serve me in [Filipino](language_name) lang
+- okay, go [Filipino](language_name)
+- I want [Filipino](language_name) lang
+- lets choose [Filipino](language_name) country
+- Talk in [Filipino](language_name) country
+- talk [Filipino](language_name) lang
+- talk to me in [Filipino](language_name) lang
+- pls talk in [Filipino](language_name)
+- I speak [Filipino](language_name) lang
+- do [Filipino](language_name)
+- try [Filipino](language_name)
+- I want to choose [Filipino](language_name)
+- serve me [Filipino](language_name)
+- communicate [Filipino](language_name) language
+- okay I speak [Filipino](language_name)
+- do [Filipino](language_name) language
+- pls talk in [Filipino](language_name) language
+- pls talk in [Filipino](language_name) Language.
+- pls talk in [Filipino](language_name) country
+- I'm willing to choose [Filipino](language_name) language
+- [Filipino](language_name) lang
+- serve me in [Filipino](language_name) country
+- [Macedonian](language_name)
+- let's talk in [Macedonian](language_name) Language.
+- choose [Macedonian](language_name) language
+- serve me in [Macedonian](language_name) country
+- go [Macedonian](language_name) Language.
+- I speak [Macedonian](language_name) language
+- talk [Macedonian](language_name) language
+- I'm willing to choose [Macedonian](language_name) lang
+- talk [Macedonian](language_name) lang
+- speak [Macedonian](language_name)
+- okay I speak [Macedonian](language_name)
+- okay, go [Macedonian](language_name) country
+- [Macedonian](language_name) language
+- [Macedonian](language_name) lang
+- choose [Macedonian](language_name) Language.
+- talk to me in [Macedonian](language_name) language
+- I speak [Macedonian](language_name) country
+- serve me [Macedonian](language_name) Language.
+- talk to me in [Macedonian](language_name) Language.
+- serve me [Macedonian](language_name) language
+- I'm willing to choose [Macedonian](language_name) Language.
+- I'm willing to choose [Macedonian](language_name)
+- okay, go [Macedonian](language_name) Language.
+- lets choose [Macedonian](language_name) country
+- I want [Macedonian](language_name)
+- I want [Macedonian](language_name) Language.
+- choose [Macedonian](language_name) lang
+- I want to choose [Macedonian](language_name) Language.
+- communicate [Macedonian](language_name) Language.
+- communicate [Macedonian](language_name) lang
+- Talk in [Macedonian](language_name) lang
+- let's talk in [Macedonian](language_name) lang
+- go [Macedonian](language_name) lang
+- lets choose [Macedonian](language_name) lang
+- I want [Macedonian](language_name) lang
+- let's talk in [Macedonian](language_name)
+- do [Macedonian](language_name)
+- speak [Macedonian](language_name) Language.
+- serve me [Macedonian](language_name) lang
+- okay I speak [Macedonian](language_name) country
+- okay, go [Macedonian](language_name) language
+- lets choose [Macedonian](language_name) Language.
+- speak [Macedonian](language_name) lang
+- I'm willing to choose [Macedonian](language_name) country
+- I'm willing [Macedonian](language_name) Language.
+- okay I speak [Macedonian](language_name) lang
+- okay, go [Macedonian](language_name)
+- try [Macedonian](language_name)
+- I'm willing to choose [Macedonian](language_name) language
+- talk [Macedonian](language_name) Language.
+- talk to me in [Macedonian](language_name) country
+- serve me in [Macedonian](language_name) Language.
+- [Hindi](language_name)
+- okay I speak [Hindi](language_name) lang
+- talk to me in [Hindi](language_name) lang
+- talk to me in [Hindi](language_name)
+- pls talk in [Hindi](language_name)
+- communicate [Hindi](language_name)
+- I'm willing [Hindi](language_name) language
+- lets choose [Hindi](language_name)
+- let's talk in [Hindi](language_name) Language.
+- try [Hindi](language_name) language
+- communicate [Hindi](language_name) lang
+- okay, go [Hindi](language_name) language
+- try [Hindi](language_name)
+- talk to me in [Hindi](language_name) language
+- [Hindi](language_name) lang
+- pls talk in [Hindi](language_name) language
+- speak [Hindi](language_name) lang
+- I want to choose [Hindi](language_name) lang
+- talk [Hindi](language_name) language
+- I speak [Hindi](language_name) lang
+- serve me [Hindi](language_name) lang
+- do [Hindi](language_name) language
+- I want [Hindi](language_name) language
+- communicate [Hindi](language_name) Language.
+- do [Hindi](language_name) country
+- let's talk in [Hindi](language_name) lang
+- I want to choose [Hindi](language_name) Language.
+- talk [Hindi](language_name) Language.
+- Talk in [Hindi](language_name) country
+- okay I speak [Hindi](language_name) Language.
+- talk [Hindi](language_name)
+- go [Hindi](language_name) language
+- serve me in [Hindi](language_name) language
+- I'm willing [Hindi](language_name)
+- I speak [Hindi](language_name) country
+- go [Hindi](language_name) lang
+- [Hindi](language_name) Language.
+- I speak [Hindi](language_name) Language.
+- go [Hindi](language_name)
+- I speak [Hindi](language_name)
+- serve me [Hindi](language_name)
+- speak [Hindi](language_name) country
+- okay, go [Hindi](language_name)
+- lets try [Hindi](language_name) country
+- speak [Hindi](language_name)
+- talk [Hindi](language_name) country
+- let's talk in [Hindi](language_name)
+- pls talk in [Hindi](language_name) lang
+- talk to me in [Hindi](language_name) Language.
+- pls talk in [Hindi](language_name) country
+- try [Hindi](language_name) Language.
+- serve me [Hindi](language_name) country
+- [Czech](language_name)
+- lets try [Czech](language_name) lang
+- Talk in [Czech](language_name) Language.
+- [Czech](language_name) Language.
+- talk to me in [Czech](language_name) language
+- okay I speak [Czech](language_name) language
+- serve me [Czech](language_name) Language.
+- I'm willing [Czech](language_name) language
+- I want to choose [Czech](language_name) Language.
+- serve me in [Czech](language_name) Language.
+- try [Czech](language_name) country
+- let's talk in [Czech](language_name) lang
+- let's talk in [Czech](language_name)
+- go [Czech](language_name) Language.
+- talk [Czech](language_name) language
+- I'm willing [Czech](language_name) Language.
+- do [Czech](language_name) Language.
+- talk [Czech](language_name) country
+- I'm willing [Czech](language_name)
+- I want [Czech](language_name) country
+- okay I speak [Czech](language_name) Language.
+- speak [Czech](language_name) lang
+- okay, go [Czech](language_name)
+- talk [Czech](language_name) lang
+- okay I speak [Czech](language_name)
+- go [Czech](language_name) country
+- lets try [Czech](language_name) language
+- serve me [Czech](language_name) lang
+- talk to me in [Czech](language_name) lang
+- Talk in [Czech](language_name) country
+- try [Czech](language_name) Language.
+- choose [Czech](language_name) Language.
+- choose [Czech](language_name) language
+- okay I speak [Czech](language_name) lang
+- try [Czech](language_name)
+- talk to me in [Czech](language_name)
+- choose [Czech](language_name) lang
+- do [Czech](language_name)
+- lets try [Czech](language_name) Language.
+- talk [Czech](language_name) Language.
+- serve me [Czech](language_name) language
+- I want to choose [Czech](language_name)
+- I want [Czech](language_name)
+- go [Czech](language_name) lang
+- I want to choose [Czech](language_name) language
+- let's talk in [Czech](language_name) Language.
+- [Czech](language_name) language
+- let's talk in [Czech](language_name) country
+- speak [Czech](language_name)
+- lets try [Czech](language_name) country
+- pls talk in [Czech](language_name) language
+- I speak [Czech](language_name) lang
 
 
 ## intent:extract_country
-- [Monaco](country_name)
-- language [Monaco](country_name) country
-- [Monaco](country_name) is the country
-- my origin is [Monaco](country_name) is the country
-- I came in [Monaco](country_name)
-- Me lives in [Monaco](country_name) is the country
-- lives in [Monaco](country_name) citizenry
-- citizens [Monaco](country_name) citizenry
-- lives in [Monaco](country_name) country
-- from [Monaco](country_name)
-- lives in [Monaco](country_name)
-- language [Monaco](country_name)
-- I'm from [Monaco](country_name) citizenry
-- citizens [Monaco](country_name) country
-- language of [Monaco](country_name) country
-- I'm from [Monaco](country_name) country
-- I came in [Monaco](country_name) country
-- I'm in [Monaco](country_name) is the country
-- [Monaco](country_name) country
-- from [Monaco](country_name) citizenry
-- Me lives in [Monaco](country_name)
-- from [Monaco](country_name) is the country
-- [Niger](country_name)
-- lives in [Niger](country_name) is the country
-- I came in [Niger](country_name) citizenry
-- I'm from [Niger](country_name) citizenry
-- lives in [Niger](country_name)
-- I'm from [Niger](country_name) is the country
-- from [Niger](country_name) country
-- language of [Niger](country_name) country
-- language [Niger](country_name) is the country
-- my origin is [Niger](country_name)
-- from [Niger](country_name)
-- language [Niger](country_name)
-- [Niger](country_name) is the country
-- I'm in [Niger](country_name) country
-- I came in [Niger](country_name) country
-- my origin is [Niger](country_name) citizenry
-- language of [Niger](country_name)
-- lives in [Niger](country_name) country
-- Me lives in [Niger](country_name) citizenry
-- I'm from [Niger](country_name) country
-- citizen of [Niger](country_name) is the country
-- language of [Niger](country_name) citizenry
-- [Kyrgyzstan](country_name)
-- I'm from [Kyrgyzstan](country_name) is the country
-- I came in [Kyrgyzstan](country_name) country
-- [Kyrgyzstan](country_name) citizenry
-- [Kyrgyzstan](country_name)
-- lives in [Kyrgyzstan](country_name) country
-- my origin is [Kyrgyzstan](country_name) country
-- Me lives in [Kyrgyzstan](country_name) country
-- I came in [Kyrgyzstan](country_name)
-- language [Kyrgyzstan](country_name) citizenry
-- citizen of [Kyrgyzstan](country_name) country
-- language of [Kyrgyzstan](country_name)
-- from [Kyrgyzstan](country_name) is the country
-- Me lives in [Kyrgyzstan](country_name)
-- I came in [Kyrgyzstan](country_name) is the country
-- I'm in [Kyrgyzstan](country_name)
-- citizens [Kyrgyzstan](country_name) citizenry
-- citizen of [Kyrgyzstan](country_name) citizenry
-- [Kyrgyzstan](country_name) country
-- I'm from [Kyrgyzstan](country_name) citizenry
-- from [Kyrgyzstan](country_name)
-- citizen of [Kyrgyzstan](country_name) is the country
-- [Iraq](country_name)
-- I'm from [Iraq](country_name) country
-- I'm from [Iraq](country_name) citizenry
-- lives in [Iraq](country_name) citizenry
-- my origin is [Iraq](country_name) citizenry
-- I came in [Iraq](country_name) country
-- [Iraq](country_name)
-- lives in [Iraq](country_name)
-- Me lives in [Iraq](country_name) is the country
-- [Iraq](country_name) is the country
-- citizens [Iraq](country_name)
-- I came in [Iraq](country_name)
-- lives in [Iraq](country_name) is the country
-- citizens [Iraq](country_name) is the country
-- from [Iraq](country_name) is the country
-- from [Iraq](country_name) citizenry
-- my origin is [Iraq](country_name) country
-- I'm from [Iraq](country_name)
-- my origin is [Iraq](country_name)
-- language [Iraq](country_name) citizenry
-- [Iraq](country_name) country
-- language [Iraq](country_name)
-- [South Ossetia](country_name)
-- language of [South Ossetia](country_name)
-- lives in [South Ossetia](country_name) is the country
-- from [South Ossetia](country_name)
-- I came in [South Ossetia](country_name) citizenry
-- citizens [South Ossetia](country_name) country
-- I came in [South Ossetia](country_name) is the country
-- language of [South Ossetia](country_name) citizenry
-- language [South Ossetia](country_name) citizenry
-- lives in [South Ossetia](country_name)
-- I'm in [South Ossetia](country_name) citizenry
-- language [South Ossetia](country_name)
-- Me lives in [South Ossetia](country_name) is the country
-- my origin is [South Ossetia](country_name) citizenry
-- language [South Ossetia](country_name) country
-- from [South Ossetia](country_name) country
-- [South Ossetia](country_name) citizenry
-- lives in [South Ossetia](country_name) citizenry
-- I'm in [South Ossetia](country_name) is the country
-- citizen of [South Ossetia](country_name) citizenry
-- language of [South Ossetia](country_name) country
-- from [South Ossetia](country_name) citizenry
-- [United States](country_name)
-- language of [United States](country_name)
-- I'm in [United States](country_name) citizenry
-- my origin is [United States](country_name) country
-- [United States](country_name) country
-- I'm in [United States](country_name) is the country
-- language of [United States](country_name) is the country
-- language [United States](country_name) citizenry
-- citizens [United States](country_name)
-- lives in [United States](country_name) country
-- from [United States](country_name) is the country
-- [United States](country_name)
-- Me lives in [United States](country_name) country
-- citizen of [United States](country_name)
-- I came in [United States](country_name) country
-- I came in [United States](country_name) citizenry
-- from [United States](country_name)
-- language [United States](country_name)
-- I'm from [United States](country_name) is the country
-- my origin is [United States](country_name) citizenry
-- I'm from [United States](country_name) citizenry
-- citizens [United States](country_name) country
-- [Finland](country_name)
-- [Finland](country_name) is the country
-- my origin is [Finland](country_name) is the country
-- Me lives in [Finland](country_name) is the country
-- I'm in [Finland](country_name) is the country
-- I'm from [Finland](country_name) country
-- language of [Finland](country_name) country
-- I came in [Finland](country_name) country
-- my origin is [Finland](country_name) country
-- language [Finland](country_name) country
-- from [Finland](country_name)
-- from [Finland](country_name) is the country
-- from [Finland](country_name) country
-- I came in [Finland](country_name)
-- [Finland](country_name)
-- citizens [Finland](country_name)
-- I'm from [Finland](country_name)
-- citizen of [Finland](country_name) country
-- Me lives in [Finland](country_name) citizenry
-- citizen of [Finland](country_name)
-- I came in [Finland](country_name) citizenry
-- I came in [Finland](country_name) is the country
-- [Albania](country_name)
-- my origin is [Albania](country_name)
-- lives in [Albania](country_name)
-- I'm from [Albania](country_name) citizenry
-- language [Albania](country_name) is the country
-- lives in [Albania](country_name) is the country
-- language of [Albania](country_name) country
-- my origin is [Albania](country_name) country
-- Me lives in [Albania](country_name) is the country
-- language of [Albania](country_name) citizenry
-- language [Albania](country_name)
-- citizen of [Albania](country_name) is the country
-- citizen of [Albania](country_name) citizenry
-- I'm in [Albania](country_name)
-- I'm from [Albania](country_name) is the country
-- from [Albania](country_name) is the country
-- lives in [Albania](country_name) citizenry
-- my origin is [Albania](country_name) is the country
-- citizens [Albania](country_name) country
-- language of [Albania](country_name)
-- Me lives in [Albania](country_name) country
-- from [Albania](country_name)
-- [Pakistan](country_name)
-- from [Pakistan](country_name) citizenry
-- lives in [Pakistan](country_name) is the country
-- my origin is [Pakistan](country_name)
-- from [Pakistan](country_name) is the country
-- my origin is [Pakistan](country_name) is the country
-- Me lives in [Pakistan](country_name) country
-- Me lives in [Pakistan](country_name)
-- language [Pakistan](country_name)
-- I came in [Pakistan](country_name) country
-- citizens [Pakistan](country_name)
-- I'm in [Pakistan](country_name) country
-- I came in [Pakistan](country_name) is the country
-- I'm in [Pakistan](country_name)
-- citizen of [Pakistan](country_name)
-- language of [Pakistan](country_name) country
-- lives in [Pakistan](country_name) country
-- language of [Pakistan](country_name)
-- I came in [Pakistan](country_name) citizenry
-- lives in [Pakistan](country_name) citizenry
-- citizens [Pakistan](country_name) is the country
-- language [Pakistan](country_name) citizenry
-- [Oman](country_name)
-- citizens [Oman](country_name) country
-- language [Oman](country_name)
-- citizen of [Oman](country_name) is the country
-- I came in [Oman](country_name) is the country
-- language [Oman](country_name) citizenry
-- language of [Oman](country_name) citizenry
-- [Oman](country_name) country
-- I came in [Oman](country_name) citizenry
-- Me lives in [Oman](country_name) country
-- language [Oman](country_name) is the country
-- Me lives in [Oman](country_name) citizenry
-- my origin is [Oman](country_name)
-- [Oman](country_name) is the country
-- from [Oman](country_name)
-- from [Oman](country_name) country
-- I came in [Oman](country_name)
-- language of [Oman](country_name)
-- my origin is [Oman](country_name) is the country
-- I'm from [Oman](country_name) citizenry
-- [Oman](country_name) citizenry
-- citizen of [Oman](country_name) country
-- [Sahrawi Arab Democratic Republic](country_name)
-- I'm from [Sahrawi Arab Democratic Republic](country_name) is the country
-- I came in [Sahrawi Arab Democratic Republic](country_name)
-- language [Sahrawi Arab Democratic Republic](country_name) is the country
-- my origin is [Sahrawi Arab Democratic Republic](country_name) is the country
-- language [Sahrawi Arab Democratic Republic](country_name)
-- language [Sahrawi Arab Democratic Republic](country_name) citizenry
-- I'm from [Sahrawi Arab Democratic Republic](country_name) citizenry
-- language of [Sahrawi Arab Democratic Republic](country_name) citizenry
-- Me lives in [Sahrawi Arab Democratic Republic](country_name) is the country
-- citizens [Sahrawi Arab Democratic Republic](country_name) citizenry
-- I'm in [Sahrawi Arab Democratic Republic](country_name) country
-- I'm in [Sahrawi Arab Democratic Republic](country_name) is the country
-- language [Sahrawi Arab Democratic Republic](country_name) country
-- my origin is [Sahrawi Arab Democratic Republic](country_name)
-- [Sahrawi Arab Democratic Republic](country_name) citizenry
-- lives in [Sahrawi Arab Democratic Republic](country_name) country
-- citizen of [Sahrawi Arab Democratic Republic](country_name) country
-- [Sahrawi Arab Democratic Republic](country_name) is the country
-- my origin is [Sahrawi Arab Democratic Republic](country_name) citizenry
-- citizens [Sahrawi Arab Democratic Republic](country_name) is the country
-- I'm in [Sahrawi Arab Democratic Republic](country_name) citizenry
-- [Belarus](country_name)
-- from [Belarus](country_name) is the country
-- Me lives in [Belarus](country_name) is the country
-- lives in [Belarus](country_name) is the country
-- I came in [Belarus](country_name) citizenry
-- lives in [Belarus](country_name)
-- Me lives in [Belarus](country_name)
-- language [Belarus](country_name)
-- I'm from [Belarus](country_name) citizenry
-- citizen of [Belarus](country_name) is the country
-- language of [Belarus](country_name) is the country
-- citizen of [Belarus](country_name)
-- I'm in [Belarus](country_name) is the country
-- citizen of [Belarus](country_name) citizenry
-- my origin is [Belarus](country_name) is the country
-- from [Belarus](country_name) citizenry
-- [Belarus](country_name) citizenry
-- [Belarus](country_name)
-- citizens [Belarus](country_name) is the country
-- language of [Belarus](country_name) country
-- my origin is [Belarus](country_name) country
-- Me lives in [Belarus](country_name) country
-- [Trinidad and Tobago](country_name)
-- I'm in [Trinidad and Tobago](country_name) citizenry
-- from [Trinidad and Tobago](country_name) is the country
-- I'm from [Trinidad and Tobago](country_name) is the country
-- citizen of [Trinidad and Tobago](country_name)
-- from [Trinidad and Tobago](country_name) citizenry
-- Me lives in [Trinidad and Tobago](country_name) country
-- citizens [Trinidad and Tobago](country_name) is the country
-- I'm from [Trinidad and Tobago](country_name) citizenry
-- I'm in [Trinidad and Tobago](country_name) country
-- from [Trinidad and Tobago](country_name)
-- I'm in [Trinidad and Tobago](country_name)
-- I'm from [Trinidad and Tobago](country_name)
-- [Trinidad and Tobago](country_name) citizenry
-- language [Trinidad and Tobago](country_name) citizenry
-- my origin is [Trinidad and Tobago](country_name) citizenry
-- language of [Trinidad and Tobago](country_name)
-- I came in [Trinidad and Tobago](country_name) country
-- my origin is [Trinidad and Tobago](country_name) country
-- citizens [Trinidad and Tobago](country_name) citizenry
-- [Trinidad and Tobago](country_name) country
-- lives in [Trinidad and Tobago](country_name) country
-- [Democratic Republic of the Congo](country_name)
-- language [Democratic Republic of the Congo](country_name) country
-- I'm in [Democratic Republic of the Congo](country_name)
-- citizen of [Democratic Republic of the Congo](country_name) country
-- I'm in [Democratic Republic of the Congo](country_name) country
-- [Democratic Republic of the Congo](country_name)
-- citizens [Democratic Republic of the Congo](country_name) is the country
-- I'm in [Democratic Republic of the Congo](country_name) is the country
-- [Democratic Republic of the Congo](country_name) citizenry
-- I came in [Democratic Republic of the Congo](country_name) country
-- [Democratic Republic of the Congo](country_name) country
-- language of [Democratic Republic of the Congo](country_name)
-- language of [Democratic Republic of the Congo](country_name) citizenry
-- citizen of [Democratic Republic of the Congo](country_name) citizenry
-- citizen of [Democratic Republic of the Congo](country_name)
-- lives in [Democratic Republic of the Congo](country_name) is the country
-- language [Democratic Republic of the Congo](country_name)
-- my origin is [Democratic Republic of the Congo](country_name) citizenry
-- Me lives in [Democratic Republic of the Congo](country_name) country
-- my origin is [Democratic Republic of the Congo](country_name)
-- language of [Democratic Republic of the Congo](country_name) country
-- Me lives in [Democratic Republic of the Congo](country_name) is the country
-- [Botswana](country_name)
-- I came in [Botswana](country_name)
-- lives in [Botswana](country_name) country
-- I'm from [Botswana](country_name)
-- from [Botswana](country_name) citizenry
-- language [Botswana](country_name) country
-- language [Botswana](country_name) is the country
-- lives in [Botswana](country_name) is the country
-- Me lives in [Botswana](country_name) citizenry
-- citizens [Botswana](country_name) country
-- language [Botswana](country_name) citizenry
-- citizens [Botswana](country_name) citizenry
-- lives in [Botswana](country_name) citizenry
-- lives in [Botswana](country_name)
-- I came in [Botswana](country_name) country
-- Me lives in [Botswana](country_name)
-- I'm from [Botswana](country_name) citizenry
-- Me lives in [Botswana](country_name) country
-- I'm in [Botswana](country_name) citizenry
-- language [Botswana](country_name)
-- citizens [Botswana](country_name) is the country
-- my origin is [Botswana](country_name) citizenry
-- [North Macedonia](country_name)
-- from [North Macedonia](country_name) is the country
-- citizen of [North Macedonia](country_name) country
-- lives in [North Macedonia](country_name) citizenry
-- I'm from [North Macedonia](country_name) is the country
-- lives in [North Macedonia](country_name) is the country
-- language [North Macedonia](country_name) citizenry
-- I'm in [North Macedonia](country_name) country
-- lives in [North Macedonia](country_name)
-- citizens [North Macedonia](country_name)
-- I'm in [North Macedonia](country_name)
-- [North Macedonia](country_name) is the country
-- from [North Macedonia](country_name) citizenry
-- I came in [North Macedonia](country_name) citizenry
-- Me lives in [North Macedonia](country_name) citizenry
-- I'm from [North Macedonia](country_name) citizenry
-- from [North Macedonia](country_name) country
-- my origin is [North Macedonia](country_name) citizenry
-- Me lives in [North Macedonia](country_name)
-- citizen of [North Macedonia](country_name) is the country
-- I'm in [North Macedonia](country_name) is the country
-- my origin is [North Macedonia](country_name) is the country
-- [Azerbaijan](country_name)
-- citizens [Azerbaijan](country_name) citizenry
-- language [Azerbaijan](country_name) country
-- I came in [Azerbaijan](country_name)
-- I'm from [Azerbaijan](country_name) is the country
-- lives in [Azerbaijan](country_name) citizenry
-- from [Azerbaijan](country_name) country
-- citizens [Azerbaijan](country_name) is the country
-- [Azerbaijan](country_name) country
-- I came in [Azerbaijan](country_name) country
-- citizen of [Azerbaijan](country_name)
-- I'm from [Azerbaijan](country_name) citizenry
-- [Azerbaijan](country_name) citizenry
-- citizen of [Azerbaijan](country_name) citizenry
-- lives in [Azerbaijan](country_name) is the country
-- [Azerbaijan](country_name)
-- citizen of [Azerbaijan](country_name) country
-- I'm from [Azerbaijan](country_name)
-- from [Azerbaijan](country_name) citizenry
-- my origin is [Azerbaijan](country_name) citizenry
-- I'm in [Azerbaijan](country_name)
-- language of [Azerbaijan](country_name) is the country
-- [Lithuania](country_name)
-- my origin is [Lithuania](country_name)
-- language of [Lithuania](country_name)
-- I came in [Lithuania](country_name)
-- citizens [Lithuania](country_name) citizenry
-- I came in [Lithuania](country_name) is the country
-- citizen of [Lithuania](country_name) country
-- language [Lithuania](country_name) is the country
-- I came in [Lithuania](country_name) citizenry
-- citizen of [Lithuania](country_name) is the country
-- language [Lithuania](country_name) country
-- I'm in [Lithuania](country_name) is the country
-- citizens [Lithuania](country_name) country
-- I'm in [Lithuania](country_name) citizenry
-- from [Lithuania](country_name) is the country
-- citizen of [Lithuania](country_name)
-- my origin is [Lithuania](country_name) is the country
-- from [Lithuania](country_name) citizenry
-- Me lives in [Lithuania](country_name)
-- language [Lithuania](country_name) citizenry
-- lives in [Lithuania](country_name) country
-- I'm from [Lithuania](country_name) citizenry
-- [Eswatini](country_name)
-- I'm from [Eswatini](country_name) citizenry
-- from [Eswatini](country_name) citizenry
-- lives in [Eswatini](country_name)
-- I'm from [Eswatini](country_name) is the country
-- Me lives in [Eswatini](country_name)
-- my origin is [Eswatini](country_name)
-- citizens [Eswatini](country_name)
-- I came in [Eswatini](country_name) country
-- Me lives in [Eswatini](country_name) country
-- language [Eswatini](country_name) is the country
-- I came in [Eswatini](country_name) is the country
-- citizens [Eswatini](country_name) country
-- [Eswatini](country_name) country
-- I'm in [Eswatini](country_name)
-- I came in [Eswatini](country_name) citizenry
-- language [Eswatini](country_name) country
-- citizen of [Eswatini](country_name) citizenry
-- citizen of [Eswatini](country_name) country
-- I came in [Eswatini](country_name)
-- my origin is [Eswatini](country_name) is the country
-- [Eswatini](country_name) is the country
-- [Namibia](country_name)
-- [Namibia](country_name)
-- language of [Namibia](country_name) is the country
-- language [Namibia](country_name) country
-- my origin is [Namibia](country_name) is the country
-- citizen of [Namibia](country_name) country
-- I'm from [Namibia](country_name)
-- language of [Namibia](country_name) citizenry
-- citizens [Namibia](country_name) country
-- I'm from [Namibia](country_name) country
-- language of [Namibia](country_name) country
-- I came in [Namibia](country_name) is the country
-- citizen of [Namibia](country_name)
-- language of [Namibia](country_name)
-- lives in [Namibia](country_name) is the country
-- citizens [Namibia](country_name) citizenry
-- my origin is [Namibia](country_name)
-- my origin is [Namibia](country_name) country
-- lives in [Namibia](country_name) country
-- my origin is [Namibia](country_name) citizenry
-- citizens [Namibia](country_name) is the country
-- language [Namibia](country_name)
-- [Cameroon](country_name)
-- I came in [Cameroon](country_name) citizenry
-- [Cameroon](country_name) citizenry
-- citizens [Cameroon](country_name) is the country
-- [Cameroon](country_name) country
-- Me lives in [Cameroon](country_name) is the country
-- Me lives in [Cameroon](country_name) country
-- from [Cameroon](country_name) citizenry
-- language of [Cameroon](country_name) country
-- [Cameroon](country_name)
-- Me lives in [Cameroon](country_name)
-- citizen of [Cameroon](country_name) citizenry
-- from [Cameroon](country_name)
-- Me lives in [Cameroon](country_name) citizenry
-- citizen of [Cameroon](country_name)
-- language of [Cameroon](country_name)
-- I came in [Cameroon](country_name) is the country
-- language [Cameroon](country_name) is the country
-- my origin is [Cameroon](country_name) citizenry
-- from [Cameroon](country_name) is the country
-- from [Cameroon](country_name) country
-- lives in [Cameroon](country_name) citizenry
-- [São Tomé and Príncipe](country_name)
-- [São Tomé and Príncipe](country_name)
-- I'm in [São Tomé and Príncipe](country_name) citizenry
-- language of [São Tomé and Príncipe](country_name) country
-- I came in [São Tomé and Príncipe](country_name)
-- language of [São Tomé and Príncipe](country_name) citizenry
-- my origin is [São Tomé and Príncipe](country_name) country
-- Me lives in [São Tomé and Príncipe](country_name) country
-- I'm from [São Tomé and Príncipe](country_name) country
-- citizen of [São Tomé and Príncipe](country_name)
-- [São Tomé and Príncipe](country_name) citizenry
-- Me lives in [São Tomé and Príncipe](country_name) is the country
-- lives in [São Tomé and Príncipe](country_name) citizenry
-- I came in [São Tomé and Príncipe](country_name) is the country
-- lives in [São Tomé and Príncipe](country_name)
-- my origin is [São Tomé and Príncipe](country_name) is the country
-- language [São Tomé and Príncipe](country_name) is the country
-- my origin is [São Tomé and Príncipe](country_name) citizenry
-- lives in [São Tomé and Príncipe](country_name) is the country
-- citizen of [São Tomé and Príncipe](country_name) citizenry
-- I'm in [São Tomé and Príncipe](country_name)
-- from [São Tomé and Príncipe](country_name)
-- [Lebanon](country_name)
-- lives in [Lebanon](country_name)
-- language of [Lebanon](country_name) is the country
-- I'm from [Lebanon](country_name) is the country
-- language of [Lebanon](country_name)
-- I'm from [Lebanon](country_name)
-- from [Lebanon](country_name) citizenry
-- from [Lebanon](country_name) is the country
-- Me lives in [Lebanon](country_name)
-- citizens [Lebanon](country_name) is the country
-- I'm from [Lebanon](country_name) country
-- language [Lebanon](country_name)
-- language [Lebanon](country_name) is the country
-- citizens [Lebanon](country_name) country
-- Me lives in [Lebanon](country_name) is the country
-- my origin is [Lebanon](country_name) country
-- my origin is [Lebanon](country_name)
-- lives in [Lebanon](country_name) citizenry
-- Me lives in [Lebanon](country_name) country
-- language of [Lebanon](country_name) citizenry
-- lives in [Lebanon](country_name) is the country
-- [Lebanon](country_name)
+- [Rwanda](country_name)
+- language [Rwanda](country_name) country
+- I came in [Rwanda](country_name) is the country
+- language of [Rwanda](country_name)
+- language of [Rwanda](country_name) citizenry
+- language of [Rwanda](country_name) is the country
+- I'm in [Rwanda](country_name) country
+- I'm from [Rwanda](country_name)
+- from [Rwanda](country_name) is the country
+- Me lives in [Rwanda](country_name) is the country
+- lives in [Rwanda](country_name) is the country
+- citizen of [Rwanda](country_name) citizenry
+- language [Rwanda](country_name)
+- I'm from [Rwanda](country_name) country
+- my origin is [Rwanda](country_name) is the country
+- lives in [Rwanda](country_name) citizenry
+- I'm from [Rwanda](country_name) citizenry
+- [Rwanda](country_name) citizenry
+- I'm in [Rwanda](country_name) is the country
+- my origin is [Rwanda](country_name) citizenry
+- citizen of [Rwanda](country_name) country
+- from [Rwanda](country_name)
+- [Papua New Guinea](country_name)
+- Me lives in [Papua New Guinea](country_name) country
+- my origin is [Papua New Guinea](country_name) is the country
+- citizen of [Papua New Guinea](country_name)
+- my origin is [Papua New Guinea](country_name) citizenry
+- my origin is [Papua New Guinea](country_name) country
+- lives in [Papua New Guinea](country_name) is the country
+- I'm in [Papua New Guinea](country_name) is the country
+- citizen of [Papua New Guinea](country_name) is the country
+- language [Papua New Guinea](country_name)
+- language of [Papua New Guinea](country_name) is the country
+- I came in [Papua New Guinea](country_name)
+- from [Papua New Guinea](country_name) citizenry
+- citizens [Papua New Guinea](country_name) is the country
+- I'm from [Papua New Guinea](country_name) country
+- language of [Papua New Guinea](country_name) citizenry
+- citizen of [Papua New Guinea](country_name) citizenry
+- Me lives in [Papua New Guinea](country_name)
+- [Papua New Guinea](country_name) is the country
+- I came in [Papua New Guinea](country_name) citizenry
+- I came in [Papua New Guinea](country_name) is the country
+- language [Papua New Guinea](country_name) citizenry
+- [Turkey](country_name)
+- citizens [Turkey](country_name) citizenry
+- language of [Turkey](country_name) is the country
+- [Turkey](country_name) citizenry
+- citizen of [Turkey](country_name) country
+- I'm in [Turkey](country_name) is the country
+- citizen of [Turkey](country_name) is the country
+- I came in [Turkey](country_name)
+- language [Turkey](country_name)
+- citizens [Turkey](country_name)
+- I'm in [Turkey](country_name)
+- Me lives in [Turkey](country_name) citizenry
+- I'm in [Turkey](country_name) country
+- I came in [Turkey](country_name) citizenry
+- language of [Turkey](country_name)
+- Me lives in [Turkey](country_name) is the country
+- [Turkey](country_name) country
+- I came in [Turkey](country_name) is the country
+- language [Turkey](country_name) is the country
+- I came in [Turkey](country_name) country
+- citizen of [Turkey](country_name) citizenry
+- I'm in [Turkey](country_name) citizenry
+- [Lesotho](country_name)
+- I came in [Lesotho](country_name) citizenry
+- citizen of [Lesotho](country_name) country
+- from [Lesotho](country_name)
+- Me lives in [Lesotho](country_name) country
+- I'm in [Lesotho](country_name) country
+- I'm in [Lesotho](country_name) is the country
+- citizens [Lesotho](country_name)
+- citizens [Lesotho](country_name) is the country
+- citizens [Lesotho](country_name) citizenry
+- citizen of [Lesotho](country_name) citizenry
+- language of [Lesotho](country_name) is the country
+- lives in [Lesotho](country_name)
+- citizen of [Lesotho](country_name) is the country
+- my origin is [Lesotho](country_name)
+- [Lesotho](country_name) is the country
+- [Lesotho](country_name) citizenry
+- citizens [Lesotho](country_name) country
+- [Lesotho](country_name)
+- lives in [Lesotho](country_name) country
+- my origin is [Lesotho](country_name) country
+- citizen of [Lesotho](country_name)
+- [Chad](country_name)
+- lives in [Chad](country_name) is the country
+- I'm in [Chad](country_name)
+- lives in [Chad](country_name) country
+- citizens [Chad](country_name) country
+- lives in [Chad](country_name) citizenry
+- citizen of [Chad](country_name)
+- I came in [Chad](country_name) is the country
+- citizen of [Chad](country_name) country
+- from [Chad](country_name) is the country
+- I came in [Chad](country_name) country
+- Me lives in [Chad](country_name) is the country
+- Me lives in [Chad](country_name)
+- I came in [Chad](country_name)
+- language [Chad](country_name)
+- lives in [Chad](country_name)
+- I came in [Chad](country_name) citizenry
+- citizen of [Chad](country_name) is the country
+- from [Chad](country_name) citizenry
+- language [Chad](country_name) citizenry
+- citizens [Chad](country_name)
+- I'm in [Chad](country_name) country
+- [Senegal](country_name)
+- from [Senegal](country_name) is the country
+- [Senegal](country_name) is the country
+- citizen of [Senegal](country_name) country
+- I came in [Senegal](country_name)
+- citizens [Senegal](country_name) is the country
+- my origin is [Senegal](country_name) citizenry
+- I'm from [Senegal](country_name) citizenry
+- from [Senegal](country_name)
+- citizens [Senegal](country_name) country
+- from [Senegal](country_name) citizenry
+- citizens [Senegal](country_name)
+- lives in [Senegal](country_name) is the country
+- language [Senegal](country_name) is the country
+- citizens [Senegal](country_name) citizenry
+- from [Senegal](country_name) country
+- language of [Senegal](country_name) citizenry
+- I'm in [Senegal](country_name) is the country
+- Me lives in [Senegal](country_name)
+- I'm from [Senegal](country_name) country
+- I'm in [Senegal](country_name)
+- my origin is [Senegal](country_name) country
+- [Palau](country_name)
+- language [Palau](country_name) is the country
+- language of [Palau](country_name) citizenry
+- Me lives in [Palau](country_name) citizenry
+- language [Palau](country_name) citizenry
+- I'm from [Palau](country_name) citizenry
+- I'm in [Palau](country_name) country
+- lives in [Palau](country_name)
+- lives in [Palau](country_name) citizenry
+- citizens [Palau](country_name) country
+- language of [Palau](country_name) country
+- language of [Palau](country_name)
+- lives in [Palau](country_name) is the country
+- I'm from [Palau](country_name)
+- citizens [Palau](country_name) citizenry
+- from [Palau](country_name)
+- I'm in [Palau](country_name)
+- my origin is [Palau](country_name)
+- [Palau](country_name) is the country
+- language [Palau](country_name)
+- my origin is [Palau](country_name) country
+- citizen of [Palau](country_name) country
+- [Israel](country_name)
+- citizen of [Israel](country_name) is the country
+- I'm from [Israel](country_name) is the country
+- I came in [Israel](country_name) citizenry
+- language of [Israel](country_name)
+- my origin is [Israel](country_name)
+- language [Israel](country_name) is the country
+- lives in [Israel](country_name) citizenry
+- I'm from [Israel](country_name) citizenry
+- Me lives in [Israel](country_name) citizenry
+- citizen of [Israel](country_name) country
+- I came in [Israel](country_name)
+- Me lives in [Israel](country_name) is the country
+- language of [Israel](country_name) citizenry
+- citizens [Israel](country_name)
+- from [Israel](country_name) citizenry
+- I came in [Israel](country_name) country
+- I'm in [Israel](country_name) citizenry
+- [Israel](country_name) citizenry
+- lives in [Israel](country_name)
+- lives in [Israel](country_name) is the country
+- language of [Israel](country_name) country
+- [Tanzania](country_name)
+- lives in [Tanzania](country_name) is the country
+- citizens [Tanzania](country_name)
+- I'm in [Tanzania](country_name)
+- from [Tanzania](country_name) country
+- Me lives in [Tanzania](country_name) country
+- I came in [Tanzania](country_name) is the country
+- my origin is [Tanzania](country_name)
+- I'm in [Tanzania](country_name) is the country
+- language [Tanzania](country_name)
+- Me lives in [Tanzania](country_name) citizenry
+- I'm in [Tanzania](country_name) country
+- language [Tanzania](country_name) citizenry
+- citizen of [Tanzania](country_name) citizenry
+- lives in [Tanzania](country_name)
+- I came in [Tanzania](country_name)
+- language of [Tanzania](country_name) country
+- I came in [Tanzania](country_name) citizenry
+- citizens [Tanzania](country_name) is the country
+- Me lives in [Tanzania](country_name) is the country
+- language of [Tanzania](country_name)
+- citizens [Tanzania](country_name) citizenry
 - [Guinea](country_name)
-- from [Guinea](country_name) citizenry
-- [Guinea](country_name) country
-- citizens [Guinea](country_name) citizenry
-- language of [Guinea](country_name) country
-- Me lives in [Guinea](country_name)
-- I'm in [Guinea](country_name) is the country
-- lives in [Guinea](country_name)
-- citizen of [Guinea](country_name) is the country
-- from [Guinea](country_name)
+- I came in [Guinea](country_name) is the country
 - my origin is [Guinea](country_name) citizenry
-- language of [Guinea](country_name) citizenry
-- I came in [Guinea](country_name) country
-- language [Guinea](country_name) is the country
+- I'm from [Guinea](country_name) is the country
+- from [Guinea](country_name) citizenry
+- Me lives in [Guinea](country_name) citizenry
+- citizen of [Guinea](country_name) is the country
 - language of [Guinea](country_name) is the country
 - I came in [Guinea](country_name) citizenry
-- lives in [Guinea](country_name) is the country
-- I'm in [Guinea](country_name)
-- I came in [Guinea](country_name)
-- my origin is [Guinea](country_name)
-- I'm from [Guinea](country_name) is the country
+- citizen of [Guinea](country_name) citizenry
+- lives in [Guinea](country_name) citizenry
+- language [Guinea](country_name)
 - citizens [Guinea](country_name) is the country
-- [Netherlands](country_name)
-- citizen of [Netherlands](country_name) country
-- language [Netherlands](country_name) citizenry
-- I came in [Netherlands](country_name)
-- language of [Netherlands](country_name)
-- Me lives in [Netherlands](country_name) country
-- from [Netherlands](country_name) citizenry
-- my origin is [Netherlands](country_name)
-- citizens [Netherlands](country_name) is the country
-- citizens [Netherlands](country_name)
-- language of [Netherlands](country_name) citizenry
-- I'm from [Netherlands](country_name)
-- Me lives in [Netherlands](country_name) citizenry
-- [Netherlands](country_name) citizenry
-- my origin is [Netherlands](country_name) country
-- citizens [Netherlands](country_name) country
-- Me lives in [Netherlands](country_name) is the country
-- citizen of [Netherlands](country_name) citizenry
-- [Netherlands](country_name) country
-- lives in [Netherlands](country_name) is the country
-- lives in [Netherlands](country_name) citizenry
-- from [Netherlands](country_name) country
-- [Croatia](country_name)
-- I'm from [Croatia](country_name)
-- I came in [Croatia](country_name) country
-- I'm from [Croatia](country_name) country
-- from [Croatia](country_name)
-- my origin is [Croatia](country_name)
-- language [Croatia](country_name) country
-- I'm from [Croatia](country_name) citizenry
-- language [Croatia](country_name) is the country
-- from [Croatia](country_name) country
-- citizen of [Croatia](country_name)
-- citizens [Croatia](country_name) is the country
-- [Croatia](country_name) country
-- I came in [Croatia](country_name) citizenry
-- Me lives in [Croatia](country_name) citizenry
-- [Croatia](country_name) citizenry
-- I came in [Croatia](country_name) is the country
-- lives in [Croatia](country_name) is the country
-- I'm in [Croatia](country_name) country
-- I'm from [Croatia](country_name) is the country
-- citizen of [Croatia](country_name) citizenry
-- lives in [Croatia](country_name) country
-- [North Korea](country_name)
-- language [North Korea](country_name) citizenry
-- I came in [North Korea](country_name) country
-- I came in [North Korea](country_name)
-- Me lives in [North Korea](country_name) country
-- language [North Korea](country_name) country
-- from [North Korea](country_name)
-- lives in [North Korea](country_name) country
-- lives in [North Korea](country_name) citizenry
-- language of [North Korea](country_name) country
-- language of [North Korea](country_name) citizenry
-- my origin is [North Korea](country_name) is the country
-- citizen of [North Korea](country_name) is the country
-- Me lives in [North Korea](country_name) citizenry
-- from [North Korea](country_name) is the country
-- language [North Korea](country_name)
-- citizens [North Korea](country_name) citizenry
-- I'm in [North Korea](country_name) country
-- citizens [North Korea](country_name)
-- lives in [North Korea](country_name) is the country
-- [North Korea](country_name) is the country
-- Me lives in [North Korea](country_name)
-- [Slovakia](country_name)
-- from [Slovakia](country_name) is the country
-- from [Slovakia](country_name)
-- citizen of [Slovakia](country_name) country
-- I came in [Slovakia](country_name) citizenry
-- from [Slovakia](country_name) country
-- I came in [Slovakia](country_name)
-- language [Slovakia](country_name)
-- Me lives in [Slovakia](country_name) is the country
-- citizens [Slovakia](country_name)
-- citizen of [Slovakia](country_name)
-- Me lives in [Slovakia](country_name) citizenry
-- lives in [Slovakia](country_name)
-- my origin is [Slovakia](country_name)
-- [Slovakia](country_name) citizenry
-- I'm in [Slovakia](country_name) is the country
-- I came in [Slovakia](country_name) is the country
-- language [Slovakia](country_name) country
-- I'm from [Slovakia](country_name)
-- language [Slovakia](country_name) citizenry
-- citizen of [Slovakia](country_name) citizenry
-- language of [Slovakia](country_name) citizenry
-- [Malaysia](country_name)
-- citizen of [Malaysia](country_name)
-- I came in [Malaysia](country_name) country
-- I'm from [Malaysia](country_name) citizenry
-- I came in [Malaysia](country_name) is the country
-- I'm from [Malaysia](country_name) country
-- citizens [Malaysia](country_name) country
-- I'm in [Malaysia](country_name)
-- I'm from [Malaysia](country_name)
-- Me lives in [Malaysia](country_name) citizenry
-- I came in [Malaysia](country_name)
-- [Malaysia](country_name)
-- language of [Malaysia](country_name) is the country
-- from [Malaysia](country_name) is the country
-- I'm from [Malaysia](country_name) is the country
-- [Malaysia](country_name) citizenry
-- Me lives in [Malaysia](country_name) is the country
-- lives in [Malaysia](country_name) is the country
-- I'm in [Malaysia](country_name) is the country
-- Me lives in [Malaysia](country_name) country
-- my origin is [Malaysia](country_name)
-- from [Malaysia](country_name) citizenry
-- [Gambia](country_name)
-- my origin is [Gambia](country_name)
-- I'm in [Gambia](country_name) country
-- [Gambia](country_name) is the country
-- I'm from [Gambia](country_name)
-- citizen of [Gambia](country_name) country
-- from [Gambia](country_name) is the country
-- I'm in [Gambia](country_name) citizenry
-- I'm from [Gambia](country_name) country
-- language of [Gambia](country_name) is the country
-- I'm from [Gambia](country_name) citizenry
-- Me lives in [Gambia](country_name)
-- I'm in [Gambia](country_name) is the country
-- language of [Gambia](country_name)
-- language [Gambia](country_name) is the country
-- my origin is [Gambia](country_name) citizenry
-- citizen of [Gambia](country_name)
-- I came in [Gambia](country_name) country
-- citizen of [Gambia](country_name) citizenry
-- language [Gambia](country_name)
-- I came in [Gambia](country_name) is the country
-- my origin is [Gambia](country_name) is the country
-- [Sierra Leone](country_name)
-- language [Sierra Leone](country_name)
-- citizen of [Sierra Leone](country_name)
-- I came in [Sierra Leone](country_name) country
-- from [Sierra Leone](country_name) is the country
-- I'm from [Sierra Leone](country_name)
-- from [Sierra Leone](country_name) country
-- language [Sierra Leone](country_name) country
-- lives in [Sierra Leone](country_name)
-- [Sierra Leone](country_name)
-- my origin is [Sierra Leone](country_name) citizenry
-- I'm in [Sierra Leone](country_name) citizenry
-- my origin is [Sierra Leone](country_name)
-- Me lives in [Sierra Leone](country_name)
-- Me lives in [Sierra Leone](country_name) is the country
-- I came in [Sierra Leone](country_name) citizenry
-- [Sierra Leone](country_name) citizenry
-- lives in [Sierra Leone](country_name) is the country
-- from [Sierra Leone](country_name)
-- my origin is [Sierra Leone](country_name) is the country
-- I came in [Sierra Leone](country_name)
-- I came in [Sierra Leone](country_name) is the country
-- [Kenya](country_name)
-- [Kenya](country_name)
-- language of [Kenya](country_name) citizenry
-- language of [Kenya](country_name) is the country
-- lives in [Kenya](country_name)
-- I'm from [Kenya](country_name) country
-- language [Kenya](country_name) citizenry
-- I'm in [Kenya](country_name) is the country
-- language of [Kenya](country_name)
-- language of [Kenya](country_name) country
-- from [Kenya](country_name) citizenry
-- I'm in [Kenya](country_name) country
-- from [Kenya](country_name) country
-- [Kenya](country_name) country
-- language [Kenya](country_name)
-- from [Kenya](country_name)
-- my origin is [Kenya](country_name) is the country
-- I came in [Kenya](country_name) country
-- I'm from [Kenya](country_name)
-- my origin is [Kenya](country_name) country
-- I came in [Kenya](country_name) is the country
-- language [Kenya](country_name) country
-- [Chad](country_name)
-- lives in [Chad](country_name) citizenry
-- I'm in [Chad](country_name)
-- language of [Chad](country_name) country
-- language [Chad](country_name) country
-- language [Chad](country_name) citizenry
-- from [Chad](country_name) citizenry
-- [Chad](country_name) citizenry
-- lives in [Chad](country_name) is the country
-- I'm from [Chad](country_name) is the country
-- I came in [Chad](country_name) is the country
-- from [Chad](country_name) is the country
-- I'm in [Chad](country_name) citizenry
-- language of [Chad](country_name) citizenry
-- citizens [Chad](country_name) citizenry
-- I'm from [Chad](country_name) citizenry
-- my origin is [Chad](country_name)
-- I'm in [Chad](country_name) country
-- citizen of [Chad](country_name) country
-- my origin is [Chad](country_name) country
-- language [Chad](country_name) is the country
-- Me lives in [Chad](country_name) citizenry
-- [Sweden](country_name)
-- citizen of [Sweden](country_name) is the country
-- citizen of [Sweden](country_name)
-- my origin is [Sweden](country_name)
-- language [Sweden](country_name)
-- lives in [Sweden](country_name)
-- I came in [Sweden](country_name)
-- I'm from [Sweden](country_name)
-- language [Sweden](country_name) is the country
-- [Sweden](country_name) citizenry
-- citizens [Sweden](country_name) is the country
-- I came in [Sweden](country_name) country
-- I'm from [Sweden](country_name) country
-- I came in [Sweden](country_name) is the country
-- [Sweden](country_name) country
-- Me lives in [Sweden](country_name) citizenry
-- citizens [Sweden](country_name) citizenry
-- Me lives in [Sweden](country_name)
-- lives in [Sweden](country_name) citizenry
-- citizen of [Sweden](country_name) country
-- language of [Sweden](country_name) country
-- language of [Sweden](country_name) citizenry
-- [Austria](country_name)
-- Me lives in [Austria](country_name) is the country
-- citizens [Austria](country_name) is the country
-- from [Austria](country_name) citizenry
-- citizens [Austria](country_name)
-- my origin is [Austria](country_name)
-- citizen of [Austria](country_name)
-- I'm from [Austria](country_name) citizenry
-- from [Austria](country_name) is the country
-- my origin is [Austria](country_name) citizenry
-- lives in [Austria](country_name) citizenry
-- lives in [Austria](country_name) country
-- lives in [Austria](country_name)
-- language [Austria](country_name)
-- I'm from [Austria](country_name) country
-- lives in [Austria](country_name) is the country
-- [Austria](country_name)
-- citizens [Austria](country_name) citizenry
-- I'm from [Austria](country_name)
-- I'm in [Austria](country_name) is the country
-- language [Austria](country_name) citizenry
-- citizen of [Austria](country_name) is the country
-- [Panama](country_name)
-- [Panama](country_name)
-- I'm in [Panama](country_name) is the country
-- I came in [Panama](country_name) country
-- I'm from [Panama](country_name) citizenry
-- [Panama](country_name) country
-- from [Panama](country_name) is the country
-- citizens [Panama](country_name) citizenry
-- I came in [Panama](country_name) is the country
-- language [Panama](country_name) citizenry
-- citizen of [Panama](country_name) country
-- [Panama](country_name) citizenry
-- language of [Panama](country_name) citizenry
-- I came in [Panama](country_name) citizenry
-- Me lives in [Panama](country_name) citizenry
-- my origin is [Panama](country_name)
-- I'm from [Panama](country_name) is the country
-- Me lives in [Panama](country_name)
-- language [Panama](country_name)
-- from [Panama](country_name) country
-- lives in [Panama](country_name) citizenry
-- citizens [Panama](country_name)
-- [Yemen](country_name)
-- citizens [Yemen](country_name)
-- language [Yemen](country_name) is the country
-- I'm in [Yemen](country_name) citizenry
-- Me lives in [Yemen](country_name)
-- I'm from [Yemen](country_name) citizenry
-- language of [Yemen](country_name)
-- [Yemen](country_name)
-- citizen of [Yemen](country_name) is the country
-- I came in [Yemen](country_name)
-- citizens [Yemen](country_name) country
-- I'm in [Yemen](country_name) country
-- lives in [Yemen](country_name)
-- I'm from [Yemen](country_name) is the country
-- I'm from [Yemen](country_name)
-- lives in [Yemen](country_name) is the country
-- language [Yemen](country_name) country
-- citizen of [Yemen](country_name) citizenry
-- citizen of [Yemen](country_name)
-- I came in [Yemen](country_name) citizenry
-- from [Yemen](country_name)
-- I'm from [Yemen](country_name) country
+- language of [Guinea](country_name) citizenry
+- lives in [Guinea](country_name) country
+- I'm in [Guinea](country_name) citizenry
+- I'm from [Guinea](country_name) country
+- I'm in [Guinea](country_name) country
+- Me lives in [Guinea](country_name) country
+- [Guinea](country_name)
+- citizens [Guinea](country_name)
+- language of [Guinea](country_name)
+- [Colombia](country_name)
+- I'm from [Colombia](country_name) is the country
+- language of [Colombia](country_name) country
+- citizen of [Colombia](country_name) citizenry
+- citizen of [Colombia](country_name) country
+- [Colombia](country_name) country
+- lives in [Colombia](country_name) country
+- language of [Colombia](country_name)
+- Me lives in [Colombia](country_name) is the country
+- I'm from [Colombia](country_name) country
+- [Colombia](country_name) is the country
+- my origin is [Colombia](country_name)
+- I came in [Colombia](country_name)
+- my origin is [Colombia](country_name) is the country
+- my origin is [Colombia](country_name) citizenry
+- citizens [Colombia](country_name) country
+- lives in [Colombia](country_name) is the country
+- [Colombia](country_name)
+- citizen of [Colombia](country_name)
+- my origin is [Colombia](country_name) country
+- I'm in [Colombia](country_name) citizenry
+- citizen of [Colombia](country_name) is the country
+- [Burkina Faso](country_name)
+- [Burkina Faso](country_name) citizenry
+- Me lives in [Burkina Faso](country_name) citizenry
+- my origin is [Burkina Faso](country_name) citizenry
+- language of [Burkina Faso](country_name) country
+- citizen of [Burkina Faso](country_name) citizenry
+- citizens [Burkina Faso](country_name) citizenry
+- Me lives in [Burkina Faso](country_name) is the country
+- I'm from [Burkina Faso](country_name) country
+- language of [Burkina Faso](country_name) citizenry
+- from [Burkina Faso](country_name) is the country
+- I came in [Burkina Faso](country_name) citizenry
+- language of [Burkina Faso](country_name) is the country
+- Me lives in [Burkina Faso](country_name) country
+- Me lives in [Burkina Faso](country_name)
+- [Burkina Faso](country_name)
+- citizen of [Burkina Faso](country_name) country
+- I'm in [Burkina Faso](country_name) country
+- language [Burkina Faso](country_name)
+- language [Burkina Faso](country_name) is the country
+- from [Burkina Faso](country_name) country
+- language of [Burkina Faso](country_name)
+- [Mexica](country_name)
+- lives in [Mexica](country_name) is the country
+- from [Mexica](country_name)
+- language [Mexica](country_name)
+- citizens [Mexica](country_name) country
+- from [Mexica](country_name) is the country
+- language [Mexica](country_name) country
+- [Mexica](country_name) country
+- my origin is [Mexica](country_name) is the country
+- language [Mexica](country_name) is the country
+- I'm in [Mexica](country_name) country
+- language of [Mexica](country_name) is the country
+- Me lives in [Mexica](country_name)
+- citizen of [Mexica](country_name) citizenry
+- from [Mexica](country_name) country
+- citizens [Mexica](country_name) is the country
+- from [Mexica](country_name) citizenry
+- I came in [Mexica](country_name)
+- I'm from [Mexica](country_name) country
+- citizen of [Mexica](country_name) country
+- [Mexica](country_name)
+- [Mexica](country_name) is the country
+- [Equatorial Guinea](country_name)
+- language of [Equatorial Guinea](country_name) country
+- I'm in [Equatorial Guinea](country_name) citizenry
+- Me lives in [Equatorial Guinea](country_name) citizenry
+- my origin is [Equatorial Guinea](country_name) country
+- I came in [Equatorial Guinea](country_name)
+- citizen of [Equatorial Guinea](country_name) is the country
+- I came in [Equatorial Guinea](country_name) country
+- language [Equatorial Guinea](country_name)
+- I'm in [Equatorial Guinea](country_name) is the country
+- citizen of [Equatorial Guinea](country_name) country
+- I came in [Equatorial Guinea](country_name) citizenry
+- I'm in [Equatorial Guinea](country_name) country
+- citizens [Equatorial Guinea](country_name) country
+- language of [Equatorial Guinea](country_name)
+- language of [Equatorial Guinea](country_name) is the country
+- language [Equatorial Guinea](country_name) country
+- lives in [Equatorial Guinea](country_name)
+- from [Equatorial Guinea](country_name) citizenry
+- I'm from [Equatorial Guinea](country_name)
+- I'm from [Equatorial Guinea](country_name) is the country
+- I'm from [Equatorial Guinea](country_name) citizenry
+- [Cuba](country_name)
+- [Cuba](country_name) country
+- citizens [Cuba](country_name) country
+- lives in [Cuba](country_name) citizenry
+- citizens [Cuba](country_name) is the country
+- lives in [Cuba](country_name)
+- language of [Cuba](country_name) country
+- language [Cuba](country_name) country
+- citizen of [Cuba](country_name) is the country
+- language of [Cuba](country_name) citizenry
+- [Cuba](country_name)
+- Me lives in [Cuba](country_name)
+- from [Cuba](country_name)
+- I'm in [Cuba](country_name) is the country
+- citizen of [Cuba](country_name)
+- language of [Cuba](country_name) is the country
+- [Cuba](country_name) is the country
+- citizens [Cuba](country_name) citizenry
+- language of [Cuba](country_name)
+- I'm in [Cuba](country_name)
+- my origin is [Cuba](country_name)
+- I'm from [Cuba](country_name) is the country
 - [Morocco](country_name)
-- my origin is [Morocco](country_name) is the country
-- citizens [Morocco](country_name)
-- citizens [Morocco](country_name) is the country
-- [Morocco](country_name) is the country
-- I'm in [Morocco](country_name) country
-- I'm from [Morocco](country_name) is the country
-- my origin is [Morocco](country_name)
-- language [Morocco](country_name) is the country
-- I'm from [Morocco](country_name) citizenry
-- language [Morocco](country_name) citizenry
+- citizen of [Morocco](country_name)
 - Me lives in [Morocco](country_name)
 - from [Morocco](country_name)
-- citizen of [Morocco](country_name)
-- I'm from [Morocco](country_name) country
-- language of [Morocco](country_name)
+- language of [Morocco](country_name) citizenry
 - citizen of [Morocco](country_name) citizenry
-- language [Morocco](country_name)
-- I came in [Morocco](country_name) citizenry
-- I'm in [Morocco](country_name)
 - my origin is [Morocco](country_name) citizenry
+- from [Morocco](country_name) country
+- lives in [Morocco](country_name)
+- my origin is [Morocco](country_name)
+- lives in [Morocco](country_name) is the country
+- citizen of [Morocco](country_name) country
+- citizens [Morocco](country_name) country
+- language [Morocco](country_name) country
+- I came in [Morocco](country_name) country
+- language [Morocco](country_name) is the country
+- language of [Morocco](country_name) is the country
+- I'm from [Morocco](country_name)
+- I'm in [Morocco](country_name) country
+- citizen of [Morocco](country_name) is the country
 - I'm in [Morocco](country_name) citizenry
-- [Gabon](country_name)
-- citizens [Gabon](country_name)
-- I'm in [Gabon](country_name) country
-- I'm in [Gabon](country_name) is the country
-- I'm in [Gabon](country_name) citizenry
-- I'm in [Gabon](country_name)
-- Me lives in [Gabon](country_name) citizenry
-- language [Gabon](country_name)
-- I'm from [Gabon](country_name)
-- my origin is [Gabon](country_name) is the country
-- [Gabon](country_name)
-- from [Gabon](country_name) country
-- [Gabon](country_name) country
-- citizen of [Gabon](country_name) citizenry
-- language of [Gabon](country_name) citizenry
-- my origin is [Gabon](country_name) citizenry
-- language [Gabon](country_name) citizenry
-- lives in [Gabon](country_name)
-- lives in [Gabon](country_name) is the country
-- lives in [Gabon](country_name) citizenry
-- [Gabon](country_name) citizenry
-- from [Gabon](country_name) is the country
-- [Libya](country_name)
-- I'm in [Libya](country_name) citizenry
-- citizens [Libya](country_name) citizenry
-- my origin is [Libya](country_name) citizenry
-- from [Libya](country_name)
-- I'm from [Libya](country_name) citizenry
-- citizens [Libya](country_name)
-- lives in [Libya](country_name) country
-- I'm from [Libya](country_name)
-- language [Libya](country_name) is the country
-- citizens [Libya](country_name) country
-- my origin is [Libya](country_name)
-- Me lives in [Libya](country_name) citizenry
-- lives in [Libya](country_name) citizenry
-- language of [Libya](country_name) is the country
-- I came in [Libya](country_name) citizenry
-- I'm in [Libya](country_name) country
-- citizen of [Libya](country_name) is the country
-- from [Libya](country_name) country
-- I came in [Libya](country_name) country
-- I'm from [Libya](country_name) country
-- language [Libya](country_name)
-- [France](country_name)
-- citizens [France](country_name)
-- I'm in [France](country_name) is the country
-- citizens [France](country_name) country
-- language of [France](country_name) country
-- lives in [France](country_name) citizenry
-- from [France](country_name) country
-- language [France](country_name) is the country
-- lives in [France](country_name)
-- Me lives in [France](country_name) citizenry
-- I came in [France](country_name) country
-- language [France](country_name) citizenry
-- from [France](country_name) citizenry
-- citizen of [France](country_name) country
-- I'm from [France](country_name) country
-- I'm from [France](country_name)
-- I came in [France](country_name) citizenry
-- language [France](country_name) country
-- I'm from [France](country_name) citizenry
-- [France](country_name) country
-- citizen of [France](country_name) citizenry
-- Me lives in [France](country_name)
-- [Ivory Coast](country_name)
-- citizen of [Ivory Coast](country_name) citizenry
-- Me lives in [Ivory Coast](country_name) country
-- [Ivory Coast](country_name) citizenry
-- citizens [Ivory Coast](country_name) country
-- I'm from [Ivory Coast](country_name)
-- citizens [Ivory Coast](country_name) is the country
-- my origin is [Ivory Coast](country_name) is the country
-- language of [Ivory Coast](country_name) is the country
-- citizens [Ivory Coast](country_name) citizenry
-- from [Ivory Coast](country_name) is the country
-- my origin is [Ivory Coast](country_name) country
-- I'm from [Ivory Coast](country_name) is the country
-- citizens [Ivory Coast](country_name)
-- I came in [Ivory Coast](country_name)
-- language of [Ivory Coast](country_name) citizenry
-- I came in [Ivory Coast](country_name) is the country
-- I'm in [Ivory Coast](country_name) is the country
-- citizen of [Ivory Coast](country_name) country
-- language [Ivory Coast](country_name) is the country
-- my origin is [Ivory Coast](country_name) citizenry
-- [Ivory Coast](country_name) country
-- [Sri Lanka](country_name)
-- I came in [Sri Lanka](country_name) country
-- I'm in [Sri Lanka](country_name)
-- lives in [Sri Lanka](country_name) country
-- Me lives in [Sri Lanka](country_name) citizenry
-- [Sri Lanka](country_name)
-- I'm from [Sri Lanka](country_name) citizenry
-- citizens [Sri Lanka](country_name) is the country
-- language of [Sri Lanka](country_name) is the country
-- language of [Sri Lanka](country_name) citizenry
-- I'm in [Sri Lanka](country_name) country
-- citizens [Sri Lanka](country_name)
-- [Sri Lanka](country_name) country
-- citizen of [Sri Lanka](country_name) is the country
-- my origin is [Sri Lanka](country_name) country
-- citizens [Sri Lanka](country_name) country
-- citizen of [Sri Lanka](country_name) citizenry
-- my origin is [Sri Lanka](country_name) is the country
-- language of [Sri Lanka](country_name) country
-- my origin is [Sri Lanka](country_name)
-- Me lives in [Sri Lanka](country_name)
-- I came in [Sri Lanka](country_name)
-- [El Salvador](country_name)
-- Me lives in [El Salvador](country_name)
-- citizens [El Salvador](country_name) citizenry
-- language of [El Salvador](country_name)
-- citizens [El Salvador](country_name)
-- [El Salvador](country_name) is the country
-- citizens [El Salvador](country_name) country
-- lives in [El Salvador](country_name) is the country
-- my origin is [El Salvador](country_name) country
-- citizen of [El Salvador](country_name)
-- I came in [El Salvador](country_name) is the country
-- I'm in [El Salvador](country_name) country
-- citizen of [El Salvador](country_name) is the country
-- language of [El Salvador](country_name) citizenry
-- [El Salvador](country_name) country
-- language of [El Salvador](country_name) is the country
-- I'm in [El Salvador](country_name)
-- citizen of [El Salvador](country_name) citizenry
-- Me lives in [El Salvador](country_name) country
-- I'm from [El Salvador](country_name) country
-- my origin is [El Salvador](country_name) is the country
-- citizen of [El Salvador](country_name) country
-- [United Kingdom](country_name)
-- I'm from [United Kingdom](country_name) country
-- language [United Kingdom](country_name) country
-- citizen of [United Kingdom](country_name) citizenry
-- from [United Kingdom](country_name)
-- I'm from [United Kingdom](country_name)
-- Me lives in [United Kingdom](country_name) country
-- [United Kingdom](country_name) is the country
-- I came in [United Kingdom](country_name)
-- lives in [United Kingdom](country_name) country
-- lives in [United Kingdom](country_name) citizenry
-- language of [United Kingdom](country_name)
-- my origin is [United Kingdom](country_name) citizenry
-- citizen of [United Kingdom](country_name)
-- citizen of [United Kingdom](country_name) is the country
-- language [United Kingdom](country_name)
-- I'm in [United Kingdom](country_name) citizenry
-- [United Kingdom](country_name) country
-- [United Kingdom](country_name) citizenry
-- from [United Kingdom](country_name) country
-- I came in [United Kingdom](country_name) country
-- [United Kingdom](country_name)
-- [Greece](country_name)
-- Me lives in [Greece](country_name) citizenry
-- [Greece](country_name) citizenry
-- [Greece](country_name)
-- I'm from [Greece](country_name)
-- from [Greece](country_name)
-- from [Greece](country_name) country
-- language [Greece](country_name) citizenry
-- from [Greece](country_name) citizenry
-- Me lives in [Greece](country_name) is the country
-- I came in [Greece](country_name) is the country
-- my origin is [Greece](country_name) citizenry
-- language [Greece](country_name) country
-- I came in [Greece](country_name) citizenry
-- I'm in [Greece](country_name) is the country
-- my origin is [Greece](country_name)
-- I'm in [Greece](country_name)
-- citizens [Greece](country_name) country
-- lives in [Greece](country_name) country
-- language [Greece](country_name)
-- Me lives in [Greece](country_name)
-- [Greece](country_name) is the country
-- [Canada](country_name)
-- I'm from [Canada](country_name) is the country
-- Me lives in [Canada](country_name) country
-- [Canada](country_name)
-- citizen of [Canada](country_name) citizenry
-- language [Canada](country_name)
-- I came in [Canada](country_name) country
-- lives in [Canada](country_name) country
-- citizens [Canada](country_name)
-- my origin is [Canada](country_name) is the country
-- citizen of [Canada](country_name) is the country
-- I'm in [Canada](country_name)
-- language [Canada](country_name) is the country
-- citizen of [Canada](country_name)
-- I'm in [Canada](country_name) citizenry
-- I came in [Canada](country_name) citizenry
-- language [Canada](country_name) country
-- my origin is [Canada](country_name) country
-- I'm in [Canada](country_name) is the country
-- citizens [Canada](country_name) country
-- I came in [Canada](country_name) is the country
-- I'm from [Canada](country_name) country
-- [Bahamas](country_name)
-- Me lives in [Bahamas](country_name) citizenry
-- citizens [Bahamas](country_name) country
-- lives in [Bahamas](country_name)
-- language [Bahamas](country_name)
-- from [Bahamas](country_name)
-- I'm from [Bahamas](country_name) citizenry
-- [Bahamas](country_name) citizenry
-- my origin is [Bahamas](country_name) is the country
-- I'm in [Bahamas](country_name) is the country
-- I'm in [Bahamas](country_name) citizenry
-- I'm from [Bahamas](country_name) is the country
-- Me lives in [Bahamas](country_name)
-- I came in [Bahamas](country_name) citizenry
-- lives in [Bahamas](country_name) country
-- lives in [Bahamas](country_name) citizenry
-- language of [Bahamas](country_name) country
-- [Bahamas](country_name)
-- I came in [Bahamas](country_name)
-- citizen of [Bahamas](country_name) country
-- citizen of [Bahamas](country_name) citizenry
-- [Bahamas](country_name) is the country
-- [Singapore](country_name)
-- language [Singapore](country_name) citizenry
-- citizens [Singapore](country_name)
-- my origin is [Singapore](country_name) country
-- citizens [Singapore](country_name) country
-- I'm from [Singapore](country_name) is the country
-- from [Singapore](country_name) citizenry
-- my origin is [Singapore](country_name) is the country
-- I came in [Singapore](country_name) citizenry
-- [Singapore](country_name) country
-- language of [Singapore](country_name)
-- language [Singapore](country_name)
-- citizen of [Singapore](country_name) is the country
-- I'm in [Singapore](country_name)
-- I'm from [Singapore](country_name) country
-- [Singapore](country_name) citizenry
-- citizens [Singapore](country_name) citizenry
-- language of [Singapore](country_name) is the country
-- citizen of [Singapore](country_name)
-- I came in [Singapore](country_name) is the country
-- lives in [Singapore](country_name)
-- [Singapore](country_name)
-- [South Africa](country_name)
-- I'm from [South Africa](country_name)
-- citizen of [South Africa](country_name)
-- citizens [South Africa](country_name) is the country
-- language of [South Africa](country_name) citizenry
-- [South Africa](country_name)
-- my origin is [South Africa](country_name) country
-- from [South Africa](country_name)
-- Me lives in [South Africa](country_name)
-- I'm in [South Africa](country_name)
-- my origin is [South Africa](country_name)
-- language [South Africa](country_name) country
-- citizens [South Africa](country_name)
-- language of [South Africa](country_name) country
-- language [South Africa](country_name) citizenry
-- I came in [South Africa](country_name)
-- citizens [South Africa](country_name) citizenry
-- [South Africa](country_name) citizenry
-- I came in [South Africa](country_name) country
-- citizen of [South Africa](country_name) citizenry
-- I'm from [South Africa](country_name) is the country
-- I'm in [South Africa](country_name) country
-- [Latvia](country_name)
-- I'm in [Latvia](country_name)
-- [Latvia](country_name) citizenry
-- my origin is [Latvia](country_name)
-- I'm from [Latvia](country_name) is the country
-- I'm in [Latvia](country_name) citizenry
-- language of [Latvia](country_name) citizenry
-- my origin is [Latvia](country_name) country
-- I'm in [Latvia](country_name) country
-- citizen of [Latvia](country_name)
-- lives in [Latvia](country_name) is the country
-- I'm in [Latvia](country_name) is the country
-- citizens [Latvia](country_name) country
-- lives in [Latvia](country_name) country
-- I came in [Latvia](country_name) country
-- Me lives in [Latvia](country_name)
-- from [Latvia](country_name) country
-- Me lives in [Latvia](country_name) is the country
-- from [Latvia](country_name) citizenry
-- from [Latvia](country_name) is the country
-- citizen of [Latvia](country_name) country
-- [Latvia](country_name) is the country
-- [Vatican City](country_name)
-- language [Vatican City](country_name)
-- I'm from [Vatican City](country_name)
-- from [Vatican City](country_name) country
-- lives in [Vatican City](country_name) citizenry
-- I came in [Vatican City](country_name) citizenry
-- lives in [Vatican City](country_name) country
-- I came in [Vatican City](country_name) is the country
-- citizens [Vatican City](country_name) is the country
-- my origin is [Vatican City](country_name) country
-- citizen of [Vatican City](country_name) country
-- my origin is [Vatican City](country_name)
-- [Vatican City](country_name)
-- my origin is [Vatican City](country_name) citizenry
-- language of [Vatican City](country_name) citizenry
-- language [Vatican City](country_name) citizenry
-- I came in [Vatican City](country_name)
-- language of [Vatican City](country_name)
-- [Vatican City](country_name) is the country
-- from [Vatican City](country_name) is the country
-- my origin is [Vatican City](country_name) is the country
-- [Vatican City](country_name) citizenry
-- [Ukraine](country_name)
-- [Ukraine](country_name) is the country
-- from [Ukraine](country_name) country
-- lives in [Ukraine](country_name)
-- I came in [Ukraine](country_name) country
-- I'm in [Ukraine](country_name) country
-- citizens [Ukraine](country_name) country
-- citizens [Ukraine](country_name)
-- Me lives in [Ukraine](country_name)
-- language [Ukraine](country_name)
-- my origin is [Ukraine](country_name) citizenry
-- I'm in [Ukraine](country_name)
-- Me lives in [Ukraine](country_name) citizenry
-- I'm from [Ukraine](country_name)
-- citizens [Ukraine](country_name) is the country
-- language [Ukraine](country_name) is the country
-- I came in [Ukraine](country_name) is the country
-- [Ukraine](country_name)
-- [Ukraine](country_name) citizenry
-- [Ukraine](country_name) country
-- citizens [Ukraine](country_name) citizenry
-- language [Ukraine](country_name) country
-- [Guinea-Bissau](country_name)
-- language [Guinea-Bissau](country_name) is the country
-- citizens [Guinea-Bissau](country_name)
-- citizens [Guinea-Bissau](country_name) is the country
-- [Guinea-Bissau](country_name)
-- Me lives in [Guinea-Bissau](country_name) country
-- language [Guinea-Bissau](country_name) country
-- Me lives in [Guinea-Bissau](country_name) is the country
-- language of [Guinea-Bissau](country_name) country
-- language [Guinea-Bissau](country_name) citizenry
-- my origin is [Guinea-Bissau](country_name) citizenry
-- I'm in [Guinea-Bissau](country_name) is the country
-- citizen of [Guinea-Bissau](country_name) citizenry
-- my origin is [Guinea-Bissau](country_name) is the country
-- I came in [Guinea-Bissau](country_name)
-- lives in [Guinea-Bissau](country_name) citizenry
-- from [Guinea-Bissau](country_name) citizenry
-- citizen of [Guinea-Bissau](country_name) is the country
-- I'm from [Guinea-Bissau](country_name)
-- citizen of [Guinea-Bissau](country_name)
-- [Guinea-Bissau](country_name) is the country
-- language [Guinea-Bissau](country_name)
-- [Seychelles](country_name)
-- language of [Seychelles](country_name) is the country
-- language [Seychelles](country_name)
-- citizens [Seychelles](country_name) is the country
-- [Seychelles](country_name) is the country
-- my origin is [Seychelles](country_name)
-- my origin is [Seychelles](country_name) is the country
-- I came in [Seychelles](country_name)
-- lives in [Seychelles](country_name) country
-- language of [Seychelles](country_name)
-- lives in [Seychelles](country_name) is the country
-- I came in [Seychelles](country_name) country
-- Me lives in [Seychelles](country_name) citizenry
-- lives in [Seychelles](country_name)
-- I'm from [Seychelles](country_name)
-- citizens [Seychelles](country_name)
-- I'm in [Seychelles](country_name) country
-- Me lives in [Seychelles](country_name) is the country
-- I'm from [Seychelles](country_name) country
-- [Seychelles](country_name) citizenry
-- language of [Seychelles](country_name) country
-- from [Seychelles](country_name) is the country
-- [Brunei](country_name)
-- citizen of [Brunei](country_name) is the country
-- [Brunei](country_name) country
-- citizen of [Brunei](country_name)
-- I came in [Brunei](country_name) is the country
-- [Brunei](country_name) citizenry
-- my origin is [Brunei](country_name) citizenry
-- lives in [Brunei](country_name)
-- [Brunei](country_name) is the country
-- I came in [Brunei](country_name)
-- citizens [Brunei](country_name) country
-- citizens [Brunei](country_name) citizenry
-- I'm from [Brunei](country_name)
-- Me lives in [Brunei](country_name)
-- lives in [Brunei](country_name) country
-- I'm in [Brunei](country_name) country
-- lives in [Brunei](country_name) is the country
-- Me lives in [Brunei](country_name) citizenry
-- language of [Brunei](country_name)
-- Me lives in [Brunei](country_name) is the country
-- I came in [Brunei](country_name) citizenry
-- my origin is [Brunei](country_name)
-- [New Zealand](country_name)
-- my origin is [New Zealand](country_name) citizenry
-- my origin is [New Zealand](country_name)
-- [New Zealand](country_name) is the country
-- my origin is [New Zealand](country_name) country
-- citizens [New Zealand](country_name) country
-- Me lives in [New Zealand](country_name) citizenry
-- I'm in [New Zealand](country_name)
-- I came in [New Zealand](country_name) country
-- language [New Zealand](country_name) country
-- my origin is [New Zealand](country_name) is the country
-- [New Zealand](country_name) citizenry
-- lives in [New Zealand](country_name) is the country
-- citizen of [New Zealand](country_name) is the country
-- from [New Zealand](country_name) is the country
-- I'm in [New Zealand](country_name) is the country
-- citizens [New Zealand](country_name)
-- [New Zealand](country_name) country
-- I'm from [New Zealand](country_name) is the country
-- citizen of [New Zealand](country_name) country
-- language [New Zealand](country_name)
-- language [New Zealand](country_name) is the country
-- [San Marino](country_name)
-- I came in [San Marino](country_name) country
-- I'm in [San Marino](country_name) country
-- my origin is [San Marino](country_name)
-- citizen of [San Marino](country_name) citizenry
-- language [San Marino](country_name) country
-- citizen of [San Marino](country_name) country
-- I came in [San Marino](country_name) citizenry
-- lives in [San Marino](country_name) citizenry
-- I came in [San Marino](country_name)
-- [San Marino](country_name) citizenry
-- lives in [San Marino](country_name) is the country
-- Me lives in [San Marino](country_name) country
-- my origin is [San Marino](country_name) citizenry
-- language [San Marino](country_name) is the country
-- my origin is [San Marino](country_name) country
-- from [San Marino](country_name) citizenry
-- from [San Marino](country_name) country
-- [San Marino](country_name)
-- I'm from [San Marino](country_name) is the country
-- citizens [San Marino](country_name) citizenry
-- language of [San Marino](country_name)
-- [Benin](country_name)
-- I'm from [Benin](country_name) citizenry
-- citizens [Benin](country_name)
-- lives in [Benin](country_name)
-- language [Benin](country_name) citizenry
-- lives in [Benin](country_name) country
-- I'm in [Benin](country_name) country
-- citizens [Benin](country_name) country
-- my origin is [Benin](country_name)
-- language of [Benin](country_name) country
-- I'm from [Benin](country_name)
-- I'm from [Benin](country_name) is the country
-- language [Benin](country_name)
-- Me lives in [Benin](country_name)
-- language [Benin](country_name) is the country
-- I came in [Benin](country_name) country
-- Me lives in [Benin](country_name) country
-- citizen of [Benin](country_name) is the country
-- I came in [Benin](country_name) is the country
-- I came in [Benin](country_name) citizenry
-- I came in [Benin](country_name)
-- language of [Benin](country_name) citizenry
+- [Morocco](country_name)
 - [Belize](country_name)
-- lives in [Belize](country_name) citizenry
-- citizen of [Belize](country_name) citizenry
+- I came in [Belize](country_name)
+- lives in [Belize](country_name)
 - I'm in [Belize](country_name)
-- I'm from [Belize](country_name)
-- from [Belize](country_name) country
+- language [Belize](country_name) is the country
+- citizens [Belize](country_name)
+- citizen of [Belize](country_name) is the country
+- citizen of [Belize](country_name) country
+- I'm from [Belize](country_name) country
+- [Belize](country_name) is the country
+- I'm in [Belize](country_name) is the country
+- lives in [Belize](country_name) is the country
+- Me lives in [Belize](country_name)
+- [Belize](country_name)
 - citizens [Belize](country_name) is the country
 - language [Belize](country_name) citizenry
-- I came in [Belize](country_name) citizenry
-- Me lives in [Belize](country_name) citizenry
-- I'm from [Belize](country_name) country
-- language of [Belize](country_name) citizenry
-- language [Belize](country_name)
-- my origin is [Belize](country_name) is the country
-- my origin is [Belize](country_name) country
-- I'm from [Belize](country_name) is the country
+- I came in [Belize](country_name) is the country
 - I'm from [Belize](country_name) citizenry
-- [Belize](country_name) citizenry
-- [Belize](country_name)
-- citizens [Belize](country_name) citizenry
-- language of [Belize](country_name) is the country
-- Me lives in [Belize](country_name) is the country
-- [Mali](country_name)
-- citizen of [Mali](country_name) country
-- from [Mali](country_name) citizenry
-- I came in [Mali](country_name) citizenry
-- I'm in [Mali](country_name) citizenry
-- I came in [Mali](country_name)
-- citizen of [Mali](country_name)
-- from [Mali](country_name)
-- Me lives in [Mali](country_name) country
-- I'm in [Mali](country_name) is the country
-- [Mali](country_name) citizenry
-- I'm in [Mali](country_name)
-- Me lives in [Mali](country_name)
-- citizens [Mali](country_name)
-- language [Mali](country_name) citizenry
-- my origin is [Mali](country_name) is the country
-- language of [Mali](country_name) country
-- lives in [Mali](country_name) is the country
-- my origin is [Mali](country_name)
-- from [Mali](country_name) country
-- Me lives in [Mali](country_name) citizenry
-- language [Mali](country_name) is the country
-- [Romania](country_name)
-- [Romania](country_name) citizenry
-- I'm from [Romania](country_name) citizenry
-- language of [Romania](country_name) country
-- citizen of [Romania](country_name) country
-- citizens [Romania](country_name) is the country
-- language [Romania](country_name) country
-- from [Romania](country_name) country
-- citizen of [Romania](country_name) citizenry
-- lives in [Romania](country_name) country
-- I'm from [Romania](country_name)
-- lives in [Romania](country_name) is the country
-- I came in [Romania](country_name) country
-- I'm from [Romania](country_name) is the country
-- from [Romania](country_name)
-- citizen of [Romania](country_name) is the country
-- my origin is [Romania](country_name)
-- my origin is [Romania](country_name) country
-- I'm in [Romania](country_name) country
-- my origin is [Romania](country_name) is the country
-- Me lives in [Romania](country_name) is the country
-- citizen of [Romania](country_name)
-- [Peru](country_name)
-- I came in [Peru](country_name) citizenry
-- citizens [Peru](country_name) citizenry
-- language of [Peru](country_name) country
-- lives in [Peru](country_name)
-- my origin is [Peru](country_name) country
-- from [Peru](country_name)
-- I came in [Peru](country_name)
-- citizen of [Peru](country_name) is the country
-- citizens [Peru](country_name) is the country
-- I came in [Peru](country_name) country
-- lives in [Peru](country_name) is the country
-- language of [Peru](country_name) is the country
-- [Peru](country_name) is the country
-- I'm from [Peru](country_name)
-- I'm from [Peru](country_name) citizenry
-- my origin is [Peru](country_name)
-- [Peru](country_name) citizenry
-- I'm in [Peru](country_name) country
-- Me lives in [Peru](country_name) is the country
-- citizen of [Peru](country_name)
-- I'm in [Peru](country_name)
-- [Malta](country_name)
-- language of [Malta](country_name) country
-- language [Malta](country_name) country
-- citizen of [Malta](country_name) citizenry
-- language of [Malta](country_name) citizenry
-- lives in [Malta](country_name) country
-- I came in [Malta](country_name) country
-- [Malta](country_name)
-- Me lives in [Malta](country_name) citizenry
-- I'm in [Malta](country_name) citizenry
-- citizens [Malta](country_name) country
-- citizens [Malta](country_name) is the country
-- language of [Malta](country_name) is the country
-- citizen of [Malta](country_name) is the country
-- Me lives in [Malta](country_name) is the country
-- I'm from [Malta](country_name)
-- [Malta](country_name) citizenry
-- I'm in [Malta](country_name) country
-- [Malta](country_name) is the country
-- I came in [Malta](country_name) citizenry
-- my origin is [Malta](country_name) citizenry
-- citizens [Malta](country_name) citizenry
-- [Palau](country_name)
-- language of [Palau](country_name) citizenry
-- language of [Palau](country_name) country
-- language [Palau](country_name) is the country
-- [Palau](country_name) is the country
-- my origin is [Palau](country_name) is the country
-- Me lives in [Palau](country_name)
-- citizen of [Palau](country_name)
-- I came in [Palau](country_name) is the country
-- I'm in [Palau](country_name) country
-- citizen of [Palau](country_name) country
-- from [Palau](country_name)
-- citizens [Palau](country_name) country
-- citizens [Palau](country_name)
-- language of [Palau](country_name)
-- Me lives in [Palau](country_name) country
-- [Palau](country_name) citizenry
-- I'm in [Palau](country_name)
-- from [Palau](country_name) country
-- [Palau](country_name)
-- lives in [Palau](country_name) is the country
-- lives in [Palau](country_name) citizenry
-- [Mozambique](country_name)
-- citizen of [Mozambique](country_name) country
-- language [Mozambique](country_name) country
-- Me lives in [Mozambique](country_name) citizenry
-- language of [Mozambique](country_name) citizenry
-- lives in [Mozambique](country_name) country
-- lives in [Mozambique](country_name)
-- I came in [Mozambique](country_name) citizenry
-- Me lives in [Mozambique](country_name) is the country
-- from [Mozambique](country_name)
-- I came in [Mozambique](country_name) is the country
-- my origin is [Mozambique](country_name) country
-- language of [Mozambique](country_name)
-- I'm from [Mozambique](country_name) country
-- language of [Mozambique](country_name) is the country
-- citizen of [Mozambique](country_name)
-- I'm in [Mozambique](country_name) country
-- language of [Mozambique](country_name) country
-- I'm from [Mozambique](country_name) citizenry
-- [Mozambique](country_name) citizenry
-- from [Mozambique](country_name) is the country
-- [Mozambique](country_name) is the country
-- [East Timor](country_name)
-- language of [East Timor](country_name) citizenry
-- I came in [East Timor](country_name)
-- language [East Timor](country_name) citizenry
-- language of [East Timor](country_name)
-- I'm in [East Timor](country_name) country
-- [East Timor](country_name) is the country
-- I came in [East Timor](country_name) is the country
-- from [East Timor](country_name) is the country
-- my origin is [East Timor](country_name) is the country
-- lives in [East Timor](country_name) is the country
-- citizens [East Timor](country_name) is the country
-- citizen of [East Timor](country_name) is the country
-- from [East Timor](country_name) country
-- language [East Timor](country_name)
-- language of [East Timor](country_name) country
-- from [East Timor](country_name) citizenry
-- my origin is [East Timor](country_name) country
-- citizen of [East Timor](country_name) country
-- Me lives in [East Timor](country_name) country
-- [East Timor](country_name) country
-- I'm from [East Timor](country_name)
-- [Russia](country_name)
-- I'm from [Russia](country_name)
-- my origin is [Russia](country_name)
-- lives in [Russia](country_name) citizenry
-- from [Russia](country_name) citizenry
-- language [Russia](country_name) country
-- citizens [Russia](country_name)
-- language of [Russia](country_name) is the country
-- language [Russia](country_name) citizenry
-- I'm in [Russia](country_name) is the country
-- I'm in [Russia](country_name) citizenry
-- I came in [Russia](country_name) is the country
-- citizen of [Russia](country_name) country
-- lives in [Russia](country_name) is the country
-- lives in [Russia](country_name) country
-- Me lives in [Russia](country_name) is the country
-- language of [Russia](country_name) citizenry
-- my origin is [Russia](country_name) country
-- citizens [Russia](country_name) country
-- citizen of [Russia](country_name) is the country
-- [Russia](country_name) citizenry
-- I'm in [Russia](country_name) country
-- [Chile](country_name)
-- from [Chile](country_name) country
-- my origin is [Chile](country_name)
-- I'm from [Chile](country_name) citizenry
-- language [Chile](country_name) country
-- I came in [Chile](country_name) citizenry
-- language of [Chile](country_name) country
-- language [Chile](country_name) is the country
-- citizens [Chile](country_name)
-- citizen of [Chile](country_name) is the country
-- lives in [Chile](country_name) country
-- I came in [Chile](country_name) country
-- citizens [Chile](country_name) citizenry
-- I'm in [Chile](country_name) citizenry
-- language of [Chile](country_name)
-- Me lives in [Chile](country_name)
-- Me lives in [Chile](country_name) is the country
-- [Chile](country_name) is the country
-- from [Chile](country_name) citizenry
-- citizen of [Chile](country_name) country
-- my origin is [Chile](country_name) citizenry
-- language [Chile](country_name) citizenry
-- [Lesotho](country_name)
-- Me lives in [Lesotho](country_name)
-- from [Lesotho](country_name) citizenry
-- I came in [Lesotho](country_name) country
-- citizens [Lesotho](country_name) country
-- Me lives in [Lesotho](country_name) is the country
-- citizens [Lesotho](country_name) is the country
-- language of [Lesotho](country_name) is the country
-- language [Lesotho](country_name) is the country
-- my origin is [Lesotho](country_name) citizenry
-- language of [Lesotho](country_name) citizenry
-- I'm in [Lesotho](country_name)
-- language [Lesotho](country_name)
-- I'm in [Lesotho](country_name) country
-- my origin is [Lesotho](country_name) is the country
-- citizen of [Lesotho](country_name) country
-- lives in [Lesotho](country_name) citizenry
-- language [Lesotho](country_name) country
-- citizen of [Lesotho](country_name) is the country
-- Me lives in [Lesotho](country_name) citizenry
-- I'm from [Lesotho](country_name) citizenry
-- [Lesotho](country_name) citizenry
-- [Honduras](country_name)
-- Me lives in [Honduras](country_name)
-- lives in [Honduras](country_name)
-- I'm from [Honduras](country_name) is the country
-- I'm in [Honduras](country_name) is the country
-- Me lives in [Honduras](country_name) country
-- [Honduras](country_name)
-- from [Honduras](country_name) is the country
-- citizens [Honduras](country_name) country
-- I came in [Honduras](country_name) is the country
-- I'm from [Honduras](country_name) country
-- citizen of [Honduras](country_name) is the country
-- my origin is [Honduras](country_name)
-- Me lives in [Honduras](country_name) is the country
-- from [Honduras](country_name) country
-- language [Honduras](country_name) citizenry
-- I'm in [Honduras](country_name) citizenry
-- [Honduras](country_name) citizenry
-- I came in [Honduras](country_name) citizenry
-- lives in [Honduras](country_name) country
-- language of [Honduras](country_name) citizenry
-- language of [Honduras](country_name)
-- [Somalia](country_name)
-- I'm from [Somalia](country_name) citizenry
-- [Somalia](country_name) country
-- citizen of [Somalia](country_name) citizenry
-- [Somalia](country_name) citizenry
-- Me lives in [Somalia](country_name)
-- language [Somalia](country_name) is the country
-- citizens [Somalia](country_name)
-- language of [Somalia](country_name)
-- I'm in [Somalia](country_name) country
-- citizen of [Somalia](country_name) is the country
-- my origin is [Somalia](country_name) citizenry
-- from [Somalia](country_name) is the country
-- I'm from [Somalia](country_name)
-- language [Somalia](country_name) citizenry
-- lives in [Somalia](country_name) is the country
-- citizen of [Somalia](country_name)
-- from [Somalia](country_name)
-- language of [Somalia](country_name) is the country
-- I came in [Somalia](country_name) is the country
-- from [Somalia](country_name) citizenry
-- [Somalia](country_name)
-- [South Sudan](country_name)
-- language [South Sudan](country_name) citizenry
-- language of [South Sudan](country_name)
-- I'm from [South Sudan](country_name)
-- Me lives in [South Sudan](country_name)
-- citizen of [South Sudan](country_name) citizenry
-- language of [South Sudan](country_name) country
-- I'm in [South Sudan](country_name)
-- citizens [South Sudan](country_name) is the country
-- language [South Sudan](country_name) country
-- I came in [South Sudan](country_name) citizenry
-- my origin is [South Sudan](country_name) country
-- I'm from [South Sudan](country_name) citizenry
-- citizen of [South Sudan](country_name) is the country
-- lives in [South Sudan](country_name) is the country
-- I came in [South Sudan](country_name)
-- I'm in [South Sudan](country_name) country
-- citizens [South Sudan](country_name)
-- language of [South Sudan](country_name) citizenry
-- citizen of [South Sudan](country_name) country
-- from [South Sudan](country_name) citizenry
-- lives in [South Sudan](country_name) country
-- [Nicaragua](country_name)
-- my origin is [Nicaragua](country_name) citizenry
-- language [Nicaragua](country_name)
-- I'm in [Nicaragua](country_name) is the country
-- [Nicaragua](country_name) citizenry
-- from [Nicaragua](country_name) citizenry
-- language of [Nicaragua](country_name) is the country
-- I'm in [Nicaragua](country_name) citizenry
-- Me lives in [Nicaragua](country_name) citizenry
-- lives in [Nicaragua](country_name) citizenry
-- from [Nicaragua](country_name) is the country
-- I'm in [Nicaragua](country_name) country
-- [Nicaragua](country_name) country
-- lives in [Nicaragua](country_name) is the country
-- citizen of [Nicaragua](country_name) citizenry
-- citizen of [Nicaragua](country_name) is the country
-- I came in [Nicaragua](country_name) citizenry
-- I'm from [Nicaragua](country_name) country
-- I came in [Nicaragua](country_name) country
-- citizens [Nicaragua](country_name) is the country
-- lives in [Nicaragua](country_name) country
-- [Nicaragua](country_name) is the country
+- citizen of [Belize](country_name) citizenry
+- I'm in [Belize](country_name) citizenry
+- citizens [Belize](country_name) country
+- language of [Belize](country_name) country
+- [Macau](country_name)
+- Me lives in [Macau](country_name) citizenry
+- [Macau](country_name) country
+- citizen of [Macau](country_name) country
+- lives in [Macau](country_name) is the country
+- [Macau](country_name) citizenry
+- lives in [Macau](country_name) country
+- citizen of [Macau](country_name) is the country
+- my origin is [Macau](country_name) citizenry
+- I came in [Macau](country_name) is the country
+- Me lives in [Macau](country_name)
+- I'm in [Macau](country_name) citizenry
+- I came in [Macau](country_name)
+- citizens [Macau](country_name) is the country
+- my origin is [Macau](country_name)
+- language [Macau](country_name) country
+- lives in [Macau](country_name) citizenry
+- from [Macau](country_name) country
+- citizen of [Macau](country_name)
+- from [Macau](country_name)
+- my origin is [Macau](country_name) is the country
+- I'm in [Macau](country_name) is the country
+- [Liberia](country_name)
+- my origin is [Liberia](country_name) is the country
+- [Liberia](country_name)
+- citizen of [Liberia](country_name)
+- my origin is [Liberia](country_name) citizenry
+- [Liberia](country_name) is the country
+- citizens [Liberia](country_name) country
+- Me lives in [Liberia](country_name)
+- my origin is [Liberia](country_name) country
+- from [Liberia](country_name)
+- citizens [Liberia](country_name)
+- language [Liberia](country_name) citizenry
+- I'm from [Liberia](country_name)
+- language [Liberia](country_name) country
+- from [Liberia](country_name) is the country
+- I'm from [Liberia](country_name) is the country
+- Me lives in [Liberia](country_name) is the country
+- Me lives in [Liberia](country_name) citizenry
+- citizen of [Liberia](country_name) is the country
+- language [Liberia](country_name)
+- my origin is [Liberia](country_name)
+- citizen of [Liberia](country_name) country
 - [Tonga](country_name)
-- [Tonga](country_name) is the country
-- Me lives in [Tonga](country_name) is the country
-- from [Tonga](country_name) is the country
-- language of [Tonga](country_name)
-- citizen of [Tonga](country_name) is the country
-- [Tonga](country_name) citizenry
-- language [Tonga](country_name) country
-- my origin is [Tonga](country_name) country
-- from [Tonga](country_name) citizenry
-- language [Tonga](country_name) is the country
-- citizens [Tonga](country_name) is the country
-- from [Tonga](country_name) country
-- lives in [Tonga](country_name)
-- language of [Tonga](country_name) country
+- I'm in [Tonga](country_name) is the country
 - language of [Tonga](country_name) is the country
-- from [Tonga](country_name)
-- my origin is [Tonga](country_name)
-- I'm from [Tonga](country_name) is the country
-- language [Tonga](country_name) citizenry
+- citizens [Tonga](country_name)
+- citizens [Tonga](country_name) country
+- my origin is [Tonga](country_name) country
+- my origin is [Tonga](country_name) is the country
+- lives in [Tonga](country_name) citizenry
+- Me lives in [Tonga](country_name)
+- language of [Tonga](country_name)
+- lives in [Tonga](country_name) country
 - language [Tonga](country_name)
-- citizen of [Tonga](country_name) country
-- [Saint Kitts and Nevis](country_name)
-- Me lives in [Saint Kitts and Nevis](country_name) citizenry
-- language of [Saint Kitts and Nevis](country_name)
-- Me lives in [Saint Kitts and Nevis](country_name) is the country
-- I'm in [Saint Kitts and Nevis](country_name) is the country
-- my origin is [Saint Kitts and Nevis](country_name) country
-- citizens [Saint Kitts and Nevis](country_name)
-- lives in [Saint Kitts and Nevis](country_name) is the country
-- Me lives in [Saint Kitts and Nevis](country_name) country
-- citizens [Saint Kitts and Nevis](country_name) citizenry
-- I'm in [Saint Kitts and Nevis](country_name)
-- Me lives in [Saint Kitts and Nevis](country_name)
-- [Saint Kitts and Nevis](country_name) citizenry
-- from [Saint Kitts and Nevis](country_name)
-- language [Saint Kitts and Nevis](country_name) is the country
-- citizens [Saint Kitts and Nevis](country_name) country
-- I'm from [Saint Kitts and Nevis](country_name) is the country
-- from [Saint Kitts and Nevis](country_name) country
-- my origin is [Saint Kitts and Nevis](country_name) citizenry
-- citizen of [Saint Kitts and Nevis](country_name) is the country
-- I'm from [Saint Kitts and Nevis](country_name) country
-- language [Saint Kitts and Nevis](country_name)
+- [Tonga](country_name) is the country
+- citizen of [Tonga](country_name)
+- citizens [Tonga](country_name) is the country
+- I came in [Tonga](country_name) citizenry
+- I'm from [Tonga](country_name) is the country
+- language [Tonga](country_name) is the country
+- citizen of [Tonga](country_name) is the country
+- Me lives in [Tonga](country_name) is the country
+- Me lives in [Tonga](country_name) country
+- from [Tonga](country_name) country
+- [Sweden](country_name)
+- language of [Sweden](country_name) is the country
+- [Sweden](country_name) country
+- lives in [Sweden](country_name) country
+- citizens [Sweden](country_name) citizenry
+- language of [Sweden](country_name)
+- I'm in [Sweden](country_name)
+- I'm in [Sweden](country_name) country
+- [Sweden](country_name)
+- I'm from [Sweden](country_name) citizenry
+- lives in [Sweden](country_name) is the country
+- Me lives in [Sweden](country_name) country
+- citizens [Sweden](country_name) country
+- I'm from [Sweden](country_name)
+- language of [Sweden](country_name) country
+- citizen of [Sweden](country_name) citizenry
+- language [Sweden](country_name) country
+- citizen of [Sweden](country_name) country
+- I'm from [Sweden](country_name) is the country
+- I came in [Sweden](country_name) country
+- I'm from [Sweden](country_name) country
+- from [Sweden](country_name)
+- [Comoros](country_name)
+- my origin is [Comoros](country_name)
+- I'm in [Comoros](country_name) country
+- Me lives in [Comoros](country_name) country
+- I'm in [Comoros](country_name) citizenry
+- I'm in [Comoros](country_name) is the country
+- language of [Comoros](country_name)
+- language of [Comoros](country_name) country
+- from [Comoros](country_name)
+- citizen of [Comoros](country_name)
+- lives in [Comoros](country_name) country
+- from [Comoros](country_name) country
+- citizens [Comoros](country_name) citizenry
+- I'm from [Comoros](country_name) citizenry
+- [Comoros](country_name) citizenry
+- I came in [Comoros](country_name) citizenry
+- from [Comoros](country_name) citizenry
+- I came in [Comoros](country_name) country
+- I came in [Comoros](country_name) is the country
+- Me lives in [Comoros](country_name) is the country
+- I came in [Comoros](country_name)
+- language of [Comoros](country_name) citizenry
+- [Kosovo](country_name)
+- I'm in [Kosovo](country_name) citizenry
+- lives in [Kosovo](country_name)
+- [Kosovo](country_name) country
+- from [Kosovo](country_name) country
+- my origin is [Kosovo](country_name) citizenry
+- [Kosovo](country_name)
+- I came in [Kosovo](country_name)
+- citizen of [Kosovo](country_name)
+- I came in [Kosovo](country_name) citizenry
+- I'm from [Kosovo](country_name) is the country
+- I'm in [Kosovo](country_name) country
+- I came in [Kosovo](country_name) is the country
+- my origin is [Kosovo](country_name) country
+- Me lives in [Kosovo](country_name) is the country
+- language [Kosovo](country_name) is the country
+- from [Kosovo](country_name) citizenry
+- citizens [Kosovo](country_name)
+- I came in [Kosovo](country_name) country
+- [Kosovo](country_name) citizenry
+- from [Kosovo](country_name)
+- I'm from [Kosovo](country_name)
+- [Sudan](country_name)
+- [Sudan](country_name) citizenry
+- my origin is [Sudan](country_name)
+- citizen of [Sudan](country_name) country
+- I'm in [Sudan](country_name)
+- citizen of [Sudan](country_name)
+- citizen of [Sudan](country_name) is the country
+- I'm in [Sudan](country_name) is the country
+- language of [Sudan](country_name) citizenry
+- lives in [Sudan](country_name) citizenry
+- I'm from [Sudan](country_name)
+- [Sudan](country_name) country
+- lives in [Sudan](country_name) is the country
+- I'm from [Sudan](country_name) is the country
+- citizens [Sudan](country_name)
+- [Sudan](country_name) is the country
+- language [Sudan](country_name) is the country
+- from [Sudan](country_name)
+- language [Sudan](country_name) country
+- my origin is [Sudan](country_name) citizenry
+- language [Sudan](country_name) citizenry
+- my origin is [Sudan](country_name) country
+- [Dominica](country_name)
+- citizens [Dominica](country_name) citizenry
+- my origin is [Dominica](country_name)
+- I'm from [Dominica](country_name)
+- language [Dominica](country_name)
+- language [Dominica](country_name) country
+- I'm from [Dominica](country_name) citizenry
+- language [Dominica](country_name) citizenry
+- from [Dominica](country_name) citizenry
+- Me lives in [Dominica](country_name) citizenry
+- Me lives in [Dominica](country_name) is the country
+- from [Dominica](country_name)
+- lives in [Dominica](country_name)
+- my origin is [Dominica](country_name) country
+- I came in [Dominica](country_name) country
+- from [Dominica](country_name) country
+- I'm in [Dominica](country_name)
+- my origin is [Dominica](country_name) citizenry
+- language of [Dominica](country_name) is the country
+- language [Dominica](country_name) is the country
+- language of [Dominica](country_name) country
+- I'm in [Dominica](country_name) country
 - [Cape Verde](country_name)
-- from [Cape Verde](country_name) is the country
-- from [Cape Verde](country_name) citizenry
-- language [Cape Verde](country_name) country
-- I'm from [Cape Verde](country_name) country
-- Me lives in [Cape Verde](country_name) is the country
-- citizen of [Cape Verde](country_name) is the country
-- [Cape Verde](country_name) country
-- language [Cape Verde](country_name) is the country
-- lives in [Cape Verde](country_name)
-- citizen of [Cape Verde](country_name) country
-- Me lives in [Cape Verde](country_name)
-- I came in [Cape Verde](country_name) citizenry
-- I'm in [Cape Verde](country_name) country
+- Me lives in [Cape Verde](country_name) citizenry
 - from [Cape Verde](country_name)
-- my origin is [Cape Verde](country_name) citizenry
-- language [Cape Verde](country_name)
+- [Cape Verde](country_name) citizenry
+- lives in [Cape Verde](country_name) is the country
+- citizens [Cape Verde](country_name) citizenry
 - language [Cape Verde](country_name) citizenry
 - I'm in [Cape Verde](country_name) citizenry
-- [Cape Verde](country_name) citizenry
-- I came in [Cape Verde](country_name)
+- citizen of [Cape Verde](country_name) country
+- lives in [Cape Verde](country_name) citizenry
+- lives in [Cape Verde](country_name)
+- I'm from [Cape Verde](country_name) citizenry
+- my origin is [Cape Verde](country_name) is the country
+- my origin is [Cape Verde](country_name) country
+- citizen of [Cape Verde](country_name) citizenry
+- language of [Cape Verde](country_name) country
+- language [Cape Verde](country_name) country
+- Me lives in [Cape Verde](country_name) country
 - I'm in [Cape Verde](country_name)
+- lives in [Cape Verde](country_name) country
+- citizens [Cape Verde](country_name) is the country
+- I'm from [Cape Verde](country_name)
+- [Romania](country_name)
+- I'm from [Romania](country_name) country
+- citizens [Romania](country_name) is the country
+- language [Romania](country_name) is the country
+- from [Romania](country_name) citizenry
+- [Romania](country_name)
+- citizens [Romania](country_name) citizenry
+- citizen of [Romania](country_name) citizenry
+- I'm in [Romania](country_name) citizenry
+- language of [Romania](country_name)
+- I came in [Romania](country_name) country
+- lives in [Romania](country_name) country
+- [Romania](country_name) country
+- lives in [Romania](country_name) is the country
+- language of [Romania](country_name) country
+- [Romania](country_name) is the country
+- I'm in [Romania](country_name) country
+- my origin is [Romania](country_name) country
+- my origin is [Romania](country_name)
+- I came in [Romania](country_name) citizenry
+- citizens [Romania](country_name)
+- my origin is [Romania](country_name) is the country
+- [Somalia](country_name)
+- I'm from [Somalia](country_name) is the country
+- citizens [Somalia](country_name) citizenry
+- citizens [Somalia](country_name) country
+- I'm in [Somalia](country_name) citizenry
+- from [Somalia](country_name) country
+- my origin is [Somalia](country_name) country
+- Me lives in [Somalia](country_name) country
+- citizens [Somalia](country_name)
+- I came in [Somalia](country_name)
+- language of [Somalia](country_name) citizenry
+- citizen of [Somalia](country_name) citizenry
+- lives in [Somalia](country_name) citizenry
+- Me lives in [Somalia](country_name) is the country
+- citizen of [Somalia](country_name)
+- I came in [Somalia](country_name) country
+- from [Somalia](country_name) is the country
+- language of [Somalia](country_name) country
+- I'm in [Somalia](country_name)
+- lives in [Somalia](country_name) is the country
+- I'm from [Somalia](country_name)
+- lives in [Somalia](country_name) country
+- [Solomon Islands](country_name)
+- I'm from [Solomon Islands](country_name) citizenry
+- language of [Solomon Islands](country_name)
+- Me lives in [Solomon Islands](country_name)
+- I came in [Solomon Islands](country_name)
+- [Solomon Islands](country_name) citizenry
+- from [Solomon Islands](country_name) is the country
+- lives in [Solomon Islands](country_name) citizenry
+- I'm in [Solomon Islands](country_name) is the country
+- I'm from [Solomon Islands](country_name) is the country
+- Me lives in [Solomon Islands](country_name) country
+- language [Solomon Islands](country_name) citizenry
+- I came in [Solomon Islands](country_name) country
+- my origin is [Solomon Islands](country_name) citizenry
+- language of [Solomon Islands](country_name) is the country
+- [Solomon Islands](country_name) country
+- I'm in [Solomon Islands](country_name)
+- citizen of [Solomon Islands](country_name) is the country
+- [Solomon Islands](country_name)
+- I'm from [Solomon Islands](country_name)
+- from [Solomon Islands](country_name) country
+- citizens [Solomon Islands](country_name) citizenry
+- [Brazil](country_name)
+- language [Brazil](country_name) is the country
+- language [Brazil](country_name) citizenry
+- I'm from [Brazil](country_name) citizenry
+- lives in [Brazil](country_name)
+- citizens [Brazil](country_name) country
+- my origin is [Brazil](country_name)
+- Me lives in [Brazil](country_name) country
+- citizen of [Brazil](country_name) is the country
+- citizen of [Brazil](country_name) citizenry
+- language of [Brazil](country_name) citizenry
+- I'm from [Brazil](country_name) is the country
+- [Brazil](country_name) citizenry
+- citizens [Brazil](country_name) is the country
+- Me lives in [Brazil](country_name)
+- from [Brazil](country_name) country
+- [Brazil](country_name) country
+- from [Brazil](country_name)
+- language of [Brazil](country_name) is the country
+- my origin is [Brazil](country_name) is the country
+- I'm in [Brazil](country_name) is the country
+- language [Brazil](country_name)
+- [Poland](country_name)
+- language of [Poland](country_name) country
+- Me lives in [Poland](country_name) country
+- lives in [Poland](country_name)
+- my origin is [Poland](country_name) citizenry
+- language [Poland](country_name) citizenry
+- citizen of [Poland](country_name)
+- Me lives in [Poland](country_name) citizenry
+- language [Poland](country_name) country
+- I'm in [Poland](country_name) is the country
+- from [Poland](country_name)
+- [Poland](country_name)
+- citizens [Poland](country_name)
+- [Poland](country_name) is the country
+- citizen of [Poland](country_name) country
+- lives in [Poland](country_name) country
+- I'm in [Poland](country_name)
+- citizen of [Poland](country_name) is the country
+- I'm from [Poland](country_name)
+- I came in [Poland](country_name) citizenry
+- citizen of [Poland](country_name) citizenry
+- language of [Poland](country_name) is the country
+- [Spain](country_name)
+- lives in [Spain](country_name) country
+- [Spain](country_name) is the country
+- I came in [Spain](country_name) is the country
+- language [Spain](country_name)
+- I came in [Spain](country_name) country
+- my origin is [Spain](country_name) citizenry
+- language [Spain](country_name) is the country
+- I came in [Spain](country_name)
+- [Spain](country_name) country
+- Me lives in [Spain](country_name)
+- my origin is [Spain](country_name) country
+- from [Spain](country_name) is the country
+- citizen of [Spain](country_name) is the country
+- lives in [Spain](country_name)
+- [Spain](country_name) citizenry
+- language of [Spain](country_name) citizenry
+- language [Spain](country_name) country
+- language of [Spain](country_name)
+- Me lives in [Spain](country_name) country
+- from [Spain](country_name) country
+- [Spain](country_name)
+- [Kuwait](country_name)
+- my origin is [Kuwait](country_name) country
+- my origin is [Kuwait](country_name) citizenry
+- I came in [Kuwait](country_name) citizenry
+- I'm from [Kuwait](country_name) is the country
+- lives in [Kuwait](country_name) country
+- my origin is [Kuwait](country_name) is the country
+- citizen of [Kuwait](country_name)
+- [Kuwait](country_name) country
+- I'm from [Kuwait](country_name) country
+- language of [Kuwait](country_name) country
+- citizen of [Kuwait](country_name) citizenry
+- lives in [Kuwait](country_name) is the country
+- I'm in [Kuwait](country_name) is the country
+- language [Kuwait](country_name)
+- language of [Kuwait](country_name)
+- [Kuwait](country_name)
+- from [Kuwait](country_name) citizenry
+- citizens [Kuwait](country_name)
+- I'm from [Kuwait](country_name)
+- [Kuwait](country_name) is the country
+- I'm in [Kuwait](country_name)
+- [Russia](country_name)
+- my origin is [Russia](country_name) country
+- Me lives in [Russia](country_name)
+- citizen of [Russia](country_name) citizenry
+- language [Russia](country_name)
+- I'm in [Russia](country_name) is the country
+- from [Russia](country_name) country
+- language of [Russia](country_name) citizenry
+- from [Russia](country_name)
+- I'm from [Russia](country_name) country
+- language [Russia](country_name) country
+- my origin is [Russia](country_name) citizenry
+- Me lives in [Russia](country_name) country
+- I'm from [Russia](country_name) is the country
+- from [Russia](country_name) citizenry
+- I came in [Russia](country_name)
+- lives in [Russia](country_name) citizenry
+- I'm in [Russia](country_name) country
+- citizen of [Russia](country_name) is the country
+- citizens [Russia](country_name) citizenry
+- [Russia](country_name) citizenry
+- citizen of [Russia](country_name)
+- [Azerbaijan](country_name)
+- my origin is [Azerbaijan](country_name)
+- lives in [Azerbaijan](country_name) is the country
+- language [Azerbaijan](country_name) citizenry
+- Me lives in [Azerbaijan](country_name)
+- I'm from [Azerbaijan](country_name) is the country
+- language of [Azerbaijan](country_name) is the country
+- I'm in [Azerbaijan](country_name) citizenry
+- from [Azerbaijan](country_name)
+- [Azerbaijan](country_name) citizenry
+- citizens [Azerbaijan](country_name) country
+- lives in [Azerbaijan](country_name) citizenry
+- citizen of [Azerbaijan](country_name) country
+- citizen of [Azerbaijan](country_name) citizenry
+- Me lives in [Azerbaijan](country_name) citizenry
+- I'm from [Azerbaijan](country_name) citizenry
+- [Azerbaijan](country_name) country
+- I'm in [Azerbaijan](country_name)
+- Me lives in [Azerbaijan](country_name) country
+- from [Azerbaijan](country_name) is the country
+- lives in [Azerbaijan](country_name)
+- my origin is [Azerbaijan](country_name) citizenry
+- [Switzerland](country_name)
+- I came in [Switzerland](country_name) is the country
+- [Switzerland](country_name) citizenry
+- I'm in [Switzerland](country_name) country
+- lives in [Switzerland](country_name)
+- my origin is [Switzerland](country_name) is the country
+- citizens [Switzerland](country_name) country
+- I'm from [Switzerland](country_name)
+- Me lives in [Switzerland](country_name) citizenry
+- language of [Switzerland](country_name)
+- [Switzerland](country_name) country
+- I came in [Switzerland](country_name) country
+- citizen of [Switzerland](country_name) is the country
+- from [Switzerland](country_name) country
+- Me lives in [Switzerland](country_name) country
+- citizen of [Switzerland](country_name) citizenry
+- lives in [Switzerland](country_name) country
+- I came in [Switzerland](country_name) citizenry
+- language of [Switzerland](country_name) citizenry
+- I'm from [Switzerland](country_name) is the country
+- I'm in [Switzerland](country_name) citizenry
+- citizens [Switzerland](country_name)
+- [El Salvador](country_name)
+- Me lives in [El Salvador](country_name) is the country
+- Me lives in [El Salvador](country_name) citizenry
+- I came in [El Salvador](country_name) citizenry
+- I'm from [El Salvador](country_name) citizenry
+- citizen of [El Salvador](country_name)
+- citizens [El Salvador](country_name) country
+- lives in [El Salvador](country_name) is the country
+- my origin is [El Salvador](country_name) citizenry
+- [El Salvador](country_name)
+- Me lives in [El Salvador](country_name)
+- I'm in [El Salvador](country_name) citizenry
+- from [El Salvador](country_name) citizenry
+- citizen of [El Salvador](country_name) citizenry
+- language of [El Salvador](country_name) is the country
+- citizen of [El Salvador](country_name) country
+- citizens [El Salvador](country_name) citizenry
+- language [El Salvador](country_name)
+- citizens [El Salvador](country_name)
+- lives in [El Salvador](country_name)
+- language [El Salvador](country_name) is the country
+- citizen of [El Salvador](country_name) is the country
+- [Indonesia](country_name)
+- language [Indonesia](country_name) citizenry
+- [Indonesia](country_name) is the country
+- Me lives in [Indonesia](country_name) country
+- I'm from [Indonesia](country_name)
+- I'm in [Indonesia](country_name) country
+- my origin is [Indonesia](country_name) citizenry
+- language [Indonesia](country_name) is the country
+- language of [Indonesia](country_name) citizenry
+- lives in [Indonesia](country_name)
+- Me lives in [Indonesia](country_name) is the country
+- I'm from [Indonesia](country_name) country
+- I'm from [Indonesia](country_name) is the country
+- I'm in [Indonesia](country_name) citizenry
+- from [Indonesia](country_name) citizenry
+- I'm from [Indonesia](country_name) citizenry
+- citizen of [Indonesia](country_name) is the country
+- [Indonesia](country_name)
+- language of [Indonesia](country_name) country
+- my origin is [Indonesia](country_name) country
+- language of [Indonesia](country_name) is the country
+- citizens [Indonesia](country_name) country
+- [Algeria](country_name)
+- language of [Algeria](country_name)
+- lives in [Algeria](country_name) citizenry
+- lives in [Algeria](country_name) country
+- [Algeria](country_name) citizenry
+- [Algeria](country_name) country
+- language of [Algeria](country_name) is the country
+- lives in [Algeria](country_name)
+- my origin is [Algeria](country_name)
+- I'm in [Algeria](country_name)
+- language [Algeria](country_name) is the country
+- language [Algeria](country_name) citizenry
+- from [Algeria](country_name) citizenry
+- [Algeria](country_name) is the country
+- I came in [Algeria](country_name) country
+- citizen of [Algeria](country_name) is the country
+- Me lives in [Algeria](country_name)
+- from [Algeria](country_name) is the country
+- I'm from [Algeria](country_name) country
+- I'm in [Algeria](country_name) is the country
+- language [Algeria](country_name)
+- citizen of [Algeria](country_name) citizenry
+- [Canada](country_name)
+- language of [Canada](country_name) is the country
+- [Canada](country_name)
+- [Canada](country_name) citizenry
+- citizens [Canada](country_name) country
+- citizen of [Canada](country_name)
+- Me lives in [Canada](country_name) country
+- citizens [Canada](country_name)
+- [Canada](country_name) is the country
+- I came in [Canada](country_name) country
+- my origin is [Canada](country_name) country
+- language [Canada](country_name)
+- I'm in [Canada](country_name) citizenry
+- my origin is [Canada](country_name) is the country
+- lives in [Canada](country_name) citizenry
+- I'm from [Canada](country_name) citizenry
+- citizen of [Canada](country_name) country
+- lives in [Canada](country_name) is the country
+- I'm in [Canada](country_name) is the country
+- citizen of [Canada](country_name) citizenry
+- I'm in [Canada](country_name)
+- I came in [Canada](country_name) is the country
+- [Saint Kitts and Nevis](country_name)
+- my origin is [Saint Kitts and Nevis](country_name)
+- I'm from [Saint Kitts and Nevis](country_name) citizenry
+- citizen of [Saint Kitts and Nevis](country_name) is the country
+- from [Saint Kitts and Nevis](country_name)
+- I'm in [Saint Kitts and Nevis](country_name) is the country
+- language of [Saint Kitts and Nevis](country_name) is the country
+- Me lives in [Saint Kitts and Nevis](country_name) citizenry
+- citizens [Saint Kitts and Nevis](country_name) country
+- I'm in [Saint Kitts and Nevis](country_name)
+- from [Saint Kitts and Nevis](country_name) country
+- Me lives in [Saint Kitts and Nevis](country_name)
+- [Saint Kitts and Nevis](country_name) citizenry
+- I'm from [Saint Kitts and Nevis](country_name) is the country
+- lives in [Saint Kitts and Nevis](country_name) citizenry
+- Me lives in [Saint Kitts and Nevis](country_name) country
+- citizens [Saint Kitts and Nevis](country_name)
+- I'm in [Saint Kitts and Nevis](country_name) country
+- [Saint Kitts and Nevis](country_name)
+- from [Saint Kitts and Nevis](country_name) citizenry
+- language of [Saint Kitts and Nevis](country_name) citizenry
+- language [Saint Kitts and Nevis](country_name) is the country
+- [Qatar](country_name)
+- language of [Qatar](country_name) citizenry
+- I came in [Qatar](country_name) citizenry
+- from [Qatar](country_name) is the country
+- language [Qatar](country_name) is the country
+- from [Qatar](country_name) citizenry
+- lives in [Qatar](country_name) citizenry
+- language [Qatar](country_name)
+- language of [Qatar](country_name) is the country
+- I'm from [Qatar](country_name) citizenry
+- I'm from [Qatar](country_name)
+- citizen of [Qatar](country_name) is the country
+- I'm from [Qatar](country_name) is the country
+- language [Qatar](country_name) country
+- I'm in [Qatar](country_name)
+- citizens [Qatar](country_name) country
+- my origin is [Qatar](country_name) country
+- I'm in [Qatar](country_name) is the country
+- Me lives in [Qatar](country_name) citizenry
+- citizen of [Qatar](country_name) citizenry
+- [Qatar](country_name) country
+- my origin is [Qatar](country_name) is the country
+- [Palestine](country_name)
+- my origin is [Palestine](country_name) country
+- citizen of [Palestine](country_name) citizenry
+- language [Palestine](country_name) is the country
+- citizen of [Palestine](country_name)
+- citizens [Palestine](country_name)
+- I came in [Palestine](country_name) is the country
+- I'm in [Palestine](country_name) country
+- [Palestine](country_name) citizenry
+- from [Palestine](country_name) country
+- I'm in [Palestine](country_name) is the country
+- [Palestine](country_name) is the country
+- lives in [Palestine](country_name) country
+- citizens [Palestine](country_name) country
+- my origin is [Palestine](country_name) is the country
+- I'm from [Palestine](country_name) is the country
+- lives in [Palestine](country_name) is the country
+- from [Palestine](country_name) is the country
+- I came in [Palestine](country_name) citizenry
+- language of [Palestine](country_name) is the country
+- [Palestine](country_name)
+- I came in [Palestine](country_name) country
+- [Fiji](country_name)
+- Me lives in [Fiji](country_name) country
+- I'm in [Fiji](country_name) is the country
+- [Fiji](country_name)
+- [Fiji](country_name) citizenry
+- language [Fiji](country_name) country
+- my origin is [Fiji](country_name) citizenry
+- language of [Fiji](country_name) citizenry
+- Me lives in [Fiji](country_name)
+- citizens [Fiji](country_name) citizenry
+- from [Fiji](country_name) country
+- lives in [Fiji](country_name) is the country
+- citizens [Fiji](country_name) is the country
+- I'm from [Fiji](country_name)
+- language [Fiji](country_name) is the country
+- lives in [Fiji](country_name) citizenry
+- I'm in [Fiji](country_name)
+- I'm from [Fiji](country_name) citizenry
+- lives in [Fiji](country_name)
+- from [Fiji](country_name) citizenry
+- citizens [Fiji](country_name) country
+- I'm from [Fiji](country_name) country
+- [Kyrgyzstan](country_name)
+- I came in [Kyrgyzstan](country_name) citizenry
+- language [Kyrgyzstan](country_name)
+- Me lives in [Kyrgyzstan](country_name) citizenry
+- citizen of [Kyrgyzstan](country_name)
+- my origin is [Kyrgyzstan](country_name)
+- I'm from [Kyrgyzstan](country_name)
+- I'm in [Kyrgyzstan](country_name) citizenry
+- citizen of [Kyrgyzstan](country_name) country
+- from [Kyrgyzstan](country_name) is the country
+- from [Kyrgyzstan](country_name)
+- my origin is [Kyrgyzstan](country_name) citizenry
+- I'm in [Kyrgyzstan](country_name)
+- I came in [Kyrgyzstan](country_name) is the country
+- citizen of [Kyrgyzstan](country_name) citizenry
+- I'm in [Kyrgyzstan](country_name) country
+- [Kyrgyzstan](country_name) country
+- language [Kyrgyzstan](country_name) country
+- language of [Kyrgyzstan](country_name) citizenry
+- I'm from [Kyrgyzstan](country_name) is the country
+- [Kyrgyzstan](country_name)
+- language [Kyrgyzstan](country_name) is the country
+- [Cyprus](country_name)
+- my origin is [Cyprus](country_name)
+- citizens [Cyprus](country_name) citizenry
+- [Cyprus](country_name)
+- my origin is [Cyprus](country_name) country
+- citizen of [Cyprus](country_name) citizenry
+- I came in [Cyprus](country_name)
+- language [Cyprus](country_name) country
+- language of [Cyprus](country_name) is the country
+- I'm in [Cyprus](country_name) country
+- language of [Cyprus](country_name)
+- I came in [Cyprus](country_name) country
+- I'm from [Cyprus](country_name)
+- I came in [Cyprus](country_name) is the country
+- citizens [Cyprus](country_name) is the country
+- citizen of [Cyprus](country_name) country
+- my origin is [Cyprus](country_name) citizenry
+- Me lives in [Cyprus](country_name) is the country
+- I came in [Cyprus](country_name) citizenry
+- from [Cyprus](country_name) is the country
+- from [Cyprus](country_name)
+- language [Cyprus](country_name) citizenry
+- [Kiribati](country_name)
+- I'm in [Kiribati](country_name) is the country
+- lives in [Kiribati](country_name) country
+- my origin is [Kiribati](country_name) country
+- I'm from [Kiribati](country_name) is the country
+- language of [Kiribati](country_name) citizenry
+- lives in [Kiribati](country_name) citizenry
+- citizen of [Kiribati](country_name) country
+- I came in [Kiribati](country_name)
+- from [Kiribati](country_name) citizenry
+- [Kiribati](country_name) is the country
+- [Kiribati](country_name) citizenry
+- I came in [Kiribati](country_name) citizenry
+- I'm in [Kiribati](country_name) country
+- citizens [Kiribati](country_name) is the country
+- citizen of [Kiribati](country_name) citizenry
+- Me lives in [Kiribati](country_name) citizenry
+- [Kiribati](country_name) country
+- citizens [Kiribati](country_name) country
+- from [Kiribati](country_name) is the country
+- lives in [Kiribati](country_name)
+- from [Kiribati](country_name) country
+- [Argentina](country_name)
+- [Argentina](country_name)
+- [Argentina](country_name) country
+- I came in [Argentina](country_name) citizenry
+- [Argentina](country_name) citizenry
+- language [Argentina](country_name) is the country
+- from [Argentina](country_name)
+- citizen of [Argentina](country_name) citizenry
+- citizen of [Argentina](country_name) country
+- language of [Argentina](country_name)
+- I'm in [Argentina](country_name)
+- I'm from [Argentina](country_name) is the country
+- I'm from [Argentina](country_name)
+- language of [Argentina](country_name) country
+- my origin is [Argentina](country_name) country
+- lives in [Argentina](country_name)
+- lives in [Argentina](country_name) country
+- citizens [Argentina](country_name) country
+- my origin is [Argentina](country_name) is the country
+- citizen of [Argentina](country_name) is the country
+- I came in [Argentina](country_name) country
+- language [Argentina](country_name) citizenry
+- [Ivory Coast](country_name)
+- my origin is [Ivory Coast](country_name) country
+- language of [Ivory Coast](country_name) country
+- Me lives in [Ivory Coast](country_name) citizenry
+- my origin is [Ivory Coast](country_name) citizenry
+- lives in [Ivory Coast](country_name) is the country
+- language [Ivory Coast](country_name)
+- I came in [Ivory Coast](country_name) is the country
+- my origin is [Ivory Coast](country_name) is the country
+- my origin is [Ivory Coast](country_name)
+- citizen of [Ivory Coast](country_name) citizenry
+- citizens [Ivory Coast](country_name) is the country
+- [Ivory Coast](country_name) is the country
+- Me lives in [Ivory Coast](country_name) country
+- citizens [Ivory Coast](country_name) citizenry
+- I'm from [Ivory Coast](country_name)
+- I'm from [Ivory Coast](country_name) country
+- language [Ivory Coast](country_name) is the country
+- language of [Ivory Coast](country_name)
+- [Ivory Coast](country_name) country
+- I'm in [Ivory Coast](country_name) citizenry
+- citizen of [Ivory Coast](country_name)
+- [France](country_name)
+- Me lives in [France](country_name)
+- my origin is [France](country_name) country
+- from [France](country_name) citizenry
+- lives in [France](country_name) country
+- lives in [France](country_name) is the country
+- [France](country_name)
+- citizens [France](country_name) is the country
+- I'm from [France](country_name) country
+- [France](country_name) is the country
+- I'm in [France](country_name) citizenry
+- I came in [France](country_name) is the country
+- I'm from [France](country_name)
+- my origin is [France](country_name) is the country
+- citizens [France](country_name)
+- my origin is [France](country_name)
+- language [France](country_name) country
+- I'm in [France](country_name)
+- my origin is [France](country_name) citizenry
+- language [France](country_name) is the country
+- lives in [France](country_name) citizenry
+- language [France](country_name)
+- [Nigeria](country_name)
+- I'm from [Nigeria](country_name) citizenry
+- I came in [Nigeria](country_name) country
+- my origin is [Nigeria](country_name) citizenry
+- language [Nigeria](country_name) citizenry
+- citizen of [Nigeria](country_name) country
+- citizens [Nigeria](country_name) country
+- I'm in [Nigeria](country_name) citizenry
+- Me lives in [Nigeria](country_name) is the country
+- I'm in [Nigeria](country_name) country
+- lives in [Nigeria](country_name)
+- [Nigeria](country_name) is the country
+- language of [Nigeria](country_name) citizenry
+- I came in [Nigeria](country_name) is the country
+- citizen of [Nigeria](country_name) citizenry
+- language of [Nigeria](country_name)
+- I came in [Nigeria](country_name)
+- language [Nigeria](country_name)
+- language of [Nigeria](country_name) is the country
+- my origin is [Nigeria](country_name)
+- citizen of [Nigeria](country_name)
+- from [Nigeria](country_name) country
+- [Nauru](country_name)
+- language [Nauru](country_name)
+- [Nauru](country_name) is the country
+- from [Nauru](country_name)
+- language of [Nauru](country_name) country
+- language of [Nauru](country_name)
+- Me lives in [Nauru](country_name) country
+- I'm from [Nauru](country_name) country
+- [Nauru](country_name) country
+- citizen of [Nauru](country_name) citizenry
+- Me lives in [Nauru](country_name)
+- lives in [Nauru](country_name) citizenry
+- I came in [Nauru](country_name) citizenry
+- my origin is [Nauru](country_name) is the country
+- I came in [Nauru](country_name) is the country
+- from [Nauru](country_name) country
+- I came in [Nauru](country_name) country
+- citizen of [Nauru](country_name) country
+- from [Nauru](country_name) citizenry
+- language of [Nauru](country_name) is the country
+- citizens [Nauru](country_name) is the country
+- [Nauru](country_name) citizenry
+- [Kenya](country_name)
+- [Kenya](country_name)
+- Me lives in [Kenya](country_name) citizenry
+- I'm in [Kenya](country_name)
+- language of [Kenya](country_name) country
+- my origin is [Kenya](country_name) is the country
+- from [Kenya](country_name) citizenry
+- from [Kenya](country_name)
+- Me lives in [Kenya](country_name) country
+- I'm from [Kenya](country_name) is the country
+- citizen of [Kenya](country_name) citizenry
+- I'm in [Kenya](country_name) citizenry
+- lives in [Kenya](country_name)
+- language [Kenya](country_name)
+- language [Kenya](country_name) is the country
+- language [Kenya](country_name) country
+- lives in [Kenya](country_name) citizenry
+- I came in [Kenya](country_name)
+- citizens [Kenya](country_name)
+- citizens [Kenya](country_name) citizenry
+- language of [Kenya](country_name) citizenry
+- I'm in [Kenya](country_name) country
+- [Thailand](country_name)
+- language of [Thailand](country_name) is the country
+- I came in [Thailand](country_name)
+- I'm in [Thailand](country_name)
+- from [Thailand](country_name) country
+- citizens [Thailand](country_name) citizenry
+- from [Thailand](country_name) is the country
+- citizens [Thailand](country_name) country
+- I'm in [Thailand](country_name) country
+- I'm in [Thailand](country_name) is the country
+- from [Thailand](country_name) citizenry
+- lives in [Thailand](country_name) country
+- my origin is [Thailand](country_name)
+- I'm from [Thailand](country_name)
+- citizens [Thailand](country_name)
+- citizen of [Thailand](country_name) country
+- Me lives in [Thailand](country_name)
+- [Thailand](country_name) citizenry
+- I'm from [Thailand](country_name) country
+- lives in [Thailand](country_name)
+- lives in [Thailand](country_name) citizenry
+- Me lives in [Thailand](country_name) citizenry
+- [Niger](country_name)
+- [Niger](country_name) is the country
+- I'm from [Niger](country_name) is the country
+- lives in [Niger](country_name) country
+- I came in [Niger](country_name) country
+- Me lives in [Niger](country_name)
+- my origin is [Niger](country_name) citizenry
+- Me lives in [Niger](country_name) is the country
+- citizen of [Niger](country_name)
+- citizen of [Niger](country_name) country
+- language of [Niger](country_name)
+- citizens [Niger](country_name) country
+- I came in [Niger](country_name)
+- language of [Niger](country_name) is the country
+- Me lives in [Niger](country_name) citizenry
+- citizens [Niger](country_name)
+- from [Niger](country_name) citizenry
+- language [Niger](country_name) country
+- language [Niger](country_name) citizenry
+- lives in [Niger](country_name) is the country
+- language of [Niger](country_name) country
+- language [Niger](country_name) is the country
+- [Iran](country_name)
+- I came in [Iran](country_name)
+- citizen of [Iran](country_name)
+- my origin is [Iran](country_name)
+- I'm from [Iran](country_name) citizenry
+- I'm from [Iran](country_name) is the country
+- from [Iran](country_name) is the country
+- lives in [Iran](country_name) is the country
+- citizen of [Iran](country_name) country
+- language [Iran](country_name) is the country
+- language of [Iran](country_name) country
+- citizens [Iran](country_name) is the country
+- I'm from [Iran](country_name) country
+- [Iran](country_name)
+- Me lives in [Iran](country_name)
+- my origin is [Iran](country_name) citizenry
+- citizen of [Iran](country_name) is the country
+- from [Iran](country_name) country
+- Me lives in [Iran](country_name) country
+- lives in [Iran](country_name) country
+- I'm in [Iran](country_name) country
+- I'm in [Iran](country_name) citizenry
+- [Venezuela](country_name)
+- my origin is [Venezuela](country_name) is the country
+- citizen of [Venezuela](country_name) country
+- I'm in [Venezuela](country_name) is the country
+- citizen of [Venezuela](country_name) citizenry
+- lives in [Venezuela](country_name)
+- citizen of [Venezuela](country_name) is the country
+- my origin is [Venezuela](country_name) country
+- Me lives in [Venezuela](country_name) citizenry
+- citizens [Venezuela](country_name) citizenry
+- I came in [Venezuela](country_name)
+- my origin is [Venezuela](country_name)
+- I'm from [Venezuela](country_name) is the country
+- from [Venezuela](country_name)
+- citizen of [Venezuela](country_name)
+- language [Venezuela](country_name)
+- lives in [Venezuela](country_name) is the country
+- I came in [Venezuela](country_name) is the country
+- I came in [Venezuela](country_name) citizenry
+- from [Venezuela](country_name) is the country
+- from [Venezuela](country_name) country
+- I'm in [Venezuela](country_name)
+- [San Marino](country_name)
+- lives in [San Marino](country_name) country
+- Me lives in [San Marino](country_name) is the country
+- lives in [San Marino](country_name) citizenry
+- [San Marino](country_name) country
+- citizen of [San Marino](country_name) citizenry
+- I'm from [San Marino](country_name) is the country
+- from [San Marino](country_name) is the country
+- from [San Marino](country_name) country
+- I came in [San Marino](country_name) is the country
+- I'm in [San Marino](country_name) is the country
+- [San Marino](country_name) is the country
+- I came in [San Marino](country_name) citizenry
+- citizen of [San Marino](country_name) country
+- my origin is [San Marino](country_name)
+- Me lives in [San Marino](country_name) citizenry
+- language of [San Marino](country_name) citizenry
+- citizens [San Marino](country_name) is the country
+- [San Marino](country_name)
+- I came in [San Marino](country_name) country
+- citizens [San Marino](country_name)
+- I'm in [San Marino](country_name) country
+- [South Africa](country_name)
+- language of [South Africa](country_name) is the country
+- from [South Africa](country_name)
+- Me lives in [South Africa](country_name)
+- citizens [South Africa](country_name) is the country
+- I came in [South Africa](country_name)
+- my origin is [South Africa](country_name) country
+- citizen of [South Africa](country_name)
+- language [South Africa](country_name) country
+- I came in [South Africa](country_name) is the country
+- citizen of [South Africa](country_name) country
+- I came in [South Africa](country_name) citizenry
+- language [South Africa](country_name) citizenry
+- [South Africa](country_name) country
+- language of [South Africa](country_name)
+- my origin is [South Africa](country_name) is the country
+- language [South Africa](country_name)
+- Me lives in [South Africa](country_name) citizenry
+- [South Africa](country_name)
+- citizen of [South Africa](country_name) is the country
+- lives in [South Africa](country_name) citizenry
+- my origin is [South Africa](country_name) citizenry
+- [Yemen](country_name)
+- lives in [Yemen](country_name)
+- Me lives in [Yemen](country_name)
+- I'm from [Yemen](country_name)
+- lives in [Yemen](country_name) is the country
+- I'm in [Yemen](country_name) country
+- from [Yemen](country_name) is the country
+- citizens [Yemen](country_name)
+- from [Yemen](country_name)
+- I came in [Yemen](country_name) country
+- language [Yemen](country_name)
+- I'm from [Yemen](country_name) is the country
+- Me lives in [Yemen](country_name) country
+- citizens [Yemen](country_name) citizenry
+- citizen of [Yemen](country_name) is the country
+- citizen of [Yemen](country_name) citizenry
+- I'm in [Yemen](country_name) citizenry
+- [Yemen](country_name) country
+- language of [Yemen](country_name) country
+- my origin is [Yemen](country_name) is the country
+- language [Yemen](country_name) is the country
+- [Yemen](country_name) is the country
+- [Grenada](country_name)
+- lives in [Grenada](country_name) is the country
+- I came in [Grenada](country_name) citizenry
+- language [Grenada](country_name) citizenry
+- I'm from [Grenada](country_name)
+- language [Grenada](country_name) is the country
+- citizen of [Grenada](country_name)
+- my origin is [Grenada](country_name)
+- citizen of [Grenada](country_name) country
+- Me lives in [Grenada](country_name) is the country
+- lives in [Grenada](country_name) country
+- [Grenada](country_name) country
+- from [Grenada](country_name) is the country
+- [Grenada](country_name) is the country
+- I'm in [Grenada](country_name) is the country
+- language of [Grenada](country_name) is the country
+- I'm from [Grenada](country_name) country
+- [Grenada](country_name) citizenry
+- I'm in [Grenada](country_name) citizenry
+- Me lives in [Grenada](country_name)
+- [Grenada](country_name)
+- my origin is [Grenada](country_name) citizenry
 - [Ghana](country_name)
-- citizen of [Ghana](country_name)
-- [Ghana](country_name) is the country
-- lives in [Ghana](country_name)
-- my origin is [Ghana](country_name) citizenry
-- from [Ghana](country_name)
-- language of [Ghana](country_name) country
-- I'm in [Ghana](country_name) country
-- language of [Ghana](country_name) is the country
-- citizen of [Ghana](country_name) citizenry
-- [Ghana](country_name) country
-- [Ghana](country_name) citizenry
-- citizens [Ghana](country_name) citizenry
-- language [Ghana](country_name) citizenry
-- lives in [Ghana](country_name) country
-- citizens [Ghana](country_name)
-- language of [Ghana](country_name)
-- I'm from [Ghana](country_name) is the country
+- my origin is [Ghana](country_name) is the country
 - citizens [Ghana](country_name) is the country
-- language [Ghana](country_name) country
+- I came in [Ghana](country_name) citizenry
+- citizen of [Ghana](country_name) citizenry
+- my origin is [Ghana](country_name) country
+- [Ghana](country_name) country
+- lives in [Ghana](country_name)
+- I'm from [Ghana](country_name) is the country
+- language of [Ghana](country_name) is the country
+- I came in [Ghana](country_name) country
+- language of [Ghana](country_name) country
+- from [Ghana](country_name)
+- lives in [Ghana](country_name) citizenry
+- language [Ghana](country_name) is the country
+- lives in [Ghana](country_name) is the country
+- I'm in [Ghana](country_name) is the country
+- I came in [Ghana](country_name)
 - I came in [Ghana](country_name) is the country
-- from [Ghana](country_name) country
-- [Bahrain](country_name)
-- Me lives in [Bahrain](country_name) citizenry
-- I came in [Bahrain](country_name) is the country
-- my origin is [Bahrain](country_name) is the country
-- language of [Bahrain](country_name) country
-- from [Bahrain](country_name) is the country
-- [Bahrain](country_name) citizenry
-- citizen of [Bahrain](country_name) country
-- I'm from [Bahrain](country_name)
-- language of [Bahrain](country_name) citizenry
-- I came in [Bahrain](country_name)
-- language of [Bahrain](country_name) is the country
-- Me lives in [Bahrain](country_name) is the country
-- lives in [Bahrain](country_name) citizenry
-- my origin is [Bahrain](country_name) citizenry
-- language [Bahrain](country_name) is the country
-- citizen of [Bahrain](country_name)
-- citizens [Bahrain](country_name) country
-- language [Bahrain](country_name)
-- language [Bahrain](country_name) country
-- my origin is [Bahrain](country_name)
-- I'm from [Bahrain](country_name) is the country
-- [Portugal](country_name)
-- [Portugal](country_name) country
-- from [Portugal](country_name) country
-- Me lives in [Portugal](country_name)
-- citizen of [Portugal](country_name) country
-- citizen of [Portugal](country_name) citizenry
-- I'm in [Portugal](country_name) citizenry
-- I'm in [Portugal](country_name) is the country
-- [Portugal](country_name)
-- citizens [Portugal](country_name)
-- Me lives in [Portugal](country_name) country
-- citizen of [Portugal](country_name)
-- I'm in [Portugal](country_name) country
-- language of [Portugal](country_name) country
-- I'm in [Portugal](country_name)
-- my origin is [Portugal](country_name) is the country
-- citizens [Portugal](country_name) is the country
-- my origin is [Portugal](country_name) citizenry
-- language of [Portugal](country_name) citizenry
-- [Portugal](country_name) citizenry
-- language of [Portugal](country_name)
-- Me lives in [Portugal](country_name) is the country
-- [Burkina Faso](country_name)
-- I came in [Burkina Faso](country_name) country
-- lives in [Burkina Faso](country_name) is the country
-- language of [Burkina Faso](country_name)
-- Me lives in [Burkina Faso](country_name) is the country
-- my origin is [Burkina Faso](country_name) is the country
-- I'm from [Burkina Faso](country_name) is the country
-- I'm in [Burkina Faso](country_name) citizenry
-- I'm from [Burkina Faso](country_name) country
-- language [Burkina Faso](country_name) country
-- my origin is [Burkina Faso](country_name) citizenry
-- citizen of [Burkina Faso](country_name) is the country
-- Me lives in [Burkina Faso](country_name) country
-- my origin is [Burkina Faso](country_name) country
-- lives in [Burkina Faso](country_name) country
-- citizen of [Burkina Faso](country_name) country
-- [Burkina Faso](country_name) citizenry
-- citizens [Burkina Faso](country_name) citizenry
-- I'm from [Burkina Faso](country_name) citizenry
-- citizens [Burkina Faso](country_name) country
-- language [Burkina Faso](country_name) citizenry
-- I'm in [Burkina Faso](country_name) is the country
-- [TV](country_code)
-- I came in [TV](country_code)
-- Me lives in [TV](country_code) country
-- my origin is [TV](country_code)
-- from [TV](country_code) is the country
-- my origin is [TV](country_code) is the country
-- citizens [TV](country_code)
-- I'm in [TV](country_code) citizenry
-- lives in [TV](country_code) country
-- I'm from [TV](country_code) citizenry
-- citizens [TV](country_code) citizenry
-- citizens [TV](country_code) country
-- I came in [TV](country_code) is the country
-- Me lives in [TV](country_code) citizenry
-- Me lives in [TV](country_code)
-- my origin is [TV](country_code) country
-- citizens [TV](country_code) is the country
-- [TV](country_code) is the country
-- language of [TV](country_code) citizenry
-- my origin is [TV](country_code) citizenry
-- lives in [TV](country_code) citizenry
-- from [TV](country_code) citizenry
-- [HU](country_code)
-- lives in [HU](country_code) country
-- citizen of [HU](country_code)
-- from [HU](country_code) is the country
-- from [HU](country_code)
-- Me lives in [HU](country_code)
-- I'm from [HU](country_code) country
-- Me lives in [HU](country_code) is the country
-- lives in [HU](country_code) is the country
-- I'm in [HU](country_code) citizenry
-- lives in [HU](country_code) citizenry
-- I came in [HU](country_code) country
-- I'm in [HU](country_code) is the country
-- lives in [HU](country_code)
-- from [HU](country_code) citizenry
-- my origin is [HU](country_code) country
-- citizens [HU](country_code) country
-- language [HU](country_code) citizenry
-- [HU](country_code) country
-- I'm from [HU](country_code)
-- language [HU](country_code) is the country
-- language of [HU](country_code) country
-- [nan](country_code)
-- language of [nan](country_code)
-- I came in [nan](country_code) citizenry
-- from [nan](country_code) citizenry
-- Me lives in [nan](country_code) citizenry
-- from [nan](country_code)
-- I'm in [nan](country_code) is the country
-- I'm from [nan](country_code) country
-- I came in [nan](country_code) is the country
-- citizen of [nan](country_code) country
-- my origin is [nan](country_code) citizenry
-- citizen of [nan](country_code)
-- I'm in [nan](country_code) country
-- language of [nan](country_code) is the country
-- I came in [nan](country_code)
-- I'm from [nan](country_code) citizenry
-- Me lives in [nan](country_code) is the country
-- language [nan](country_code) is the country
-- citizen of [nan](country_code) is the country
-- citizens [nan](country_code) country
-- from [nan](country_code) country
-- citizens [nan](country_code) is the country
-- [AE](country_code)
-- lives in [AE](country_code) is the country
-- from [AE](country_code) is the country
-- my origin is [AE](country_code) citizenry
-- citizen of [AE](country_code) citizenry
-- language of [AE](country_code)
-- my origin is [AE](country_code)
-- from [AE](country_code) country
-- I came in [AE](country_code) is the country
-- citizen of [AE](country_code) is the country
-- citizens [AE](country_code)
-- language of [AE](country_code) is the country
-- I'm in [AE](country_code) country
-- my origin is [AE](country_code) is the country
-- lives in [AE](country_code)
-- language of [AE](country_code) citizenry
-- I'm from [AE](country_code) citizenry
-- language [AE](country_code)
-- I came in [AE](country_code)
-- citizen of [AE](country_code) country
-- I'm from [AE](country_code) country
-- Me lives in [AE](country_code) citizenry
-- [PT](country_code)
-- Me lives in [PT](country_code) country
-- citizen of [PT](country_code) is the country
-- citizen of [PT](country_code)
-- I'm in [PT](country_code) country
-- [PT](country_code) citizenry
-- from [PT](country_code) country
-- I'm from [PT](country_code) country
-- Me lives in [PT](country_code) is the country
-- I'm in [PT](country_code) is the country
-- I came in [PT](country_code) is the country
-- I'm from [PT](country_code) is the country
-- I'm from [PT](country_code) citizenry
-- [PT](country_code)
-- language of [PT](country_code)
-- lives in [PT](country_code) citizenry
-- Me lives in [PT](country_code) citizenry
-- citizens [PT](country_code) citizenry
-- citizens [PT](country_code) is the country
-- my origin is [PT](country_code) country
-- language [PT](country_code) country
-- I came in [PT](country_code)
-- [AU](country_code)
-- I'm from [AU](country_code)
-- language [AU](country_code) is the country
-- citizens [AU](country_code) citizenry
-- I'm from [AU](country_code) country
-- citizens [AU](country_code) is the country
-- I came in [AU](country_code)
-- citizen of [AU](country_code) citizenry
-- I came in [AU](country_code) country
-- I'm in [AU](country_code) country
-- language [AU](country_code) country
-- citizen of [AU](country_code) is the country
-- language of [AU](country_code) is the country
-- my origin is [AU](country_code)
-- I'm in [AU](country_code)
-- I came in [AU](country_code) is the country
-- citizens [AU](country_code) country
-- I came in [AU](country_code) citizenry
-- I'm from [AU](country_code) citizenry
-- from [AU](country_code) is the country
-- citizens [AU](country_code)
-- language of [AU](country_code) citizenry
-- [BW](country_code)
-- language [BW](country_code) country
-- I'm from [BW](country_code) citizenry
-- citizens [BW](country_code) country
-- I'm from [BW](country_code)
-- my origin is [BW](country_code)
-- citizen of [BW](country_code) country
-- language of [BW](country_code) citizenry
-- from [BW](country_code) is the country
-- I came in [BW](country_code) is the country
-- I'm in [BW](country_code)
-- Me lives in [BW](country_code) country
-- language [BW](country_code) citizenry
-- lives in [BW](country_code) is the country
-- my origin is [BW](country_code) is the country
-- I came in [BW](country_code) citizenry
-- citizen of [BW](country_code) is the country
-- I came in [BW](country_code) country
-- lives in [BW](country_code) country
-- Me lives in [BW](country_code) citizenry
-- I'm in [BW](country_code) citizenry
-- I'm in [BW](country_code) country
-- [NE](country_code)
-- my origin is [NE](country_code) country
-- citizens [NE](country_code) country
-- my origin is [NE](country_code) citizenry
-- language of [NE](country_code)
-- citizen of [NE](country_code)
-- I'm from [NE](country_code) country
-- citizens [NE](country_code) citizenry
-- language of [NE](country_code) is the country
-- my origin is [NE](country_code)
-- language [NE](country_code) is the country
-- Me lives in [NE](country_code) country
-- Me lives in [NE](country_code) is the country
-- I'm in [NE](country_code)
-- from [NE](country_code)
-- citizens [NE](country_code)
-- citizen of [NE](country_code) country
-- lives in [NE](country_code)
-- lives in [NE](country_code) is the country
-- language of [NE](country_code) citizenry
-- I came in [NE](country_code)
-- language [NE](country_code) citizenry
-- [SD](country_code)
-- language [SD](country_code) is the country
-- Me lives in [SD](country_code)
-- citizen of [SD](country_code)
-- [SD](country_code) is the country
-- from [SD](country_code) country
-- I'm from [SD](country_code) country
-- [SD](country_code)
-- I came in [SD](country_code) country
-- I came in [SD](country_code) is the country
-- citizen of [SD](country_code) country
-- language [SD](country_code)
-- I'm from [SD](country_code) is the country
-- citizens [SD](country_code) is the country
-- from [SD](country_code) is the country
-- I'm in [SD](country_code) citizenry
-- language [SD](country_code) country
-- language of [SD](country_code)
-- I'm in [SD](country_code) country
-- I came in [SD](country_code) citizenry
-- language of [SD](country_code) citizenry
-- language of [SD](country_code) is the country
-- [MG](country_code)
-- my origin is [MG](country_code) citizenry
-- I came in [MG](country_code) citizenry
-- I'm in [MG](country_code)
-- citizen of [MG](country_code) citizenry
-- Me lives in [MG](country_code)
-- I'm from [MG](country_code) citizenry
-- citizen of [MG](country_code)
-- citizen of [MG](country_code) is the country
-- I'm in [MG](country_code) country
-- from [MG](country_code) citizenry
-- language [MG](country_code) citizenry
-- lives in [MG](country_code) is the country
-- Me lives in [MG](country_code) citizenry
-- language [MG](country_code)
-- I came in [MG](country_code) country
-- citizen of [MG](country_code) country
-- language of [MG](country_code) citizenry
-- [MG](country_code) citizenry
-- from [MG](country_code)
-- citizens [MG](country_code) is the country
-- I came in [MG](country_code) is the country
-- [SK](country_code)
-- lives in [SK](country_code) country
-- language [SK](country_code) citizenry
-- citizens [SK](country_code) citizenry
-- I'm in [SK](country_code) citizenry
-- I'm from [SK](country_code)
-- my origin is [SK](country_code) is the country
-- language of [SK](country_code) citizenry
-- Me lives in [SK](country_code) country
-- [SK](country_code) citizenry
-- citizen of [SK](country_code) citizenry
-- Me lives in [SK](country_code)
-- citizen of [SK](country_code) is the country
-- from [SK](country_code) citizenry
-- I'm from [SK](country_code) country
-- [SK](country_code) country
-- from [SK](country_code) country
-- [SK](country_code)
-- language [SK](country_code) is the country
-- citizens [SK](country_code) country
-- language of [SK](country_code)
-- [SK](country_code) is the country
-- [CL](country_code)
-- Me lives in [CL](country_code)
-- citizens [CL](country_code) citizenry
-- from [CL](country_code) citizenry
-- citizen of [CL](country_code) citizenry
-- I'm from [CL](country_code) country
-- I came in [CL](country_code)
-- language of [CL](country_code)
-- language of [CL](country_code) is the country
-- [CL](country_code) country
-- from [CL](country_code) is the country
-- Me lives in [CL](country_code) country
-- I'm in [CL](country_code) is the country
-- [CL](country_code)
-- I'm from [CL](country_code) citizenry
-- lives in [CL](country_code) is the country
-- [CL](country_code) citizenry
-- my origin is [CL](country_code) is the country
-- language of [CL](country_code) country
-- from [CL](country_code) country
-- citizen of [CL](country_code) country
-- I came in [CL](country_code) is the country
-- [SE](country_code)
-- [SE](country_code) country
-- I'm in [SE](country_code) citizenry
-- I came in [SE](country_code)
-- I came in [SE](country_code) is the country
-- my origin is [SE](country_code) citizenry
-- I'm from [SE](country_code)
-- I'm in [SE](country_code)
-- citizen of [SE](country_code) citizenry
-- lives in [SE](country_code) citizenry
-- from [SE](country_code)
-- I'm in [SE](country_code) country
-- Me lives in [SE](country_code)
-- I came in [SE](country_code) country
-- from [SE](country_code) is the country
-- [SE](country_code) is the country
-- I'm in [SE](country_code) is the country
-- I came in [SE](country_code) citizenry
-- language [SE](country_code) country
-- language [SE](country_code)
-- citizens [SE](country_code) citizenry
-- citizen of [SE](country_code)
+- language of [Ghana](country_name) citizenry
+- my origin is [Ghana](country_name)
+- citizen of [Ghana](country_name) country
+- [Northern Cyprus](country_name)
+- Me lives in [Northern Cyprus](country_name)
+- my origin is [Northern Cyprus](country_name) is the country
+- language of [Northern Cyprus](country_name) country
+- language [Northern Cyprus](country_name) citizenry
+- lives in [Northern Cyprus](country_name) is the country
+- language [Northern Cyprus](country_name) is the country
+- I'm in [Northern Cyprus](country_name) is the country
+- my origin is [Northern Cyprus](country_name) country
+- I'm from [Northern Cyprus](country_name) is the country
+- lives in [Northern Cyprus](country_name) country
+- citizen of [Northern Cyprus](country_name) country
+- citizen of [Northern Cyprus](country_name) is the country
+- language of [Northern Cyprus](country_name) citizenry
+- language of [Northern Cyprus](country_name) is the country
+- lives in [Northern Cyprus](country_name) citizenry
+- Me lives in [Northern Cyprus](country_name) country
+- [Northern Cyprus](country_name) citizenry
+- I'm in [Northern Cyprus](country_name)
+- my origin is [Northern Cyprus](country_name)
+- from [Northern Cyprus](country_name) citizenry
+- Me lives in [Northern Cyprus](country_name) is the country
+- [Namibia](country_name)
+- language of [Namibia](country_name) country
+- my origin is [Namibia](country_name)
+- from [Namibia](country_name) country
+- from [Namibia](country_name) citizenry
+- I'm from [Namibia](country_name)
+- Me lives in [Namibia](country_name)
+- [Namibia](country_name) is the country
+- language of [Namibia](country_name) citizenry
+- I'm from [Namibia](country_name) is the country
+- lives in [Namibia](country_name) is the country
+- from [Namibia](country_name)
+- my origin is [Namibia](country_name) country
+- [Namibia](country_name) citizenry
+- my origin is [Namibia](country_name) citizenry
+- I'm from [Namibia](country_name) country
+- [Namibia](country_name) country
+- from [Namibia](country_name) is the country
+- citizens [Namibia](country_name) country
+- language [Namibia](country_name) citizenry
+- I'm in [Namibia](country_name) citizenry
+- citizen of [Namibia](country_name) country
+- [United States](country_name)
+- citizens [United States](country_name) is the country
+- language of [United States](country_name)
+- citizens [United States](country_name) citizenry
+- my origin is [United States](country_name) country
+- I'm from [United States](country_name) country
+- [United States](country_name) is the country
+- lives in [United States](country_name) country
+- citizen of [United States](country_name) citizenry
+- Me lives in [United States](country_name) is the country
+- I came in [United States](country_name) is the country
+- language [United States](country_name) is the country
+- Me lives in [United States](country_name) country
+- I came in [United States](country_name) citizenry
+- [United States](country_name)
+- language [United States](country_name) country
+- citizens [United States](country_name)
+- I'm from [United States](country_name) citizenry
+- language [United States](country_name) citizenry
+- from [United States](country_name) country
+- I'm from [United States](country_name)
+- my origin is [United States](country_name)
+- [Gabon](country_name)
+- language [Gabon](country_name) citizenry
+- citizen of [Gabon](country_name) is the country
+- language [Gabon](country_name) country
+- from [Gabon](country_name)
+- I'm in [Gabon](country_name) citizenry
+- I'm in [Gabon](country_name)
+- I'm in [Gabon](country_name) country
+- I'm from [Gabon](country_name) citizenry
+- lives in [Gabon](country_name) country
+- citizens [Gabon](country_name)
+- citizens [Gabon](country_name) country
+- I'm from [Gabon](country_name) is the country
+- I'm from [Gabon](country_name)
+- Me lives in [Gabon](country_name) country
+- language of [Gabon](country_name)
+- language [Gabon](country_name) is the country
+- I'm in [Gabon](country_name) is the country
+- language of [Gabon](country_name) is the country
+- my origin is [Gabon](country_name)
+- citizen of [Gabon](country_name)
+- [Gabon](country_name) country
+- [Sierra Leone](country_name)
+- my origin is [Sierra Leone](country_name) citizenry
+- citizen of [Sierra Leone](country_name) is the country
+- language [Sierra Leone](country_name) country
+- I came in [Sierra Leone](country_name) country
+- Me lives in [Sierra Leone](country_name)
+- lives in [Sierra Leone](country_name)
+- citizen of [Sierra Leone](country_name)
+- my origin is [Sierra Leone](country_name)
+- [Sierra Leone](country_name) is the country
+- from [Sierra Leone](country_name) is the country
+- language [Sierra Leone](country_name) is the country
+- [Sierra Leone](country_name) country
+- I'm in [Sierra Leone](country_name) country
+- citizens [Sierra Leone](country_name) country
+- I'm in [Sierra Leone](country_name)
+- I'm from [Sierra Leone](country_name)
+- citizen of [Sierra Leone](country_name) country
+- I came in [Sierra Leone](country_name) is the country
+- citizens [Sierra Leone](country_name)
+- language of [Sierra Leone](country_name)
+- language of [Sierra Leone](country_name) country
+- [Costa Rica](country_name)
+- I'm in [Costa Rica](country_name) citizenry
+- [Costa Rica](country_name)
+- I'm in [Costa Rica](country_name) is the country
+- I came in [Costa Rica](country_name) citizenry
+- language [Costa Rica](country_name)
+- language [Costa Rica](country_name) is the country
+- from [Costa Rica](country_name)
+- I'm from [Costa Rica](country_name) country
+- I came in [Costa Rica](country_name)
+- my origin is [Costa Rica](country_name) citizenry
+- I came in [Costa Rica](country_name) country
+- I'm from [Costa Rica](country_name) is the country
+- citizen of [Costa Rica](country_name) is the country
+- from [Costa Rica](country_name) is the country
+- citizen of [Costa Rica](country_name) citizenry
+- lives in [Costa Rica](country_name)
+- I came in [Costa Rica](country_name) is the country
+- I'm from [Costa Rica](country_name)
+- lives in [Costa Rica](country_name) country
+- Me lives in [Costa Rica](country_name) citizenry
+- language [Costa Rica](country_name) country
+- [Benin](country_name)
+- lives in [Benin](country_name)
+- my origin is [Benin](country_name) citizenry
+- language of [Benin](country_name) citizenry
+- I'm from [Benin](country_name) is the country
+- language of [Benin](country_name)
+- lives in [Benin](country_name) is the country
+- citizen of [Benin](country_name) is the country
+- language [Benin](country_name) citizenry
+- I'm in [Benin](country_name)
+- I'm in [Benin](country_name) country
+- Me lives in [Benin](country_name) citizenry
+- [Benin](country_name) is the country
+- [Benin](country_name) citizenry
+- citizens [Benin](country_name) citizenry
+- from [Benin](country_name)
+- I came in [Benin](country_name) country
+- citizen of [Benin](country_name) citizenry
+- lives in [Benin](country_name) country
+- Me lives in [Benin](country_name) country
+- language of [Benin](country_name) country
+- I came in [Benin](country_name) is the country
+- [Burundi](country_name)
+- from [Burundi](country_name) citizenry
+- I came in [Burundi](country_name)
+- lives in [Burundi](country_name) country
+- citizens [Burundi](country_name)
+- I'm from [Burundi](country_name) citizenry
+- lives in [Burundi](country_name) citizenry
+- lives in [Burundi](country_name)
+- I'm in [Burundi](country_name) country
+- citizen of [Burundi](country_name) is the country
+- citizen of [Burundi](country_name)
+- Me lives in [Burundi](country_name) country
+- citizen of [Burundi](country_name) country
+- language of [Burundi](country_name) country
+- [Burundi](country_name) country
+- citizen of [Burundi](country_name) citizenry
+- language [Burundi](country_name)
+- from [Burundi](country_name) is the country
+- citizens [Burundi](country_name) country
+- my origin is [Burundi](country_name) country
+- [Burundi](country_name) is the country
+- I'm in [Burundi](country_name)
+- [Saint Lucia](country_name)
+- I came in [Saint Lucia](country_name) citizenry
+- language of [Saint Lucia](country_name)
+- I came in [Saint Lucia](country_name) is the country
+- my origin is [Saint Lucia](country_name) is the country
+- [Saint Lucia](country_name) country
+- language [Saint Lucia](country_name)
+- from [Saint Lucia](country_name) citizenry
+- language [Saint Lucia](country_name) citizenry
+- language [Saint Lucia](country_name) is the country
+- citizen of [Saint Lucia](country_name) citizenry
+- lives in [Saint Lucia](country_name) citizenry
+- from [Saint Lucia](country_name) is the country
+- I'm from [Saint Lucia](country_name) is the country
+- Me lives in [Saint Lucia](country_name) country
+- language of [Saint Lucia](country_name) is the country
+- I came in [Saint Lucia](country_name) country
+- lives in [Saint Lucia](country_name) is the country
+- my origin is [Saint Lucia](country_name) country
+- from [Saint Lucia](country_name) country
+- I'm from [Saint Lucia](country_name) country
+- from [Saint Lucia](country_name)
+- [Germany](country_name)
+- citizen of [Germany](country_name) is the country
+- I'm in [Germany](country_name)
+- lives in [Germany](country_name)
+- lives in [Germany](country_name) country
+- language of [Germany](country_name) is the country
+- language [Germany](country_name)
+- [Germany](country_name) country
+- citizens [Germany](country_name)
+- language [Germany](country_name) is the country
+- from [Germany](country_name) is the country
+- from [Germany](country_name)
+- my origin is [Germany](country_name) citizenry
+- citizen of [Germany](country_name) citizenry
+- [Germany](country_name)
+- I'm in [Germany](country_name) citizenry
+- my origin is [Germany](country_name) country
+- Me lives in [Germany](country_name) is the country
+- I'm from [Germany](country_name) citizenry
+- language [Germany](country_name) country
+- my origin is [Germany](country_name) is the country
+- language of [Germany](country_name)
+- [Seychelles](country_name)
+- language of [Seychelles](country_name) is the country
+- from [Seychelles](country_name) citizenry
+- [Seychelles](country_name)
+- language [Seychelles](country_name) is the country
+- I came in [Seychelles](country_name) is the country
+- I'm from [Seychelles](country_name) is the country
+- language [Seychelles](country_name) citizenry
+- citizens [Seychelles](country_name)
+- language of [Seychelles](country_name) country
+- my origin is [Seychelles](country_name)
+- Me lives in [Seychelles](country_name)
+- lives in [Seychelles](country_name)
+- language of [Seychelles](country_name) citizenry
+- Me lives in [Seychelles](country_name) citizenry
+- [Seychelles](country_name) citizenry
+- citizens [Seychelles](country_name) citizenry
+- citizens [Seychelles](country_name) is the country
+- Me lives in [Seychelles](country_name) country
+- Me lives in [Seychelles](country_name) is the country
+- I'm from [Seychelles](country_name) citizenry
+- from [Seychelles](country_name) country
+- [Moldova](country_name)
+- I came in [Moldova](country_name) citizenry
+- Me lives in [Moldova](country_name) is the country
+- my origin is [Moldova](country_name) citizenry
+- I'm from [Moldova](country_name)
+- from [Moldova](country_name)
+- [Moldova](country_name) is the country
+- I'm from [Moldova](country_name) is the country
+- citizen of [Moldova](country_name) is the country
+- language of [Moldova](country_name) country
+- lives in [Moldova](country_name) citizenry
+- my origin is [Moldova](country_name) is the country
+- Me lives in [Moldova](country_name) citizenry
+- from [Moldova](country_name) is the country
+- language [Moldova](country_name) is the country
+- I came in [Moldova](country_name) is the country
+- citizens [Moldova](country_name)
+- citizens [Moldova](country_name) citizenry
+- I'm from [Moldova](country_name) citizenry
+- lives in [Moldova](country_name) is the country
+- [Moldova](country_name)
+- citizen of [Moldova](country_name)
+- [Estonia](country_name)
+- my origin is [Estonia](country_name) citizenry
+- I'm from [Estonia](country_name) citizenry
+- lives in [Estonia](country_name)
+- [Estonia](country_name)
+- Me lives in [Estonia](country_name) is the country
+- from [Estonia](country_name) is the country
+- citizen of [Estonia](country_name) country
+- I'm from [Estonia](country_name)
+- I'm from [Estonia](country_name) country
+- citizens [Estonia](country_name)
+- language of [Estonia](country_name) is the country
+- language of [Estonia](country_name)
+- [Estonia](country_name) citizenry
+- language [Estonia](country_name)
+- I'm in [Estonia](country_name) is the country
+- from [Estonia](country_name) country
+- citizen of [Estonia](country_name) is the country
+- language of [Estonia](country_name) country
+- I'm in [Estonia](country_name) citizenry
+- language of [Estonia](country_name) citizenry
+- from [Estonia](country_name)
+- [Australia](country_name)
+- I came in [Australia](country_name) citizenry
+- language of [Australia](country_name) country
+- citizen of [Australia](country_name) citizenry
+- citizen of [Australia](country_name) is the country
+- I'm in [Australia](country_name)
+- Me lives in [Australia](country_name) country
+- from [Australia](country_name) citizenry
+- lives in [Australia](country_name) is the country
+- language [Australia](country_name) is the country
+- language [Australia](country_name)
+- citizen of [Australia](country_name) country
+- I'm in [Australia](country_name) citizenry
+- citizens [Australia](country_name) citizenry
+- I'm in [Australia](country_name) country
+- lives in [Australia](country_name) country
+- lives in [Australia](country_name) citizenry
+- from [Australia](country_name) country
+- citizens [Australia](country_name) is the country
+- my origin is [Australia](country_name) citizenry
+- I came in [Australia](country_name) is the country
+- [Australia](country_name)
+- [Uganda](country_name)
+- language [Uganda](country_name)
+- my origin is [Uganda](country_name) citizenry
+- I came in [Uganda](country_name) country
+- language of [Uganda](country_name) country
+- my origin is [Uganda](country_name) is the country
+- from [Uganda](country_name) citizenry
+- I'm in [Uganda](country_name) country
+- my origin is [Uganda](country_name)
+- lives in [Uganda](country_name)
+- I'm in [Uganda](country_name)
+- language of [Uganda](country_name)
+- language [Uganda](country_name) is the country
+- I came in [Uganda](country_name)
+- from [Uganda](country_name) is the country
+- [Uganda](country_name) country
+- I'm in [Uganda](country_name) citizenry
+- my origin is [Uganda](country_name) country
+- from [Uganda](country_name)
+- citizens [Uganda](country_name)
+- lives in [Uganda](country_name) country
+- citizen of [Uganda](country_name) citizenry
+- [United Kingdom](country_name)
+- I came in [United Kingdom](country_name) is the country
+- I'm in [United Kingdom](country_name) country
+- I came in [United Kingdom](country_name) citizenry
+- I'm in [United Kingdom](country_name) is the country
+- lives in [United Kingdom](country_name) citizenry
+- lives in [United Kingdom](country_name) is the country
+- from [United Kingdom](country_name) citizenry
+- citizen of [United Kingdom](country_name) country
+- from [United Kingdom](country_name) is the country
+- language of [United Kingdom](country_name) country
+- citizen of [United Kingdom](country_name)
+- citizen of [United Kingdom](country_name) is the country
+- citizens [United Kingdom](country_name) citizenry
+- Me lives in [United Kingdom](country_name) country
+- I came in [United Kingdom](country_name)
+- from [United Kingdom](country_name)
+- language [United Kingdom](country_name) citizenry
+- my origin is [United Kingdom](country_name)
+- lives in [United Kingdom](country_name) country
+- language [United Kingdom](country_name)
+- I'm in [United Kingdom](country_name)
+- [Singapore](country_name)
+- Me lives in [Singapore](country_name)
+- Me lives in [Singapore](country_name) citizenry
+- citizen of [Singapore](country_name) is the country
+- lives in [Singapore](country_name)
+- I came in [Singapore](country_name)
+- my origin is [Singapore](country_name) is the country
+- language of [Singapore](country_name)
+- from [Singapore](country_name) country
+- language of [Singapore](country_name) country
+- I came in [Singapore](country_name) citizenry
+- I came in [Singapore](country_name) country
+- language [Singapore](country_name) is the country
+- I'm from [Singapore](country_name) citizenry
+- language [Singapore](country_name) citizenry
+- [Singapore](country_name)
+- language [Singapore](country_name)
+- I'm in [Singapore](country_name)
+- from [Singapore](country_name) is the country
+- citizen of [Singapore](country_name) country
+- I'm in [Singapore](country_name) country
+- I'm from [Singapore](country_name) country
+- [Gambia](country_name)
+- from [Gambia](country_name) citizenry
+- Me lives in [Gambia](country_name) citizenry
+- language of [Gambia](country_name)
+- I came in [Gambia](country_name) citizenry
+- citizens [Gambia](country_name)
+- Me lives in [Gambia](country_name)
+- I came in [Gambia](country_name) is the country
+- [Gambia](country_name) citizenry
+- language of [Gambia](country_name) country
+- language [Gambia](country_name) is the country
+- I came in [Gambia](country_name) country
+- citizen of [Gambia](country_name) is the country
+- language [Gambia](country_name) country
+- I'm from [Gambia](country_name) citizenry
+- language [Gambia](country_name)
+- I'm from [Gambia](country_name) is the country
+- language of [Gambia](country_name) citizenry
+- lives in [Gambia](country_name) citizenry
+- lives in [Gambia](country_name) country
+- my origin is [Gambia](country_name) citizenry
+- lives in [Gambia](country_name)
+- [Ukraine](country_name)
+- citizens [Ukraine](country_name)
+- I'm in [Ukraine](country_name)
+- I came in [Ukraine](country_name) is the country
+- citizens [Ukraine](country_name) country
+- I came in [Ukraine](country_name) citizenry
+- language [Ukraine](country_name)
+- language of [Ukraine](country_name)
+- from [Ukraine](country_name) citizenry
+- Me lives in [Ukraine](country_name)
+- lives in [Ukraine](country_name)
+- citizen of [Ukraine](country_name) country
+- citizen of [Ukraine](country_name)
+- language of [Ukraine](country_name) country
+- from [Ukraine](country_name) country
+- I'm from [Ukraine](country_name) country
+- language [Ukraine](country_name) is the country
+- I'm in [Ukraine](country_name) citizenry
+- language [Ukraine](country_name) country
+- I'm from [Ukraine](country_name) is the country
+- language of [Ukraine](country_name) is the country
+- [Ukraine](country_name)
 - [VU](country_code)
-- language of [VU](country_code) citizenry
-- Me lives in [VU](country_code) is the country
-- from [VU](country_code) is the country
-- citizens [VU](country_code) citizenry
-- I'm from [VU](country_code)
+- Me lives in [VU](country_code)
+- language [VU](country_code) is the country
 - language [VU](country_code) country
-- language [VU](country_code) citizenry
-- lives in [VU](country_code) country
-- language [VU](country_code)
-- I came in [VU](country_code) citizenry
-- I'm from [VU](country_code) is the country
-- citizen of [VU](country_code) is the country
-- I'm in [VU](country_code) citizenry
-- Me lives in [VU](country_code) citizenry
-- language of [VU](country_code)
-- my origin is [VU](country_code) is the country
-- from [VU](country_code)
-- I came in [VU](country_code) is the country
+- I'm in [VU](country_code) country
+- Me lives in [VU](country_code) is the country
+- citizen of [VU](country_code) citizenry
 - I'm from [VU](country_code) citizenry
-- lives in [VU](country_code) is the country
-- [VU](country_code) citizenry
-- [CH](country_code)
-- I came in [CH](country_code) country
-- citizen of [CH](country_code) citizenry
-- I'm in [CH](country_code) country
-- citizen of [CH](country_code) is the country
-- my origin is [CH](country_code) citizenry
-- [CH](country_code) country
-- language [CH](country_code) country
-- I came in [CH](country_code)
-- I came in [CH](country_code) is the country
-- language [CH](country_code) is the country
-- I'm from [CH](country_code) country
-- language of [CH](country_code) citizenry
-- from [CH](country_code) citizenry
-- language [CH](country_code)
-- my origin is [CH](country_code)
-- citizen of [CH](country_code) country
-- citizens [CH](country_code) country
-- Me lives in [CH](country_code) is the country
-- citizens [CH](country_code)
-- my origin is [CH](country_code) is the country
-- [CH](country_code) citizenry
-- [CV](country_code)
-- from [CV](country_code) is the country
-- I'm from [CV](country_code) citizenry
-- lives in [CV](country_code)
-- I'm in [CV](country_code)
-- lives in [CV](country_code) country
-- language of [CV](country_code) is the country
-- [CV](country_code)
-- my origin is [CV](country_code)
-- I came in [CV](country_code) is the country
-- language [CV](country_code) citizenry
-- language of [CV](country_code)
-- I'm in [CV](country_code) country
-- from [CV](country_code)
-- citizen of [CV](country_code) citizenry
-- I came in [CV](country_code)
-- citizens [CV](country_code) is the country
-- [CV](country_code) citizenry
-- citizen of [CV](country_code) is the country
-- I'm in [CV](country_code) is the country
-- from [CV](country_code) country
-- language of [CV](country_code) country
-- [PE](country_code)
-- I'm from [PE](country_code)
-- I'm in [PE](country_code) is the country
-- from [PE](country_code) is the country
-- language [PE](country_code) is the country
-- language [PE](country_code) citizenry
-- I came in [PE](country_code) is the country
-- language of [PE](country_code) citizenry
-- from [PE](country_code) country
-- [PE](country_code)
-- I'm in [PE](country_code) country
-- citizens [PE](country_code) citizenry
-- citizens [PE](country_code)
-- citizens [PE](country_code) country
-- [PE](country_code) citizenry
-- citizens [PE](country_code) is the country
-- Me lives in [PE](country_code) is the country
-- citizen of [PE](country_code) is the country
-- I'm in [PE](country_code)
-- my origin is [PE](country_code) citizenry
-- I'm from [PE](country_code) citizenry
-- I came in [PE](country_code) citizenry
-- [IL](country_code)
-- I came in [IL](country_code) country
-- I'm from [IL](country_code) is the country
-- citizen of [IL](country_code) citizenry
-- language of [IL](country_code) citizenry
-- lives in [IL](country_code)
-- I'm from [IL](country_code)
-- I'm in [IL](country_code) is the country
-- Me lives in [IL](country_code) citizenry
-- I came in [IL](country_code) citizenry
-- citizens [IL](country_code) citizenry
-- citizen of [IL](country_code) country
-- from [IL](country_code) country
-- Me lives in [IL](country_code) country
-- language [IL](country_code) country
-- I came in [IL](country_code) is the country
-- language of [IL](country_code) country
-- my origin is [IL](country_code) country
-- language of [IL](country_code)
-- I'm in [IL](country_code) country
-- from [IL](country_code)
-- [IL](country_code) citizenry
-- [PG](country_code)
-- I'm from [PG](country_code) is the country
-- citizen of [PG](country_code) is the country
-- language of [PG](country_code) citizenry
-- I came in [PG](country_code) citizenry
-- I came in [PG](country_code)
-- I'm in [PG](country_code) country
-- my origin is [PG](country_code) is the country
-- Me lives in [PG](country_code) is the country
-- [PG](country_code) country
-- I'm from [PG](country_code) country
-- Me lives in [PG](country_code) country
-- I came in [PG](country_code) country
-- language of [PG](country_code) country
-- [PG](country_code)
-- citizen of [PG](country_code) citizenry
-- Me lives in [PG](country_code) citizenry
-- citizens [PG](country_code) is the country
-- from [PG](country_code) country
-- language of [PG](country_code) is the country
-- citizens [PG](country_code) country
-- language [PG](country_code) country
-- [RW](country_code)
-- I'm from [RW](country_code) citizenry
-- I came in [RW](country_code) is the country
-- citizens [RW](country_code) citizenry
-- citizens [RW](country_code) country
-- I'm in [RW](country_code) is the country
-- citizens [RW](country_code)
-- lives in [RW](country_code) is the country
-- language [RW](country_code) country
-- I'm from [RW](country_code) country
-- language of [RW](country_code) citizenry
-- I'm in [RW](country_code)
-- I came in [RW](country_code)
-- I'm in [RW](country_code) country
-- from [RW](country_code) is the country
-- [RW](country_code)
-- lives in [RW](country_code)
-- language [RW](country_code)
-- language [RW](country_code) is the country
-- [RW](country_code) is the country
-- citizen of [RW](country_code)
-- citizens [RW](country_code) is the country
+- I'm from [VU](country_code) is the country
+- [VU](country_code) country
+- citizens [VU](country_code) country
+- language [VU](country_code) citizenry
+- I'm from [VU](country_code) country
+- Me lives in [VU](country_code) country
+- I came in [VU](country_code) country
+- I came in [VU](country_code) is the country
+- my origin is [VU](country_code) is the country
+- I'm from [VU](country_code)
+- lives in [VU](country_code)
+- my origin is [VU](country_code) citizenry
+- I'm in [VU](country_code)
+- language of [VU](country_code)
 - [JO](country_code)
-- language [JO](country_code)
-- citizens [JO](country_code) citizenry
-- I'm from [JO](country_code) citizenry
-- Me lives in [JO](country_code) is the country
-- I'm from [JO](country_code) country
-- I came in [JO](country_code)
-- I came in [JO](country_code) citizenry
 - citizen of [JO](country_code) citizenry
-- language of [JO](country_code) country
-- lives in [JO](country_code)
-- from [JO](country_code) country
+- I came in [JO](country_code) citizenry
 - I'm from [JO](country_code)
-- from [JO](country_code) is the country
-- my origin is [JO](country_code) citizenry
-- language of [JO](country_code) is the country
-- from [JO](country_code)
 - language of [JO](country_code) citizenry
 - I'm in [JO](country_code) country
-- lives in [JO](country_code) is the country
-- citizens [JO](country_code) country
+- lives in [JO](country_code) country
+- Me lives in [JO](country_code)
+- I'm in [JO](country_code)
+- [JO](country_code) country
+- from [JO](country_code) country
+- from [JO](country_code) citizenry
 - my origin is [JO](country_code) is the country
-- [LK](country_code)
-- citizens [LK](country_code) country
-- I'm from [LK](country_code)
-- lives in [LK](country_code) citizenry
-- language of [LK](country_code) citizenry
-- language [LK](country_code) is the country
-- I'm in [LK](country_code) country
-- from [LK](country_code) is the country
-- language of [LK](country_code) is the country
-- lives in [LK](country_code) is the country
-- my origin is [LK](country_code) country
-- I came in [LK](country_code) is the country
-- I came in [LK](country_code) country
-- [LK](country_code) country
-- language [LK](country_code) country
-- Me lives in [LK](country_code) is the country
-- I'm in [LK](country_code) citizenry
-- from [LK](country_code)
-- my origin is [LK](country_code) citizenry
-- language of [LK](country_code) country
-- citizens [LK](country_code) citizenry
-- I came in [LK](country_code)
+- citizen of [JO](country_code) is the country
+- [JO](country_code) citizenry
+- from [JO](country_code)
+- Me lives in [JO](country_code) citizenry
+- I'm from [JO](country_code) is the country
+- language [JO](country_code) citizenry
+- lives in [JO](country_code) is the country
+- language of [JO](country_code) country
+- I'm in [JO](country_code) is the country
+- [GH](country_code)
+- I'm from [GH](country_code)
+- my origin is [GH](country_code) is the country
+- language [GH](country_code) is the country
+- lives in [GH](country_code) country
+- I came in [GH](country_code) citizenry
+- language of [GH](country_code)
+- citizen of [GH](country_code) is the country
+- I'm in [GH](country_code)
+- from [GH](country_code) country
+- language of [GH](country_code) country
+- Me lives in [GH](country_code)
+- citizens [GH](country_code)
+- I'm in [GH](country_code) is the country
+- [GH](country_code) country
+- citizen of [GH](country_code) country
+- my origin is [GH](country_code)
+- citizen of [GH](country_code)
+- I came in [GH](country_code) country
+- Me lives in [GH](country_code) citizenry
+- citizens [GH](country_code) citizenry
+- I'm in [GH](country_code) country
+- [SN](country_code)
+- my origin is [SN](country_code) is the country
+- I came in [SN](country_code)
+- [SN](country_code)
+- citizen of [SN](country_code) citizenry
+- I'm from [SN](country_code) is the country
+- language of [SN](country_code) country
+- language of [SN](country_code) is the country
+- from [SN](country_code) is the country
+- I came in [SN](country_code) citizenry
+- my origin is [SN](country_code) country
+- lives in [SN](country_code) is the country
+- [SN](country_code) country
+- Me lives in [SN](country_code) is the country
+- citizen of [SN](country_code) is the country
+- from [SN](country_code)
+- citizens [SN](country_code)
+- from [SN](country_code) citizenry
+- I'm from [SN](country_code) citizenry
+- citizens [SN](country_code) citizenry
+- I came in [SN](country_code) is the country
+- language of [SN](country_code)
+- [AR](country_code)
+- Me lives in [AR](country_code)
+- I came in [AR](country_code) country
+- [AR](country_code) is the country
+- Me lives in [AR](country_code) country
+- language of [AR](country_code)
+- I'm from [AR](country_code) country
+- [AR](country_code) country
+- from [AR](country_code) citizenry
+- I'm from [AR](country_code) is the country
+- I came in [AR](country_code)
+- language [AR](country_code) country
+- I'm in [AR](country_code) citizenry
+- language of [AR](country_code) country
+- Me lives in [AR](country_code) is the country
+- I'm from [AR](country_code) citizenry
+- my origin is [AR](country_code) country
+- [AR](country_code) citizenry
+- lives in [AR](country_code) country
+- I'm in [AR](country_code) country
+- I'm in [AR](country_code)
+- language [AR](country_code) is the country
+- [AU](country_code)
+- I came in [AU](country_code) country
+- language [AU](country_code)
+- from [AU](country_code) citizenry
+- Me lives in [AU](country_code) is the country
+- I came in [AU](country_code) is the country
+- language [AU](country_code) country
+- I'm from [AU](country_code)
+- citizen of [AU](country_code) citizenry
+- language of [AU](country_code) citizenry
+- citizen of [AU](country_code) is the country
+- lives in [AU](country_code) is the country
+- from [AU](country_code) country
+- Me lives in [AU](country_code)
+- citizen of [AU](country_code) country
+- from [AU](country_code)
+- citizens [AU](country_code) country
+- citizens [AU](country_code)
+- I'm in [AU](country_code) citizenry
+- language of [AU](country_code) is the country
+- my origin is [AU](country_code)
+- my origin is [AU](country_code) is the country
+- [TD](country_code)
+- Me lives in [TD](country_code) country
+- I'm from [TD](country_code) country
+- I came in [TD](country_code) country
+- lives in [TD](country_code) is the country
+- citizen of [TD](country_code) country
+- citizens [TD](country_code) country
+- language of [TD](country_code) country
+- I came in [TD](country_code)
+- my origin is [TD](country_code) citizenry
+- language of [TD](country_code)
+- I came in [TD](country_code) is the country
+- lives in [TD](country_code) citizenry
+- lives in [TD](country_code)
+- I'm in [TD](country_code)
+- language [TD](country_code)
+- my origin is [TD](country_code) country
+- language [TD](country_code) country
+- my origin is [TD](country_code)
+- Me lives in [TD](country_code) is the country
+- I came in [TD](country_code) citizenry
+- I'm in [TD](country_code) is the country
+- [UY](country_code)
+- language [UY](country_code) is the country
+- from [UY](country_code) is the country
+- I'm in [UY](country_code)
+- language [UY](country_code) citizenry
+- I'm from [UY](country_code) citizenry
+- citizens [UY](country_code) citizenry
+- [UY](country_code) citizenry
+- language of [UY](country_code) country
+- Me lives in [UY](country_code)
+- language [UY](country_code)
+- I came in [UY](country_code) country
+- citizens [UY](country_code) is the country
+- my origin is [UY](country_code) citizenry
+- I'm from [UY](country_code) country
+- I came in [UY](country_code)
+- [UY](country_code)
+- I'm from [UY](country_code) is the country
+- I'm in [UY](country_code) country
+- from [UY](country_code) citizenry
+- language [UY](country_code) country
+- citizen of [UY](country_code) country
+- [BW](country_code)
+- Me lives in [BW](country_code) country
+- citizen of [BW](country_code) is the country
+- my origin is [BW](country_code) is the country
+- language [BW](country_code)
+- I'm in [BW](country_code) citizenry
+- lives in [BW](country_code) country
+- language [BW](country_code) citizenry
+- Me lives in [BW](country_code)
+- I'm from [BW](country_code) citizenry
+- language of [BW](country_code)
+- I came in [BW](country_code) country
+- [BW](country_code) is the country
+- citizens [BW](country_code) country
+- I'm in [BW](country_code) country
+- language of [BW](country_code) country
+- I came in [BW](country_code)
+- citizens [BW](country_code) citizenry
+- language [BW](country_code) country
+- language of [BW](country_code) is the country
+- lives in [BW](country_code)
+- I'm in [BW](country_code)
+- [KG](country_code)
+- language of [KG](country_code) is the country
+- lives in [KG](country_code)
+- my origin is [KG](country_code) country
+- citizens [KG](country_code)
+- citizen of [KG](country_code) citizenry
+- language [KG](country_code) country
+- I came in [KG](country_code) citizenry
+- I'm from [KG](country_code) citizenry
+- my origin is [KG](country_code) is the country
+- lives in [KG](country_code) country
+- [KG](country_code)
+- Me lives in [KG](country_code) is the country
+- language of [KG](country_code) country
+- my origin is [KG](country_code)
+- [KG](country_code) country
+- citizen of [KG](country_code) is the country
+- language [KG](country_code)
+- lives in [KG](country_code) citizenry
+- I'm from [KG](country_code) country
+- I came in [KG](country_code)
+- [KG](country_code) is the country
+- [ZW](country_code)
+- I'm in [ZW](country_code) country
+- I came in [ZW](country_code) citizenry
+- I came in [ZW](country_code)
+- my origin is [ZW](country_code) is the country
+- I'm from [ZW](country_code) citizenry
+- I came in [ZW](country_code) is the country
+- [ZW](country_code)
+- [ZW](country_code) citizenry
+- language of [ZW](country_code) country
+- language [ZW](country_code) citizenry
+- I'm from [ZW](country_code) country
+- language of [ZW](country_code) citizenry
+- my origin is [ZW](country_code) citizenry
+- lives in [ZW](country_code) citizenry
+- citizens [ZW](country_code) country
+- lives in [ZW](country_code) is the country
+- citizens [ZW](country_code) citizenry
+- lives in [ZW](country_code)
+- lives in [ZW](country_code) country
+- citizen of [ZW](country_code)
+- citizens [ZW](country_code) is the country
+- [BI](country_code)
+- I'm in [BI](country_code) country
+- I came in [BI](country_code) is the country
+- my origin is [BI](country_code) is the country
+- language [BI](country_code) country
+- citizen of [BI](country_code) citizenry
+- I'm from [BI](country_code) is the country
+- lives in [BI](country_code) country
+- I came in [BI](country_code) citizenry
+- I'm from [BI](country_code) citizenry
+- lives in [BI](country_code) is the country
+- my origin is [BI](country_code) country
+- Me lives in [BI](country_code)
+- language of [BI](country_code) country
+- from [BI](country_code) is the country
+- from [BI](country_code)
+- [BI](country_code) country
+- Me lives in [BI](country_code) citizenry
+- language of [BI](country_code) is the country
+- lives in [BI](country_code)
+- [BI](country_code) is the country
+- citizen of [BI](country_code) is the country
+- [FI](country_code)
+- Me lives in [FI](country_code) is the country
+- my origin is [FI](country_code) citizenry
+- citizen of [FI](country_code) country
+- I'm from [FI](country_code)
+- citizens [FI](country_code)
+- Me lives in [FI](country_code)
+- lives in [FI](country_code) is the country
+- citizen of [FI](country_code) citizenry
+- my origin is [FI](country_code)
+- citizens [FI](country_code) country
+- I'm in [FI](country_code) citizenry
+- I came in [FI](country_code) citizenry
+- [FI](country_code) citizenry
+- I'm in [FI](country_code) country
+- I came in [FI](country_code)
+- lives in [FI](country_code) citizenry
+- from [FI](country_code) is the country
+- lives in [FI](country_code) country
+- language [FI](country_code) is the country
+- language [FI](country_code) citizenry
+- language of [FI](country_code) country
+- [AL](country_code)
+- I'm in [AL](country_code) is the country
+- I came in [AL](country_code) citizenry
+- lives in [AL](country_code) is the country
+- Me lives in [AL](country_code) country
+- Me lives in [AL](country_code)
+- citizen of [AL](country_code) citizenry
+- language [AL](country_code) country
+- I'm in [AL](country_code) country
+- from [AL](country_code) country
+- from [AL](country_code)
+- [AL](country_code) is the country
+- Me lives in [AL](country_code) citizenry
+- citizens [AL](country_code) country
+- I'm from [AL](country_code) is the country
+- language of [AL](country_code) is the country
+- citizens [AL](country_code)
+- language [AL](country_code)
+- I'm in [AL](country_code)
+- [AL](country_code) citizenry
+- language of [AL](country_code) citizenry
+- I'm from [AL](country_code) citizenry
+- [YE](country_code)
+- from [YE](country_code) citizenry
+- Me lives in [YE](country_code) is the country
+- my origin is [YE](country_code) citizenry
+- I'm in [YE](country_code) country
+- citizen of [YE](country_code) is the country
+- from [YE](country_code)
+- citizens [YE](country_code) citizenry
+- I'm in [YE](country_code) citizenry
+- [YE](country_code) country
+- citizens [YE](country_code) country
+- I'm in [YE](country_code) is the country
+- I came in [YE](country_code)
+- citizens [YE](country_code)
+- language [YE](country_code)
+- Me lives in [YE](country_code) citizenry
+- language of [YE](country_code)
+- from [YE](country_code) is the country
+- I'm from [YE](country_code)
+- I'm from [YE](country_code) country
+- [YE](country_code) citizenry
+- language of [YE](country_code) citizenry
+- [JM](country_code)
+- I'm from [JM](country_code)
+- language of [JM](country_code) is the country
+- I came in [JM](country_code) citizenry
+- language [JM](country_code) is the country
+- language of [JM](country_code) citizenry
+- lives in [JM](country_code) citizenry
+- Me lives in [JM](country_code) country
+- language of [JM](country_code)
+- Me lives in [JM](country_code)
+- citizen of [JM](country_code) country
+- citizens [JM](country_code)
+- I'm in [JM](country_code)
+- citizen of [JM](country_code) is the country
+- I came in [JM](country_code)
+- citizen of [JM](country_code)
+- language of [JM](country_code) country
+- [JM](country_code) country
+- I'm in [JM](country_code) country
+- from [JM](country_code) citizenry
+- Me lives in [JM](country_code) is the country
+- from [JM](country_code) is the country
+- [MA](country_code)
+- language of [MA](country_code)
+- citizens [MA](country_code) is the country
+- language [MA](country_code) country
+- citizen of [MA](country_code) country
+- language [MA](country_code)
+- from [MA](country_code) citizenry
+- I'm in [MA](country_code) country
+- language [MA](country_code) citizenry
+- my origin is [MA](country_code) country
+- [MA](country_code) is the country
+- citizens [MA](country_code)
+- lives in [MA](country_code)
+- I'm from [MA](country_code) is the country
+- language of [MA](country_code) is the country
+- citizens [MA](country_code) country
+- [MA](country_code) citizenry
+- my origin is [MA](country_code)
+- I'm from [MA](country_code) country
+- I'm in [MA](country_code) is the country
+- lives in [MA](country_code) is the country
+- from [MA](country_code)
+- [GA](country_code)
+- I came in [GA](country_code)
+- I'm from [GA](country_code)
+- my origin is [GA](country_code) citizenry
+- I came in [GA](country_code) citizenry
+- language [GA](country_code) is the country
+- I'm from [GA](country_code) country
+- language of [GA](country_code) citizenry
+- lives in [GA](country_code) is the country
+- I'm from [GA](country_code) citizenry
+- I'm in [GA](country_code) country
+- citizens [GA](country_code) country
+- citizen of [GA](country_code) country
+- [GA](country_code) is the country
+- I'm in [GA](country_code) citizenry
+- I came in [GA](country_code) is the country
+- I'm in [GA](country_code)
+- language of [GA](country_code)
+- lives in [GA](country_code) citizenry
+- citizens [GA](country_code) citizenry
+- Me lives in [GA](country_code)
+- language of [GA](country_code) is the country
+- [KR](country_code)
+- citizen of [KR](country_code)
+- I'm from [KR](country_code) country
+- my origin is [KR](country_code) country
+- I'm in [KR](country_code) citizenry
+- language of [KR](country_code) is the country
+- language of [KR](country_code) country
+- lives in [KR](country_code) citizenry
+- Me lives in [KR](country_code)
+- language [KR](country_code) citizenry
+- language [KR](country_code) country
+- citizen of [KR](country_code) country
+- [KR](country_code)
+- lives in [KR](country_code) is the country
+- I'm from [KR](country_code) citizenry
+- Me lives in [KR](country_code) country
+- [KR](country_code) citizenry
+- Me lives in [KR](country_code) is the country
+- my origin is [KR](country_code)
+- [KR](country_code) is the country
+- I came in [KR](country_code) citizenry
+- [KR](country_code) country
+- [HN](country_code)
+- language [HN](country_code) is the country
+- Me lives in [HN](country_code)
+- citizen of [HN](country_code)
+- I came in [HN](country_code) is the country
+- Me lives in [HN](country_code) citizenry
+- I'm from [HN](country_code) is the country
+- I came in [HN](country_code) country
+- citizens [HN](country_code) citizenry
+- language of [HN](country_code) citizenry
+- language [HN](country_code) country
+- citizens [HN](country_code) country
+- I'm from [HN](country_code) country
+- [HN](country_code) is the country
+- I came in [HN](country_code) citizenry
+- Me lives in [HN](country_code) is the country
+- I'm in [HN](country_code) country
+- language [HN](country_code)
+- citizen of [HN](country_code) citizenry
+- from [HN](country_code) citizenry
+- I'm in [HN](country_code) is the country
+- my origin is [HN](country_code) is the country
+- [EG](country_code)
+- I'm in [EG](country_code) is the country
+- citizen of [EG](country_code)
+- language [EG](country_code) country
+- lives in [EG](country_code) is the country
+- citizens [EG](country_code) country
+- my origin is [EG](country_code) citizenry
+- citizen of [EG](country_code) is the country
+- Me lives in [EG](country_code)
+- from [EG](country_code)
+- lives in [EG](country_code) citizenry
+- I came in [EG](country_code)
+- I'm in [EG](country_code) citizenry
+- I'm from [EG](country_code) citizenry
+- my origin is [EG](country_code)
+- from [EG](country_code) country
+- language of [EG](country_code) citizenry
+- citizens [EG](country_code) citizenry
+- language [EG](country_code)
+- [EG](country_code) country
+- citizen of [EG](country_code) citizenry
+- [EG](country_code) is the country
+- [ZM](country_code)
+- language of [ZM](country_code)
+- from [ZM](country_code)
+- lives in [ZM](country_code) citizenry
+- [ZM](country_code) citizenry
+- I came in [ZM](country_code)
+- citizen of [ZM](country_code) is the country
+- my origin is [ZM](country_code)
+- language [ZM](country_code) citizenry
+- I came in [ZM](country_code) citizenry
+- I'm in [ZM](country_code) citizenry
+- I'm in [ZM](country_code) is the country
+- I'm from [ZM](country_code) country
+- citizen of [ZM](country_code) citizenry
+- I'm from [ZM](country_code) is the country
+- I came in [ZM](country_code) country
+- Me lives in [ZM](country_code) citizenry
+- language [ZM](country_code)
+- language of [ZM](country_code) country
+- language [ZM](country_code) is the country
+- citizen of [ZM](country_code)
+- I'm from [ZM](country_code)
 - [NR](country_code)
-- from [NR](country_code) is the country
-- I'm in [NR](country_code) is the country
-- language [NR](country_code)
-- from [NR](country_code) country
-- Me lives in [NR](country_code) is the country
-- citizens [NR](country_code) is the country
-- my origin is [NR](country_code) country
-- language [NR](country_code) is the country
-- language of [NR](country_code) citizenry
-- I'm from [NR](country_code) country
-- I came in [NR](country_code) country
-- language [NR](country_code) country
 - [NR](country_code) is the country
-- I'm from [NR](country_code)
-- I came in [NR](country_code) is the country
-- I'm from [NR](country_code) is the country
-- citizen of [NR](country_code)
-- I'm in [NR](country_code) citizenry
-- lives in [NR](country_code)
-- my origin is [NR](country_code)
+- lives in [NR](country_code) country
+- citizens [NR](country_code) citizenry
+- citizen of [NR](country_code) citizenry
+- from [NR](country_code) is the country
+- language of [NR](country_code)
+- language of [NR](country_code) is the country
 - [NR](country_code) citizenry
-- [IR](country_code)
-- language of [IR](country_code) citizenry
-- lives in [IR](country_code) is the country
-- [IR](country_code)
-- from [IR](country_code)
-- [IR](country_code) country
-- citizen of [IR](country_code)
-- lives in [IR](country_code)
-- lives in [IR](country_code) citizenry
-- citizens [IR](country_code) is the country
-- language [IR](country_code) citizenry
-- my origin is [IR](country_code) country
-- I'm in [IR](country_code)
-- I'm in [IR](country_code) is the country
-- language of [IR](country_code) country
-- Me lives in [IR](country_code)
-- from [IR](country_code) country
-- from [IR](country_code) is the country
-- citizen of [IR](country_code) country
-- citizens [IR](country_code)
-- citizens [IR](country_code) country
-- Me lives in [IR](country_code) is the country
-- [EE](country_code)
-- from [EE](country_code)
-- my origin is [EE](country_code) country
-- [EE](country_code) is the country
-- my origin is [EE](country_code) citizenry
-- citizens [EE](country_code) is the country
-- Me lives in [EE](country_code)
-- lives in [EE](country_code) is the country
-- I'm in [EE](country_code) citizenry
-- my origin is [EE](country_code)
-- citizen of [EE](country_code) citizenry
-- I'm from [EE](country_code)
-- from [EE](country_code) is the country
-- citizen of [EE](country_code) country
-- I'm in [EE](country_code) country
-- I came in [EE](country_code)
-- lives in [EE](country_code) citizenry
-- Me lives in [EE](country_code) country
-- I'm in [EE](country_code)
-- citizens [EE](country_code) country
-- from [EE](country_code) country
-- I came in [EE](country_code) country
-- [QA](country_code)
-- I'm from [QA](country_code)
-- [QA](country_code) is the country
-- my origin is [QA](country_code)
-- I'm from [QA](country_code) country
-- lives in [QA](country_code) citizenry
-- [QA](country_code) country
-- I came in [QA](country_code) country
-- from [QA](country_code) country
-- citizens [QA](country_code) is the country
-- language of [QA](country_code)
-- I'm from [QA](country_code) is the country
-- Me lives in [QA](country_code) country
-- language of [QA](country_code) country
-- from [QA](country_code)
-- my origin is [QA](country_code) citizenry
-- language [QA](country_code)
-- language of [QA](country_code) is the country
-- Me lives in [QA](country_code) is the country
-- lives in [QA](country_code) country
-- I'm in [QA](country_code) citizenry
-- citizen of [QA](country_code)
-- [BF](country_code)
-- citizens [BF](country_code)
-- citizen of [BF](country_code) citizenry
-- [BF](country_code) country
-- citizen of [BF](country_code) is the country
-- [BF](country_code) is the country
-- I came in [BF](country_code) citizenry
-- language of [BF](country_code) is the country
-- from [BF](country_code) country
-- citizens [BF](country_code) citizenry
-- citizens [BF](country_code) country
-- from [BF](country_code) citizenry
-- [BF](country_code) citizenry
-- citizen of [BF](country_code)
-- from [BF](country_code) is the country
-- my origin is [BF](country_code)
-- language [BF](country_code) citizenry
-- language [BF](country_code)
-- my origin is [BF](country_code) country
-- I'm in [BF](country_code)
-- citizens [BF](country_code) is the country
-- language of [BF](country_code) citizenry
-- [DK](country_code)
-- my origin is [DK](country_code) is the country
-- language of [DK](country_code)
-- I'm from [DK](country_code)
-- I'm in [DK](country_code)
-- citizens [DK](country_code)
-- language [DK](country_code) citizenry
-- [DK](country_code)
-- I came in [DK](country_code) citizenry
-- citizens [DK](country_code) is the country
-- my origin is [DK](country_code) country
-- I'm in [DK](country_code) country
-- I'm from [DK](country_code) is the country
-- citizen of [DK](country_code) is the country
-- I'm in [DK](country_code) citizenry
-- language [DK](country_code)
-- my origin is [DK](country_code)
-- Me lives in [DK](country_code) country
-- citizen of [DK](country_code) country
-- citizen of [DK](country_code) citizenry
-- language of [DK](country_code) citizenry
-- from [DK](country_code) country
+- I'm in [NR](country_code) citizenry
+- I'm in [NR](country_code) country
+- I'm in [NR](country_code)
+- language of [NR](country_code) citizenry
+- lives in [NR](country_code) is the country
+- citizens [NR](country_code) is the country
+- my origin is [NR](country_code)
+- language of [NR](country_code) country
+- I'm from [NR](country_code) is the country
+- I'm in [NR](country_code) is the country
+- language [NR](country_code) citizenry
+- lives in [NR](country_code)
+- citizen of [NR](country_code)
+- [BY](country_code)
+- lives in [BY](country_code) is the country
+- I'm in [BY](country_code)
+- I'm from [BY](country_code) is the country
+- [BY](country_code)
+- lives in [BY](country_code)
+- I came in [BY](country_code) citizenry
+- language of [BY](country_code) country
+- citizens [BY](country_code) is the country
+- language of [BY](country_code) is the country
+- citizen of [BY](country_code) is the country
+- my origin is [BY](country_code) is the country
+- from [BY](country_code) country
+- I'm from [BY](country_code)
+- lives in [BY](country_code) country
+- I'm from [BY](country_code) country
+- citizen of [BY](country_code) country
+- from [BY](country_code) citizenry
+- lives in [BY](country_code) citizenry
+- I'm in [BY](country_code) country
+- I'm from [BY](country_code) citizenry
+- language of [BY](country_code) citizenry
+- [IL](country_code)
+- lives in [IL](country_code) country
+- I came in [IL](country_code)
+- citizen of [IL](country_code) country
+- lives in [IL](country_code) citizenry
+- language [IL](country_code) country
+- from [IL](country_code) citizenry
+- language of [IL](country_code) citizenry
+- my origin is [IL](country_code) country
+- language of [IL](country_code) is the country
+- I came in [IL](country_code) is the country
+- Me lives in [IL](country_code)
+- [IL](country_code) country
+- my origin is [IL](country_code) citizenry
+- my origin is [IL](country_code) is the country
+- I came in [IL](country_code) citizenry
+- Me lives in [IL](country_code) country
+- lives in [IL](country_code)
+- [IL](country_code) citizenry
+- I'm from [IL](country_code) country
+- language [IL](country_code) is the country
+- I'm in [IL](country_code) country
+- [CF](country_code)
+- I'm in [CF](country_code) citizenry
+- language of [CF](country_code) citizenry
+- my origin is [CF](country_code) citizenry
+- I came in [CF](country_code) citizenry
+- citizen of [CF](country_code)
+- [CF](country_code)
+- from [CF](country_code) is the country
+- I came in [CF](country_code) country
+- I'm in [CF](country_code) country
+- citizen of [CF](country_code) is the country
+- my origin is [CF](country_code) is the country
+- Me lives in [CF](country_code) country
+- language of [CF](country_code)
+- lives in [CF](country_code) is the country
+- from [CF](country_code)
+- my origin is [CF](country_code) country
+- citizen of [CF](country_code) citizenry
+- Me lives in [CF](country_code) is the country
+- I came in [CF](country_code) is the country
+- language [CF](country_code) citizenry
+- I'm from [CF](country_code) country
+- [KP](country_code)
+- I'm in [KP](country_code) citizenry
+- language of [KP](country_code) country
+- citizen of [KP](country_code) is the country
+- lives in [KP](country_code) citizenry
+- I'm from [KP](country_code)
+- my origin is [KP](country_code) country
+- from [KP](country_code)
+- citizen of [KP](country_code)
+- Me lives in [KP](country_code) country
+- I'm from [KP](country_code) country
+- citizen of [KP](country_code) citizenry
+- I'm in [KP](country_code)
+- language [KP](country_code) citizenry
+- from [KP](country_code) country
+- I'm in [KP](country_code) country
+- lives in [KP](country_code) is the country
+- language of [KP](country_code) is the country
+- language [KP](country_code) is the country
+- language [KP](country_code)
+- language of [KP](country_code) citizenry
+- my origin is [KP](country_code)
+- [NL](country_code)
+- language [NL](country_code) is the country
+- lives in [NL](country_code) citizenry
+- I'm in [NL](country_code) is the country
+- I'm from [NL](country_code) country
+- Me lives in [NL](country_code) country
+- language of [NL](country_code)
+- from [NL](country_code) country
+- I'm in [NL](country_code)
+- citizen of [NL](country_code) country
+- language of [NL](country_code) citizenry
+- lives in [NL](country_code) is the country
+- citizen of [NL](country_code) citizenry
+- [NL](country_code) citizenry
+- from [NL](country_code) citizenry
+- language of [NL](country_code) country
+- citizens [NL](country_code) country
+- [NL](country_code) is the country
+- citizens [NL](country_code) citizenry
+- I came in [NL](country_code) citizenry
+- I'm from [NL](country_code) citizenry
+- Me lives in [NL](country_code) citizenry
+- [TR](country_code)
+- citizens [TR](country_code)
+- language of [TR](country_code) citizenry
+- lives in [TR](country_code) country
+- from [TR](country_code) citizenry
+- I came in [TR](country_code) country
+- from [TR](country_code) is the country
+- language [TR](country_code) citizenry
+- I'm from [TR](country_code) citizenry
+- citizen of [TR](country_code) citizenry
+- I'm from [TR](country_code)
+- I'm from [TR](country_code) country
+- citizen of [TR](country_code) country
+- I'm in [TR](country_code) citizenry
+- citizens [TR](country_code) citizenry
+- lives in [TR](country_code) citizenry
+- language [TR](country_code)
+- Me lives in [TR](country_code) is the country
+- language [TR](country_code) is the country
+- language [TR](country_code) country
+- [TR](country_code) is the country
+- I'm from [TR](country_code) is the country
+- [CL](country_code)
+- Me lives in [CL](country_code) is the country
+- my origin is [CL](country_code) is the country
+- I'm in [CL](country_code)
+- language [CL](country_code) citizenry
+- I came in [CL](country_code)
+- [CL](country_code)
+- citizen of [CL](country_code)
+- I'm in [CL](country_code) citizenry
+- lives in [CL](country_code) citizenry
+- citizen of [CL](country_code) citizenry
+- [CL](country_code) citizenry
+- language [CL](country_code) is the country
+- citizen of [CL](country_code) country
+- citizen of [CL](country_code) is the country
+- language of [CL](country_code) is the country
+- language of [CL](country_code) country
+- my origin is [CL](country_code) citizenry
+- [CL](country_code) country
+- from [CL](country_code)
+- language [CL](country_code) country
+- Me lives in [CL](country_code) citizenry
+- [LR](country_code)
+- language of [LR](country_code) citizenry
+- my origin is [LR](country_code) country
+- I came in [LR](country_code) is the country
+- I'm in [LR](country_code)
+- [LR](country_code) is the country
+- I came in [LR](country_code) citizenry
+- citizens [LR](country_code) citizenry
+- [LR](country_code) citizenry
+- from [LR](country_code)
+- I'm from [LR](country_code) is the country
+- language [LR](country_code)
+- [LR](country_code)
+- from [LR](country_code) country
+- language [LR](country_code) is the country
+- I'm in [LR](country_code) citizenry
+- language of [LR](country_code)
+- lives in [LR](country_code)
+- language of [LR](country_code) is the country
+- citizens [LR](country_code) is the country
+- language [LR](country_code) citizenry
+- my origin is [LR](country_code)
+- [PH](country_code)
+- my origin is [PH](country_code) citizenry
+- I'm in [PH](country_code)
+- Me lives in [PH](country_code) is the country
+- lives in [PH](country_code) is the country
+- I'm from [PH](country_code) country
+- citizens [PH](country_code)
+- language of [PH](country_code)
+- I came in [PH](country_code) citizenry
+- language [PH](country_code) citizenry
+- I'm in [PH](country_code) country
+- I'm from [PH](country_code) is the country
+- language of [PH](country_code) is the country
+- lives in [PH](country_code) country
+- language [PH](country_code) is the country
+- citizen of [PH](country_code)
+- [PH](country_code)
+- lives in [PH](country_code)
+- from [PH](country_code) citizenry
+- my origin is [PH](country_code) country
+- [PH](country_code) citizenry
+- citizens [PH](country_code) is the country
+- [MW](country_code)
+- citizen of [MW](country_code) country
+- I'm from [MW](country_code) country
+- language of [MW](country_code) is the country
+- citizen of [MW](country_code) citizenry
+- my origin is [MW](country_code) country
+- language [MW](country_code) citizenry
+- lives in [MW](country_code) citizenry
+- [MW](country_code) country
+- lives in [MW](country_code) is the country
+- I came in [MW](country_code)
+- I'm in [MW](country_code) country
+- I came in [MW](country_code) citizenry
+- lives in [MW](country_code)
+- I'm from [MW](country_code) is the country
+- citizens [MW](country_code) is the country
+- from [MW](country_code)
+- language of [MW](country_code) citizenry
+- my origin is [MW](country_code)
+- Me lives in [MW](country_code)
+- language [MW](country_code) country
+- Me lives in [MW](country_code) is the country
+- [CU](country_code)
+- citizens [CU](country_code) is the country
+- language of [CU](country_code) citizenry
+- I came in [CU](country_code) citizenry
+- lives in [CU](country_code)
+- I'm from [CU](country_code) citizenry
+- language [CU](country_code)
+- lives in [CU](country_code) country
+- from [CU](country_code) is the country
+- citizen of [CU](country_code) is the country
+- citizen of [CU](country_code) citizenry
+- language of [CU](country_code)
+- language [CU](country_code) country
+- [CU](country_code)
+- Me lives in [CU](country_code) citizenry
+- my origin is [CU](country_code) country
+- I'm from [CU](country_code) country
+- my origin is [CU](country_code) citizenry
+- I'm in [CU](country_code) citizenry
+- I'm from [CU](country_code)
+- I came in [CU](country_code)
+- citizens [CU](country_code)
 - [LT](country_code)
 - my origin is [LT](country_code)
-- language [LT](country_code)
-- I'm from [LT](country_code) country
-- from [LT](country_code) citizenry
-- [LT](country_code) citizenry
-- my origin is [LT](country_code) is the country
-- citizen of [LT](country_code) is the country
-- language of [LT](country_code) is the country
-- my origin is [LT](country_code) country
-- citizens [LT](country_code)
-- from [LT](country_code) country
-- language [LT](country_code) citizenry
-- lives in [LT](country_code) country
-- lives in [LT](country_code) citizenry
-- [LT](country_code) country
-- language of [LT](country_code) citizenry
-- I'm in [LT](country_code) citizenry
-- lives in [LT](country_code)
+- from [LT](country_code) is the country
 - I came in [LT](country_code) citizenry
+- [LT](country_code)
+- language of [LT](country_code)
+- I'm from [LT](country_code) citizenry
 - I'm in [LT](country_code)
+- citizens [LT](country_code) is the country
+- lives in [LT](country_code) is the country
+- language of [LT](country_code) is the country
+- from [LT](country_code)
+- [LT](country_code) citizenry
+- [LT](country_code) country
+- from [LT](country_code) citizenry
+- I'm in [LT](country_code) country
 - language [LT](country_code) country
-- [XK](country_code)
-- language of [XK](country_code)
-- citizen of [XK](country_code) is the country
-- language of [XK](country_code) citizenry
-- [XK](country_code) is the country
-- language [XK](country_code)
-- I'm in [XK](country_code) country
-- I came in [XK](country_code) is the country
-- citizens [XK](country_code) citizenry
-- I'm from [XK](country_code) citizenry
-- from [XK](country_code) citizenry
-- my origin is [XK](country_code) country
-- from [XK](country_code) is the country
-- language [XK](country_code) country
-- [XK](country_code)
-- language [XK](country_code) is the country
-- citizens [XK](country_code) is the country
-- lives in [XK](country_code) is the country
-- I'm in [XK](country_code) citizenry
-- language of [XK](country_code) country
-- I'm in [XK](country_code)
-- Me lives in [XK](country_code) country
+- language [LT](country_code) is the country
+- language [LT](country_code)
+- I came in [LT](country_code)
+- language of [LT](country_code) citizenry
+- I'm from [LT](country_code)
+- [SB](country_code)
+- lives in [SB](country_code) country
+- I'm in [SB](country_code)
+- language [SB](country_code) is the country
+- from [SB](country_code) is the country
+- citizen of [SB](country_code) is the country
+- citizens [SB](country_code) is the country
+- language [SB](country_code)
+- my origin is [SB](country_code) country
+- language of [SB](country_code) country
+- I'm in [SB](country_code) country
+- I came in [SB](country_code)
+- Me lives in [SB](country_code) citizenry
+- my origin is [SB](country_code) is the country
+- my origin is [SB](country_code) citizenry
+- lives in [SB](country_code)
+- I'm in [SB](country_code) is the country
+- citizen of [SB](country_code) country
+- citizen of [SB](country_code) citizenry
+- I'm from [SB](country_code) country
+- [SB](country_code) is the country
+- language [SB](country_code) country
+- [ZA](country_code)
+- from [ZA](country_code) is the country
+- citizen of [ZA](country_code) country
+- [ZA](country_code) country
+- language [ZA](country_code)
+- lives in [ZA](country_code) is the country
+- I came in [ZA](country_code)
+- from [ZA](country_code)
+- citizens [ZA](country_code) citizenry
+- from [ZA](country_code) country
+- I'm from [ZA](country_code) country
+- language of [ZA](country_code) citizenry
+- Me lives in [ZA](country_code) country
+- I'm from [ZA](country_code) is the country
+- I'm from [ZA](country_code)
+- lives in [ZA](country_code)
+- [ZA](country_code) citizenry
+- from [ZA](country_code) citizenry
+- citizen of [ZA](country_code) is the country
+- my origin is [ZA](country_code)
+- citizens [ZA](country_code) is the country
+- I'm from [ZA](country_code) citizenry
+- [PY](country_code)
+- language of [PY](country_code) country
+- I'm in [PY](country_code) is the country
+- lives in [PY](country_code) is the country
+- Me lives in [PY](country_code) citizenry
+- language [PY](country_code) country
+- I came in [PY](country_code) citizenry
+- language [PY](country_code) is the country
+- [PY](country_code)
+- language [PY](country_code)
+- I'm in [PY](country_code)
+- language of [PY](country_code) is the country
+- my origin is [PY](country_code) citizenry
+- citizen of [PY](country_code) country
+- citizen of [PY](country_code) citizenry
+- lives in [PY](country_code)
+- my origin is [PY](country_code) is the country
+- my origin is [PY](country_code)
+- I'm from [PY](country_code) is the country
+- language of [PY](country_code)
+- I came in [PY](country_code) country
+- citizens [PY](country_code) citizenry
+- [HR](country_code)
+- from [HR](country_code) country
+- from [HR](country_code)
+- I'm from [HR](country_code) country
+- citizen of [HR](country_code) country
+- Me lives in [HR](country_code) is the country
+- my origin is [HR](country_code) is the country
+- I'm from [HR](country_code) is the country
+- I'm in [HR](country_code)
+- I'm from [HR](country_code) citizenry
+- I'm in [HR](country_code) citizenry
+- language of [HR](country_code) is the country
+- citizens [HR](country_code)
+- language [HR](country_code) country
+- citizens [HR](country_code) country
+- I'm in [HR](country_code) country
+- language of [HR](country_code) country
+- my origin is [HR](country_code) citizenry
+- language of [HR](country_code) citizenry
+- lives in [HR](country_code) country
+- lives in [HR](country_code) is the country
+- citizen of [HR](country_code) is the country
+- [GR](country_code)
+- [GR](country_code) country
+- I came in [GR](country_code) citizenry
+- citizens [GR](country_code) country
+- language [GR](country_code) is the country
+- from [GR](country_code) is the country
+- I'm from [GR](country_code) country
+- lives in [GR](country_code) citizenry
+- I'm in [GR](country_code) citizenry
+- lives in [GR](country_code)
+- I'm from [GR](country_code) citizenry
+- [GR](country_code) is the country
+- citizen of [GR](country_code) country
+- citizens [GR](country_code) is the country
+- lives in [GR](country_code) is the country
+- Me lives in [GR](country_code) country
+- language of [GR](country_code) is the country
+- my origin is [GR](country_code) citizenry
+- from [GR](country_code) citizenry
+- I came in [GR](country_code)
+- I'm in [GR](country_code) is the country
+- citizens [GR](country_code) citizenry
+- [LY](country_code)
+- citizen of [LY](country_code) is the country
+- language [LY](country_code) country
+- lives in [LY](country_code) citizenry
+- language of [LY](country_code) is the country
+- language [LY](country_code) citizenry
+- I'm in [LY](country_code) is the country
+- [LY](country_code) is the country
+- I'm from [LY](country_code)
+- my origin is [LY](country_code) citizenry
+- my origin is [LY](country_code)
+- lives in [LY](country_code) country
+- my origin is [LY](country_code) country
+- I came in [LY](country_code)
+- language [LY](country_code) is the country
+- I came in [LY](country_code) citizenry
+- language of [LY](country_code)
+- [LY](country_code) citizenry
+- from [LY](country_code) country
+- citizen of [LY](country_code)
+- I'm from [LY](country_code) country
+- citizens [LY](country_code) citizenry
+- [AO](country_code)
+- language [AO](country_code) citizenry
+- citizens [AO](country_code) citizenry
+- language of [AO](country_code) country
+- lives in [AO](country_code) citizenry
+- Me lives in [AO](country_code) citizenry
+- language of [AO](country_code) citizenry
+- I'm in [AO](country_code) is the country
+- language [AO](country_code) is the country
+- language of [AO](country_code)
+- lives in [AO](country_code)
+- I came in [AO](country_code)
+- citizen of [AO](country_code) country
+- I'm in [AO](country_code)
+- my origin is [AO](country_code) citizenry
+- I'm from [AO](country_code) citizenry
+- lives in [AO](country_code) is the country
+- [AO](country_code) citizenry
+- citizens [AO](country_code) is the country
+- from [AO](country_code) is the country
+- Me lives in [AO](country_code) is the country
+- I'm in [AO](country_code) country
+- [PE](country_code)
+- [PE](country_code) citizenry
+- I came in [PE](country_code) citizenry
+- language [PE](country_code) country
+- from [PE](country_code) citizenry
+- I'm from [PE](country_code) country
+- I'm in [PE](country_code)
+- Me lives in [PE](country_code)
+- [PE](country_code) country
+- from [PE](country_code) is the country
+- I'm from [PE](country_code)
+- [PE](country_code) is the country
+- lives in [PE](country_code) citizenry
+- I'm in [PE](country_code) is the country
+- language of [PE](country_code) citizenry
+- my origin is [PE](country_code) citizenry
+- citizens [PE](country_code) is the country
+- Me lives in [PE](country_code) citizenry
+- citizens [PE](country_code) citizenry
+- from [PE](country_code) country
+- Me lives in [PE](country_code) is the country
+- citizen of [PE](country_code)
+- [TV](country_code)
+- citizen of [TV](country_code)
+- citizen of [TV](country_code) is the country
+- Me lives in [TV](country_code)
+- lives in [TV](country_code)
+- I came in [TV](country_code) country
+- from [TV](country_code) is the country
+- I'm from [TV](country_code) country
+- I'm in [TV](country_code)
+- citizens [TV](country_code) citizenry
+- [TV](country_code) country
+- my origin is [TV](country_code)
+- citizen of [TV](country_code) citizenry
+- I came in [TV](country_code) citizenry
+- language [TV](country_code) country
+- I'm from [TV](country_code) citizenry
+- I'm in [TV](country_code) is the country
+- language of [TV](country_code)
+- Me lives in [TV](country_code) country
+- I'm in [TV](country_code) country
+- I'm in [TV](country_code) citizenry
+- [TV](country_code) citizenry
+- [NE](country_code)
+- from [NE](country_code)
+- my origin is [NE](country_code)
+- citizen of [NE](country_code) is the country
+- language [NE](country_code) is the country
+- I'm in [NE](country_code) citizenry
+- I'm from [NE](country_code) country
+- citizens [NE](country_code) is the country
+- I'm in [NE](country_code)
+- lives in [NE](country_code) citizenry
+- citizen of [NE](country_code) country
+- my origin is [NE](country_code) citizenry
+- lives in [NE](country_code)
+- my origin is [NE](country_code) country
+- citizens [NE](country_code) citizenry
+- I came in [NE](country_code) citizenry
+- I'm from [NE](country_code) is the country
+- [NE](country_code) citizenry
+- lives in [NE](country_code) country
+- I'm from [NE](country_code)
+- from [NE](country_code) is the country
+- language [NE](country_code)
+- [TN](country_code)
+- language of [TN](country_code) is the country
+- from [TN](country_code) is the country
+- my origin is [TN](country_code) citizenry
+- citizens [TN](country_code) country
+- my origin is [TN](country_code) is the country
+- Me lives in [TN](country_code) citizenry
+- language of [TN](country_code) citizenry
+- lives in [TN](country_code) country
+- language [TN](country_code)
+- [TN](country_code) country
+- citizen of [TN](country_code) is the country
+- from [TN](country_code)
+- citizens [TN](country_code)
+- [TN](country_code)
+- [TN](country_code) citizenry
+- citizen of [TN](country_code) citizenry
+- lives in [TN](country_code) is the country
+- Me lives in [TN](country_code)
+- Me lives in [TN](country_code) is the country
+- I'm in [TN](country_code) is the country
+- I'm from [TN](country_code) country
+- [MC](country_code)
+- Me lives in [MC](country_code) country
+- language [MC](country_code)
+- [MC](country_code) is the country
+- citizen of [MC](country_code) country
+- language [MC](country_code) is the country
+- [MC](country_code) citizenry
+- I'm in [MC](country_code)
+- language [MC](country_code) citizenry
+- I'm from [MC](country_code) is the country
+- citizen of [MC](country_code) citizenry
+- lives in [MC](country_code)
+- I'm from [MC](country_code) country
+- citizens [MC](country_code)
+- citizens [MC](country_code) is the country
+- lives in [MC](country_code) is the country
+- I came in [MC](country_code) country
+- I came in [MC](country_code) is the country
+- citizens [MC](country_code) citizenry
+- I'm in [MC](country_code) country
+- Me lives in [MC](country_code)
+- Me lives in [MC](country_code) citizenry
+- [BJ](country_code)
+- language [BJ](country_code) is the country
+- [BJ](country_code) country
+- language [BJ](country_code)
+- my origin is [BJ](country_code)
+- Me lives in [BJ](country_code) citizenry
+- from [BJ](country_code) citizenry
+- I'm in [BJ](country_code) citizenry
+- I'm from [BJ](country_code) citizenry
+- my origin is [BJ](country_code) citizenry
+- from [BJ](country_code) country
+- citizens [BJ](country_code) citizenry
+- lives in [BJ](country_code) is the country
+- language [BJ](country_code) citizenry
+- language of [BJ](country_code) country
+- my origin is [BJ](country_code) country
+- I came in [BJ](country_code) citizenry
+- language [BJ](country_code) country
+- citizen of [BJ](country_code) is the country
+- citizen of [BJ](country_code) citizenry
+- lives in [BJ](country_code) country
+- [BJ](country_code) is the country
+- [SL](country_code)
+- [SL](country_code)
+- from [SL](country_code) citizenry
+- Me lives in [SL](country_code) country
+- language [SL](country_code)
+- I'm in [SL](country_code) is the country
+- I came in [SL](country_code)
+- [SL](country_code) country
+- from [SL](country_code) country
+- I'm in [SL](country_code) citizenry
+- I came in [SL](country_code) country
+- citizen of [SL](country_code)
+- I'm from [SL](country_code) citizenry
+- from [SL](country_code) is the country
+- citizen of [SL](country_code) country
+- my origin is [SL](country_code) country
+- language of [SL](country_code) is the country
+- I'm in [SL](country_code) country
+- lives in [SL](country_code) citizenry
+- language of [SL](country_code)
+- citizens [SL](country_code)
+- citizens [SL](country_code) is the country
+- [RS](country_code)
+- language [RS](country_code) citizenry
+- my origin is [RS](country_code)
+- lives in [RS](country_code) is the country
+- I'm from [RS](country_code)
+- language of [RS](country_code)
+- citizens [RS](country_code) is the country
+- from [RS](country_code) is the country
+- I'm from [RS](country_code) is the country
+- I'm in [RS](country_code) citizenry
+- from [RS](country_code)
+- citizen of [RS](country_code)
+- Me lives in [RS](country_code) citizenry
+- I came in [RS](country_code) citizenry
+- lives in [RS](country_code) citizenry
+- from [RS](country_code) citizenry
+- citizen of [RS](country_code) is the country
+- my origin is [RS](country_code) citizenry
+- I came in [RS](country_code) country
+- I'm from [RS](country_code) citizenry
+- citizens [RS](country_code)
+- my origin is [RS](country_code) is the country
+- [ML](country_code)
+- language of [ML](country_code) citizenry
+- citizen of [ML](country_code) citizenry
+- language of [ML](country_code) country
+- my origin is [ML](country_code) country
+- I'm in [ML](country_code) citizenry
+- I'm from [ML](country_code)
+- citizens [ML](country_code) is the country
+- I'm from [ML](country_code) citizenry
+- I'm from [ML](country_code) is the country
+- lives in [ML](country_code) citizenry
+- citizen of [ML](country_code) country
+- my origin is [ML](country_code) is the country
+- I came in [ML](country_code) citizenry
+- language [ML](country_code) is the country
+- from [ML](country_code) country
+- from [ML](country_code)
+- from [ML](country_code) is the country
+- lives in [ML](country_code) is the country
+- [ML](country_code)
+- language of [ML](country_code) is the country
+- [ML](country_code) country
+- [BG](country_code)
+- from [BG](country_code)
+- [BG](country_code) is the country
+- [BG](country_code)
+- citizen of [BG](country_code) citizenry
+- my origin is [BG](country_code) country
+- [BG](country_code) citizenry
+- my origin is [BG](country_code)
+- Me lives in [BG](country_code) is the country
+- language of [BG](country_code) country
+- I'm from [BG](country_code) country
+- my origin is [BG](country_code) is the country
+- language of [BG](country_code) citizenry
+- lives in [BG](country_code) country
+- I'm from [BG](country_code) citizenry
+- citizens [BG](country_code) is the country
+- I'm in [BG](country_code) is the country
+- I'm in [BG](country_code) country
+- language [BG](country_code)
+- from [BG](country_code) country
+- citizen of [BG](country_code) country
+- citizen of [BG](country_code) is the country
+- [GN](country_code)
+- lives in [GN](country_code) country
+- I'm from [GN](country_code) citizenry
+- from [GN](country_code) citizenry
+- I'm from [GN](country_code) country
+- Me lives in [GN](country_code) country
+- from [GN](country_code) country
+- I came in [GN](country_code) country
+- lives in [GN](country_code)
+- language [GN](country_code) is the country
+- lives in [GN](country_code) citizenry
+- my origin is [GN](country_code) citizenry
+- [GN](country_code) is the country
+- Me lives in [GN](country_code) is the country
+- I'm in [GN](country_code) is the country
+- citizen of [GN](country_code)
+- I'm from [GN](country_code)
+- I'm in [GN](country_code)
+- lives in [GN](country_code) is the country
+- citizens [GN](country_code) country
+- citizens [GN](country_code) citizenry
+- Me lives in [GN](country_code)
+- [TG](country_code)
+- Me lives in [TG](country_code) citizenry
+- language [TG](country_code)
+- language [TG](country_code) country
+- citizen of [TG](country_code)
+- language of [TG](country_code) country
+- [TG](country_code) country
+- from [TG](country_code)
 - [TG](country_code)
 - lives in [TG](country_code) country
-- my origin is [TG](country_code) citizenry
-- Me lives in [TG](country_code) citizenry
-- I'm from [TG](country_code) citizenry
-- Me lives in [TG](country_code) is the country
-- from [TG](country_code)
-- citizens [TG](country_code)
-- citizen of [TG](country_code) country
-- Me lives in [TG](country_code) country
-- lives in [TG](country_code) is the country
-- from [TG](country_code) citizenry
-- I came in [TG](country_code) is the country
-- [TG](country_code) country
-- I'm from [TG](country_code)
-- citizen of [TG](country_code)
+- I'm from [TG](country_code) country
 - I came in [TG](country_code)
-- language of [TG](country_code)
-- I'm from [TG](country_code) is the country
-- my origin is [TG](country_code) country
+- from [TG](country_code) is the country
+- my origin is [TG](country_code) citizenry
 - language [TG](country_code) citizenry
-- I'm in [TG](country_code)
-- [EG](country_code)
-- language of [EG](country_code)
-- I'm in [EG](country_code) is the country
-- from [EG](country_code) citizenry
-- citizen of [EG](country_code) is the country
-- [EG](country_code) country
-- language [EG](country_code) country
-- [EG](country_code) citizenry
-- I came in [EG](country_code) is the country
-- I came in [EG](country_code) country
-- I came in [EG](country_code)
-- from [EG](country_code) country
-- [EG](country_code)
-- citizen of [EG](country_code) citizenry
-- I'm from [EG](country_code) citizenry
-- from [EG](country_code)
-- language [EG](country_code) citizenry
-- I came in [EG](country_code) citizenry
-- [EG](country_code) is the country
-- my origin is [EG](country_code)
-- citizens [EG](country_code) country
-- citizens [EG](country_code)
-- [JM](country_code)
-- citizens [JM](country_code)
-- citizen of [JM](country_code)
-- citizens [JM](country_code) is the country
-- my origin is [JM](country_code) citizenry
-- lives in [JM](country_code) citizenry
-- from [JM](country_code) country
-- citizen of [JM](country_code) citizenry
-- my origin is [JM](country_code) country
-- I'm from [JM](country_code) citizenry
-- lives in [JM](country_code) is the country
-- language of [JM](country_code)
-- [JM](country_code)
-- lives in [JM](country_code)
-- [JM](country_code) citizenry
-- I'm in [JM](country_code) is the country
-- I came in [JM](country_code) is the country
-- Me lives in [JM](country_code) citizenry
-- from [JM](country_code)
-- language of [JM](country_code) citizenry
-- Me lives in [JM](country_code) is the country
-- [JM](country_code) country
-- [AO](country_code)
-- my origin is [AO](country_code) is the country
-- from [AO](country_code)
-- I'm in [AO](country_code) citizenry
-- citizens [AO](country_code) country
-- I'm from [AO](country_code)
-- my origin is [AO](country_code) country
-- language of [AO](country_code)
-- Me lives in [AO](country_code)
-- I came in [AO](country_code) citizenry
-- language of [AO](country_code) citizenry
-- lives in [AO](country_code) country
-- I'm in [AO](country_code) is the country
-- lives in [AO](country_code) is the country
-- I'm from [AO](country_code) citizenry
-- citizen of [AO](country_code) country
-- I came in [AO](country_code)
-- Me lives in [AO](country_code) citizenry
-- I'm from [AO](country_code) is the country
-- citizen of [AO](country_code) is the country
-- I came in [AO](country_code) country
-- [AO](country_code) is the country
-- [NI](country_code)
-- citizens [NI](country_code) citizenry
-- I'm in [NI](country_code)
-- [NI](country_code) is the country
-- language [NI](country_code) country
-- I came in [NI](country_code)
-- citizens [NI](country_code) country
-- I came in [NI](country_code) is the country
-- Me lives in [NI](country_code)
-- [NI](country_code) citizenry
-- I'm from [NI](country_code)
-- citizen of [NI](country_code) country
-- I'm from [NI](country_code) citizenry
-- language [NI](country_code)
-- I'm in [NI](country_code) country
-- lives in [NI](country_code) citizenry
-- citizen of [NI](country_code)
-- I'm in [NI](country_code) citizenry
-- my origin is [NI](country_code) is the country
-- language of [NI](country_code) is the country
-- language [NI](country_code) is the country
-- my origin is [NI](country_code)
-- [CF](country_code)
-- citizen of [CF](country_code)
-- Me lives in [CF](country_code) country
-- I'm in [CF](country_code) country
-- citizens [CF](country_code) citizenry
-- language [CF](country_code) country
-- [CF](country_code) country
-- [CF](country_code)
-- my origin is [CF](country_code) country
-- my origin is [CF](country_code) citizenry
-- language of [CF](country_code) country
-- lives in [CF](country_code) citizenry
-- citizens [CF](country_code) country
-- citizen of [CF](country_code) citizenry
-- my origin is [CF](country_code) is the country
-- [CF](country_code) citizenry
-- I came in [CF](country_code)
-- from [CF](country_code)
-- language of [CF](country_code) citizenry
-- I came in [CF](country_code) country
-- from [CF](country_code) is the country
-- lives in [CF](country_code) country
-- [CA](country_code)
-- I came in [CA](country_code) is the country
-- I'm in [CA](country_code)
-- lives in [CA](country_code) country
-- I'm from [CA](country_code) country
-- Me lives in [CA](country_code) country
-- citizens [CA](country_code) is the country
-- [CA](country_code) citizenry
-- I'm in [CA](country_code) country
-- from [CA](country_code) country
-- I came in [CA](country_code) citizenry
-- from [CA](country_code)
-- language [CA](country_code) country
-- I'm in [CA](country_code) citizenry
-- I'm in [CA](country_code) is the country
-- I'm from [CA](country_code)
-- language of [CA](country_code) citizenry
-- language [CA](country_code) citizenry
-- I'm from [CA](country_code) is the country
-- [CA](country_code) is the country
-- lives in [CA](country_code) is the country
-- my origin is [CA](country_code) is the country
-- [NO](country_code)
-- citizens [NO](country_code) country
-- language [NO](country_code) citizenry
-- I'm from [NO](country_code)
-- I came in [NO](country_code)
-- citizens [NO](country_code) is the country
-- I came in [NO](country_code) citizenry
-- I'm from [NO](country_code) citizenry
-- language [NO](country_code)
-- citizen of [NO](country_code) is the country
-- Me lives in [NO](country_code) citizenry
-- my origin is [NO](country_code) is the country
-- Me lives in [NO](country_code) is the country
-- language [NO](country_code) is the country
-- citizen of [NO](country_code) country
-- language of [NO](country_code) is the country
-- citizen of [NO](country_code)
-- from [NO](country_code) country
-- citizens [NO](country_code)
-- [NO](country_code) is the country
-- I'm from [NO](country_code) is the country
-- my origin is [NO](country_code) citizenry
-- [PY](country_code)
-- from [PY](country_code) country
-- language [PY](country_code) country
-- my origin is [PY](country_code) is the country
-- language of [PY](country_code) is the country
-- I'm from [PY](country_code) country
-- Me lives in [PY](country_code) is the country
-- citizens [PY](country_code) citizenry
-- Me lives in [PY](country_code) citizenry
-- from [PY](country_code)
-- I'm from [PY](country_code) is the country
-- citizen of [PY](country_code) is the country
-- citizen of [PY](country_code) country
-- my origin is [PY](country_code) country
-- I'm from [PY](country_code) citizenry
-- language of [PY](country_code) country
-- from [PY](country_code) is the country
-- citizens [PY](country_code)
-- my origin is [PY](country_code)
-- I came in [PY](country_code)
-- language of [PY](country_code)
-- I'm in [PY](country_code)
-- [DO](country_code)
-- I'm in [DO](country_code) citizenry
-- Me lives in [DO](country_code) country
-- from [DO](country_code) is the country
-- language of [DO](country_code) is the country
-- I came in [DO](country_code) is the country
-- citizen of [DO](country_code) is the country
-- lives in [DO](country_code)
-- I came in [DO](country_code) country
-- language [DO](country_code) citizenry
-- lives in [DO](country_code) is the country
-- my origin is [DO](country_code) citizenry
-- Me lives in [DO](country_code) citizenry
-- I'm in [DO](country_code) country
-- I came in [DO](country_code) citizenry
-- language of [DO](country_code) country
-- lives in [DO](country_code) citizenry
-- [DO](country_code) citizenry
-- language [DO](country_code) country
-- [DO](country_code) is the country
-- language of [DO](country_code) citizenry
-- citizen of [DO](country_code) country
-- [IT](country_code)
-- language [IT](country_code) country
-- I'm from [IT](country_code) is the country
-- I came in [IT](country_code)
-- language of [IT](country_code) country
-- citizen of [IT](country_code) country
-- language [IT](country_code) citizenry
-- I'm in [IT](country_code)
-- I'm from [IT](country_code)
-- citizens [IT](country_code) is the country
-- language of [IT](country_code)
-- language [IT](country_code)
-- language of [IT](country_code) is the country
-- citizen of [IT](country_code)
-- citizen of [IT](country_code) is the country
-- from [IT](country_code) is the country
-- [IT](country_code)
-- Me lives in [IT](country_code)
-- Me lives in [IT](country_code) country
-- language of [IT](country_code) citizenry
-- from [IT](country_code) country
-- Me lives in [IT](country_code) is the country
-- [KW](country_code)
-- my origin is [KW](country_code)
-- I came in [KW](country_code)
-- citizen of [KW](country_code) country
-- from [KW](country_code) is the country
-- my origin is [KW](country_code) country
-- language [KW](country_code) is the country
-- citizen of [KW](country_code)
-- [KW](country_code)
-- Me lives in [KW](country_code) is the country
-- from [KW](country_code) citizenry
-- language [KW](country_code)
-- citizens [KW](country_code) citizenry
-- from [KW](country_code)
-- I'm from [KW](country_code) citizenry
-- language of [KW](country_code) citizenry
-- language of [KW](country_code)
-- I came in [KW](country_code) citizenry
-- lives in [KW](country_code) citizenry
-- I'm in [KW](country_code) citizenry
-- I'm from [KW](country_code)
-- lives in [KW](country_code)
-- [RU](country_code)
-- lives in [RU](country_code) is the country
-- my origin is [RU](country_code)
-- I came in [RU](country_code)
-- citizen of [RU](country_code) citizenry
-- I'm from [RU](country_code) is the country
-- [RU](country_code)
-- my origin is [RU](country_code) citizenry
-- I'm in [RU](country_code)
-- I'm in [RU](country_code) citizenry
-- Me lives in [RU](country_code)
-- Me lives in [RU](country_code) citizenry
-- lives in [RU](country_code)
-- language of [RU](country_code) is the country
-- Me lives in [RU](country_code) is the country
-- language [RU](country_code)
-- language [RU](country_code) is the country
-- citizens [RU](country_code) citizenry
-- language of [RU](country_code) citizenry
-- my origin is [RU](country_code) is the country
-- from [RU](country_code) citizenry
-- citizen of [RU](country_code) country
-- [CY](country_code)
-- language of [CY](country_code) citizenry
-- lives in [CY](country_code) is the country
-- language of [CY](country_code)
-- language of [CY](country_code) is the country
-- language of [CY](country_code) country
-- I'm in [CY](country_code)
-- my origin is [CY](country_code) is the country
-- Me lives in [CY](country_code) country
-- language [CY](country_code) citizenry
-- citizens [CY](country_code) country
-- Me lives in [CY](country_code)
-- lives in [CY](country_code) citizenry
-- I'm in [CY](country_code) is the country
-- language [CY](country_code) country
-- I'm in [CY](country_code) citizenry
-- lives in [CY](country_code)
-- [CY](country_code)
-- [CY](country_code) citizenry
-- my origin is [CY](country_code) citizenry
-- Me lives in [CY](country_code) citizenry
-- I'm in [CY](country_code) country
-- [LI](country_code)
-- Me lives in [LI](country_code) is the country
-- from [LI](country_code) country
-- my origin is [LI](country_code) citizenry
-- language [LI](country_code)
-- Me lives in [LI](country_code) citizenry
-- lives in [LI](country_code) is the country
-- citizens [LI](country_code) country
-- lives in [LI](country_code)
-- [LI](country_code) country
-- I'm in [LI](country_code) country
-- I came in [LI](country_code) country
-- I'm from [LI](country_code)
-- I came in [LI](country_code)
-- citizen of [LI](country_code)
-- lives in [LI](country_code) citizenry
-- I came in [LI](country_code) citizenry
-- Me lives in [LI](country_code) country
-- I'm in [LI](country_code) citizenry
-- language of [LI](country_code)
-- I'm from [LI](country_code) citizenry
-- language of [LI](country_code) is the country
-- [SM](country_code)
-- citizen of [SM](country_code) citizenry
-- my origin is [SM](country_code)
-- language [SM](country_code)
-- [SM](country_code)
-- lives in [SM](country_code) is the country
-- Me lives in [SM](country_code) citizenry
-- I'm in [SM](country_code) is the country
-- I'm from [SM](country_code)
-- from [SM](country_code) country
-- I'm from [SM](country_code) country
-- citizens [SM](country_code) country
-- [SM](country_code) is the country
-- [SM](country_code) country
-- from [SM](country_code) is the country
-- I came in [SM](country_code) citizenry
-- I came in [SM](country_code)
-- language of [SM](country_code) country
-- language [SM](country_code) country
-- my origin is [SM](country_code) country
-- my origin is [SM](country_code) citizenry
-- language of [SM](country_code) citizenry
-- [ID](country_code)
-- language [ID](country_code) citizenry
-- I'm in [ID](country_code) is the country
-- from [ID](country_code) country
-- Me lives in [ID](country_code) country
-- I'm from [ID](country_code)
-- [ID](country_code) is the country
-- lives in [ID](country_code) is the country
-- Me lives in [ID](country_code) citizenry
-- lives in [ID](country_code) country
-- I came in [ID](country_code) is the country
-- language [ID](country_code) country
-- from [ID](country_code)
-- citizens [ID](country_code) is the country
-- lives in [ID](country_code) citizenry
-- from [ID](country_code) citizenry
-- I came in [ID](country_code) citizenry
-- Me lives in [ID](country_code) is the country
-- my origin is [ID](country_code)
-- citizens [ID](country_code) citizenry
-- lives in [ID](country_code)
-- language [ID](country_code)
-- [UY](country_code)
-- lives in [UY](country_code)
-- I'm in [UY](country_code) country
-- language [UY](country_code) is the country
-- [UY](country_code) country
-- citizens [UY](country_code) country
-- Me lives in [UY](country_code) is the country
-- from [UY](country_code)
-- lives in [UY](country_code) country
-- language of [UY](country_code) country
-- Me lives in [UY](country_code) country
-- I'm from [UY](country_code) country
-- language of [UY](country_code) citizenry
-- lives in [UY](country_code) is the country
-- I came in [UY](country_code) citizenry
-- citizen of [UY](country_code)
-- I came in [UY](country_code) is the country
-- citizen of [UY](country_code) citizenry
-- I'm in [UY](country_code)
-- I'm from [UY](country_code) citizenry
-- citizen of [UY](country_code) is the country
-- I came in [UY](country_code) country
-- [BB](country_code)
-- I came in [BB](country_code) citizenry
-- language [BB](country_code) citizenry
-- [BB](country_code) is the country
-- citizen of [BB](country_code) country
-- my origin is [BB](country_code) country
-- citizen of [BB](country_code)
-- Me lives in [BB](country_code)
-- lives in [BB](country_code) is the country
-- my origin is [BB](country_code) citizenry
-- I'm in [BB](country_code) is the country
-- citizen of [BB](country_code) citizenry
-- I came in [BB](country_code) is the country
-- I'm from [BB](country_code) is the country
-- my origin is [BB](country_code)
-- I'm from [BB](country_code) citizenry
-- I'm from [BB](country_code)
-- language of [BB](country_code) citizenry
-- [BB](country_code) citizenry
-- language of [BB](country_code)
-- [BB](country_code)
-- I came in [BB](country_code) country
-- [MW](country_code)
-- from [MW](country_code) citizenry
-- language of [MW](country_code) citizenry
-- citizens [MW](country_code) country
-- citizen of [MW](country_code) citizenry
-- language of [MW](country_code)
-- [MW](country_code) is the country
-- citizen of [MW](country_code)
-- I'm in [MW](country_code) is the country
-- my origin is [MW](country_code) is the country
-- from [MW](country_code) country
-- I came in [MW](country_code)
-- language [MW](country_code)
-- [MW](country_code) country
-- I'm in [MW](country_code) country
-- language [MW](country_code) citizenry
-- citizen of [MW](country_code) is the country
-- I'm from [MW](country_code) citizenry
-- I came in [MW](country_code) country
-- Me lives in [MW](country_code) is the country
-- citizens [MW](country_code)
-- I'm in [MW](country_code)
-- [CM](country_code)
-- language of [CM](country_code) citizenry
-- lives in [CM](country_code) is the country
-- citizen of [CM](country_code)
-- lives in [CM](country_code)
-- lives in [CM](country_code) citizenry
-- citizen of [CM](country_code) is the country
-- I'm in [CM](country_code) country
-- citizens [CM](country_code)
-- I'm in [CM](country_code) citizenry
-- language of [CM](country_code)
-- from [CM](country_code) is the country
-- I'm from [CM](country_code)
-- from [CM](country_code) country
-- my origin is [CM](country_code) country
-- my origin is [CM](country_code) citizenry
-- Me lives in [CM](country_code) is the country
-- I'm in [CM](country_code)
-- Me lives in [CM](country_code)
-- I came in [CM](country_code)
-- my origin is [CM](country_code)
-- I'm from [CM](country_code) country
-- [MZ](country_code)
-- lives in [MZ](country_code) country
-- language [MZ](country_code) country
-- Me lives in [MZ](country_code) is the country
-- Me lives in [MZ](country_code) country
-- citizen of [MZ](country_code) citizenry
-- [MZ](country_code) country
-- citizens [MZ](country_code)
-- I'm from [MZ](country_code) country
-- from [MZ](country_code) citizenry
-- I'm from [MZ](country_code)
-- I'm in [MZ](country_code) is the country
-- from [MZ](country_code) is the country
-- Me lives in [MZ](country_code) citizenry
-- language [MZ](country_code) citizenry
-- my origin is [MZ](country_code) citizenry
-- from [MZ](country_code)
-- citizens [MZ](country_code) is the country
-- I came in [MZ](country_code) is the country
-- citizen of [MZ](country_code) country
-- [MZ](country_code)
-- citizens [MZ](country_code) country
-- [PW](country_code)
-- I came in [PW](country_code) country
-- I'm from [PW](country_code) country
-- from [PW](country_code) is the country
-- Me lives in [PW](country_code) citizenry
-- I came in [PW](country_code) citizenry
-- my origin is [PW](country_code) is the country
-- lives in [PW](country_code) country
-- language of [PW](country_code) citizenry
-- citizens [PW](country_code)
-- language [PW](country_code) country
-- [PW](country_code) country
-- I'm in [PW](country_code) country
-- language [PW](country_code) citizenry
-- Me lives in [PW](country_code) is the country
-- language [PW](country_code)
-- I'm from [PW](country_code) is the country
-- citizen of [PW](country_code) citizenry
-- citizen of [PW](country_code) is the country
-- lives in [PW](country_code) is the country
-- I came in [PW](country_code)
-- lives in [PW](country_code) citizenry
-- [DJ](country_code)
-- language [DJ](country_code) country
-- I came in [DJ](country_code) country
-- I'm in [DJ](country_code) is the country
-- lives in [DJ](country_code)
-- I'm in [DJ](country_code) country
-- I'm from [DJ](country_code) country
-- citizen of [DJ](country_code) citizenry
-- my origin is [DJ](country_code) country
-- I came in [DJ](country_code) is the country
-- from [DJ](country_code)
-- I'm in [DJ](country_code)
-- I came in [DJ](country_code) citizenry
-- language of [DJ](country_code) is the country
-- language [DJ](country_code) citizenry
-- Me lives in [DJ](country_code) citizenry
-- language [DJ](country_code) is the country
-- language of [DJ](country_code) citizenry
-- citizen of [DJ](country_code) country
-- I'm from [DJ](country_code)
-- my origin is [DJ](country_code)
-- my origin is [DJ](country_code) citizenry
-- [SA](country_code)
-- citizens [SA](country_code)
-- I came in [SA](country_code)
-- my origin is [SA](country_code)
-- language of [SA](country_code) country
-- citizens [SA](country_code) citizenry
-- citizens [SA](country_code) is the country
-- my origin is [SA](country_code) is the country
-- I'm from [SA](country_code) country
-- language of [SA](country_code) citizenry
-- citizens [SA](country_code) country
-- citizen of [SA](country_code) country
-- citizen of [SA](country_code)
-- I'm in [SA](country_code) country
-- I'm in [SA](country_code) citizenry
-- Me lives in [SA](country_code) is the country
-- I'm from [SA](country_code) is the country
-- [SA](country_code) citizenry
-- language of [SA](country_code) is the country
-- from [SA](country_code)
-- from [SA](country_code) country
-- my origin is [SA](country_code) country
-- [TN](country_code)
-- from [TN](country_code) country
-- Me lives in [TN](country_code) citizenry
-- I'm in [TN](country_code) is the country
-- I'm from [TN](country_code)
-- language [TN](country_code)
-- citizens [TN](country_code) is the country
-- lives in [TN](country_code)
-- my origin is [TN](country_code) is the country
-- Me lives in [TN](country_code)
-- I'm from [TN](country_code) citizenry
-- from [TN](country_code)
-- I'm in [TN](country_code) citizenry
-- citizen of [TN](country_code)
-- I'm in [TN](country_code)
-- language of [TN](country_code) country
-- language [TN](country_code) citizenry
-- from [TN](country_code) citizenry
-- [TN](country_code) citizenry
-- I'm from [TN](country_code) is the country
-- [TN](country_code)
-- [TN](country_code) is the country
-- [HR](country_code)
-- language [HR](country_code) is the country
-- I'm in [HR](country_code) country
-- I came in [HR](country_code)
-- language of [HR](country_code) citizenry
-- Me lives in [HR](country_code) country
-- citizen of [HR](country_code)
-- lives in [HR](country_code) citizenry
-- lives in [HR](country_code) is the country
-- language [HR](country_code)
-- lives in [HR](country_code) country
-- [HR](country_code)
-- I came in [HR](country_code) country
-- citizens [HR](country_code) citizenry
-- lives in [HR](country_code)
-- Me lives in [HR](country_code)
-- my origin is [HR](country_code) is the country
-- language of [HR](country_code) is the country
-- my origin is [HR](country_code)
-- I'm from [HR](country_code) country
-- from [HR](country_code) country
-- citizens [HR](country_code) is the country
-- [BZ](country_code)
-- [BZ](country_code)
-- citizen of [BZ](country_code) citizenry
-- I'm in [BZ](country_code)
-- lives in [BZ](country_code) is the country
-- my origin is [BZ](country_code) is the country
-- [BZ](country_code) citizenry
-- language [BZ](country_code) country
-- I came in [BZ](country_code)
-- language of [BZ](country_code) country
-- I'm in [BZ](country_code) citizenry
-- citizens [BZ](country_code)
-- language of [BZ](country_code)
-- [BZ](country_code) country
-- citizen of [BZ](country_code) is the country
-- from [BZ](country_code) citizenry
-- language of [BZ](country_code) citizenry
-- from [BZ](country_code)
-- language [BZ](country_code)
-- citizens [BZ](country_code) is the country
-- Me lives in [BZ](country_code)
-- I came in [BZ](country_code) is the country
-- [DZ](country_code)
-- from [DZ](country_code) country
-- I came in [DZ](country_code) citizenry
-- lives in [DZ](country_code) is the country
-- my origin is [DZ](country_code) is the country
-- I'm in [DZ](country_code)
-- citizen of [DZ](country_code) country
-- language of [DZ](country_code) country
-- lives in [DZ](country_code) citizenry
-- Me lives in [DZ](country_code) citizenry
-- citizen of [DZ](country_code) citizenry
-- I'm in [DZ](country_code) is the country
-- lives in [DZ](country_code) country
-- [DZ](country_code)
-- I came in [DZ](country_code) country
-- language of [DZ](country_code)
-- language [DZ](country_code) citizenry
-- [DZ](country_code) country
-- my origin is [DZ](country_code)
-- lives in [DZ](country_code)
-- language of [DZ](country_code) citizenry
-- [DZ](country_code) is the country
-- [IS](country_code)
-- lives in [IS](country_code) is the country
-- [IS](country_code) citizenry
-- language [IS](country_code) is the country
-- Me lives in [IS](country_code) is the country
-- I came in [IS](country_code) citizenry
-- I'm from [IS](country_code) is the country
-- lives in [IS](country_code) citizenry
-- I'm from [IS](country_code)
-- language of [IS](country_code)
-- my origin is [IS](country_code) citizenry
-- citizens [IS](country_code) is the country
-- citizen of [IS](country_code) is the country
-- I'm in [IS](country_code) citizenry
-- citizen of [IS](country_code) citizenry
-- my origin is [IS](country_code)
-- language of [IS](country_code) citizenry
-- my origin is [IS](country_code) is the country
-- I'm from [IS](country_code) citizenry
-- Me lives in [IS](country_code) country
-- language of [IS](country_code) is the country
-- language [IS](country_code)
-- [PK](country_code)
-- [PK](country_code) is the country
-- I'm in [PK](country_code) is the country
-- citizen of [PK](country_code) is the country
-- from [PK](country_code)
-- my origin is [PK](country_code) country
-- citizen of [PK](country_code)
-- citizen of [PK](country_code) citizenry
-- language [PK](country_code) citizenry
-- citizen of [PK](country_code) country
-- citizens [PK](country_code) is the country
-- I came in [PK](country_code) is the country
-- from [PK](country_code) is the country
-- I'm in [PK](country_code) country
-- citizens [PK](country_code)
-- Me lives in [PK](country_code)
-- I'm from [PK](country_code) is the country
-- my origin is [PK](country_code) is the country
-- from [PK](country_code) country
-- my origin is [PK](country_code)
-- citizens [PK](country_code) citizenry
-- lives in [PK](country_code) citizenry
-- [TH](country_code)
-- language of [TH](country_code) country
-- citizens [TH](country_code) country
-- I'm from [TH](country_code)
-- my origin is [TH](country_code) citizenry
-- lives in [TH](country_code) is the country
-- citizens [TH](country_code) citizenry
-- citizens [TH](country_code)
-- from [TH](country_code) citizenry
-- language of [TH](country_code) is the country
-- [TH](country_code) country
-- citizens [TH](country_code) is the country
-- I came in [TH](country_code) citizenry
-- I'm in [TH](country_code)
-- language [TH](country_code) country
-- language of [TH](country_code) citizenry
-- lives in [TH](country_code)
-- I'm in [TH](country_code) is the country
-- citizen of [TH](country_code) citizenry
-- from [TH](country_code) is the country
-- I'm from [TH](country_code) country
-- I'm in [TH](country_code) citizenry
-- [SY](country_code)
-- my origin is [SY](country_code) country
-- I'm in [SY](country_code) citizenry
-- I'm from [SY](country_code) citizenry
-- lives in [SY](country_code) citizenry
-- language of [SY](country_code)
-- Me lives in [SY](country_code) citizenry
-- Me lives in [SY](country_code)
-- my origin is [SY](country_code) citizenry
-- I came in [SY](country_code) is the country
-- [SY](country_code) country
-- lives in [SY](country_code)
-- from [SY](country_code) is the country
-- citizens [SY](country_code)
-- from [SY](country_code)
-- citizen of [SY](country_code) citizenry
-- Me lives in [SY](country_code) country
-- I came in [SY](country_code) citizenry
-- I'm in [SY](country_code)
-- language [SY](country_code) country
-- [SY](country_code) citizenry
-- I came in [SY](country_code) country
-- [BJ](country_code)
-- language [BJ](country_code)
-- I'm in [BJ](country_code) is the country
-- my origin is [BJ](country_code) is the country
-- lives in [BJ](country_code) citizenry
-- from [BJ](country_code) is the country
-- I came in [BJ](country_code) is the country
-- I'm from [BJ](country_code) citizenry
-- language of [BJ](country_code) country
-- citizen of [BJ](country_code) country
-- citizens [BJ](country_code) citizenry
-- lives in [BJ](country_code) country
-- Me lives in [BJ](country_code)
-- Me lives in [BJ](country_code) is the country
-- [BJ](country_code)
-- lives in [BJ](country_code) is the country
-- I came in [BJ](country_code)
-- citizen of [BJ](country_code) citizenry
-- [BJ](country_code) citizenry
-- citizens [BJ](country_code) is the country
-- I came in [BJ](country_code) country
-- my origin is [BJ](country_code) citizenry
-- [BS](country_code)
-- citizen of [BS](country_code)
-- I'm in [BS](country_code)
-- from [BS](country_code) country
-- language [BS](country_code) citizenry
-- citizens [BS](country_code) citizenry
-- citizens [BS](country_code)
-- lives in [BS](country_code) country
-- I came in [BS](country_code)
-- I'm from [BS](country_code) citizenry
-- lives in [BS](country_code) citizenry
-- Me lives in [BS](country_code) country
-- my origin is [BS](country_code) country
-- I'm from [BS](country_code) country
-- I'm in [BS](country_code) citizenry
-- lives in [BS](country_code) is the country
-- Me lives in [BS](country_code) is the country
-- [BS](country_code) citizenry
-- I came in [BS](country_code) country
-- language of [BS](country_code) is the country
-- lives in [BS](country_code)
-- [BS](country_code) is the country
+- citizens [TG](country_code) citizenry
+- Me lives in [TG](country_code) country
+- language of [TG](country_code)
+- Me lives in [TG](country_code)
+- I'm from [TG](country_code) is the country
+- citizens [TG](country_code)
+- Me lives in [TG](country_code) is the country
 - [CO](country_code)
-- [CO](country_code) is the country
-- my origin is [CO](country_code)
-- [CO](country_code)
+- language of [CO](country_code) is the country
 - citizens [CO](country_code) country
-- Me lives in [CO](country_code) citizenry
 - [CO](country_code) country
-- language of [CO](country_code)
-- citizens [CO](country_code) citizenry
-- from [CO](country_code) is the country
+- [CO](country_code)
+- lives in [CO](country_code)
+- [CO](country_code) citizenry
+- Me lives in [CO](country_code) country
+- citizen of [CO](country_code)
+- my origin is [CO](country_code) is the country
+- citizen of [CO](country_code) country
+- Me lives in [CO](country_code)
+- Me lives in [CO](country_code) citizenry
+- language [CO](country_code) citizenry
 - I'm in [CO](country_code) country
-- from [CO](country_code) country
-- I'm in [CO](country_code) citizenry
-- I came in [CO](country_code) is the country
-- language of [CO](country_code) country
+- lives in [CO](country_code) country
 - I'm from [CO](country_code) is the country
-- I'm in [CO](country_code)
-- lives in [CO](country_code) is the country
-- citizen of [CO](country_code) is the country
-- I'm from [CO](country_code) citizenry
-- language [CO](country_code) is the country
-- Me lives in [CO](country_code) is the country
+- citizens [CO](country_code) citizenry
+- language of [CO](country_code)
+- language of [CO](country_code) country
+- my origin is [CO](country_code) country
+- I came in [CO](country_code) is the country
+- [KI](country_code)
+- I'm in [KI](country_code) country
+- Me lives in [KI](country_code) citizenry
+- language of [KI](country_code) citizenry
+- I came in [KI](country_code) country
+- I came in [KI](country_code) citizenry
+- [KI](country_code) is the country
+- I came in [KI](country_code) is the country
+- lives in [KI](country_code) citizenry
+- my origin is [KI](country_code)
+- I'm in [KI](country_code) is the country
+- Me lives in [KI](country_code)
+- citizens [KI](country_code) citizenry
+- [KI](country_code) citizenry
+- language [KI](country_code) country
+- from [KI](country_code) is the country
+- lives in [KI](country_code) country
+- Me lives in [KI](country_code) is the country
+- citizens [KI](country_code) country
+- [KI](country_code)
+- I'm in [KI](country_code)
+- I came in [KI](country_code)
+- [MT](country_code)
+- from [MT](country_code) is the country
+- language [MT](country_code)
+- Me lives in [MT](country_code) citizenry
+- citizen of [MT](country_code) is the country
+- I came in [MT](country_code) citizenry
+- from [MT](country_code)
+- [MT](country_code) country
+- citizen of [MT](country_code) country
+- my origin is [MT](country_code)
+- Me lives in [MT](country_code) is the country
+- [MT](country_code)
+- Me lives in [MT](country_code)
+- [MT](country_code) citizenry
+- lives in [MT](country_code) country
+- citizens [MT](country_code) is the country
+- I came in [MT](country_code) is the country
+- I'm in [MT](country_code) country
+- lives in [MT](country_code) citizenry
+- I came in [MT](country_code)
+- my origin is [MT](country_code) country
+- I'm from [MT](country_code)
+- [CH](country_code)
+- [CH](country_code) country
+- I came in [CH](country_code) is the country
+- citizens [CH](country_code) citizenry
+- citizens [CH](country_code) is the country
+- lives in [CH](country_code) country
+- citizens [CH](country_code)
+- language [CH](country_code)
+- I came in [CH](country_code) citizenry
+- I'm in [CH](country_code) country
+- [CH](country_code)
+- I'm in [CH](country_code) is the country
+- Me lives in [CH](country_code) country
+- language of [CH](country_code)
+- language [CH](country_code) is the country
+- my origin is [CH](country_code)
+- my origin is [CH](country_code) citizenry
+- I'm from [CH](country_code)
+- Me lives in [CH](country_code) is the country
+- language of [CH](country_code) is the country
+- [CH](country_code) is the country
+- lives in [CH](country_code) citizenry
+- [MD](country_code)
+- from [MD](country_code) is the country
+- citizen of [MD](country_code) country
+- [MD](country_code) is the country
+- my origin is [MD](country_code) is the country
+- I'm in [MD](country_code) is the country
+- language of [MD](country_code)
+- I came in [MD](country_code) is the country
+- language of [MD](country_code) citizenry
+- language [MD](country_code) citizenry
+- citizens [MD](country_code)
+- citizens [MD](country_code) citizenry
+- [MD](country_code)
+- language of [MD](country_code) is the country
+- language [MD](country_code)
+- citizen of [MD](country_code) is the country
+- my origin is [MD](country_code)
+- language [MD](country_code) country
+- I'm in [MD](country_code)
+- Me lives in [MD](country_code) is the country
+- lives in [MD](country_code)
+- I came in [MD](country_code) citizenry
+- [SZ](country_code)
+- language of [SZ](country_code) country
+- citizen of [SZ](country_code)
+- lives in [SZ](country_code) is the country
+- language of [SZ](country_code) citizenry
+- [SZ](country_code) country
+- language of [SZ](country_code)
+- I came in [SZ](country_code) citizenry
+- citizen of [SZ](country_code) country
+- [SZ](country_code)
+- my origin is [SZ](country_code) is the country
+- my origin is [SZ](country_code) country
+- from [SZ](country_code) is the country
+- citizen of [SZ](country_code) citizenry
+- language [SZ](country_code) is the country
+- Me lives in [SZ](country_code) country
+- language of [SZ](country_code) is the country
+- I'm in [SZ](country_code)
+- I came in [SZ](country_code)
+- citizens [SZ](country_code) is the country
+- from [SZ](country_code) country
+- [SZ](country_code) is the country
+- [AT](country_code)
+- Me lives in [AT](country_code) citizenry
+- I'm in [AT](country_code)
+- language of [AT](country_code) is the country
+- Me lives in [AT](country_code) country
+- my origin is [AT](country_code) is the country
+- Me lives in [AT](country_code)
+- language of [AT](country_code)
+- I'm from [AT](country_code) country
+- lives in [AT](country_code) is the country
+- Me lives in [AT](country_code) is the country
+- my origin is [AT](country_code) citizenry
+- citizens [AT](country_code) country
+- language [AT](country_code) citizenry
+- citizens [AT](country_code) is the country
+- my origin is [AT](country_code)
+- I came in [AT](country_code)
+- citizens [AT](country_code)
+- language [AT](country_code) is the country
+- language [AT](country_code) country
+- citizen of [AT](country_code)
+- I came in [AT](country_code) country
+- [KW](country_code)
+- citizen of [KW](country_code)
+- lives in [KW](country_code)
+- I'm from [KW](country_code) is the country
+- from [KW](country_code) is the country
+- I came in [KW](country_code) country
+- I'm in [KW](country_code) is the country
+- I'm in [KW](country_code)
+- my origin is [KW](country_code) country
+- citizens [KW](country_code) is the country
+- citizen of [KW](country_code) citizenry
+- [KW](country_code) is the country
+- I'm from [KW](country_code) country
+- language of [KW](country_code)
+- Me lives in [KW](country_code) citizenry
+- language [KW](country_code)
+- citizen of [KW](country_code) is the country
+- Me lives in [KW](country_code) is the country
+- I'm in [KW](country_code) citizenry
+- I'm from [KW](country_code) citizenry
+- [KW](country_code) country
+- from [KW](country_code) country
+- [IQ](country_code)
+- I came in [IQ](country_code) citizenry
+- lives in [IQ](country_code) country
+- from [IQ](country_code)
+- I'm in [IQ](country_code) citizenry
+- I came in [IQ](country_code) country
+- citizens [IQ](country_code) country
+- [IQ](country_code)
+- I'm in [IQ](country_code)
+- language [IQ](country_code) is the country
+- lives in [IQ](country_code)
+- language of [IQ](country_code) citizenry
+- citizen of [IQ](country_code) is the country
+- from [IQ](country_code) is the country
+- language of [IQ](country_code)
+- my origin is [IQ](country_code) citizenry
+- lives in [IQ](country_code) citizenry
+- Me lives in [IQ](country_code)
+- I'm from [IQ](country_code) country
+- citizens [IQ](country_code) is the country
+- Me lives in [IQ](country_code) is the country
+- language [IQ](country_code)
+- [BS](country_code)
+- I'm from [BS](country_code) citizenry
+- my origin is [BS](country_code) citizenry
+- language [BS](country_code) citizenry
+- citizen of [BS](country_code)
+- I came in [BS](country_code) is the country
+- from [BS](country_code) citizenry
+- I'm from [BS](country_code) country
+- I'm in [BS](country_code) country
+- Me lives in [BS](country_code) is the country
+- lives in [BS](country_code) country
+- from [BS](country_code)
+- I came in [BS](country_code)
+- [BS](country_code) is the country
+- my origin is [BS](country_code) is the country
+- from [BS](country_code) country
+- language [BS](country_code) is the country
+- I'm in [BS](country_code) citizenry
+- I came in [BS](country_code) country
+- I'm from [BS](country_code)
+- language of [BS](country_code) country
+- citizen of [BS](country_code) citizenry
+- [BZ](country_code)
+- [BZ](country_code) is the country
+- my origin is [BZ](country_code) citizenry
+- I'm in [BZ](country_code)
+- lives in [BZ](country_code) citizenry
+- I came in [BZ](country_code) country
+- from [BZ](country_code)
+- from [BZ](country_code) is the country
+- Me lives in [BZ](country_code) is the country
+- citizens [BZ](country_code) citizenry
+- I'm in [BZ](country_code) country
+- lives in [BZ](country_code)
+- from [BZ](country_code) citizenry
+- I'm in [BZ](country_code) citizenry
+- my origin is [BZ](country_code) is the country
+- I'm from [BZ](country_code) is the country
+- lives in [BZ](country_code) country
+- Me lives in [BZ](country_code)
+- [BZ](country_code) country
+- [BZ](country_code) citizenry
+- I'm from [BZ](country_code)
+- citizens [BZ](country_code) is the country
+- [MG](country_code)
+- citizen of [MG](country_code) is the country
+- I'm in [MG](country_code) country
+- language [MG](country_code) is the country
+- I'm in [MG](country_code) citizenry
+- my origin is [MG](country_code)
+- Me lives in [MG](country_code) citizenry
+- I'm in [MG](country_code)
+- language of [MG](country_code)
+- citizens [MG](country_code) citizenry
+- I'm from [MG](country_code) citizenry
+- Me lives in [MG](country_code) is the country
+- from [MG](country_code)
+- lives in [MG](country_code) country
+- lives in [MG](country_code)
+- citizens [MG](country_code)
+- I came in [MG](country_code) citizenry
+- my origin is [MG](country_code) country
+- I'm in [MG](country_code) is the country
+- I'm from [MG](country_code)
+- I came in [MG](country_code) country
+- from [MG](country_code) is the country
+- [SE](country_code)
+- language of [SE](country_code) is the country
+- I came in [SE](country_code) country
+- I'm from [SE](country_code) is the country
+- I'm from [SE](country_code)
+- [SE](country_code)
+- lives in [SE](country_code) country
+- my origin is [SE](country_code) country
+- citizens [SE](country_code) is the country
+- language of [SE](country_code) country
+- I'm in [SE](country_code) country
+- my origin is [SE](country_code) citizenry
+- my origin is [SE](country_code) is the country
+- I came in [SE](country_code) citizenry
+- language [SE](country_code) is the country
+- I'm in [SE](country_code) is the country
+- citizen of [SE](country_code) country
+- Me lives in [SE](country_code) country
+- language [SE](country_code) country
+- I'm from [SE](country_code) country
+- I came in [SE](country_code)
+- citizen of [SE](country_code) is the country
+- [NZ](country_code)
+- language [NZ](country_code) country
+- citizens [NZ](country_code)
+- citizen of [NZ](country_code)
+- from [NZ](country_code) is the country
+- lives in [NZ](country_code) country
+- from [NZ](country_code)
+- I came in [NZ](country_code) is the country
+- citizen of [NZ](country_code) citizenry
+- language of [NZ](country_code) citizenry
+- language [NZ](country_code)
+- language of [NZ](country_code) is the country
+- [NZ](country_code) country
+- citizens [NZ](country_code) country
+- my origin is [NZ](country_code) citizenry
+- Me lives in [NZ](country_code) country
+- lives in [NZ](country_code)
+- my origin is [NZ](country_code) is the country
+- [NZ](country_code) is the country
+- I'm from [NZ](country_code)
+- I'm from [NZ](country_code) citizenry
+- I came in [NZ](country_code)
+- [GE](country_code)
+- lives in [GE](country_code) is the country
+- Me lives in [GE](country_code) country
+- lives in [GE](country_code) country
+- [GE](country_code)
+- I'm in [GE](country_code)
+- my origin is [GE](country_code) is the country
+- citizens [GE](country_code) country
+- my origin is [GE](country_code) citizenry
+- language of [GE](country_code) citizenry
+- language [GE](country_code) is the country
+- I'm in [GE](country_code) country
+- from [GE](country_code) country
+- I came in [GE](country_code) citizenry
+- from [GE](country_code)
+- I'm in [GE](country_code) is the country
+- [GE](country_code) is the country
+- my origin is [GE](country_code) country
+- citizens [GE](country_code) is the country
+- [GE](country_code) country
+- citizens [GE](country_code)
+- I came in [GE](country_code) country
 - [HT](country_code)
+- language of [HT](country_code)
+- lives in [HT](country_code) is the country
+- from [HT](country_code) is the country
 - Me lives in [HT](country_code) country
-- citizens [HT](country_code) is the country
+- citizens [HT](country_code) citizenry
+- [HT](country_code) country
+- I'm in [HT](country_code)
+- Me lives in [HT](country_code) is the country
+- language of [HT](country_code) is the country
+- citizens [HT](country_code)
+- language [HT](country_code) country
+- language [HT](country_code)
+- language of [HT](country_code) citizenry
+- [HT](country_code) citizenry
+- I'm from [HT](country_code) citizenry
+- I'm in [HT](country_code) citizenry
+- Me lives in [HT](country_code) citizenry
 - my origin is [HT](country_code) citizenry
 - my origin is [HT](country_code)
-- [HT](country_code)
-- language [HT](country_code) is the country
-- [HT](country_code) is the country
-- from [HT](country_code) citizenry
-- lives in [HT](country_code)
-- from [HT](country_code) is the country
-- I'm from [HT](country_code) is the country
-- I'm in [HT](country_code)
-- language [HT](country_code)
-- I came in [HT](country_code)
-- Me lives in [HT](country_code) citizenry
-- I'm in [HT](country_code) is the country
-- lives in [HT](country_code) country
-- I came in [HT](country_code) citizenry
 - citizen of [HT](country_code)
-- citizen of [HT](country_code) country
-- lives in [HT](country_code) citizenry
-- [GM](country_code)
-- [GM](country_code) citizenry
-- my origin is [GM](country_code) citizenry
-- Me lives in [GM](country_code) citizenry
-- Me lives in [GM](country_code) is the country
-- I'm in [GM](country_code) is the country
-- lives in [GM](country_code) citizenry
-- language of [GM](country_code) is the country
-- I'm from [GM](country_code)
-- from [GM](country_code)
-- my origin is [GM](country_code) is the country
-- lives in [GM](country_code)
-- Me lives in [GM](country_code) country
-- I came in [GM](country_code) country
-- citizens [GM](country_code) country
-- language of [GM](country_code) citizenry
-- citizens [GM](country_code) is the country
-- my origin is [GM](country_code)
-- lives in [GM](country_code) is the country
-- language [GM](country_code)
-- citizens [GM](country_code)
-- I'm from [GM](country_code) citizenry
-- [VE](country_code)
-- lives in [VE](country_code) country
-- I'm from [VE](country_code) country
-- I'm from [VE](country_code) citizenry
-- citizen of [VE](country_code) is the country
-- my origin is [VE](country_code) citizenry
-- citizens [VE](country_code) country
-- language of [VE](country_code) country
-- from [VE](country_code) citizenry
-- language of [VE](country_code) is the country
-- I'm in [VE](country_code)
-- citizens [VE](country_code) is the country
-- lives in [VE](country_code) is the country
-- my origin is [VE](country_code) country
-- Me lives in [VE](country_code) citizenry
-- Me lives in [VE](country_code)
-- citizen of [VE](country_code) country
-- [VE](country_code)
-- [VE](country_code) country
-- language [VE](country_code)
-- language of [VE](country_code) citizenry
-- citizen of [VE](country_code)
-- [MC](country_code)
-- my origin is [MC](country_code) country
-- lives in [MC](country_code) country
-- [MC](country_code) is the country
-- my origin is [MC](country_code) is the country
-- I'm in [MC](country_code) country
-- from [MC](country_code)
-- I'm from [MC](country_code) is the country
-- I came in [MC](country_code) is the country
-- from [MC](country_code) is the country
-- lives in [MC](country_code)
-- I'm from [MC](country_code) citizenry
-- my origin is [MC](country_code)
-- citizen of [MC](country_code) is the country
-- citizen of [MC](country_code) country
-- I came in [MC](country_code) country
-- lives in [MC](country_code) is the country
-- I'm from [MC](country_code) country
-- my origin is [MC](country_code) citizenry
-- citizens [MC](country_code) country
-- I'm in [MC](country_code)
-- Me lives in [MC](country_code)
-- [BE](country_code)
-- from [BE](country_code)
-- I came in [BE](country_code) citizenry
-- citizens [BE](country_code) country
-- I came in [BE](country_code) is the country
-- citizen of [BE](country_code) citizenry
-- citizen of [BE](country_code)
-- language of [BE](country_code) is the country
-- lives in [BE](country_code) is the country
-- my origin is [BE](country_code) citizenry
-- [BE](country_code) is the country
-- citizens [BE](country_code)
-- I'm in [BE](country_code) is the country
-- I came in [BE](country_code) country
-- [BE](country_code) country
-- Me lives in [BE](country_code) citizenry
-- Me lives in [BE](country_code) country
-- Me lives in [BE](country_code) is the country
-- [BE](country_code) citizenry
-- I'm from [BE](country_code)
-- Me lives in [BE](country_code)
-- my origin is [BE](country_code)
-- [DM](country_code)
-- from [DM](country_code)
-- citizens [DM](country_code) is the country
-- my origin is [DM](country_code)
-- lives in [DM](country_code) citizenry
-- I'm in [DM](country_code)
-- lives in [DM](country_code) is the country
-- I'm from [DM](country_code) is the country
-- I'm in [DM](country_code) citizenry
-- from [DM](country_code) citizenry
-- from [DM](country_code) is the country
-- I came in [DM](country_code)
-- language [DM](country_code) citizenry
-- I'm from [DM](country_code) citizenry
-- Me lives in [DM](country_code) country
-- from [DM](country_code) country
-- [DM](country_code) citizenry
-- I came in [DM](country_code) country
-- [DM](country_code) is the country
-- Me lives in [DM](country_code) citizenry
-- I came in [DM](country_code) is the country
-- I came in [DM](country_code) citizenry
+- I'm in [HT](country_code) country
+- [SR](country_code)
+- citizens [SR](country_code)
+- my origin is [SR](country_code)
+- citizens [SR](country_code) country
+- I'm in [SR](country_code) country
+- Me lives in [SR](country_code)
+- language [SR](country_code) citizenry
+- I'm from [SR](country_code)
+- from [SR](country_code) citizenry
+- my origin is [SR](country_code) citizenry
+- language of [SR](country_code) is the country
+- [SR](country_code) citizenry
+- Me lives in [SR](country_code) country
+- [SR](country_code) country
+- I'm in [SR](country_code) is the country
+- language [SR](country_code) country
+- citizens [SR](country_code) is the country
+- citizen of [SR](country_code) is the country
+- citizen of [SR](country_code)
+- my origin is [SR](country_code) is the country
+- I'm in [SR](country_code) citizenry
+- my origin is [SR](country_code) country
+- [ID](country_code)
+- my origin is [ID](country_code) is the country
+- language of [ID](country_code) country
+- my origin is [ID](country_code)
+- I came in [ID](country_code) citizenry
+- citizens [ID](country_code) country
+- [ID](country_code) citizenry
+- from [ID](country_code)
+- language [ID](country_code) citizenry
+- I'm from [ID](country_code) is the country
+- Me lives in [ID](country_code)
+- citizens [ID](country_code) is the country
+- Me lives in [ID](country_code) citizenry
+- I came in [ID](country_code)
+- lives in [ID](country_code)
+- from [ID](country_code) is the country
+- citizens [ID](country_code) citizenry
+- [ID](country_code) country
+- I'm in [ID](country_code) citizenry
+- I'm in [ID](country_code) is the country
+- lives in [ID](country_code) is the country
+- my origin is [ID](country_code) country
+
+
+## intent:affirm
+- thats fine
+- yes pleae
+- cool beans
+- alright
+- go
+- Okay!
+- ya cool
+- ofcoure i do
+- jezz
+- yes i have built a bot before
+- fine
+- hell yes
+- that is cool
+- yes it was okay
+- ok, HumanBios
+- sure thing
+- yep that's nice
+- yep. :/
+- alright, cool
+- it is ok
+- yesyestyes
+- yes go for it
+- ya thats cool
+- yres
+- yas
+- yaah
+- yap
+- OK
+- amayzing
+- how nice!
+- yes.
+- absolutely
+- Cool
+- ja thats great
+- I'd absolutely love that
+- cool :)
+- awesome!
+- Awesome!
+- okie
+- done
+- yes you can
+- yes please
+- that ok
+- I changed my mind. I want to accept it
+- great lets do that
+- okay..
+- yes that's what i want
+- yes'
+- hm, i'd like that
+- definitely yes without a doubt
+- yes, give me information, please
+- Oh yes
+- okay cool
+- oh super
+- yes, cool
+- yep if i have to
+- ja cool
+- yep please
+- yeeeeezzzzz
+- top
+- yup
+- I am using it
+- yesss
+- sort of
+- Yep!
+- yes, I'd love to
+- Good
+- go ahead
+- i will!
+- Nice
+- yesssss
+- okay sure
+- ok fine
+- yes baby
+- ok
+- yess
+- yep i want that
+- not bad
+- yez
+- great
+- y
+- that's great
+- yes
+- I guess so
+- yeah'=
+- yes i have!
+- yes it is
+- Yep that's fine
+- really
+- yes,i am
+- ok i accept
+- yea
+- agreed
+- going super well
+- yes of course
+- of course
+- oki doki
+- Okay
+- yes that's great
+- ya i want
+- Oh, ok
+- Yeah sure
+- ys
+- oh good !!
+- you asked me a yes or no question, which i answered with yes
+- accepted
+- ok cool
+- yop
+- yeah, why not
+- yes I do
+- i want that
+- yes please!
+- lets do it
+- Yes
+- good.
+- Yep
+- ya
+- I accept
+- oh awesome!
+- That would be great
+- fair enough
+- I have used it in the past
+- SURE
+- YES
+- cool!
+- yes i accept
+- please
+- yeah do that
+- yes pls
+- ja
+- okay
+- Sure
+- yes i agree
+- kk
+- Ok
+- hell yeah
+- si
+- yesh
+- awesome
+- yep
+- go for it
+- ook
+- amazing!
+- oui
+- Sweet
+- sounds good!
+- Yes, I accept
+- yay
+- ya please
+- I get it
+- yeeees
+- considering
+- ok great
+- uh-huh
+- ye splease
+- ok, I behave now
+- thats great
+- Yeah
+- yep, will do thank you
+- ah ok
+- ye
+- Yea
+- I agree
+- Ok.
+- ok..
+- ya go for it
+- its okay
+- i accept
+- yes great
+- sure!
+- cool
+- yeah
+- cool story bro
+- Ok let's start
+- i agree
+- Yes I do
+- fuck yeah!
+- i am!
+- yes give me information
+- I'm sure I will!
+- yyeeeh
+- ok friend
+- yes ...
+- yes sirfr
+- Okay cool
+- Yes.
+- well yes
+- ok good
+- Yup
+- Yes please
+- PLEASE
+- yes cool
+- thats good
+- Accept
+- great!
+- oh cool
+- ok...
+- Yes please!
+- yes go ahead
+- sure
+- I do
+- yaps
+- yeah sure
+- ok humanbios
+- very much
+- a little
+- perfect
+- ofcourse
+- YUP
+- ok, I understood
+- that sounds fine
+- yes accept please
+- I will
+- fcourse
+- k
+- I'm using it
+- lets do this
+- Yepp
+- jo
+- yessoo
+- coolio
+- I accept.
+- Ofcourse
+- confirm
+- yep thats cool
+- you got me, I accept, if you want me to
+- More a less
+- yesyesyes
+- accept
+- Great
+
+
+## intent:deny
+- it sucks
+- no thanks
+- no i dont want to accept :P lol
+- Neither
+- n
+- noooooooooo
+- nehi
+- no, i hate it
+- nö
+- it is going pretty badly
+- I dont want to tell
+- Never
+- Nah
+- i dont want to
+- non
+- noooooooooooooooooooooooooooooooooooooooo
+- no :(
+- no i don't accept
+- no I dont want
+- i don not like this
+- no, my frst time
+- this sucks
+- no and no again
+- thanks but no thanks
+- sorry not right now
+- not going well at all
+- no, thanks
+- decline
+- i decline
+- I'm not giving you my email address
+- nah I'm good
+- No thank you
+- i don't think so
+- absolutely not
+- no thank s
+- nah, first time
+- no i dont want to
+- No, not really.
+- No, thank you
+- not yet
+- I don't want to say
+- deny
+- stop it, i do not care!!!
+- no you did it wrong
+- nein
+- no go
+- i guess it means no
+- nope. i am good
+- I don't want to
+- I'm not going to give it to you
+- no, thank you
+- no ma'am
+- still dont want to tell
+- nope
+- i don't want to
+- no stop
+- No
+- never
+- not right now
+- no
+- it sux
+- no i can't
+- nah not for me
+- no way
+- no sir
+- neither
+- nah
+- not really
+- i don't want to give you my email
+- Nevermind
+- no i won't
+- i'm not sure
+- no, thankyou
+- na
+- No.
+- none of them
+- I don't wanna tell the name of my company
+- NEIN
+- i'm afraid not
+- very bad
+- no thank you
+- nah, i'm good
+- nop
+- Nopes
+- i dont want to accept :P lol
+- nope!
+- I don't want to give it to you
+- never mind
+- no bots at all
+- no!!!!
+- NO DON"T WANT THIS!
+- definitely not
+- I do not need help installing
+- no. u r idiot
+- NO
+- I don't agree
+- no I haven't decided yet if I want to sign up
+- no sorry
+- Not really
+- i don't want either of those
+
+
+## intent:greet
+- Hi,
+- heyo
+- halloo
+- hai
+- hola
+- heya
+- wasssup
+- hey there
+- Hieee
+- Hola
+- Hi HumanBios
+- bonjour
+- Hello!
+- halo
+- Hi man
+- Hi, bot
+- hi mrs rasa
+- hi?
+- hi there it's me
+- hey HumanBios
+- helleo
+- konichiwa
+- whats up
+- Hi HumanBios
+- Hi there
+- jop
+- Hi HumanBios!
+- hii
+- halo HumanBios
+- yo
+- hey bot
+- hlo
+- HI HumanBios
+- Heylo
+- hey let's talk
+- halloooo
+- ayyyy whaddup
+- Hi bot
+- jojojo
+- ey boss
+- hi folks
+- Heya
+- hello everybody
+- hello world
+- hey rasa
+- Hi
+- Whats up?
+- hey bot!
+- hiihihi
+- hi friend
+- good evening
+- Hi HumanBios..
+- hi !
+- Bom dia
+- hello there
+- hi hi
+- heyho
+- Good Morning
+- hallo
+- hi Mister
+- hey hey
+- hello
+- ola HumanBios
+- hey there boy
+- greet
+- hello sweatheart
+- hey there..
+- Bonjour
+- salut
+- wasssup!
+- Whats up
+- helo
+- Hello Rasa
+- howdy
+- Hi rasa
+- Guten Morgen
+- heeey
+- HELLO
+- hallo HumanBios
+- Hey bot
+- hello?
+- Whats up my bot
+- sup
+- Well hello there ;)
+- Hei
+- hello HumanBios
+- hello friend
+- yoo
+- Good morning
+- Hello Bot
+- hello robot
+- Hi!
+- I said, helllllloooooO!!!!
+- Hallo
+- hi!
+- hellio
+- rasa hello
+- HEllo
+- hey ther
+- hi HumanBios
+- hellooo
+- merhaba
+- heelio
+- Hello HumanBios
+- hiii
+- hello HumanBios
+- good moring
+- HI
+- hi
+- hey, let's talk
+- Hello
+- Hey
+- hi friends
+- Hello HumanBios
+- hey
+- whats popping
+- good morning
+- What is up?
+- hello sweet boy
+- hi there
+- hello it is me again
+- Hi'
+- hhola
+- hey, HumanBios!
+- hello is anybody there
+- hi.........................................................
+- Good mourning
+- ssup?
+- helloooo
+- HEY
+- hieee
+- hi pal!
+- hello]
+- Hey HumanBios
+- hi again
+- hello hi
+- Hellllooooooo
+- hell9o
+- hi can you speak ?
+- what up
+- greetings
+- hey dude
+- Hieeeeeeeeeeeee
 
 
 ## synonym:Afrikaans
-- AF
+- AFRIKAANS
 - af
 - afrikaans
-- AFRIKAANS
+- AF
 - Afrikaans
 
 ## synonym:Irish
-- IRISH
 - GA
+- IRISH
+- Irish
 - irish
 - ga
-- Irish
 
 ## synonym:Albanian
-- Albanian
-- ALBANIAN
-- albanian
-- SQ
 - sq
+- albanian
+- ALBANIAN
+- Albanian
+- SQ
 
 ## synonym:Italian
-- IT
-- Italian
-- italian
 - ITALIAN
+- IT
+- italian
+- Italian
 - it
 
 ## synonym:Arabic
-- ar
-- ARABIC
 - Arabic
-- arabic
 - AR
+- ARABIC
+- ar
+- arabic
 
 ## synonym:Japanese
 - JA
-- ja
-- Japanese
 - japanese
+- Japanese
 - JAPANESE
+- ja
 
 ## synonym:Azerbaijani
 - AZERBAIJANI
+- az
+- azerbaijani
 - AZ
 - Azerbaijani
-- azerbaijani
-- az
 
 ## synonym:Kannada
-- Kannada
+- kannada
 - kn
 - KANNADA
 - KN
-- kannada
+- Kannada
 
 ## synonym:Basque
 - Basque
 - basque
-- EU
-- BASQUE
 - eu
+- BASQUE
+- EU
 
 ## synonym:Korean
+- ko
 - Korean
+- korean
 - KO
 - KOREAN
-- ko
-- korean
 
 ## synonym:Bengali
 - bn
-- bengali
-- BN
-- Bengali
 - BENGALI
+- bengali
+- Bengali
+- BN
 
 ## synonym:Latin
-- la
-- LA
-- LATIN
-- latin
 - Latin
+- LATIN
+- LA
+- latin
+- la
 
 ## synonym:Belarusian
-- BELARUSIAN
 - be
-- belarusian
 - Belarusian
+- BELARUSIAN
 - BE
+- belarusian
 
 ## synonym:Latvian
-- LATVIAN
-- latvian
-- Latvian
 - lv
+- Latvian
+- LATVIAN
 - LV
+- latvian
 
 ## synonym:Bulgarian
-- BG
-- bg
-- bulgarian
-- Bulgarian
 - BULGARIAN
+- bulgarian
+- bg
+- BG
+- Bulgarian
 
 ## synonym:Lithuanian
-- lt
 - Lithuanian
-- lithuanian
 - LT
+- lt
 - LITHUANIAN
+- lithuanian
 
 ## synonym:Catalan
-- catalan
-- Catalan
 - CA
-- CATALAN
+- Catalan
 - ca
+- catalan
+- CATALAN
 
 ## synonym:Macedonian
 - MACEDONIAN
@@ -6513,1532 +6995,1532 @@
 - Macedonian
 
 ## synonym:Chinese Simplified
+- zh-CN
+- ZH-CN
 - chinese simplified
 - zh-cn
 - CHINESE SIMPLIFIED
 - Chinese Simplified
-- ZH-CN
-- zh-CN
 
 ## synonym:Malay
-- ms
 - MS
-- MALAY
-- Malay
 - malay
+- ms
+- Malay
+- MALAY
 
 ## synonym:Chinese Traditional
+- zh-TW
 - chinese traditional
 - zh-tw
-- CHINESE TRADITIONAL
-- zh-TW
 - ZH-TW
 - Chinese Traditional
+- CHINESE TRADITIONAL
 
 ## synonym:Maltese
 - MALTESE
-- Maltese
 - MT
+- Maltese
 - maltese
 - mt
 
 ## synonym:Croatian
+- hr
 - Croatian
 - CROATIAN
-- croatian
-- hr
 - HR
+- croatian
 
 ## synonym:Norwegian
-- NORWEGIAN
-- Norwegian
-- NO
-- norwegian
 - no
+- NO
+- Norwegian
+- norwegian
+- NORWEGIAN
 
 ## synonym:Czech
-- Czech
-- CZECH
-- czech
-- CS
 - cs
+- czech
+- CZECH
+- CS
+- Czech
 
 ## synonym:Persian
-- fa
 - FA
-- PERSIAN
-- persian
 - Persian
+- persian
+- fa
+- PERSIAN
 
 ## synonym:Danish
+- da
 - DANISH
+- Danish
 - DA
 - danish
-- Danish
-- da
 
 ## synonym:Polish
 - Polish
+- POLISH
 - polish
 - PL
-- POLISH
 - pl
 
 ## synonym:Dutch
-- DUTCH
 - nl
-- dutch
 - NL
+- dutch
+- DUTCH
 - Dutch
 
 ## synonym:Portuguese
 - portuguese
-- Portuguese
 - pt
-- PT
+- Portuguese
 - PORTUGUESE
+- PT
 
 ## synonym:English
-- English
-- en
-- ENGLISH
 - EN
+- ENGLISH
+- English
 - english
+- en
 
 ## synonym:Romanian
+- ROMANIAN
+- RO
 - ro
 - romanian
 - Romanian
-- ROMANIAN
-- RO
 
 ## synonym:Esperanto
-- eo
 - Esperanto
-- ESPERANTO
-- EO
+- eo
 - esperanto
+- EO
+- ESPERANTO
 
 ## synonym:Russian
 - RUSSIAN
-- RU
-- ru
 - russian
 - Russian
+- RU
+- ru
 
 ## synonym:Estonian
-- et
-- Estonian
-- ESTONIAN
 - ET
+- ESTONIAN
+- Estonian
 - estonian
+- et
 
 ## synonym:Serbian
-- serbian
-- SERBIAN
-- sr
 - Serbian
 - SR
+- sr
+- serbian
+- SERBIAN
 
 ## synonym:Filipino
+- filipino
+- TL
 - Filipino
 - FILIPINO
-- filipino
 - tl
-- TL
 
 ## synonym:Slovak
-- SLOVAK
 - Slovak
-- sk
 - SK
+- sk
+- SLOVAK
 - slovak
 
 ## synonym:Finnish
-- Finnish
 - FI
 - finnish
 - FINNISH
+- Finnish
 - fi
 
 ## synonym:Slovenian
 - slovenian
 - Slovenian
-- sl
 - SLOVENIAN
+- sl
 - SL
 
 ## synonym:French
-- French
 - FR
-- FRENCH
-- french
 - fr
+- french
+- French
+- FRENCH
 
 ## synonym:Spanish
-- es
-- ES
 - spanish
 - Spanish
+- es
+- ES
 - SPANISH
 
 ## synonym:Galician
-- Galician
 - galician
-- GL
 - GALICIAN
+- GL
+- Galician
 - gl
 
 ## synonym:Swahili
-- Swahili
-- SWAHILI
 - sw
+- Swahili
 - SW
+- SWAHILI
 - swahili
 
 ## synonym:Georgian
 - KA
-- ka
 - GEORGIAN
+- ka
 - Georgian
 - georgian
 
 ## synonym:Swedish
-- sv
-- swedish
 - SWEDISH
-- Swedish
 - SV
+- swedish
+- Swedish
+- sv
 
 ## synonym:German
-- DE
 - German
-- GERMAN
 - de
+- GERMAN
 - german
+- DE
 
 ## synonym:Tamil
+- TAMIL
+- ta
 - tamil
 - TA
 - Tamil
-- TAMIL
-- ta
 
 ## synonym:Greek
-- EL
-- Greek
-- GREEK
 - greek
 - el
+- GREEK
+- Greek
+- EL
 
 ## synonym:Telugu
-- telugu
-- te
 - TELUGU
 - Telugu
 - TE
+- te
+- telugu
 
 ## synonym:Gujarati
+- gujarati
+- gu
 - Gujarati
 - GU
-- gujarati
 - GUJARATI
-- gu
 
 ## synonym:Thai
-- THAI
-- Thai
 - th
-- TH
+- Thai
 - thai
+- TH
+- THAI
 
 ## synonym:Haitian Creole
-- Haitian Creole
 - HAITIAN CREOLE
 - HT
 - ht
 - haitian creole
+- Haitian Creole
 
 ## synonym:Turkish
 - Turkish
+- TR
 - turkish
 - TURKISH
-- TR
 - tr
 
 ## synonym:Hebrew
-- hebrew
 - HEBREW
-- Hebrew
 - IW
 - iw
+- hebrew
+- Hebrew
 
 ## synonym:Ukrainian
 - UKRAINIAN
 - UK
-- ukrainian
 - Ukrainian
+- ukrainian
 - uk
 
 ## synonym:Hindi
-- hindi
 - hi
-- HI
 - HINDI
+- hindi
+- HI
 - Hindi
 
 ## synonym:Urdu
+- urdu
+- UR
+- URDU
 - Urdu
 - ur
-- urdu
-- URDU
-- UR
 
 ## synonym:Hungarian
-- HU
-- HUNGARIAN
-- hungarian
 - hu
+- hungarian
 - Hungarian
+- HUNGARIAN
+- HU
 
 ## synonym:Vietnamese
-- VI
-- vi
 - Vietnamese
-- VIETNAMESE
 - vietnamese
+- VI
+- VIETNAMESE
+- vi
 
 ## synonym:Icelandic
+- icelandic
+- ICELANDIC
 - IS
 - Icelandic
 - is
-- icelandic
-- ICELANDIC
 
 ## synonym:Welsh
 - cy
-- WELSH
+- welsh
 - CY
 - Welsh
-- welsh
+- WELSH
 
 ## synonym:Indonesian
-- INDONESIAN
-- Indonesian
 - id
+- INDONESIAN
 - indonesian
+- Indonesian
 - ID
 
 ## synonym:Yiddish
-- yi
-- yiddish
 - YI
 - Yiddish
+- yi
+- yiddish
 - YIDDISH
 
 ## synonym:Andorra
+- AD
+- 🇦🇩
+- ad
+- andorra
 - Andorra
 - ANDORRA
-- andorra
-- 🇦🇩
-- AD
-- ad
 
 ## synonym:United Arab Emirates
 - UNITED ARAB EMIRATES
-- 🇦🇪
-- AE
 - ae
 - united arab emirates
+- 🇦🇪
 - United Arab Emirates
+- AE
 
 ## synonym:Albania
+- Albania
+- al
 - 🇦🇱
 - AL
-- al
-- Albania
-- albania
 - ALBANIA
+- albania
 
 ## synonym:Angola
 - ANGOLA
-- 🇦🇴
+- angola
 - Angola
 - ao
-- angola
+- 🇦🇴
 - AO
 
 ## synonym:Argentina
-- argentina
 - 🇦🇷
 - Argentina
+- argentina
 - ARGENTINA
 
 ## synonym:Austria
-- AT
 - at
+- AT
 - 🇦🇹
-- AUSTRIA
 - Austria
 - austria
+- AUSTRIA
 
 ## synonym:Australia
-- 🇦🇺
-- AUSTRALIA
 - au
 - AU
-- australia
+- AUSTRALIA
 - Australia
+- 🇦🇺
+- australia
 
 ## synonym:Azerbaijan
-- AZERBAIJAN
-- azerbaijan
 - 🇦🇿
+- azerbaijan
+- AZERBAIJAN
 - Azerbaijan
 
 ## synonym:Barbados
-- BB
-- Barbados
-- BARBADOS
 - bb
-- barbados
+- BARBADOS
+- Barbados
+- BB
 - 🇧🇧
+- barbados
 
 ## synonym:Bangladesh
-- Bangladesh
-- BD
 - bd
+- Bangladesh
 - 🇧🇩
+- BD
 - bangladesh
 - BANGLADESH
 
 ## synonym:Belgium
-- BELGIUM
-- belgium
-- 🇧🇪
 - Belgium
+- BELGIUM
+- 🇧🇪
+- belgium
 
 ## synonym:Burkina Faso
-- 🇧🇫
-- BURKINA FASO
-- burkina faso
 - BF
-- bf
+- BURKINA FASO
 - Burkina Faso
+- 🇧🇫
+- burkina faso
+- bf
 
 ## synonym:Bulgaria
-- bulgaria
+- 🇧🇬
 - BULGARIA
 - Bulgaria
-- 🇧🇬
+- bulgaria
 
 ## synonym:Bahrain
 - BAHRAIN
-- bahrain
-- BH
 - Bahrain
-- 🇧🇭
+- bahrain
 - bh
+- 🇧🇭
+- BH
 
 ## synonym:Burundi
-- 🇧🇮
-- Burundi
-- BI
 - BURUNDI
-- burundi
+- Burundi
 - bi
+- burundi
+- 🇧🇮
+- BI
 
 ## synonym:Benin
 - 🇧🇯
 - benin
-- bj
-- BJ
 - BENIN
+- BJ
+- bj
 - Benin
 
 ## synonym:Brunei
+- 🇧🇳
 - BRUNEI
 - Brunei
-- 🇧🇳
 - brunei
 
 ## synonym:Brazil
+- Brazil
+- BRAZIL
 - 🇧🇷
 - br
 - brazil
 - BR
-- Brazil
-- BRAZIL
 
 ## synonym:Bahamas
-- 🇧🇸
-- bs
 - BS
+- bs
+- 🇧🇸
 - Bahamas
 - BAHAMAS
 - bahamas
 
 ## synonym:Botswana
-- BOTSWANA
-- BW
 - botswana
+- BW
 - 🇧🇼
 - Botswana
 - bw
+- BOTSWANA
 
 ## synonym:Belarus
 - by
-- Belarus
-- BELARUS
 - belarus
 - 🇧🇾
+- BELARUS
+- Belarus
 - BY
 
 ## synonym:Belize
-- 🇧🇿
 - bz
-- belize
-- Belize
 - BELIZE
+- Belize
+- belize
 - BZ
+- 🇧🇿
 
 ## synonym:Canada
-- canada
-- 🇨🇦
-- Canada
 - CANADA
+- Canada
+- 🇨🇦
+- canada
 
 ## synonym:Central African Republic
-- CENTRAL AFRICAN REPUBLIC
-- central african republic
 - cf
-- CF
+- CENTRAL AFRICAN REPUBLIC
 - Central African Republic
+- central african republic
+- CF
 - 🇨🇫
 
 ## synonym:Switzerland
+- ch
+- switzerland
 - Switzerland
 - 🇨🇭
 - CH
-- switzerland
 - SWITZERLAND
-- ch
 
 ## synonym:Chile
-- Chile
-- cl
 - 🇨🇱
 - CL
-- CHILE
 - chile
+- CHILE
+- Chile
+- cl
 
 ## synonym:Cameroon
-- 🇨🇲
-- cm
-- Cameroon
-- CAMEROON
 - cameroon
 - CM
+- cm
+- 🇨🇲
+- CAMEROON
+- Cameroon
 
 ## synonym:Colombia
-- co
-- CO
-- COLOMBIA
-- Colombia
 - 🇨🇴
+- COLOMBIA
+- CO
+- co
+- Colombia
 - colombia
 
 ## synonym:Costa Rica
-- Costa Rica
 - costa rica
-- cr
-- COSTA RICA
 - CR
 - 🇨🇷
+- COSTA RICA
+- cr
+- Costa Rica
 
 ## synonym:Cuba
-- cu
-- CU
-- CUBA
-- cuba
-- Cuba
 - 🇨🇺
+- CUBA
+- Cuba
+- CU
+- cu
+- cuba
 
 ## synonym:Cape Verde
 - cape verde
 - 🇨🇻
-- cv
 - Cape Verde
 - CAPE VERDE
 - CV
+- cv
 
 ## synonym:Cyprus
 - cyprus
 - Cyprus
-- 🇨🇾
 - CYPRUS
+- 🇨🇾
 
 ## synonym:Germany
-- germany
+- Germany
 - GERMANY
 - 🇩🇪
-- Germany
+- germany
 
 ## synonym:Djibouti
+- 🇩🇯
 - DJ
 - DJIBOUTI
-- dj
-- 🇩🇯
-- Djibouti
 - djibouti
+- dj
+- Djibouti
 
 ## synonym:Denmark
-- denmark
-- DK
 - DENMARK
-- 🇩🇰
-- Denmark
+- denmark
 - dk
+- 🇩🇰
+- DK
+- Denmark
 
 ## synonym:Dominica
-- DOMINICA
-- 🇩🇲
 - dm
-- dominica
+- DOMINICA
 - Dominica
+- 🇩🇲
+- dominica
 - DM
 
 ## synonym:Dominican Republic
-- DOMINICAN REPUBLIC
-- dominican republic
 - Dominican Republic
-- do
-- 🇩🇴
 - DO
+- DOMINICAN REPUBLIC
+- do
+- dominican republic
+- 🇩🇴
 
 ## synonym:Algeria
-- DZ
+- dz
 - Algeria
-- algeria
 - ALGERIA
 - 🇩🇿
-- dz
+- DZ
+- algeria
 
 ## synonym:Estonia
-- ESTONIA
-- estonia
-- Estonia
 - 🇪🇪
-- ee
+- estonia
 - EE
+- ee
+- ESTONIA
+- Estonia
 
 ## synonym:Egypt
-- egypt
-- eg
 - EGYPT
-- Egypt
-- EG
+- eg
 - 🇪🇬
+- Egypt
+- egypt
+- EG
 
 ## synonym:Spain
 - 🇪🇸
+- spain
 - SPAIN
 - Spain
-- spain
 
 ## synonym:Finland
-- 🇫🇮
 - finland
-- FINLAND
 - Finland
+- 🇫🇮
+- FINLAND
 
 ## synonym:Fiji
 - FIJI
-- FJ
-- fiji
-- Fiji
-- fj
 - 🇫🇯
+- FJ
+- Fiji
+- fiji
+- fj
 
 ## synonym:France
+- france
 - France
 - 🇫🇷
-- france
 - FRANCE
 
 ## synonym:Gabon
+- 🇬🇦
+- GABON
 - gabon
 - Gabon
-- GABON
-- 🇬🇦
 
 ## synonym:United Kingdom
-- GB
 - United Kingdom
-- UNITED KINGDOM
-- 🇬🇧
-- gb
 - united kingdom
+- 🇬🇧
+- UNITED KINGDOM
+- GB
+- gb
 
 ## synonym:Grenada
-- gd
-- Grenada
 - 🇬🇩
 - GD
+- Grenada
 - grenada
 - GRENADA
+- gd
 
 ## synonym:Georgia
-- 🇬🇪
-- Georgia
+- GE
 - georgia
+- Georgia
+- 🇬🇪
 - ge
 - GEORGIA
-- GE
 
 ## synonym:Ghana
-- Ghana
-- 🇬🇭
 - gh
 - GHANA
-- GH
 - ghana
+- GH
+- 🇬🇭
+- Ghana
 
 ## synonym:Gambia
-- 🇬🇲
-- GAMBIA
-- Gambia
-- gambia
 - gm
+- 🇬🇲
 - GM
+- Gambia
+- GAMBIA
+- gambia
 
 ## synonym:Guinea
-- GUINEA
-- guinea
-- GN
-- Guinea
 - 🇬🇳
+- Guinea
+- guinea
 - gn
+- GN
+- GUINEA
 
 ## synonym:Equatorial Guinea
-- gq
 - equatorial guinea
-- GQ
-- EQUATORIAL GUINEA
 - Equatorial Guinea
 - 🇬🇶
+- gq
+- GQ
+- EQUATORIAL GUINEA
 
 ## synonym:Greece
-- gr
+- 🇬🇷
+- GR
 - GREECE
 - Greece
 - greece
-- GR
-- 🇬🇷
+- gr
 
 ## synonym:Guatemala
 - guatemala
-- Guatemala
-- GT
 - 🇬🇹
-- gt
+- Guatemala
 - GUATEMALA
+- GT
+- gt
 
 ## synonym:Guinea-Bissau
+- gw
 - GUINEA-BISSAU
 - GW
-- 🇬🇼
-- gw
-- guinea-bissau
 - Guinea-Bissau
+- 🇬🇼
+- guinea-bissau
 
 ## synonym:Guyana
-- GUYANA
-- GY
 - Guyana
-- 🇬🇾
-- gy
+- GY
 - guyana
+- 🇬🇾
+- GUYANA
+- gy
 
 ## synonym:Honduras
-- HONDURAS
-- hn
-- 🇭🇳
-- honduras
-- Honduras
 - HN
+- Honduras
+- 🇭🇳
+- hn
+- honduras
+- HONDURAS
 
 ## synonym:Croatia
-- croatia
+- Croatia
 - CROATIA
 - 🇭🇷
-- Croatia
+- croatia
 
 ## synonym:Haiti
-- Haiti
-- haiti
 - 🇭🇹
+- haiti
+- Haiti
 - HAITI
 
 ## synonym:Hungary
-- 🇭🇺
 - HUNGARY
-- hungary
+- 🇭🇺
 - Hungary
+- hungary
 
 ## synonym:Indonesia
-- 🇮🇩
 - Indonesia
-- indonesia
 - INDONESIA
+- 🇮🇩
+- indonesia
 
 ## synonym:Ireland
-- IE
-- ireland
-- 🇮🇪
 - ie
 - IRELAND
+- IE
+- ireland
 - Ireland
+- 🇮🇪
 
 ## synonym:Israel
 - israel
-- ISRAEL
 - Israel
-- 🇮🇱
 - il
+- ISRAEL
 - IL
+- 🇮🇱
 
 ## synonym:India
-- 🇮🇳
-- in
-- IN
 - india
 - India
+- in
 - INDIA
+- 🇮🇳
+- IN
 
 ## synonym:Iraq
 - 🇮🇶
-- Iraq
+- IRAQ
 - iraq
 - iq
+- Iraq
 - IQ
-- IRAQ
 
 ## synonym:Iran
-- IRAN
+- Iran
 - IR
 - ir
-- Iran
 - 🇮🇷
 - iran
+- IRAN
 
 ## synonym:Iceland
+- ICELAND
 - 🇮🇸
 - Iceland
 - iceland
-- ICELAND
 
 ## synonym:Italy
+- Italy
+- 🇮🇹
 - ITALY
 - italy
-- 🇮🇹
-- Italy
 
 ## synonym:Jamaica
-- jm
-- Jamaica
-- JM
 - 🇯🇲
 - jamaica
+- Jamaica
 - JAMAICA
+- JM
+- jm
 
 ## synonym:Jordan
-- JO
-- JORDAN
-- jordan
 - 🇯🇴
+- jordan
+- JORDAN
 - Jordan
 - jo
+- JO
 
 ## synonym:Japan
-- 🇯🇵
-- JP
-- japan
 - Japan
 - jp
+- JP
 - JAPAN
+- 🇯🇵
+- japan
 
 ## synonym:Kenya
-- KENYA
-- KE
 - 🇰🇪
-- Kenya
 - kenya
 - ke
+- Kenya
+- KE
+- KENYA
 
 ## synonym:Kyrgyzstan
+- 🇰🇬
+- KYRGYZSTAN
 - Kyrgyzstan
+- kyrgyzstan
 - kg
 - KG
-- 🇰🇬
-- kyrgyzstan
-- KYRGYZSTAN
 
 ## synonym:Kiribati
 - KI
-- ki
-- 🇰🇮
 - KIRIBATI
-- Kiribati
+- ki
 - kiribati
+- 🇰🇮
+- Kiribati
 
 ## synonym:Comoros
-- 🇰🇲
 - comoros
-- Comoros
-- COMOROS
 - KM
+- Comoros
+- 🇰🇲
+- COMOROS
 - km
 
 ## synonym:North Korea
 - NORTH KOREA
-- KP
 - kp
 - 🇰🇵
-- North Korea
 - north korea
+- KP
+- North Korea
 
 ## synonym:South Korea
-- south korea
 - South Korea
-- SOUTH KOREA
-- KR
-- kr
 - 🇰🇷
+- south korea
+- SOUTH KOREA
+- kr
+- KR
 
 ## synonym:Kuwait
-- 🇰🇼
 - kw
-- KUWAIT
 - KW
+- 🇰🇼
 - kuwait
 - Kuwait
+- KUWAIT
 
 ## synonym:Kazakhstan
-- 🇰🇿
-- kz
-- KAZAKHSTAN
-- Kazakhstan
 - kazakhstan
 - KZ
+- KAZAKHSTAN
+- kz
+- 🇰🇿
+- Kazakhstan
 
 ## synonym:Lebanon
-- lebanon
-- lb
-- LEBANON
 - LB
-- Lebanon
+- LEBANON
 - 🇱🇧
+- lebanon
+- Lebanon
+- lb
 
 ## synonym:Liechtenstein
+- Liechtenstein
+- li
 - 🇱🇮
 - LI
-- Liechtenstein
 - liechtenstein
 - LIECHTENSTEIN
-- li
 
 ## synonym:Sri Lanka
 - LK
+- 🇱🇰
+- Sri Lanka
 - SRI LANKA
 - sri lanka
-- Sri Lanka
-- 🇱🇰
 - lk
 
 ## synonym:Liberia
-- LR
-- 🇱🇷
-- LIBERIA
-- lr
-- Liberia
 - liberia
+- LIBERIA
+- 🇱🇷
+- Liberia
+- lr
+- LR
 
 ## synonym:Lesotho
-- lesotho
-- Lesotho
-- LS
-- LESOTHO
-- 🇱🇸
 - ls
+- 🇱🇸
+- LESOTHO
+- Lesotho
+- lesotho
+- LS
 
 ## synonym:Lithuania
-- lithuania
 - 🇱🇹
-- LITHUANIA
+- lithuania
 - Lithuania
+- LITHUANIA
 
 ## synonym:Luxembourg
 - Luxembourg
-- 🇱🇺
 - LU
-- lu
 - luxembourg
 - LUXEMBOURG
+- lu
+- 🇱🇺
 
 ## synonym:Latvia
 - LATVIA
 - latvia
-- Latvia
 - 🇱🇻
+- Latvia
 
 ## synonym:Libya
-- 🇱🇾
-- Libya
-- LY
 - LIBYA
+- Libya
 - ly
 - libya
+- LY
+- 🇱🇾
 
 ## synonym:Morocco
+- Morocco
+- MOROCCO
 - morocco
 - MA
-- MOROCCO
-- Morocco
 - ma
 - 🇲🇦
 
 ## synonym:Monaco
 - MONACO
-- MC
+- mc
 - 🇲🇨
 - monaco
-- mc
+- MC
 - Monaco
 
 ## synonym:Moldova
-- Moldova
 - md
-- moldova
 - MOLDOVA
-- MD
 - 🇲🇩
+- moldova
+- Moldova
+- MD
 
 ## synonym:Montenegro
-- Montenegro
 - me
-- MONTENEGRO
 - 🇲🇪
+- MONTENEGRO
 - ME
+- Montenegro
 - montenegro
 
 ## synonym:Madagascar
 - madagascar
-- mg
 - MADAGASCAR
+- Madagascar
+- mg
 - 🇲🇬
 - MG
-- Madagascar
 
 ## synonym:North Macedonia
-- North Macedonia
-- 🇲🇰
-- north macedonia
 - NORTH MACEDONIA
+- 🇲🇰
+- North Macedonia
+- north macedonia
 
 ## synonym:Mali
 - Mali
-- ML
 - 🇲🇱
-- MALI
-- mali
 - ml
+- ML
+- mali
+- MALI
 
 ## synonym:Malta
-- malta
-- 🇲🇹
-- MALTA
 - Malta
+- malta
+- MALTA
+- 🇲🇹
 
 ## synonym:Malawi
-- MW
 - MALAWI
 - mw
+- malawi
+- MW
 - 🇲🇼
 - Malawi
-- malawi
 
 ## synonym:Malaysia
-- malaysia
 - 🇲🇾
-- my
 - MALAYSIA
-- Malaysia
+- my
 - MY
+- Malaysia
+- malaysia
 
 ## synonym:Mozambique
 - 🇲🇿
 - mz
-- MOZAMBIQUE
-- MZ
 - Mozambique
+- MZ
 - mozambique
+- MOZAMBIQUE
 
 ## synonym:Namibia
-- 🇳🇦
 - Namibia
-- na
-- namibia
 - NAMIBIA
+- namibia
 - NA
+- na
+- 🇳🇦
 
 ## synonym:Niger
-- 🇳🇪
-- NIGER
-- Niger
-- NE
 - ne
 - niger
+- NIGER
+- 🇳🇪
+- NE
+- Niger
 
 ## synonym:Nigeria
-- NG
 - nigeria
+- NIGERIA
+- 🇳🇬
 - Nigeria
 - ng
-- 🇳🇬
-- NIGERIA
+- NG
 
 ## synonym:Nicaragua
 - ni
-- nicaragua
 - Nicaragua
-- NICARAGUA
 - 🇳🇮
+- NICARAGUA
+- nicaragua
 - NI
 
 ## synonym:Netherlands
-- 🇳🇱
 - Netherlands
-- netherlands
 - NETHERLANDS
+- netherlands
+- 🇳🇱
 
 ## synonym:Norway
+- 🇳🇴
 - norway
 - Norway
 - NORWAY
-- 🇳🇴
 
 ## synonym:Nauru
-- NAURU
-- nr
-- 🇳🇷
-- Nauru
 - nauru
 - NR
+- nr
+- 🇳🇷
+- NAURU
+- Nauru
 
 ## synonym:New Zealand
-- NZ
-- New Zealand
-- new zealand
-- 🇳🇿
 - nz
+- New Zealand
 - NEW ZEALAND
+- 🇳🇿
+- new zealand
+- NZ
 
 ## synonym:Oman
-- 🇴🇲
-- OM
+- oman
 - OMAN
 - Oman
+- 🇴🇲
+- OM
 - om
-- oman
 
 ## synonym:Panama
-- panama
-- PA
-- pa
 - 🇵🇦
+- pa
+- PA
+- panama
 - Panama
 - PANAMA
 
 ## synonym:Peru
+- pe
 - PERU
 - 🇵🇪
+- PE
 - Peru
 - peru
-- PE
-- pe
 
 ## synonym:Papua New Guinea
-- 🇵🇬
 - pg
 - papua new guinea
-- Papua New Guinea
-- PAPUA NEW GUINEA
 - PG
+- PAPUA NEW GUINEA
+- 🇵🇬
+- Papua New Guinea
 
 ## synonym:Philippines
-- philippines
-- Philippines
 - 🇵🇭
+- Philippines
 - PH
-- PHILIPPINES
 - ph
+- philippines
+- PHILIPPINES
 
 ## synonym:Pakistan
-- pk
-- 🇵🇰
-- PAKISTAN
 - PK
-- Pakistan
 - pakistan
+- 🇵🇰
+- Pakistan
+- PAKISTAN
+- pk
 
 ## synonym:Poland
-- POLAND
-- 🇵🇱
-- Poland
 - poland
+- Poland
+- 🇵🇱
+- POLAND
 
 ## synonym:Portugal
-- Portugal
-- PORTUGAL
 - 🇵🇹
 - portugal
+- Portugal
+- PORTUGAL
 
 ## synonym:Palau
 - 🇵🇼
-- pw
-- PALAU
 - PW
+- PALAU
+- pw
 - palau
 - Palau
 
 ## synonym:Paraguay
 - 🇵🇾
-- py
-- PY
-- PARAGUAY
-- Paraguay
 - paraguay
+- Paraguay
+- PY
+- py
+- PARAGUAY
 
 ## synonym:Qatar
-- Qatar
 - qatar
 - QATAR
-- qa
 - 🇶🇦
 - QA
+- Qatar
+- qa
 
 ## synonym:Romania
 - 🇷🇴
+- Romania
 - ROMANIA
 - romania
-- Romania
 
 ## synonym:Serbia
-- rs
-- Serbia
-- serbia
-- 🇷🇸
 - RS
+- 🇷🇸
 - SERBIA
+- serbia
+- Serbia
+- rs
 
 ## synonym:Russia
+- 🇷🇺
 - Russia
 - russia
-- 🇷🇺
 - RUSSIA
 
 ## synonym:Rwanda
-- rw
-- RWANDA
 - 🇷🇼
+- RWANDA
 - rwanda
 - Rwanda
+- rw
 - RW
 
 ## synonym:Saudi Arabia
-- SAUDI ARABIA
 - SA
-- Saudi Arabia
 - 🇸🇦
+- SAUDI ARABIA
 - saudi arabia
+- Saudi Arabia
 - sa
 
 ## synonym:Solomon Islands
 - sb
-- SB
-- solomon islands
-- 🇸🇧
 - Solomon Islands
+- solomon islands
 - SOLOMON ISLANDS
+- SB
+- 🇸🇧
 
 ## synonym:Seychelles
-- Seychelles
-- SEYCHELLES
+- SC
 - 🇸🇨
 - seychelles
 - sc
-- SC
+- SEYCHELLES
+- Seychelles
 
 ## synonym:Sudan
-- SD
+- SUDAN
+- sudan
+- 🇸🇩
 - sd
 - Sudan
-- 🇸🇩
-- sudan
-- SUDAN
+- SD
 
 ## synonym:Sweden
-- SE
-- Sweden
 - sweden
+- SE
 - SWEDEN
 - 🇸🇪
 - se
+- Sweden
 
 ## synonym:Singapore
-- SINGAPORE
 - 🇸🇬
 - singapore
-- sg
 - SG
+- sg
+- SINGAPORE
 - Singapore
 
 ## synonym:Slovakia
-- 🇸🇰
 - SLOVAKIA
 - Slovakia
+- 🇸🇰
 - slovakia
 
 ## synonym:Sierra Leone
-- 🇸🇱
 - sierra leone
 - Sierra Leone
+- 🇸🇱
 - SIERRA LEONE
 
 ## synonym:San Marino
+- sm
 - SM
+- san marino
 - SAN MARINO
 - 🇸🇲
 - San Marino
-- san marino
-- sm
 
 ## synonym:Senegal
-- 🇸🇳
-- SENEGAL
-- senegal
 - SN
+- senegal
 - Senegal
+- SENEGAL
+- 🇸🇳
 - sn
 
 ## synonym:Somalia
-- Somalia
 - SOMALIA
+- so
+- Somalia
+- somalia
 - 🇸🇴
 - SO
-- so
-- somalia
 
 ## synonym:Suriname
-- suriname
-- 🇸🇷
 - Suriname
 - SURINAME
+- 🇸🇷
+- suriname
 
 ## synonym:South Sudan
-- ss
 - SOUTH SUDAN
-- SS
-- 🇸🇸
+- ss
 - south sudan
 - South Sudan
+- 🇸🇸
+- SS
 
 ## synonym:El Salvador
+- el salvador
 - EL SALVADOR
 - 🇸🇻
-- el salvador
 - El Salvador
 
 ## synonym:Syria
-- SY
 - Syria
-- SYRIA
-- sy
 - syria
+- SY
+- sy
+- SYRIA
 - 🇸🇾
 
 ## synonym:Eswatini
+- sz
+- 🇸🇿
 - eswatini
 - SZ
-- Eswatini
-- 🇸🇿
 - ESWATINI
-- sz
+- Eswatini
 
 ## synonym:Chad
-- td
-- 🇹🇩
-- CHAD
-- Chad
 - TD
+- Chad
 - chad
+- td
+- CHAD
+- 🇹🇩
 
 ## synonym:Togo
-- 🇹🇬
+- TOGO
 - Togo
+- tg
+- 🇹🇬
 - togo
 - TG
-- TOGO
-- tg
 
 ## synonym:Thailand
-- THAILAND
 - thailand
 - Thailand
 - 🇹🇭
+- THAILAND
 
 ## synonym:Tunisia
-- tn
-- TN
-- TUNISIA
-- tunisia
-- 🇹🇳
 - Tunisia
+- TN
+- tn
+- TUNISIA
+- 🇹🇳
+- tunisia
 
 ## synonym:Tonga
+- tonga
 - Tonga
 - TONGA
-- 🇹🇴
 - to
-- tonga
 - TO
+- 🇹🇴
 
 ## synonym:Turkey
-- turkey
-- 🇹🇷
-- Turkey
 - TURKEY
+- Turkey
+- 🇹🇷
+- turkey
 
 ## synonym:Tuvalu
-- 🇹🇻
 - tv
-- Tuvalu
+- 🇹🇻
 - TUVALU
-- TV
+- Tuvalu
 - tuvalu
+- TV
 
 ## synonym:Tanzania
-- TZ
-- tz
-- 🇹🇿
 - tanzania
 - TANZANIA
+- TZ
+- 🇹🇿
+- tz
 - Tanzania
 
 ## synonym:Ukraine
-- ukraine
-- UKRAINE
-- UA
 - ua
+- ukraine
 - 🇺🇦
+- UA
 - Ukraine
+- UKRAINE
 
 ## synonym:Uganda
-- uganda
 - Uganda
-- UGANDA
-- 🇺🇬
-- ug
 - UG
+- UGANDA
+- uganda
+- ug
+- 🇺🇬
 
 ## synonym:United States
-- us
 - 🇺🇸
-- US
+- us
 - UNITED STATES
 - united states
 - United States
+- US
 
 ## synonym:Uruguay
+- URUGUAY
+- UY
+- 🇺🇾
 - uy
 - Uruguay
-- URUGUAY
-- 🇺🇾
-- UY
 - uruguay
 
 ## synonym:Vatican City
-- VA
 - VATICAN CITY
 - Vatican City
-- va
-- 🇻🇦
+- VA
 - vatican city
+- 🇻🇦
+- va
 
 ## synonym:Venezuela
-- VE
-- VENEZUELA
 - ve
-- 🇻🇪
+- VE
 - venezuela
 - Venezuela
+- 🇻🇪
+- VENEZUELA
 
 ## synonym:Vanuatu
+- vu
 - Vanuatu
+- VU
 - 🇻🇺
 - vanuatu
-- VU
 - VANUATU
-- vu
 
 ## synonym:Samoa
-- Samoa
-- 🇼🇸
 - SAMOA
 - WS
+- Samoa
+- 🇼🇸
 - samoa
 - ws
 
 ## synonym:Kosovo
-- Kosovo
 - xk
-- kosovo
-- 🇽🇰
-- KOSOVO
 - XK
+- Kosovo
+- 🇽🇰
+- kosovo
+- KOSOVO
 
 ## synonym:Yemen
-- YE
-- YEMEN
-- yemen
 - Yemen
 - 🇾🇪
+- yemen
 - ye
+- YE
+- YEMEN
 
 ## synonym:South Africa
-- za
 - 🇿🇦
-- ZA
-- SOUTH AFRICA
 - south africa
 - South Africa
+- SOUTH AFRICA
+- ZA
+- za
 
 ## synonym:Zambia
 - 🇿🇲
-- Zambia
 - ZAMBIA
-- zambia
-- zm
 - ZM
+- zm
+- zambia
+- Zambia
 
 ## synonym:Zimbabwe
-- Zimbabwe
-- 🇿🇼
 - ZW
 - ZIMBABWE
-- zw
+- Zimbabwe
 - zimbabwe
+- zw
+- 🇿🇼
 
 ## lookup:language_code
 data/lookups/language_code.txt

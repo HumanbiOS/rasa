@@ -4,34 +4,48 @@ intents:
     # Values and their defaults, "*" means required
     # Values:               Default:
     #     folder*               -
-    #     source                data_*.csv
+    #     source                data.txt
     #     extract               -
     #     lookup                False
     #     prefixes              prefixes.csv
     #     suffixes              suffixes.csv
-    #     random_percentage     45
+    #     sample_size %         45
+    #     data_size %           100
     extract_language:
         - 
          folder:     language_detection
          source:     data_language_codes.csv
          extract:    language_code
          lookup:     True
+         data_size:  45
         - 
          folder:     language_detection
          source:     data_language_names.csv
          extract:    language_name
          lookup:     True
+         data_size:  45
     extract_country:
         - 
          folder:     country_detection
          source:     data_country_names.csv
          extract:    country_name
          lookup:     True
+         data_size:  45
         - 
          folder:     country_detection
          source:     data_country_codes.csv
          extract:    country_code
          lookup:     True
+         data_size:  45
+    affirm:
+        - 
+         folder:     affirm
+    deny:
+        - 
+         folder:     deny
+    greet:
+        - 
+         folder:     greet
        #- 
        #  folder:     country_detection
        #  source:     data_country_flags.csv

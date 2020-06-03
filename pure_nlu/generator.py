@@ -8,6 +8,31 @@ import yaml
 import os
 
 
+def iter_file(source: pathlib.Path, frac: float = None):
+    if str(source).endswith(".txt"):
+        with open(source) as src:
+            if frac is None:
+                for line in src:
+                    yield line.strip()
+                return
+            else:
+                lines = src.readlines()
+        for line in random.sample(lines, floor(len(lines) * frac)):
+            yield line.strip()
+        return
+
+    elif str(source).endswith(".csv"):
+        df = pd.read_csv(source)
+        keys = [_ for _ in df]
+        if frac is not None:
+            df = df.sample(frac=frac)
+        for index, sample_row in df.iterrows():
+            for key in keys:
+                yield sample_row[key]
+    else:
+        raise NotImplementedError("Currently only .csv and .txt files are supported!")
+
+
 ROOT = pathlib.Path(environ.Path(__file__) - 1)
 
 with open(ROOT / "generator-config.yml") as config:
@@ -28,11 +53,11 @@ with open(DATA / "nlu.md", 'w+') as nlu:
                 raise ValueError(f"You have to add 'folder' to the intent {intent_name} ({config_item})")
             path = RAW_DATA / folder
             
-            source = config_item.get('source')
+            source = config_item.get('source', "data.txt")
             # Pickup source files
             if source is None:
                 # TODO: Add later
-                raise NotImplementedError(f"Generator should pickup all 'data_*.csv' files. Not implemented yet.")
+                raise NotImplementedError(f"Generator should pickup all 'data_*.csv' or 'data_*.txt' files. Not implemented yet.")
             
             lookup = config_item.get('lookup', False)
             if lookup and not os.path.exists(DATA / "lookups"):
@@ -43,7 +68,8 @@ with open(DATA / "nlu.md", 'w+') as nlu:
             
             prefixes = config_item.get('prefixes', 'prefixes.csv')
             suffixes = config_item.get('suffixes', 'suffixes.csv')
-            random_percentage = float(config_item.get("random_percentage", "45")) / 100
+            sample_size = float(config_item.get("sample_size", "45")) / 100
+            data_size = float(config_item.get("data_size", "100")) / 100
 
             # Prepare examples context parts
             # Prefixes
@@ -61,27 +87,24 @@ with open(DATA / "nlu.md", 'w+') as nlu:
                     for each_suffix in ts:
                         training_suffixes.append(each_suffix.strip())
             context_parts = list(product(training_prefixes, training_suffixes))
-                
-            df = pd.read_csv(path / source)
-            _key = [_ for _ in df][0]
             
             # Writing lookups
             if extract and lookup:
                 lookup_fp = DATA / 'lookups' / f"{extract}.txt"
                 with open(lookup_fp, "w+") as lookup_file:
-                    for index, row in df.iterrows():
-                        lookup_file.write(f'{row[_key]}\n')
+                    for value in iter_file(path / source):
+                        lookup_file.write(f'{value}\n')
                 all_lookups[extract] = pathlib.Path("data", "lookups", f"{extract}.txt")
 
             # Writing data          
-            for index, sample_row in df.sample(frac = random_percentage).iterrows():
+            for value in iter_file(path / source, frac=data_size):
                 if extract:
                     # writing the examples
-                    nlu.write(f"- [{sample_row[_key]}]({extract})\n")
-                    for p, s in random.sample(context_parts, floor(len(context_parts) * random_percentage)):
-                        nlu.write("- " + f"{p} [{sample_row[_key]}]({extract}) {s}".strip() + "\n")
+                    nlu.write(f"- [{value}]({extract})\n")
+                    for p, s in random.sample(context_parts, floor(len(context_parts) * sample_size)):
+                        nlu.write("- " + f"{p} [{value}]({extract}) {s}".strip() + "\n")
                 else:
-                    nlu.write(f"- {sample_row[_key]}\n")
+                    nlu.write(f"- {value}\n")
         nlu.write("\n\n")
 
     inconsistency = dict()
@@ -119,4 +142,3 @@ with open(DATA / "nlu.md", 'w+') as nlu:
         with open(RAW_DATA / misc_files) as misc_file:
             for line in misc_file:
                 nlu.write(line)
-
