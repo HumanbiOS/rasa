@@ -11,3 +11,7 @@ with open("synonyms.csv", "w+") as ss:
     ss.write(f"Language Code,Language Name\n")
     for lc, ln in zip(lcodes, lnames):
         ss.write(f"{lc},{ln}\n")
+
+#with open("data.txt", "w+") as file_:
+#    for each in lcodes + lnames:
+#        file_.write(f"{each}\n")

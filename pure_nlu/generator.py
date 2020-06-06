@@ -68,6 +68,9 @@ with open(DATA / "nlu.md", 'w+') as nlu:
             
             prefixes = config_item.get('prefixes', 'prefixes.csv')
             suffixes = config_item.get('suffixes', 'suffixes.csv')
+            use_prefixes = config_item.get("use_prefixes", False)
+            use_suffixes = config_item.get("use_suffixes", False)
+
             sample_size = float(config_item.get("sample_size", "45")) / 100
             data_size = float(config_item.get("data_size", "100")) / 100
 
@@ -75,14 +78,14 @@ with open(DATA / "nlu.md", 'w+') as nlu:
             # Prefixes
             training_prefixes = list()
             p_path = path / prefixes
-            if os.path.exists(p_path):
+            if use_prefixes and os.path.exists(p_path):
                 with open(p_path) as tp:
                     for each_prefix in tp:
                         training_prefixes.append(each_prefix.strip())
             # Suffixes
             training_suffixes = list()
             s_path = path / suffixes
-            if os.path.exists(s_path):
+            if use_suffixes and os.path.exists(s_path):
                 with open(s_path) as ts:
                     for each_suffix in ts:
                         training_suffixes.append(each_suffix.strip())
@@ -135,7 +138,7 @@ with open(DATA / "nlu.md", 'w+') as nlu:
 
     for each in all_lookups:
         nlu.write(f"## lookup:{each}\n")
-        nlu.write(str(all_lookups[each]) + "\n\n")
+        nlu.write(f"  {all_lookups[each]}\n\n")
 
     # Writing raw files from misc category
     for misc_files in config['misc']:

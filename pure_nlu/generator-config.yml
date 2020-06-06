@@ -9,34 +9,34 @@ intents:
     #     lookup                False
     #     prefixes              prefixes.csv
     #     suffixes              suffixes.csv
+    #     use_prefixes          False
+    #     use_suffixes          False
     #     sample_size %         45
     #     data_size %           100
-    extract_language:
+    extract:
         - 
-         folder:     language_detection
-         source:     data_language_codes.csv
-         extract:    language_code
-         lookup:     True
-         data_size:  45
+         folder:       language_detection
+         extract:      language
+         data_size:    45
+         sample_size:  45
+         lookup:       True
+         use_prefixes: True
+         use_suffixes: True
         - 
-         folder:     language_detection
-         source:     data_language_names.csv
-         extract:    language_name
-         lookup:     True
-         data_size:  45
-    extract_country:
+         folder:       country_detection
+         extract:      country
+         source:       data_country_names.csv
+         data_size:    45
+         sample_size:  45
+         lookup:       True
+         use_prefixes: True
+         use_suffixes: True
         - 
-         folder:     country_detection
-         source:     data_country_names.csv
-         extract:    country_name
-         lookup:     True
-         data_size:  45
-        - 
-         folder:     country_detection
-         source:     data_country_codes.csv
-         extract:    country_code
-         lookup:     True
-         data_size:  45
+         folder:       country_detection
+         extract:      country_flag
+         source:       data_country_flags.csv
+         data_size:    45
+         lookup:       True
     affirm:
         - 
          folder:     affirm
@@ -46,11 +46,6 @@ intents:
     greet:
         - 
          folder:     greet
-       #- 
-       #  folder:     country_detection
-       #  source:     data_country_flags.csv
-       #  extract:    country_flag
-       #  lookup:     True
 
 # Folders that contain files with synonyms
 # 'folder_name: column_name'
