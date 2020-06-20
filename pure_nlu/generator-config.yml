@@ -18,7 +18,7 @@ intents:
          folder:       language_detection
          extract:      language
          data_size:    45
-         sample_size:  45
+         sample_size:  15
          lookup:       True
          use_prefixes: True
          use_suffixes: True
@@ -27,7 +27,7 @@ intents:
          extract:      country
          source:       data_country_names.csv
          data_size:    45
-         sample_size:  45
+         sample_size:  15
          lookup:       True
          use_prefixes: True
          use_suffixes: True
@@ -35,7 +35,7 @@ intents:
          folder:       country_detection
          extract:      country_flag
          source:       data_country_flags.csv
-         data_size:    45
+         data_size:    25
          lookup:       True
     affirm:
         - 

@@ -3,6 +3,7 @@ services:
   rasa_pure_nlu:
     container_name: humanbios-rasa
     image: rasa/rasa:1.10.1-full
+    restart: unless-stopped
     ports:
       - 5005:5005
     volumes:
